@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Useful Links.md
       - ICT.md
       - Science.md
       - Physical Education.md
