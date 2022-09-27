@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - The Crestian Experience/15th Anniversary Musical.md
       - The Crestian Experience/Learning for Life Programme (LLP).md
       - The Crestian Experience/Experiential Learning Programme (ELP).md
       - The Crestian Experience/Full Subject Based Banding (FSBB) 2023.md
