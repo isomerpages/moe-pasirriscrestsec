@@ -2,4 +2,5 @@ collections:
   departments:
     output: true
     order:
+      - English & Literature.md
       - Aesthetics, Craft & Technology.md
