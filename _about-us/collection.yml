@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - 360 Virtual Tour.md
       - Our School Song.md
       - Our Mission, Vision, Values and Motto.md
       - Principal's Message.md
