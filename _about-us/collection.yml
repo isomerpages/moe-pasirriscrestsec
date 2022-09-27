@@ -2,13 +2,13 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
-      - School Achievements.md
-      - School Advisory Committee.md
-      - Our Staff.md
-      - Our History.md
-      - 360 Virtual Tour.md
-      - Our School Song.md
-      - Our Mission, Vision, Values and Motto.md
-      - Principal's Message.md
       - Virtual Open House 2021.md
+      - Principal's Message.md
+      - Our Mission, Vision, Values and Motto.md
+      - Our School Song.md
+      - 360 Virtual Tour.md
+      - Our History.md
+      - Our Staff.md
+      - School Advisory Committee.md
+      - School Achievements.md
+      - Contact Us.md
