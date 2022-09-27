@@ -2,12 +2,12 @@ collections:
   departments:
     output: true
     order:
-      - Useful Links.md
-      - ICT.md
-      - Science.md
-      - Physical Education.md
-      - Mother Tongue Languages.md
-      - Mathematics.md
-      - Humanities.md
-      - English & Literature.md
       - Aesthetics, Craft & Technology.md
+      - English & Literature.md
+      - Humanities.md
+      - Mathematics.md
+      - Mother Tongue Languages.md
+      - Physical Education.md
+      - Science.md
+      - ICT.md
+      - Useful Links.md
