@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Guidance and Counselling Support.md
       - Education and Career Advice.md
       - 21st Century Competencies and Development.md
       - Financial Assistance.md
