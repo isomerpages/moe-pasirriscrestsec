@@ -47,4 +47,3 @@ The SC and LBS could also be contacted at 65811655 ext. 158 or email:
 | Dyslexia Association of Singapore (DSA)  Assessment for Learning & Behavioural difficulties such as, Dyslexia, ADHA, Dyspraxia, Dysgraphia & Dyscalculia, Asperger's Syndrome, Austism, Global Development Delay, Auditory & Sensory, Speech & Language, Non-Verbal issues. |   64445700      |
 | Austism Resource Centre (ARC)  Assessment for Autism, Asperger's Syndrome                                                                                                                                                                                                   |     63233268    |
 |                                                                                                                                                                                                                                                                             |                 |
-
