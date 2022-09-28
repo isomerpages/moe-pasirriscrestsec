@@ -55,7 +55,7 @@ Traditionally held to coincide with Valentine’s Day week, students are encoura
 
   
 
-<img src="/images/Pic3.JPG">
+<img src="/images/Pic3.JPeG">
 
 **Crestian Reads**  
 
@@ -63,7 +63,7 @@ An Instagram account run by the Reading Committee of the English Language Depart
 
   
 
-<img src="/images/Pic4.JPG">
+<img src="/images/Pic4.JPeG">
 
 **Roald Dahl Showdown**  
 
@@ -71,7 +71,7 @@ This is an annual competition in PRCS which gets the Secondary One students to e
 
   
 
-<img src="/images/Pic5.JPG>
+<img src="/images/Pic5.JPeG>
 
 **Other Book Events**  
 
@@ -95,7 +95,7 @@ In Critical Writing, students learn to appreciate how multimodality works in lan
 	With the aim of celebrating local literary geniuses and highlighting local issues, we have in place the annual PRCS Literary Week with Assembly Programmes as creative platforms for students to shine in their presentation skills. During this week, we broaden their perspectives by engaging with issues such as marginalisation and disability. Budding poets and writers in our midst also have the opportunity to take part in activities that will be lined up for them throughout the week.  
   
 
-<img src="/images/Pic7.JPG">
+<img src="/images/Pic7.JPeG">
 
   
 
