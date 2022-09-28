@@ -36,9 +36,6 @@ The Term 2 Letter to Parents summarising the latest school updates for all level
 [Sec 4 and 5\_Letter to Parents\_4 May 2022](https://prcss.moe.edu.sg/qql/slot/u200/pdf/communication_with_parents/Letter_to_Parents_4May2022/Sec%204%20and%205%20level%20letter1%204%20May%202022.pdf)
 	</div>
 	
-
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px 'Helvetica Neue'} span.Apple-tab-span {white-space:pre}
-
 <li>
 
 <input type="checkbox" id="accordion2">
