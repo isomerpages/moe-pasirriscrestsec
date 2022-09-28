@@ -45,7 +45,7 @@ Primary school students who are interested to participate in this DSA exercise m
 
   
 
-*   Application is free of charge and will be open from 5 May 2022 at 11am to 1 June 2022 at 3pm.  For more details, please refer to MOE Website: [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+*   Application is free of charge and will be open from 5 May 2022 at 11am to 1 June 2022 at 3pm.  For more details, please refer to MOE Website: <=a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a>
 
   
 
@@ -53,11 +53,11 @@ Primary school students who are interested to participate in this DSA exercise m
 
   
 
-*   Applicants NOT studying in MOE mainstream primary schools would need to obtain a Registration Number at MOE DSA-Sec website: [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application)
+*   Applicants NOT studying in MOE mainstream primary schools would need to obtain a Registration Number at MOE DSA-Sec website: <a href="https://go.gov.sg/nmsdsa-sec-application">https://go.gov.sg/nmsdsa-sec-application</a>
 
   
 
-Applicants shortlisted for interview and selection test would receive a notification from Pasir Ris Crest Secondary School.  The selection /interview dates are either on Thu, 14 July or Thu, 21 July 2022.  
+Applicants shortlisted for interview and selection test would receive a notification from Pasir Ris Crest Secondary School.  The selection interview dates are either on Thu, 14 July or Thu, 21 July 2022.  
 
   
 
@@ -71,29 +71,35 @@ Applicants will be notified of the selection outcome through email or hardcopy l
 
 The decision of the school is final.
 
-		</div>
+	</div>
 
 <li>
 		<input type="checkbox" id="accordion2">
 		<label for="accordion2">DIRECT SCHOOL ADMISSION</label>
 	<div>text</div>
-
+	</li>
+	
 <li>
 		<input type="checkbox" id="accordion3">
 		<label for="accordion3">ADMISSION CRITERIA FOR MUSIC AND PERFORMING ARTS</label>
 	<div>text</div>
-
+	</li>
+	
 <li>
 		<input type="checkbox" id="accordion4">
 		<label for="accordion4">ADMISSION CRITERIA FOR EFFECTIVE COMMUNICATION</label>
 	<div>text</div>
-
+	</li>
+	
 <li>
 		<input type="checkbox" id="accordion5">
 		<label for="accordion5">ADMISSION CRITERIA FOR FENCING</label>
 	<div>text</div>
-
+	</li>
+	
 <li>
 		<input type="checkbox" id="accordion6">
 		<label for="accordion6">ADMISSION CRITERIA FOR MOTHER TONGUE LANGUAGES</label>
 	<div>text</div>
+	</li>
+	</ul>
