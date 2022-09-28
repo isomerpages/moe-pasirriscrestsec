@@ -16,8 +16,6 @@ Under the National Digital Literacy Programme, MOE will introduce the Personalis
 
 The PDLP will allow students to use the PLDs in tandem with the Singapore Student Learning Space (SLS) to personalise and enhance their learning. The PDLP will also better enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world. The PLDs will also be used to facilitate an environment that encourages personalised learning.
 		</div>
-		
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px 'Helvetica Neue'} span.Apple-tab-span {white-space:pre}
 
 <li>
 <input type="checkbox" id="accordion2">
@@ -92,4 +90,4 @@ SERVICE CENTRE
 
 [Option B](https://prcss.moe.edu.sg/qql/slot/u200/pdf/communication_with_parents/PDLP/DMA%20Parent%20Guide%20for%20Option%20B.pdf)
 				
-		</div>
+</div>
