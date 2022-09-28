@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Parent Support Group.md
       - Parents Gateway.md
       - Sexuality Education.md
       - Traffic Management Plan.md
