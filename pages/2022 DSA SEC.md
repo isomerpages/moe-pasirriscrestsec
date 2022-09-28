@@ -73,17 +73,27 @@ The decision of the school is final.
 
 		</div>
 
-DIRECT SCHOOL ADMISSION
------------------------
+<li>
+		<input type="checkbox" id="accordion2">
+		<label for="accordion2">DIRECT SCHOOL ADMISSION</label>
+	<div>text</div>
 
-ADMISSION CRITERIA FOR MUSIC AND PERFORMING ARTS
-------------------------------------------------
+<li>
+		<input type="checkbox" id="accordion3">
+		<label for="accordion3">ADMISSION CRITERIA FOR MUSIC AND PERFORMING ARTS</label>
+	<div>text</div>
 
-ADMISSION CRITERIA FOR EFFECTIVE COMMUNICATION
-----------------------------------------------
+<li>
+		<input type="checkbox" id="accordion4">
+		<label for="accordion4">ADMISSION CRITERIA FOR EFFECTIVE COMMUNICATION</label>
+	<div>text</div>
 
-ADMISSION CRITERIA FOR FENCING
-------------------------------
+<li>
+		<input type="checkbox" id="accordion5">
+		<label for="accordion5">ADMISSION CRITERIA FOR FENCING</label>
+	<div>text</div>
 
-ADMISSION CRITERIA FOR MOTHER TONGUE LANGUAGES
-----------------------------------------------
+<li>
+		<input type="checkbox" id="accordion6">
+		<label for="accordion6">ADMISSION CRITERIA FOR MOTHER TONGUE LANGUAGES</label>
+	<div>text</div>
