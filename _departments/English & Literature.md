@@ -74,8 +74,8 @@ The **Critical Writing Programme** is a weekly activity for the students.
 In Critical Writing, students learn to appreciate how multimodality works in language. Students are exposed to visual texts which they have to analyse and evaluate. These visual texts can include websites, posters and videos. 
 </div>
 
-		<input type="checkbox" id="accordion4">
-																					<label for="accordion4">PRCS LITERARY WEEK </label>
+<input type="checkbox" id="accordion4">
+<label for="accordion4">PRCS LITERARY WEEK </label>
 	
 <div>
 	With the aim of celebrating local literary geniuses and highlighting local issues, we have in place the annual PRCS Literary Week with Assembly Programmes as creative platforms for students to shine in their presentation skills. During this week, we broaden their perspectives by engaging with issues such as marginalisation and disability. Budding poets and writers in our midst also have the opportunity to take part in activities that will be lined up for them throughout the week.  
