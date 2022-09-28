@@ -4,8 +4,8 @@ permalink: /departments/EnglishLiterature/
 description: ""
 ---
 <li>
-		<input type="checkbox" id="accordion1">
-		<label for="accordion1">VISION AND MISSION</label>
+<input type="checkbox" id="accordion1">
+<label for="accordion1">VISION AND MISSION</label>
 <div>
 	
 <img src="/images/Pic1.jpg"> 
@@ -19,13 +19,13 @@ description: ""
 Effective Communicators who impact with the Heart and Mind
 <br>
 **MISSION:**
-	<br>
+<br>
 Nurturing Crestians to be perceptive readers and empathetic communicators who are able to express themselves in various contexts
 	</div>
 	
 <li>
-		<input type="checkbox" id="accordion2">
-		<label for="accordion2">APPLIED LEARNING PROGRAMME: EFFECTIVE COMMUNICATORS WHO IMPACT WITH THE HEART AND MIND</label> 
+<input type="checkbox" id="accordion2">
+<label for="accordion2">APPLIED LEARNING PROGRAMME: EFFECTIVE COMMUNICATORS WHO IMPACT WITH THE HEART AND MIND</label> 
 
 <div>
 	The English Language and Literature Department supports the school’s Applied Learning Programme (ALP) which aims to develop Crestians into effective communicators who are capable of articulating complex information and ideas in varying contexts and modes. To this end, the programmes below have been developed to make learning experiences meaningful and engaging for the students:  
@@ -122,7 +122,7 @@ Every year, the school participates in the National Schools Literature Festival.
 
 <img src="/images/Pic10.jpeg">
 														 
-	</div>
+</div>
 
 <li>
 		<input type="checkbox" id="accordion6">
@@ -132,5 +132,6 @@ Every year, the school participates in the National Schools Literature Festival.
 	To deepen the language learning experience, Crestians have a chance to watch plays.  The department also actively looks out for possible Learning Journeys to local exhibitions to help students build a wider world view of life.  
   
 <img src="/images/Pic11.jpeg">
-														 
-	</div>
+</div>
+														 </li>
+								
