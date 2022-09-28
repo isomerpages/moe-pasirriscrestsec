@@ -55,7 +55,7 @@ Traditionally held to coincide with Valentine’s Day week, students are encoura
 
   
 
-<img src="/images/Pic3.JPeG">
+<img src="/images/Pic3.jpeg">
 
 **Crestian Reads**  
 
@@ -63,7 +63,7 @@ An Instagram account run by the Reading Committee of the English Language Depart
 
   
 
-<img src="/images/Pic4.JPeG">
+<img src="/images/Pic4.jpeg">
 
 **Roald Dahl Showdown**  
 
@@ -79,7 +79,7 @@ To get students to enjoy owning a copy of a book, the department regularly invit
 
   
 
-<img src="/images/Pic6.JPG">
+<img src="/images/Pic6.jpeg">
 
   
 
@@ -132,6 +132,6 @@ Every year, the school participates in the National Schools Literature Festival.
 <div>
 	To deepen the language learning experience, Crestians have a chance to watch plays.  The department also actively looks out for possible Learning Journeys to local exhibitions to help students build a wider world view of life.  
   
-<img src="/images/Pic11.JPeg">
+<img src="/images/pic11.jpeg">
 														
 	</div>
