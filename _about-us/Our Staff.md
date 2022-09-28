@@ -18,21 +18,20 @@ description: ""
 			<div>
 				<img src="/images/HOD.jpeg">
 				<img src="/images/YH.jpeg">
-				<img src="/images/SH.jpeg">
+				<img src="/images/SH.png">
 				</div>
 		</li>
-	
 		<li>
 			<input type="checkbox" id="accordion3">
 			<label for="accordion3">HOME TUTORS</label>
 			<div>
 				<img src="/images/Sec1HT.jpeg">
-				<img src="/images/Sec2HT.jpeg">
+				<img src="/images/Sec2HT.png">
 				<img src="/images/S3HT.jpeg">
-				<img src="/images/Sec45HT.jpeg">
-				<img src="/images/NonHT.jpeg">
-				<img src="/images/AED.jpeg">
-				<img src="/images/Other Subjects Teachers.jpeg">
+				<img src="/images/Sec45HT.png">
+				<img src="/images/NonHT.png">
+				<img src="/images/AED.png">
+				<img src="/images/Other Sub Teachers.png">
 				<img src="/images/ST.jpeg">
 				<img src="/images/LT.jpeg">
 				</div>
