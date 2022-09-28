@@ -3,8 +3,7 @@ title: English & Literature
 permalink: /departments/EnglishLiterature/
 description: ""
 ---
-<html lang="en">
-<ul class="jekyllcodex\_accordion">
+<ul class="jekyllcodex_accordion">
 <li>
 <input type="checkbox" id="accordion1">
 <label for="accordion1">VISION AND MISSION</label>
