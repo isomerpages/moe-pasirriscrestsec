@@ -8,11 +8,11 @@ description: ""
 		<label for="accordion1">VISION AND MISSION</label>
 <div>
 	
-![Pic1.jpg](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic1.jpg)  
+<img src="/images/Pic1.jpg"> 
 
 **ENGLISH LANGUAGE AND LITERATURE DEPARTMENT**
 
-![Pic2.jpg](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic2.jpg)
+<img src="/images/Pic2.jpg">
 
 **VISION:**
 
@@ -55,7 +55,7 @@ Traditionally held to coincide with Valentine’s Day week, students are encoura
 
   
 
-![Pic3.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic3.JPG)
+<img src="/images/Pic3.JPG">
 
 **Crestian Reads**  
 
@@ -63,7 +63,7 @@ An Instagram account run by the Reading Committee of the English Language Depart
 
   
 
-![Pic4.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic4.JPG)
+<img src="/images/Pic4.JPG">
 
 **Roald Dahl Showdown**  
 
@@ -71,7 +71,7 @@ This is an annual competition in PRCS which gets the Secondary One students to e
 
   
 
-![Pic5.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic5.JPG)
+<img src="/images/Pic5.JPG>
 
 **Other Book Events**  
 
@@ -79,7 +79,7 @@ To get students to enjoy owning a copy of a book, the department regularly invit
 
   
 
-![Pic6.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic6.JPG)
+<img src="/images/Pic6.JPG">
 
   
 
@@ -95,15 +95,16 @@ In Critical Writing, students learn to appreciate how multimodality works in lan
 	With the aim of celebrating local literary geniuses and highlighting local issues, we have in place the annual PRCS Literary Week with Assembly Programmes as creative platforms for students to shine in their presentation skills. During this week, we broaden their perspectives by engaging with issues such as marginalisation and disability. Budding poets and writers in our midst also have the opportunity to take part in activities that will be lined up for them throughout the week.  
   
 
-![Pic7.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic7.JPG)
+<img src="/images/Pic7.JPG">
 
   
 
-![Pic8.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic8.JPG)
+<img src="/images/Pic8.JPG">
 
   
 
-![Pic9.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic9.JPG) </div>
+<img src="/images/Pic9.JPG">
+	</div>
 
 <li>
 		<input type="checkbox" id="accordion5">
@@ -121,7 +122,8 @@ Every year, the school participates in the National Schools Literature Festival.
 
   
 
-![Pic10.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic10.JPG) </div>
+<img src="/images/Pic10.JPG">
+	</div>
 
 <li>
 		<input type="checkbox" id="accordion6">
@@ -131,5 +133,5 @@ Every year, the school participates in the National Schools Literature Festival.
 	To deepen the language learning experience, Crestians have a chance to watch plays.  The department also actively looks out for possible Learning Journeys to local exhibitions to help students build a wider world view of life.  
   
 
-![Pic11.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic11.JPG)
+<img src="/images/Pic11.JPG">
 	</div>
