@@ -3,7 +3,6 @@ title: English & Literature
 permalink: /departments/EnglishLiterature/
 description: ""
 ---
-<!DOCTYPE html>
 <html lang="en">
 <ul class="jekyllcodex\_accordion">
 <li>
