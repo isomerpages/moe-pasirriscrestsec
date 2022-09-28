@@ -128,5 +128,5 @@ Every year, the school participates in the National Schools Literature Festival.
   
 <img src="/images/Pic11.jpeg">
 </div>
-														 </li>
+	</li>
 	</ul>
