@@ -7,7 +7,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
 	<li>
 		<input type="checkbox" id="accordion1">
-		<label for="accordion1">Fault Reporting</label>
+		<label for="accordion1">FAULT REPORTING</label>
 		<div>
 			<div style="float: left">
 			<img src="/images/Fault-ReportingQR.jpeg" style="width:80%">
@@ -32,10 +32,3 @@ description: ""
 				</div>
 				<p><br>Click <a href=" https://forms.gle/gJxVgh5i7NMVcfZH8">here</a> for reporting form.</p>
 				</li>
-			
-				
-				
-			
-			
-			
-		
