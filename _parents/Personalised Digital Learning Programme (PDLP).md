@@ -57,6 +57,7 @@ DEVICE SUPPORT & INSURANCE CLAIMS
 
 SERVICE CENTRE
 --------------
+<img src="/images/Lennovo%20Service%20Centre_New.jpeg">
 
 PDLP STUDENT DEVICE INFORMATION KIT
 -----------------------------------
