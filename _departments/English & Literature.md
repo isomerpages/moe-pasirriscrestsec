@@ -36,7 +36,7 @@ Nurturing Crestians to be perceptive readers and empathetic communicators who ar
 
   
 
-For more information on the skills the students acquire and to view some of their projects, please click on this link: [_Effective Communicators who impact with the heart and mind_](https://prcss.moe.edu.sg/about-us/virtual-open-house-2021) 
+For more information on the skills the students acquire and to view some of their projects, please click on this link: <a href="https://prcss.moe.edu.sg/about-us/virtual-open-house-2021">Effective Communicators who impact with the heart and mind.</a>
 
 </div>
 	</li>
@@ -55,7 +55,7 @@ Traditionally held to coincide with Valentine’s Day week, students are encoura
 
 <img src="/images/Pic3.jpeg" alt="Pic3">
 
-**Crestian Reads**  
+**Crestian Reads  **
 
 An Instagram account run by the Reading Committee of the English Language Department, this platform showcases what staff and students are currently reading to generate an interest among the student population.
 
@@ -78,10 +78,10 @@ The Critical Writing Programme is a weekly activity for the students.
 In Critical Writing, students learn to appreciate how multimodality works in language. Students are exposed to visual texts which they have to analyse and evaluate. These visual texts can include websites, posters and videos. 
 </div>
 	</li>
+	
 <li>
 <input type="checkbox" id="accordion4">
 <label for="accordion4">PRCS LITERARY WEEK </label>
-	
 <div>
 	With the aim of celebrating local literary geniuses and highlighting local issues, we have in place the annual PRCS Literary Week with Assembly Programmes as creative platforms for students to shine in their presentation skills. During this week, we broaden their perspectives by engaging with issues such as marginalisation and disability. Budding poets and writers in our midst also have the opportunity to take part in activities that will be lined up for them throughout the week.  
   
@@ -97,14 +97,13 @@ In Critical Writing, students learn to appreciate how multimodality works in lan
 <img src="/images/Pic9.jpeg" alt="Pic9">
 	</div>
 	</li>
+	
 <li>
 		<input type="checkbox" id="accordion5">
 		<label for="accordion5">LITERATURE</label>  
-
 <div> 
-	The Literature Unit supports the school’s language programme in class. Below are some of the activities for the students:  
-  
-
+	The Literature Unit supports the school’s language programme in class. Below are some of the activities for the students:
+	
 <img src="/images/Table2.jpeg" alt"Table2">
 
   
@@ -114,16 +113,14 @@ Every year, the school participates in the National Schools Literature Festival.
   
 
 <img src="/images/Pic10.jpeg" alt="Pic10">
-														 
 </div>
 	</li>
+	
 <li>
 		<input type="checkbox" id="accordion6">
-																					<label for="accordion6">ENRICHMENT</label>
-	
+		<label for="accordion6">ENRICHMENT</label>
 <div>
-	To deepen the language learning experience, Crestians have a chance to watch plays.  The department also actively looks out for possible Learning Journeys to local exhibitions to help students build a wider world view of life.  
-  
+	To deepen the language learning experience, Crestians have a chance to watch plays.  The department also actively looks out for possible Learning Journeys to local exhibitions to help students build a wider world view of life.
 <img src="/images/Pic11.jpeg"  alt="Pic11">
 </div>
 	</li>
