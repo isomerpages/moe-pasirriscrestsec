@@ -23,7 +23,6 @@ Effective Communicators who impact with the Heart and Mind
 Nurturing Crestians to be perceptive readers and empathetic communicators who are able to express themselves in various contexts
 	</div>
 	
-<li>
 <input type="checkbox" id="accordion2">
 <label for="accordion2">APPLIED LEARNING PROGRAMME: EFFECTIVE COMMUNICATORS WHO IMPACT WITH THE HEART AND MIND</label> 
 
@@ -38,14 +37,11 @@ For more information on the skills the students acquire and to view some of thei
 
 </div>
 
-<li>
-		<input type="checkbox" id="accordion3">
-		<label for="accordion3">EXTENSIVE READING /CRITICAL WRITING PROGRAMME</label>
+<input type="checkbox" id="accordion3">
+<label for="accordion3">EXTENSIVE READING /CRITICAL WRITING PROGRAMME</label>
 
 <div>
 	To inculcate a love for reading, time is set aside weekly for the students to do intensive and extensive reading. Here are some of the activities and platforms to foster a reading culture among the students:  
-
-  
 
 **Blind Date with a Book**
 
@@ -59,35 +55,27 @@ Traditionally held to coincide with Valentine’s Day week, students are encoura
 
 An Instagram account run by the Reading Committee of the English Language Department, this platform showcases what staff and students are currently reading to generate an interest among the student population.
 
-  
-
 <img src="/images/Pic4.jpeg">
 
 **Roald Dahl Showdown**  <br>
 
 This is an annual competition in PRCS which gets the Secondary One students to enjoy the British novelist’s books.
-
-  
-
+	
 <img src="/images/Pic5.JPeG>
 
 **Other Book Events**  
 
 To get students to enjoy owning a copy of a book, the department regularly invites vendors to introduce books for book sale events.
 
-  
-
 <img src="/images/Pic6.jpeg">
-
-  
 
 The **Critical Writing Programme** is a weekly activity for the students.  
 
-In Critical Writing, students learn to appreciate how multimodality works in language. Students are exposed to visual texts which they have to analyse and evaluate. These visual texts can include websites, posters and videos. </div>
+In Critical Writing, students learn to appreciate how multimodality works in language. Students are exposed to visual texts which they have to analyse and evaluate. These visual texts can include websites, posters and videos. 
+</div>
 
-<li>
 		<input type="checkbox" id="accordion4">
-		<label for="accordion4">PRCS LITERARY WEEK </label>
+																					<label for="accordion4">PRCS LITERARY WEEK </label>
 	
 <div>
 	With the aim of celebrating local literary geniuses and highlighting local issues, we have in place the annual PRCS Literary Week with Assembly Programmes as creative platforms for students to shine in their presentation skills. During this week, we broaden their perspectives by engaging with issues such as marginalisation and disability. Budding poets and writers in our midst also have the opportunity to take part in activities that will be lined up for them throughout the week.  
@@ -104,7 +92,6 @@ In Critical Writing, students learn to appreciate how multimodality works in lan
 <img src="/images/Pic9.jpeg">
 	</div>
 
-<li>
 		<input type="checkbox" id="accordion5">
 		<label for="accordion5">LITERATURE</label>  
 
@@ -134,4 +121,3 @@ Every year, the school participates in the National Schools Literature Festival.
 <img src="/images/Pic11.jpeg">
 </div>
 														 </li>
-								
