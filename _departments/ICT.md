@@ -3,49 +3,96 @@ title: ICT
 permalink: /departments/ICT/
 description: ""
 ---
-<ul class="jekyllcodex_accordion">
+
+
+ICT
+
+  
+
+<ul class="jekyllcodex\_accordion">
+
+  
 
   <li>
 
+  
+
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Principal's Foreword</label>
+  
+
+    <label for="accordion1">Fault Reporting</label>
+
+  
 
     <div>
 
-			<p> <b> Fault Reporting</b><br>
-				
-Click [here]
+  
+
+<p> Click [here](https://forms.gle/oAR4PVwzLxUbWR7QA) for reporting form.
+
+  
+
+</p>
+
+  
 
     </div>
 
+  
+
 </li>
-	<li>
+
+<li>
+
+  
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">LIVESTREAM</label>
+  
+
+    <label for="accordion2">LIVESTREAM </label>
+
+  
 
     <div>
 
-Click [here]
+  
+
+<p> Click [here](https://forms.gle/oAR4PVwzLxUbWR7QA) for reporting form.</p>
+
+  
 
     </div>
 
+  
+
 </li>
-	
-	<li>
+
+<li>
+
+  
 
     <input type="checkbox" id="accordion3">
 
+  
+
     <label for="accordion3">SUPPORT</label>
+
+  
 
     <div>
 
-Click [here]
-			
+  
+
+<p>Click [here](https://forms.gle/oAR4PVwzLxUbWR7QA) for reporting form.</p>
+
+  
+
     </div>
 
+  
+
 </li>
-	
+
 </ul>
