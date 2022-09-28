@@ -3,6 +3,14 @@ title: 2022 DSA SEC
 permalink: /2022-dsa-sec/
 description: ""
 ---
+<h1>2022 DSA-Sec</h1>
+
+<ul class="jekyllcodex_accordion">
+	<li>
+		<input type="checkbox" id="accordion1">
+		<label for="accordion1">2022 DIRECT SCHOOL ADMISSION (DSA) EXERCISE</label>
+		<div>
+
 **Pasir Ris Crest Secondary School**
 
 **2022 Direct School Admission Exercise**
@@ -62,3 +70,20 @@ Applicants will be notified of the selection outcome through email or hardcopy l
   
 
 The decision of the school is final.
+
+		</div>
+
+DIRECT SCHOOL ADMISSION
+-----------------------
+
+ADMISSION CRITERIA FOR MUSIC AND PERFORMING ARTS
+------------------------------------------------
+
+ADMISSION CRITERIA FOR EFFECTIVE COMMUNICATION
+----------------------------------------------
+
+ADMISSION CRITERIA FOR FENCING
+------------------------------
+
+ADMISSION CRITERIA FOR MOTHER TONGUE LANGUAGES
+----------------------------------------------
