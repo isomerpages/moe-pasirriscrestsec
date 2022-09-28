@@ -6,7 +6,6 @@ description: ""
 ICT
 
 <ul class="jekyllcodex\_accordion">
-
 <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Fault Reporting</label>
@@ -31,9 +30,6 @@ ICT
     <label for="accordion3">SUPPORT</label>
     <div>
 			<p>Click <a href="https://forms.gle/oAR4PVwzLxUbWR7QA"> here </a> for reporting form.</p>
-
     </div>
-
 </li>
-
 </ul>
