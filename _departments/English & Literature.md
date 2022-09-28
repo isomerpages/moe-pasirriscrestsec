@@ -5,7 +5,7 @@ description: ""
 ---
 <!DOCTYPE html>
 <html lang="en">
-	
+<ul class="jekyllcodex\_accordion">
 <li>
 <input type="checkbox" id="accordion1">
 <label for="accordion1">VISION AND MISSION</label>
@@ -129,3 +129,4 @@ Every year, the school participates in the National Schools Literature Festival.
 <img src="/images/Pic11.jpeg">
 </div>
 														 </li>
+	</ul>
