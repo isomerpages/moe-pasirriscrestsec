@@ -95,15 +95,15 @@ In Critical Writing, students learn to appreciate how multimodality works in lan
 	With the aim of celebrating local literary geniuses and highlighting local issues, we have in place the annual PRCS Literary Week with Assembly Programmes as creative platforms for students to shine in their presentation skills. During this week, we broaden their perspectives by engaging with issues such as marginalisation and disability. Budding poets and writers in our midst also have the opportunity to take part in activities that will be lined up for them throughout the week.  
   
 
-<img src="/images/Pic7.JPeG">
+<img src="/images/Pic7.jpeg">
+
+														
+
+<img src="/images/Pic8.jpeg">
 
   
 
-<img src="/images/Pic8.JPeG">
-
-  
-
-<img src="/images/Pic9.JPeG">
+<img src="/images/Pic9.jpeg">
 	</div>
 
 <li>
@@ -122,16 +122,16 @@ Every year, the school participates in the National Schools Literature Festival.
 
   
 
-<img src="/images/Pic10.JPeG">
+<img src="/images/Pic10.jpeg">
+														 
 	</div>
 
 <li>
 		<input type="checkbox" id="accordion6">
-		<label for="accordion6">ENRICHMENT</label>
+																					<label for="accordion6">ENRICHMENT</label>
 	
 <div>
 	To deepen the language learning experience, Crestians have a chance to watch plays.  The department also actively looks out for possible Learning Journeys to local exhibitions to help students build a wider world view of life.  
   
 <img src="/images/pic11.jpeg">
-														
 	</div>
