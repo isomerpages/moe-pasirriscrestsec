@@ -3,9 +3,9 @@ title: English & Literature
 permalink: /departments/EnglishLiterature/
 description: ""
 ---
-<div>VISION AND MISSION</div>
-
-------------------
+<li>
+		<input type="checkbox" id="accordion1">
+		<label for="accordion1">VISION AND MISSION</label>
 <div>
 	
 ![Pic1.jpg](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic1.jpg)  
@@ -25,10 +25,10 @@ Effective Communicators who impact with the Heart and Mind
 Nurturing Crestians to be perceptive readers and empathetic communicators who are able to express themselves in various contexts
 	</div>
 	
-<div> APPLIED LEARNING PROGRAMME: EFFECTIVE COMMUNICATORS WHO IMPACT WITH THE HEART AND MIND
-</div>
+<li>
+		<input type="checkbox" id="accordion2">
+		<label for="accordion2">APPLIED LEARNING PROGRAMME: EFFECTIVE COMMUNICATORS WHO IMPACT WITH THE HEART AND MIND</label> 
 
---------------------------------------------------------------------------------------
 <div>
 	The English Language and Literature Department supports the school’s Applied Learning Programme (ALP) which aims to develop Crestians into effective communicators who are capable of articulating complex information and ideas in varying contexts and modes. To this end, the programmes below have been developed to make learning experiences meaningful and engaging for the students:  
 
@@ -40,10 +40,10 @@ For more information on the skills the students acquire and to view some of thei
 
 </div>
 
-<div>
-	EXTENSIVE READING /CRITICAL WRITING PROGRAMME </div>
-	
----------------------------------------------
+<li>
+		<input type="checkbox" id="accordion3">
+		<label for="accordion3">EXTENSIVE READING /CRITICAL WRITING PROGRAMME</label>
+
 <div>
 	To inculcate a love for reading, time is set aside weekly for the students to do intensive and extensive reading. Here are some of the activities and platforms to foster a reading culture among the students:  
 
@@ -87,8 +87,10 @@ The **Critical Writing Programme** is a weekly activity for the students.
 
 In Critical Writing, students learn to appreciate how multimodality works in language. Students are exposed to visual texts which they have to analyse and evaluate. These visual texts can include websites, posters and videos. </div>
 
-<div> PRCS LITERARY WEEK </div>
-------------------
+<li>
+		<input type="checkbox" id="accordion4">
+		<label for="accordion4">PRCS LITERARY WEEK </label>
+	
 <div>
 	With the aim of celebrating local literary geniuses and highlighting local issues, we have in place the annual PRCS Literary Week with Assembly Programmes as creative platforms for students to shine in their presentation skills. During this week, we broaden their perspectives by engaging with issues such as marginalisation and disability. Budding poets and writers in our midst also have the opportunity to take part in activities that will be lined up for them throughout the week.  
   
@@ -103,8 +105,10 @@ In Critical Writing, students learn to appreciate how multimodality works in lan
 
 ![Pic9.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic9.JPG) </div>
 
-<div> LITERATURE </div>
-----------
+<li>
+		<input type="checkbox" id="accordion5">
+		<label for="accordion5">LITERATURE</label>  
+
 <div> 
 	The Literature Unit supports the school’s language programme in class. Below are some of the activities for the students:  
   
@@ -119,15 +123,13 @@ Every year, the school participates in the National Schools Literature Festival.
 
 ![Pic10.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic10.JPG) </div>
 
-<div>
-	ENRICHMENT
-	</div>
+<li>
+		<input type="checkbox" id="accordion6">
+		<label for="accordion6">ENRICHMENT</label>
 	
------------
 <div>
 	To deepen the language learning experience, Crestians have a chance to watch plays.  The department also actively looks out for possible Learning Journeys to local exhibitions to help students build a wider world view of life.  
   
 
 ![Pic11.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic11.JPG)
 	</div>
-	
