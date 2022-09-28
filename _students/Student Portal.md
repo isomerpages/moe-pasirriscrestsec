@@ -159,7 +159,7 @@ You can access SLS from internet browsers installed on your mobile phones or equ
 
 <div>
 	
-To guide students in their character development and in order to achieve our desired learning outcomes especially of being a Self-Disciplined and Responsible Leader as well as an Active and Concerned Citizen with Global Awareness, the school has in place the following Expected Student Behaviours and Rules and Regulations, which are divided into five main categories. These Expected Student Behaviours and Rules and Regulations are to support the students in understanding the importance of good moral behavior, respect and care for self and others and to create a conducive environment for learning to take place. The categories are aligned to the school values of&nbsp;Care,&nbsp;Resilience,&nbsp;Excellence,&nbsp;Self-Belief,&nbsp;Trustworthiness (CREST).
+To guide students in their character development and in order to achieve our desired learning outcomes especially of being a Self-Disciplined and Responsible Leader as well as an Active and Concerned Citizen with Global Awareness, the school has in place the following Expected Student Behaviours and Rules and Regulations, which are divided into five main categories. These Expected Student Behaviours and Rules and Regulations are to support the students in understanding the importance of good moral behavior, respect and care for self and others and to create a conducive environment for learning to take place. The categories are aligned to the school values of Care, Resilience, Excellence, Self-Belief, Trustworthiness (CREST).
 
   
 
@@ -169,7 +169,7 @@ To guide students in their character development and in order to achieve our des
 
 **Expected Student Behaviour**  
 
-Students are the school’s representatives in the community and are expected to be always prim and proper in their school attire at all times. Taking pride in wearing the school uniform will help students to be self-disciplined and self-motivated.&nbsp;
+Students are the school’s representatives in the community and are expected to be always prim and proper in their school attire at all times. Taking pride in wearing the school uniform will help students to be self-disciplined and self-motivated.
 
 **Rules and Regulations**  
 The following rules and regulations are to be adhered to:
@@ -179,7 +179,7 @@ The following rules and regulations are to be adhered to:
 *   Fancy spectacles, coloured contact lenses and tinted glasses are not allowed. Prescribed colours for spectacle frames are solid black, brown, gold or silver.
 *   The school T-shirt must be worn for PE lessons and all other physical activities.
 *   T-shirts’ sleeves should not be folded when worn.
-*   Shoes must be white-based / predominantly white with white shoelaces, and be properly tied. The shoes must not cover the ball of the ankles.&nbsp; Disallowed shoes include moccasins, dress shoes, ballet shoes, high-cut shoes, slip-ons, shoes with velcro straps and those not deemed as standard school shoes.
+*   Shoes must be white-based / predominantly white with white shoelaces, and be properly tied. The shoes must not cover the ball of the ankles. Disallowed shoes include moccasins, dress shoes, ballet shoes, high-cut shoes, slip-ons, shoes with velcro straps and those not deemed as standard school shoes.
 *   Only plain white socks are allowed and they must be worn to conceal the ball of the ankle completely.
 *   Fingernails must be kept short and clean.
 
@@ -298,7 +298,7 @@ To instill the value of caring and being righteous:
 
 **Use of mobile phones**  
 
-Students are encouraged not to bring their mobile phones to school. They may use the telephone in the General Office if they need to contact their parents/guardians. In an emergency, their parents/ guardians can call the school to contact the student. Students bring mobile phones to school at their own risk and the school will not be held liable or responsible for any loss or damage to the mobile phones. The following must be adhered to&nbsp;**_unless a teacher’s permission has been expressly granted_**.
+Students are encouraged not to bring their mobile phones to school. They may use the telephone in the General Office if they need to contact their parents/guardians. In an emergency, their parents/ guardians can call the school to contact the student. Students bring mobile phones to school at their own risk and the school will not be held liable or responsible for any loss or damage to the mobile phones. The following must be adhered to **unless a teacher’s permission has been expressly granted**.
 
   
 
@@ -312,9 +312,9 @@ Students are encouraged not to bring their mobile phones to school. They may use
 
 *   Mobile phones are not to be used for audio or video recording or picture taking.
 
-*   Mobile phones will be confiscated and kept by the office for&nbsp;**ONE**&nbsp;week if a student violates any of the rules related to the usage of mobile phones.
+*   Mobile phones will be confiscated and kept by the office for **ONE** week if a student violates any of the rules related to the usage of mobile phones.
 
-*   Students who allow other students to misuse their mobile phones will have their mobile phones confiscated and kept by the office for&nbsp;**ONE**&nbsp;week.
+*   Students who allow other students to misuse their mobile phones will have their mobile phones confiscated and kept by the office for **ONE** week.
 
 *   Repeat offences will result in the mobile phones to be confiscated for&nbsp;**ONE month**.
 
@@ -408,11 +408,11 @@ Information on claims, FAQs and other details pertaining to the GPA Insurance Pl
 		<input id="accordion5" type="checkbox">
 		<label for="accordion5">PEDESTRIAN AND VEHICLE ROUTE</label>
 <div>
-Click&nbsp;[here](https://prcss.moe.edu.sg/qql/slot/u200/pdf/student_administration/1443412269106905142.jpg)&nbsp;for&nbsp;Safe Route School Map.
+Click [here](https://prcss.moe.edu.sg/qql/slot/u200/pdf/student_administration/1443412269106905142.jpg) for Safe Route School Map.
 </div>
 			</li><li>
 		<input id="accordion6" type="checkbox">
 		<label for="accordion6">TRAFFIC MANAGEMENT PLAN</label>
 <div>
-Click&nbsp;[here](https://prcss.moe.edu.sg/qql/slot/u200/pdf/student_administration/Traffic%20Management%20Plan%2013112020.pdf)&nbsp;for Traffic Management Plan.
+Click [here](https://prcss.moe.edu.sg/qql/slot/u200/pdf/student_administration/Traffic%20Management%20Plan%2013112020.pdf)for Traffic Management Plan.
 				</div></li>
