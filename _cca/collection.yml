@@ -2,9 +2,9 @@ collections:
   cca:
     output: true
     order:
-      - Sports/Volleyball (Boys).md
-      - Sports/Table Tennis (Mixed).md
-      - Sports/Softball (Boys).md
-      - Sports/Netball.md
-      - Sports/Fencing (Mixed).md
       - Sports/.keep
+      - Sports/Fencing (Mixed).md
+      - Sports/Netball.md
+      - Sports/Softball (Boys).md
+      - Sports/Table Tennis (Mixed).md
+      - Sports/Volleyball (Boys).md
