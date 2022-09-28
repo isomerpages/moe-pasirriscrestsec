@@ -27,8 +27,7 @@ description: ""
 
 <label for="accordion1">ANIRUDH MENON</label>
 
-<div>
--------------
+<div>text</div>
 
 <li>
 
@@ -37,7 +36,6 @@ description: ""
 <label for="accordion3">MUHAMMAD AIMAN MUSTAFA</label>
 
 <div>text</div>
-----------------------
 
 <li>
 
@@ -53,4 +51,4 @@ description: ""
 
 <label for="accordion5">ANGELA WONG</label>
 
-	<div>text</div>
+<div>text</div>
