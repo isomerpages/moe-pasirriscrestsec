@@ -3,6 +3,9 @@ title: English & Literature
 permalink: /departments/EnglishLiterature/
 description: ""
 ---
+<!DOCTYPE html>
+<html lang="en">
+	
 <li>
 <input type="checkbox" id="accordion1">
 <label for="accordion1">VISION AND MISSION</label>
@@ -22,7 +25,9 @@ Effective Communicators who impact with the Heart and Mind
 <br>
 Nurturing Crestians to be perceptive readers and empathetic communicators who are able to express themselves in various contexts
 	</div>
+	</li>
 	
+<li>
 <input type="checkbox" id="accordion2">
 <label for="accordion2">APPLIED LEARNING PROGRAMME: EFFECTIVE COMMUNICATORS WHO IMPACT WITH THE HEART AND MIND</label> 
 
@@ -36,7 +41,8 @@ Nurturing Crestians to be perceptive readers and empathetic communicators who ar
 For more information on the skills the students acquire and to view some of their projects, please click on this link: [_Effective Communicators who impact with the heart and mind_](https://prcss.moe.edu.sg/about-us/virtual-open-house-2021) 
 
 </div>
-
+	</li>
+<li>
 <input type="checkbox" id="accordion3">
 <label for="accordion3">EXTENSIVE READING /CRITICAL WRITING PROGRAMME</label>
 
@@ -61,19 +67,20 @@ An Instagram account run by the Reading Committee of the English Language Depart
 
 This is an annual competition in PRCS which gets the Secondary One students to enjoy the British novelist’s books.
 	
-<img src="/images/Pic5.JPeG>
+<img src="/images/Pic5.jpeg" alt"Pic5">
 
-**Other Book Events**  
+**Other Book Events** 
 
 To get students to enjoy owning a copy of a book, the department regularly invites vendors to introduce books for book sale events.
 
-<img src="/images/Pic6.jpeg">
+<img src="/images/Pic6.jpeg" alt"Pic6">
 
-The **Critical Writing Programme** is a weekly activity for the students.  
+The Critical Writing Programme is a weekly activity for the students.  
 
 In Critical Writing, students learn to appreciate how multimodality works in language. Students are exposed to visual texts which they have to analyse and evaluate. These visual texts can include websites, posters and videos. 
 </div>
-
+	</li>
+<li>
 <input type="checkbox" id="accordion4">
 <label for="accordion4">PRCS LITERARY WEEK </label>
 	
@@ -91,7 +98,8 @@ In Critical Writing, students learn to appreciate how multimodality works in lan
 
 <img src="/images/Pic9.jpeg">
 	</div>
-
+	</li>
+<li>
 		<input type="checkbox" id="accordion5">
 		<label for="accordion5">LITERATURE</label>  
 
@@ -110,7 +118,7 @@ Every year, the school participates in the National Schools Literature Festival.
 <img src="/images/Pic10.jpeg">
 														 
 </div>
-
+	</li>
 <li>
 		<input type="checkbox" id="accordion6">
 																					<label for="accordion6">ENRICHMENT</label>
