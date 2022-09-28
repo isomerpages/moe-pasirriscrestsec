@@ -15,13 +15,11 @@ description: ""
 <img src="/images/Pic2.jpg">
 
 **VISION:**
-
+<br>
 Effective Communicators who impact with the Heart and Mind
-
-  
-
+<br>
 **MISSION:**
-
+	<br>
 Nurturing Crestians to be perceptive readers and empathetic communicators who are able to express themselves in various contexts
 	</div>
 	
@@ -31,7 +29,7 @@ Nurturing Crestians to be perceptive readers and empathetic communicators who ar
 
 <div>
 	The English Language and Literature Department supports the school’s Applied Learning Programme (ALP) which aims to develop Crestians into effective communicators who are capable of articulating complex information and ideas in varying contexts and modes. To this end, the programmes below have been developed to make learning experiences meaningful and engaging for the students:  
-
+<br>
 <img src="/images/Table1.jpeg">
 
   
@@ -65,7 +63,7 @@ An Instagram account run by the Reading Committee of the English Language Depart
 
 <img src="/images/Pic4.jpeg">
 
-**Roald Dahl Showdown**  
+**Roald Dahl Showdown**  <br>
 
 This is an annual competition in PRCS which gets the Secondary One students to enjoy the British novelist’s books.
 
