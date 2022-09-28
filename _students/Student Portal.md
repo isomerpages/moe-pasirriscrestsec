@@ -233,7 +233,7 @@ To ensure safety in school and respect for others in the school:
 
 **Use of Sports Facilities (school field, basketball court, ISH)**  
 
-Students are encouraged to use the school facilities to play and exercise. In line with the school values of being caring,&nbsp;students should show sportsmanship, respect for opponents and team work throughout their play time. They should also adhere to the following safety measures:&nbsp;
+Students are encouraged to use the school facilities to play and exercise. In line with the school values of being caring, students should show sportsmanship, respect for opponents and team work throughout their play time. They should also adhere to the following safety measures: 
 
 *   Students must hydrate themselves before and after their play.
 *   Students must report any injury to the General Office or PE office immediately.
@@ -278,8 +278,8 @@ Students must adhere to the following rules and regulations when using the sport
 
 To ensure students are properly attired and ready for lessons:
 
-*   Students are not allowed to play before school. Students can only play during recess and after school, from 3pm to 5.30pm, provided they have no lesson, CCA or other school programmes.&nbsp;
-*   During recess, students must stop their play 10 minutes before the start of the next lesson.&nbsp;The students’ playing equipment, like soccer ball and frisbee, will be confiscated if they do not comply with the above.
+*   Students are not allowed to play before school. Students can only play during recess and after school, from 3pm to 5.30pm, provided they have no lesson, CCA or other school programmes.
+*   During recess, students must stop their play 10 minutes before the start of the next lesson. The students’ playing equipment, like soccer ball and frisbee, will be confiscated if they do not comply with the above.
 
 **Attire**  
 
