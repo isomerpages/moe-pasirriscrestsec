@@ -3,3 +3,131 @@ title: English & Literature
 permalink: /departments/EnglishLiterature/
 description: ""
 ---
+<div>VISION AND MISSION</div>
+
+------------------
+<div>
+	
+![Pic1.jpg](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic1.jpg)  
+
+**ENGLISH LANGUAGE AND LITERATURE DEPARTMENT**
+
+![Pic2.jpg](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic2.jpg)
+
+**VISION:**
+
+Effective Communicators who impact with the Heart and Mind
+
+  
+
+**MISSION:**
+
+Nurturing Crestians to be perceptive readers and empathetic communicators who are able to express themselves in various contexts
+	</div>
+	
+<div> APPLIED LEARNING PROGRAMME: EFFECTIVE COMMUNICATORS WHO IMPACT WITH THE HEART AND MIND
+</div>
+
+--------------------------------------------------------------------------------------
+<div>
+	The English Language and Literature Department supports the school’s Applied Learning Programme (ALP) which aims to develop Crestians into effective communicators who are capable of articulating complex information and ideas in varying contexts and modes. To this end, the programmes below have been developed to make learning experiences meaningful and engaging for the students:  
+
+![Table1.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Table1.JPG)
+
+  
+
+For more information on the skills the students acquire and to view some of their projects, please click on this link: [_Effective Communicators who impact with the heart and mind_](https://prcss.moe.edu.sg/about-us/virtual-open-house-2021) 
+
+</div>
+
+<div>
+	EXTENSIVE READING /CRITICAL WRITING PROGRAMME </div>
+	
+---------------------------------------------
+<div>
+	To inculcate a love for reading, time is set aside weekly for the students to do intensive and extensive reading. Here are some of the activities and platforms to foster a reading culture among the students:  
+
+  
+
+**Blind Date with a Book**
+
+Traditionally held to coincide with Valentine’s Day week, students are encouraged to make a ‘blind date’ with a book.
+
+  
+
+![Pic3.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic3.JPG)
+
+**Crestian Reads**  
+
+An Instagram account run by the Reading Committee of the English Language Department, this platform showcases what staff and students are currently reading to generate an interest among the student population.
+
+  
+
+![Pic4.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic4.JPG)
+
+**Roald Dahl Showdown**  
+
+This is an annual competition in PRCS which gets the Secondary One students to enjoy the British novelist’s books.
+
+  
+
+![Pic5.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic5.JPG)
+
+**Other Book Events**  
+
+To get students to enjoy owning a copy of a book, the department regularly invites vendors to introduce books for book sale events.
+
+  
+
+![Pic6.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic6.JPG)
+
+  
+
+The **Critical Writing Programme** is a weekly activity for the students.  
+
+In Critical Writing, students learn to appreciate how multimodality works in language. Students are exposed to visual texts which they have to analyse and evaluate. These visual texts can include websites, posters and videos. </div>
+
+<div> PRCS LITERARY WEEK </div>
+------------------
+<div>
+	With the aim of celebrating local literary geniuses and highlighting local issues, we have in place the annual PRCS Literary Week with Assembly Programmes as creative platforms for students to shine in their presentation skills. During this week, we broaden their perspectives by engaging with issues such as marginalisation and disability. Budding poets and writers in our midst also have the opportunity to take part in activities that will be lined up for them throughout the week.  
+  
+
+![Pic7.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic7.JPG)
+
+  
+
+![Pic8.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic8.JPG)
+
+  
+
+![Pic9.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic9.JPG) </div>
+
+<div> LITERATURE </div>
+----------
+<div> 
+	The Literature Unit supports the school’s language programme in class. Below are some of the activities for the students:  
+  
+
+![Table2.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Table2.JPG)
+
+  
+
+Every year, the school participates in the National Schools Literature Festival. We have sent students to compete in various categories and they have always made us proud with their enthusiastic performances.  
+
+  
+
+![Pic10.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic10.JPG) </div>
+
+<div>
+	ENRICHMENT
+	</div>
+	
+-----------
+<div>
+	To deepen the language learning experience, Crestians have a chance to watch plays.  The department also actively looks out for possible Learning Journeys to local exhibitions to help students build a wider world view of life.  
+  
+
+![Pic11.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Pic11.JPG)
+	</div>
+	
