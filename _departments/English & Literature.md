@@ -99,11 +99,11 @@ In Critical Writing, students learn to appreciate how multimodality works in lan
 
   
 
-<img src="/images/Pic8.JPG">
+<img src="/images/Pic8.JPeG">
 
   
 
-<img src="/images/Pic9.JPG">
+<img src="/images/Pic9.JPeG">
 	</div>
 
 <li>
@@ -122,7 +122,7 @@ Every year, the school participates in the National Schools Literature Festival.
 
   
 
-<img src="/images/Pic10.JPG">
+<img src="/images/Pic10.JPeG">
 	</div>
 
 <li>
@@ -132,6 +132,6 @@ Every year, the school participates in the National Schools Literature Festival.
 <div>
 	To deepen the language learning experience, Crestians have a chance to watch plays.  The department also actively looks out for possible Learning Journeys to local exhibitions to help students build a wider world view of life.  
   
-
-<img src="/images/Pic11.JPG">
+<img src="/images/Pic11.JPeg">
+														
 	</div>
