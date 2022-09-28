@@ -31,7 +31,7 @@ ICT
 
     <div>
 
-<p> Click [here](https://forms.gle/oAR4PVwzLxUbWR7QA) for reporting form.</p>
+			<p> Click <a href="https://forms.gle/oAR4PVwzLxUbWR7QA">here</a> for reporting form.</p>
 
     </div>
 
