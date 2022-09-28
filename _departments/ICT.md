@@ -19,6 +19,10 @@ description: ""
 		<input type="checkbox" id="accordion2">
 		<label for="accordion2">LIVESTREAM </label>
 		<div>
+			<div>
+			<div style="float: left">
+				<img src="/images/Support-RequestQR.jpeg" style="width:80%">
+				</div>
 			<p> Click <a href="https://forms.gle/oAR4PVwzLxUbWR7QA">here</a> for reporting form.</p></div>
 </li>
 <li>
