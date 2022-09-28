@@ -5,21 +5,24 @@ description: ""
 ---
 <h1>Student Portal</h1>
 
+<ul class="jekyllcodex_accordion">
 <li>
 		<input id="accordion1" type="checkbox">
 		<label for="accordion1">SLS SUPPORT</label>
 <div>
+	
 **School Operating Hours**  
+	<br>
 
-During school operating hours, students should contact the&nbsp;**School-based Helpline**&nbsp;for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
+During school operating hours, students should contact the **School-based Helpline** for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
 
   
 
-**School-based Helpline:&nbsp;6581 1655 (ext. 104 or 105)**  
+**School-based Helpline: 6581 1655 (ext. 104 or 105)**  
 
 **Mondays - Fridays: 8:00 am - 4:00 pm**  
 
-For other matters, students can email the SLS Helpdesk at&nbsp;[helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com).&nbsp;When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
+For other matters, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
 
   
 
