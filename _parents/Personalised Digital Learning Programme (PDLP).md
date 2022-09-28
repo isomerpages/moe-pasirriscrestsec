@@ -74,16 +74,16 @@ SERVICE CENTRE
 <li>
 				<input type="checkbox" id="accordion4">
 			<label for="accordion4">PDLP STUDENT DEVICE INFORMATION KIT</label>
-			<div>
+
+<div>
 
 [Student Device Information Kit](https://prcss.moe.edu.sg/qql/slot/u200/pdf/communication_with_parents/PDLP/Student-Device-Information-Kit.pdf)
-	</div>
+</div>
 
 	<li>
 				<input type="checkbox" id="accordion5">
 			<label for="accordion5">DMA PARENT GUIDE</label>
-			<div>
-
+		<div>
 [Default Option](https://prcss.moe.edu.sg/qql/slot/u200/pdf/communication_with_parents/PDLP/DMA%20Parent%20Guide%20for%20Default%20Option.pdf)
 
 [Option A](https://prcss.moe.edu.sg/qql/slot/u200/pdf/communication_with_parents/PDLP/DMA%20Parent%20Guide%20for%20Option%20A.pdf)
