@@ -52,17 +52,17 @@ By spurring our students to take greater ownership of their learning and work co
 
   
 
-Click&nbsp;[here](https://vle.learning.moe.edu.sg/login)&nbsp;to access the Student Learning Space (SLS) portal.  
+Click <a href="https://vle.learning.moe.edu.sg/login">here</a> to access the Student Learning Space (SLS) portal.  
 
   
 
-For Sec 1 students, click&nbsp;[here](https://prcss.moe.edu.sg/qql/slot/u200/pdf/SLS/SLS%20Account%20Management%20-%20Guide%20for%20Sec%201%20Students.pdf)&nbsp;to access the Guide to SLS Account Management.
+For Sec 1 students, click <a href="https://prcss.moe.edu.sg/qql/slot/u200/pdf/SLS/SLS%20Account%20Management%20-%20Guide%20for%20Sec%201%20Students.pdf">here</a> to access the Guide to SLS Account Management.
 
   
 
 **What is SLS?**
 
-Click to&nbsp;[watch the video](https://www.youtube.com/watch?v=F0FTP2FveSg&amp;feature=youtu.be)
+Click to <a href="https://www.youtube.com/watch?v=F0FTP2FveSg&amp;feature=youtu.be">watch the video.</a>
 
   
 
@@ -76,7 +76,7 @@ The SLS is accessible through the internet browsers on either Windows PC, Mac, i
 
 **LOGIN**
 
-SLS can be accessed from&nbsp;[https://learning.moe.edu.sg](https://learning.moe.edu.sg/).
+SLS can be accessed from <a href="https://learning.moe.edu.sg">https://learning.moe.edu.sg/.</a>
 
   
 ![SLS Login_1.png](https://prcss.moe.edu.sg/qql/slot/u200/images/students/SLS%20Login_1.png)  
