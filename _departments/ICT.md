@@ -3,8 +3,6 @@ title: ICT
 permalink: /departments/ICT/
 description: ""
 ---
-ICT
-
 <ul class="jekyllcodex\_accordion">
 <li>
     <input type="checkbox" id="accordion1">
