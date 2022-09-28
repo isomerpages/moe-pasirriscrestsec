@@ -32,7 +32,7 @@ Nurturing Crestians to be perceptive readers and empathetic communicators who ar
 <div>
 	The English Language and Literature Department supports the school’s Applied Learning Programme (ALP) which aims to develop Crestians into effective communicators who are capable of articulating complex information and ideas in varying contexts and modes. To this end, the programmes below have been developed to make learning experiences meaningful and engaging for the students:  
 
-![Table1.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Table1.JPG)
+<img src="/images/Table1.jpeg">
 
   
 
@@ -114,7 +114,7 @@ In Critical Writing, students learn to appreciate how multimodality works in lan
 	The Literature Unit supports the school’s language programme in class. Below are some of the activities for the students:  
   
 
-![Table2.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/Eng&Lit/Table2.JPG)
+<img src="/images/Table2.jpeg">
 
   
 
@@ -133,5 +133,6 @@ Every year, the school participates in the National Schools Literature Festival.
 <div>
 	To deepen the language learning experience, Crestians have a chance to watch plays.  The department also actively looks out for possible Learning Journeys to local exhibitions to help students build a wider world view of life.  
   
-<img src="/images/pic11.jpeg">
+<img src="/images/Pic11.jpeg">
+														 
 	</div>
