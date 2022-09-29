@@ -12,7 +12,8 @@ third_nav_title: The Crestian Experience
 <div>The benefits of an Experiential Learning Programme are extensive, ranging from honing the skills of critical thinking, problem solving and decision making in coming up with the fastest fruit-powered model car in the Chemistry laboratory, harnessing the application of knowledge and skills across different subjects disciplines while immersing in ArtScience, to developing effective communication, social and thinking skills while interacting with tourists along Singapore River.</div>
 <div>One important aspect of the ELP is the planning and customisation of three day learning experiences by teaching teams from various IP and CCE departments at the start of each academic year. This provides opportunity to create student-centered programmes for the unique Crestian experience.</div>
 <div><em>&ldquo;Learning is experience. Everything else is just information&rdquo; Albert Einstein</em></div>
-<br />SEC 1 - PE&nbsp;OE ORIENTEERING AT SPORTS HUB<br /><img src="/images/PE OE Orienteering at Sports Hub 1.PNG" alt="PE OE Orienteering at Sports Hub 1.PNG" /><img src="/images/PE OE Orienteering at Sports Hub 3.PNG" alt="PE OE Orienteering at Sports Hub 3.PNG" /><br /><br /><br /><br /><br /><br /><br />
+<br />SEC 1 - PE OE ORIENTEERING AT SPORTS HUB<br />
+<img src="/images/PE OE Orienteering at Sports Hub 1.PNG" alt="PE OE Orienteering at Sports Hub 1.PNG"/><img src="/images/PE OE Orienteering at Sports Hub 3.PNG" alt="PE OE Orienteering at Sports Hub 3.PNG" /><br /><br /><br /><br /><br /><br /><br />
 <div>
 <div><img src="/images/PE OE Orienteering at Sports Hub 2.PNG" alt="PE OE Orienteering at Sports Hub 2.PNG" /><img src="/images/PE OE Orienteering at Sports Hub 5.PNG" alt="PE OE Orienteering at Sports Hub 5.PNG" /><img src="/images/PE OE Orienteering at Sports Hub 7.PNG" alt="PE OE Orienteering at Sports Hub 7.PNG" /></div>
 </div>
