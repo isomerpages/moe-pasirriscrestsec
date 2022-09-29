@@ -27,7 +27,7 @@ third_nav_title: The Crestian Experience
 </div>
 <div><img src="/images/LLP-Pic2.JPG" alt="LLP-Pic2.JPG"></div>
 <div>Crestians will also spend a semester to learn music arrangement through ICT tools such as Garage Band. Selected enrichment programmes such as percussion workshops and attending external musical performances will also be organised to expose Crestians to different musical experiences.</div>
-<div><img width="100%" alt="LLP-Pic3.JPG" src="h/images/LLP-Pic3.JPG"></div>
+<div><img width="100%" alt="LLP-Pic3.JPG" src="/images/LLP-Pic3.jpg"></div>
 <div><img alt="LLP-Pic4.JPG" src="/images/LLP-Pic4.JPG"></div>
 <div>All Crestians will acquire basic music skills to perform simple musical pieces and to create/arrange their own music.</div>
 <div><img alt="LLP-Pic5.JPG" src="/images/LLP-Pic5.JPG"></div>
@@ -55,5 +55,5 @@ third_nav_title: The Crestian Experience
 <div><img alt="LLP-Pic9.JPG" src="/images/LLP-Pic9.JPG"></div>
 <div><strong>Performing Arts CCAs</strong></div>
 <div>The school’s Performing Arts CCAs include the Symphonic Band, Chinese Instrumental Orchestra, Choir, Guzheng, Drama and Modern Dance which enable students with musical talents/ interest to pursue their talents/ interests and further develop their musical abilities. Specialised training will be provided for the various Performing Arts CCAs. Opportunities are also provided for students to participate in competitions or public performances. More information about the various Performing Arts CCA activities can be found on their respective CCA webpages.</div>
-<div><img width="100%" alt="LLP-Pic10.JPG" src="/images/LLP-Pic10.jpg"></div>
+<div><img src="/images/LLP-Pic10.jpg" width="100%" alt="LLP-Pic10.JPG" ></div>
 </div>
