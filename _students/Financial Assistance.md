@@ -34,7 +34,7 @@ description: ""
 <ul>
 <li><strong>Home Access Brochure</strong></li>
 </ul>
-<blockquote><a href="https://prcss.moe.edu.sg/qql/slot/u200/pdf/financial_assistance/HA%203.0%20Brochure%20WEF%20Oct%202021.pdf" target="_blank" rel="noopener">HA Brochure (w.e.f. Oct 2021)<br /><br /></a></blockquote>
+<blockquote><a href="/HA 3.0 Brochure WEF Oct 2021" target="_blank" rel="noopener">HA Brochure (w.e.f. Oct 2021)<br /><br /></a></blockquote>
 </div>
 <div>
 <ul>
@@ -42,7 +42,7 @@ description: ""
 </ul>
 </div>
 <blockquote>
-<div><a href="https://prcss.moe.edu.sg/qql/slot/u200/pdf/financial_assistance/ha30-application-form_Version%203.0%20Oct%202021.pdf" target="_blank" rel="noopener">HA Application Form Version 3.0</a></div>
+<div><a href="/ha30-application-form_Version 3 Oct 2021.pdf" target="_blank" rel="noopener">HA Application Form Version 3.0</a></div>
 </blockquote>
 	
 </li>
@@ -58,10 +58,10 @@ description: ""
 <li><strong>MOE FAS Pamphlet 2021</strong></li>
 </ul>
 </div>
-<blockquote><a href="https://prcss.moe.edu.sg/qql/slot/u200/pdf/financial_assistance/MOE%20FAS%20Pamphlet%202022.pdf" target="_blank" rel="noopener">MOE FAS Pamphlet 2022<br /><br /></a></blockquote>
+<blockquote><a href="MOE FAS Pamphlet 2022.pdf" target="_blank" rel="noopener">MOE FAS Pamphlet 2022<br /><br /></a></blockquote>
 <ul>
 <li><strong>MOE FAS Application Form 2022</strong></li>
 </ul>
-<blockquote><a href="https://prcss.moe.edu.sg/qql/slot/u200/pdf/financial_assistance/MOE%20FAS%20Application%20Form%202022.pdf" target="_blank" rel="noopener">MOE FAS Application Form 2022</a></blockquote>
+<blockquote><a href="/MOE FAS Application Form 2022" target="_blank" rel="noopener">MOE FAS Application Form 2022</a></blockquote>
 </li>
 </ul>
