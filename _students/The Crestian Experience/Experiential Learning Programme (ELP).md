@@ -12,19 +12,19 @@ third_nav_title: The Crestian Experience
 <div>The benefits of an Experiential Learning Programme are extensive, ranging from honing the skills of critical thinking, problem solving and decision making in coming up with the fastest fruit-powered model car in the Chemistry laboratory, harnessing the application of knowledge and skills across different subjects disciplines while immersing in ArtScience, to developing effective communication, social and thinking skills while interacting with tourists along Singapore River.</div>
 <div>One important aspect of the ELP is the planning and customisation of three day learning experiences by teaching teams from various IP and CCE departments at the start of each academic year. This provides opportunity to create student-centered programmes for the unique Crestian experience.</div>
 <div><em>&ldquo;Learning is experience. Everything else is just information&rdquo; Albert Einstein</em></div>
-<br />SEC 1 - PE OE ORIENTEERING AT SPORTS HUB<br /><img src="/images/PE OE Orienteering at Sports Hub 1.png" alt="PE OE Orienteering at Sports Hub 1.png" /><img src="/images/PE OE Orienteering at Sports Hub 3.png" alt="PE OE Orienteering at Sports Hub 3.png" /><br /><br /><br /><br /><br /><br /><br />
+<br />SEC 1 - PE OE ORIENTEERING AT SPORTS HUB<br /><img src="/images/PE OE Orienteering at Sports Hub 1.png" alt="PE OE Orienteering at Sports Hub 1.png" style="width:25%"/><img src="/images/PE OE Orienteering at Sports Hub 3.png" alt="PE OE Orienteering at Sports Hub 3.png" style="width:25%"/><br /><br /><br /><br /><br /><br /><br />
 <div>
-<div><img src="/images/PE OE Orienteering at Sports Hub 2.png" alt="PE OE Orienteering at Sports Hub 2.png" /> <img src="/images/PE OE Orienteering at Sports Hub 5.png" alt="PE OE Orienteering at Sports Hub 5.png" /><img src="/images/PE OE Orienteering at Sports Hub 7.png" alt="PE OE Orienteering at Sports Hub 7.png" /></div>
+<div><img src="/images/PE OE Orienteering at Sports Hub 2.png" alt="PE OE Orienteering at Sports Hub 2.png" style="width:50%"/> <img src="/images/PE OE Orienteering at Sports Hub 5.png" alt="PE OE Orienteering at Sports Hub 5.png" style="width:50%"/><img src="/images/PE OE Orienteering at Sports Hub 7.png" alt="PE OE Orienteering at Sports Hub 7.png" style="width:50%"/></div>
 </div>
 <div><img src="/images/PE OE Orienteering at Sports Hub 6.png" alt="PE OE Orienteering at Sports Hub 6.png" /></div>
 <div>
-<div><img src="/images/PE OE Orienteering at Sports Hub 8.png" alt="PE OE Orienteering at Sports Hub 8.png" /></div>
+<div><img src="/images/PE OE Orienteering at Sports Hub 8.png" alt="PE OE Orienteering at Sports Hub 8.png" style="width:25%"/></div>
 </div>
 <div>
 <h2>SEC 1 - VIA AND LIT AT FOOD CENTRES</h2>
 </div>
-<div><img src="/images/VIA &amp; LIT at food centres 1.png" alt="VIA &amp; LIT at food centres 1.png" /><img src="/images/VIA &amp; LIT at food centres 2.png" alt="VIA &amp; LIT at food centres 2.png" /></div>
-<div><img src="/images/VIA &amp; LIT at food centres 3.png" alt="VIA &amp; LIT at food centres 3.png" /></div>
+<div><img src="/images/VIA &amp; LIT at food centres 1.png" alt="VIA &amp; LIT at food centres 1.png" style="width:25%"/><img src="/images/VIA &amp; LIT at food centres 2.png" alt="VIA &amp; LIT at food centres 2.png" style="width:25%"/></div>
+<div><img src="/images/VIA &amp; LIT at food centres 3.png" alt="VIA &amp; LIT at food centres 3.png" style="width:25%"/></div>
 <div><img src="h/images/VIA &amp; LIT at food centres 4.png" alt="VIA &amp; LIT at food centres 4.png" /></div>
 <div><img src="h/images/VIA &amp; LIT at food centres 5.png" alt="VIA &amp; LIT at food centres 5.png" /></div>
 <div><img src="/images/VIA &amp; LIT at food centres 7.png" alt="VIA &amp; LIT at food centres 7.png" /></div>
