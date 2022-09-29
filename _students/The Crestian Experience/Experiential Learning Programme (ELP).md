@@ -61,8 +61,8 @@ third_nav_title: The Crestian Experience
 <h2>SEC 3 - CHEMISTRY WORKSHOP AT PRCS SCIENCE LABS</h2>
 </div>
 <div><img src="/images/Chemistry Workshop 1.png" alt="Chemistry Workshop 1.png" /></div>
-<div><img src="/images/Chemistry Workshop 2.png" alt="Chemistry Workshop 2.png" /><img src="/images/Chemistry Workshop 3.png alt=" /></div>
-<div><img src="/images/Chemistry Workshop 4.png alt=" /></div>
+<div><img src="/images/Chemistry Workshop 2.png" alt="Chemistry Workshop 2.png" /><img src="/images/Chemistry Workshop 3.png" alt="/images/Chemistry Workshop 3.png"/></div>
+<div><img src="/images/Chemistry Workshop 4.png" alt="Chemistry Workshop 4.png" /></div>
 <div><br /><img src="/images/Chemistry Workshop 5.png" alt="Chemistry Workshop 5.png" /><img src="/images/Chemistry Workshop 6.png" alt="Chemistry Workshop 6.png" /></div>
 <div><img src="/images/Chemistry Workshop 7.png" alt="Chemistry Workshop 7.png" /><img src="/images/Chemistry Workshop 8.png" alt="Chemistry Workshop 8.png" /></div>
 <div>
