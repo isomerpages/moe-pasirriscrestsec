@@ -3,47 +3,143 @@ title: Guidance and Counselling Support
 permalink: /guidance-and-counselling-support/
 description: ""
 ---
-Guidance and Counselling Support
-================================
-
-  
-
----
-
-Located at Level 2 of Block D, Crest Haven provides a safe place for students to air their feelings and open up to a trusted adult.  Our officers at Crest Haven are equipped to assist students on issues which may affect their social and emotional well-being and progress in learning.  These include relationship issues, transitional issues, dealing with loss and grief, and learning needs.  These efforts are also complemented by the weekly Crest lessons, which provides social skills training to strengthen the socio-emotional competencies of the students.  
-
-  
-
-Students who visit Crest Haven either do so themselves or are referred by their Home Tutors, parents, friends, or other organisations. Students can make their own appointments to see the School Counsellor (SC) or the Learning & Behavioural Specialist (LBS). Appointment slips are attached to the letter box placed near the window to Crest Haven.
-
-  
-
-The SC and LBS could also be contacted at 65811655 ext. 158 or email:  
-
-*   Ms. Suzanah Ohorella Yusope (SC): suzanah_ohorella_yusope@schools.gov.sg
-*   Ms. Lynette Ong (LBS): ong_jun_yi_lynette@schools.gov.sg
-
-<u>**HELPLINES**</u>
-| Name                                                                                                                                         |                               Contact Details                               |
-|----------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------:|
-| Samaritans of Singapore (SOS)  Provides confidential emotional support for those in crisis, having suicidal thoughts or affected by suicide. |                            1800-221-4444 (24hrs)                            |
-| Touchline  Renders emotional support and practical advice to youth.                                                                          |                        1800-377-2252 Mon-Fri: 9am-6pm                       |
-| National Addictions Management Service (NAMS)  Provides a range of services to assist people who are dealing with addiction problems.        |                         67326837 Mon-Fri: 8:30-6pm                          |
-| Pasir Ris Family Service Centre  Blk 256 Pasir Ris St 21, #01-289, S510256 Email: prfsc@goodnews.org.sg                                      | 65812159 Mon, Wed & Fri: 9am-6pm Tue & Thu: 9am-9pm (Lunch Hour: 12:30-1pm) |
-| Tampines Family Service Centre  Blk 470 Tampines St 44, #01-194, S520470 Email: tfsc@mvs.sg                                                  |            67872001 Mon & Tue: 9am-6pm / 7-9pm Wed-Fri: 9am-6pm             |
-| Moral Family Service Centre (Bedok North)  Blk 534 Bedok North St 3, #01-814, S460534                                                        |                                  64491440                                   |
-| As Salaam YWMA Family Support Centre (For single parents)  Blk 322 Ubi Ave 1, #01-591, S400322 Email: azita@ppis.sg                          |                                  674558621                                  |
-| HELP Family Service Centre (For single parents)  Blk 570 Ang Mo Kio Ave 3, #01-3317, S560570 Email: ed@helpfsc.org.sg                        |                                  64575188                                   |
-| SOS Befriending: pat@samaritans.org.sg                                                                                                       |                                                                             |
-| Info websites for teens: https://www.teencentral.gov.sg                                                                                      |                                                                             |
-
-<u>**Suggested Assessment Venues**</u>
-| Name                                                                                                                                                                                                                                                                        | Contact Details |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------:|
-| Child Guidance Clinic (CGC) - Neuro Behavioural Clinic  Assessment for ADHD, Autism                                                                                                                                                                                         |    63892200     |
-| Student Care Services (SCS) - Hougang Centre  Assessment for Learning & Behavioural difficulties such as cognitive assessment, ADHA, Austism, Dyslexia, etc.                                                                                                                |    62869905     |
-| James Cook University - Psychological Clinic  Assessment for Learning & Behavioural difficulties such as, ADHA, Austism, Dyslexia, etc and IQ test.                                                                                                                         |   67093762      |
-| NIE Wellness Centre at National Institute of Education  Assessment for Learning & Behavioural difficulties such as, ADHA, Austism, Dyslexia, etc and IQ test.                                                                                                               |    67903318     |
-| Dyslexia Association of Singapore (DSA)  Assessment for Learning & Behavioural difficulties such as, Dyslexia, ADHA, Dyspraxia, Dysgraphia & Dyscalculia, Asperger's Syndrome, Austism, Global Development Delay, Auditory & Sensory, Speech & Language, Non-Verbal issues. |   64445700      |
-| Austism Resource Centre (ARC)  Assessment for Autism, Asperger's Syndrome                                                                                                                                                                                                   |     63233268    |
-|                                                                                                                                                                                                                                                                             |                 |
+<h1>Guidance and Counselling Support</h1>
+<div>
+<div>
+<div>Located at Level 2 of Block D, Crest Haven provides a safe place for students to air their feelings and open up to a trusted adult. Our officers at Crest Haven are equipped to assist students on issues which may affect their social and emotional well-being and progress in learning. These include relationship issues, transitional issues, dealing with loss and grief, and learning needs. These efforts are also complemented by the weekly Crest lessons, which provides social skills training to strengthen the socio-emotional competencies of the students.</div>
+</div>
+<div>Students who visit Crest Haven either do so themselves or are referred by their Home Tutors, parents, friends, or other organisations. Students can make their own appointments to see the School Counsellor (SC) or the Learning &amp; Behavioural Specialist (LBS). Appointment slips are attached to the letter box placed near the window to Crest Haven.</div>
+<div>The SC and LBS could also be contacted at 65811655 ext. 158 or email:</div>
+<div>
+<div>
+<ul>
+<li>Ms. Suzanah Ohorella Yusope (SC): suzanah_ohorella_yusope@schools.gov.sg</li>
+<li>Ms. Lynette Ong (LBS): ong_jun_yi_lynette@schools.gov.sg</li>
+</ul>
+</div>
+</div>
+<div>&nbsp;</div>
+<div><strong><u>HELPLINES</u></strong></div>
+<div>
+<table>
+<tbody>
+<tr>
+<th>Name</th>
+<th>Contact Details</th>
+</tr>
+<tr>
+<td>
+<div><strong>Samaritans of Singapore (SOS)</strong></div>
+<div>Provides confidential emotional support for those in crisis, having suicidal thoughts or affected by suicide.</div>
+</td>
+<td>1800-221-4444<br />(24hrs)</td>
+</tr>
+<tr>
+<td><strong>Touchline</strong><br />
+<div>Renders emotional support and practical advice to youth.</div>
+</td>
+<td>1800-377-2252<br />Mon-Fri: 9am-6pm</td>
+</tr>
+<tr>
+<td><strong>National Addictions Management Service (NAMS)</strong><br />
+<div>Provides a range of services to assist people who are dealing with addiction problems.&nbsp;</div>
+</td>
+<td>67326837<br />Mon-Fri: 8:30-6pm<br />&nbsp;</td>
+</tr>
+<tr>
+<td><strong>Pasir Ris Family Service Centre</strong><br />
+<div>Blk 256 Pasir Ris St 21, #01-289, S510256</div>
+<div>Email: prfsc@goodnews.org.sg</div>
+</td>
+<td>65812159<br />Mon, Wed &amp; Fri: 9am-6pm<br />Tue &amp; Thu: 9am-9pm<br />(Lunch Hour: 12:30-1pm)</td>
+</tr>
+<tr>
+<td><strong>Tampines Family Service Centre</strong><br />
+<div>Blk 470 Tampines St 44, #01-194, S520470</div>
+<div>Email: tfsc@mvs.sg&nbsp;</div>
+</td>
+<td>67872001<br />Mon &amp; Tue: 9am-6pm / 7-9pm<br />Wed-Fri: 9am-6pm&nbsp;</td>
+</tr>
+<tr>
+<td><strong>Moral Family Service Centre (Bedok North)</strong><br />
+<div>Blk 534 Bedok North St 3, #01-814, S460534</div>
+</td>
+<td>
+<div>64491440</div>
+&nbsp;</td>
+</tr>
+<tr>
+<td><strong>As Salaam YWMA Family Support Centre (For single parents)</strong><br />
+<div>Blk 322 Ubi Ave 1, #01-591, S400322</div>
+<div>Email: azita@ppis.sg</div>
+</td>
+<td>&nbsp;674558621<br /><br /><br /></td>
+</tr>
+<tr>
+<td><strong>HELP Family Service Centre (For single parents)</strong><br />
+<div>Blk 570 Ang Mo Kio Ave 3, #01-3317, S560570</div>
+<div>Email: ed@helpfsc.org.sg</div>
+</td>
+<td>64575188<br /><br /><br /></td>
+</tr>
+<tr>
+<td colspan="2"><strong>SOS Befriending:</strong>&nbsp;pat@samaritans.org.sg</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Info websites for teens:</strong>&nbsp;https://www.teencentral.gov.sg</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div>&nbsp;</div>
+<div><u><strong>Suggested Assessment Venues</strong></u></div>
+<div>
+<table>
+<tbody>
+<tr>
+<th>Name</th>
+<th>Contact Details</th>
+</tr>
+<tr>
+<td>
+<div><strong>Child Guidance Clinic (CGC) - Neuro Behavioural Clinic</strong></div>
+<div>Assessment for ADHD, Autism</div>
+</td>
+<td>63892200<br /><br /></td>
+</tr>
+<tr>
+<td><strong>Student Care Services (SCS) - Hougang Centre</strong><br />
+<div>Assessment for Learning &amp; Behavioural difficulties such as cognitive assessment, ADHA, Austism, Dyslexia, etc.</div>
+</td>
+<td>62869905<br /><br /><br /></td>
+</tr>
+<tr>
+<td><strong>James Cook University - Psychological Clinic</strong><br />
+<div>Assessment for Learning &amp; Behavioural difficulties such as, ADHA, Austism, Dyslexia, etc and IQ test.</div>
+</td>
+<td>67093762<br /><br />&nbsp;</td>
+</tr>
+<tr>
+<td><strong>NIE Wellness Centre at National Institute of Education</strong><br />
+<div>Assessment for Learning &amp; Behavioural difficulties such as, ADHA, Austism, Dyslexia, etc and IQ test.</div>
+</td>
+<td>67903318<br /><br /><br /></td>
+</tr>
+<tr>
+<td><strong>Dyslexia Association of Singapore (DSA)</strong><br />
+<div>Assessment for Learning &amp; Behavioural difficulties such as, Dyslexia, ADHA, Dyspraxia, Dysgraphia &amp; Dyscalculia, Asperger's Syndrome, Austism, Global Development Delay, Auditory &amp; Sensory, Speech &amp; Language, Non-Verbal issues.</div>
+</td>
+<td>64445700<br /><br /><br /><br /><br /></td>
+</tr>
+<tr>
+<td><strong>Austism Resource Centre (ARC)</strong><br />
+<div>Assessment for Autism, Asperger's Syndrome</div>
+</td>
+<td>
+<div>63233268</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
