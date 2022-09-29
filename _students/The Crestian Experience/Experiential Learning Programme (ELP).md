@@ -4,7 +4,8 @@ permalink: /students/ExperientialLearningProgramme/
 description: ""
 third_nav_title: The Crestian Experience
 ---
-<img style="width:50%">
+
+	
 <h1>Experiential Learning Programme (ELP)</h1>
 <div><br /><strong><u>Overview<br /></u></strong><br />
 <div>As students, we do remember those &ldquo;ah ha&rdquo; moments when learning becomes real as we connect the experiences to what we have learnt in class.</div>
