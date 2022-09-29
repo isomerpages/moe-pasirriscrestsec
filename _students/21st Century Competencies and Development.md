@@ -20,8 +20,8 @@ In our efforts to be a school for the 21st century, the school identified 5 Desi
 *   Self-Disciplined and Responsible Leader
 *   Active and Concerned Citizen with Global Awareness
 
- 
-![The Crestian Overcomers](/images/21cc_development.jpeg)
+
+<img src="/images/21cc_development.jpeg" alt="21cc_development" >
   
 
 To these ends, the school leadership sets the direction for all staff in charting the flagship programmes experienced by Crestians and empowers both the Key Personnel and teachers in consolidating, reviewing and revamping these programmes to ensure the delivery of a uniquely Crestian experience for all students. Building on their mastery of the subjects, the staff customised curricular programmes such as the English Language Department Applied Learning Programme, the <a href="https://prcss.moe.edu.sg/qql/slot/u200/pdf/21cc_development/star_challenge.pdf">Shooting Star Challenge</a> by Science, the <a href="https://prcss.moe.edu.sg/qql/slot/u200/pdf/21cc_development/math_trail.pdf">Math Trail<a/>, the Humanities Map Challenge and the <a href="https://prcss.moe.edu.sg/qql/slot/u200/pdf/21cc_development/inter_disciplinary_programme.pdf">Inter-disciplinary Programme on Environment Conversation</a>
