@@ -77,12 +77,12 @@ third_nav_title: The Crestian Experience
 </div>
 <div>
 	
-<img src="/images/Racial Harmony 1.png" alt="Racial Harmony 1.png"/>
-<img src="/images/Racial Harmony 2.png" alt="Racial Harmony 2.png" />
+<img src="/images/Racial Harmony  1.png" alt="Racial Harmony 1.png"/>
+<img src="/images/Racial Harmony  2.png" alt="Racial Harmony 2.png" />
 	</div>
-<div><br /><img src="/images/Racial Harmony 4.png" alt="Racial Harmony 4.png" /><img src="/images/Racial Harmony 5.png" alt="Racial Harmony 5.png" /></div>
-<div><img src="/images/Racial Harmony 6.png alt=" /><img src="/images/Racial Harmony 7.png" alt="Racial Harmony 7.png" /></div>
-<div><img src="/images/Racial Harmony 3.png" alt="Racial Harmony 3.png" /></div>
+<div><br /><img src="/images/Racial Harmony  4.png" alt="Racial Harmony 4.png" /><img src="/images/Racial Harmony  5.png" alt="Racial Harmony  5.png" /></div>
+<div><img src="/images/Racial Harmony 6.png" alt="/images/Racial Harmony 6.png"/><img src="/images/Racial Harmony  7.png" alt="Racial Harmony 7.png" /></div>
+<div><img src="/images/Racial Harmony  3.png" alt="Racial Harmony 3.png" /></div>
 <div><br /><br /></div>
 <div>SEC 4NA - ALP PHOTO JOURNALISM</div>
 <div><img src="/images/Aesthetics Enthic Drums 4.png" alt="Aesthetics Enthic Drums 4.png" /></div>
