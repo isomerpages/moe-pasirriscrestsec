@@ -75,7 +75,11 @@ third_nav_title: The Crestian Experience
 <div>
 <h2>SEC 3 /4NT - RACIAL HARMONY TRAIL AT RELIGIOUS CENTRES</h2>
 </div>
-<div><img src="/images/Racial Harmony 1.png" alt="Racial Harmony 1.png" /><img src="/images/Racial Harmony 2.png" alt="Racial Harmony 2.png" /></div>
+<div>
+	
+<img src="/images/Racial Harmony 1.png" alt="Racial Harmony 1.png"/>
+<img src="/images/Racial Harmony 2.png" alt="Racial Harmony 2.png" />
+	</div>
 <div><br /><img src="/images/Racial Harmony 4.png" alt="Racial Harmony 4.png" /><img src="/images/Racial Harmony 5.png" alt="Racial Harmony 5.png" /></div>
 <div><img src="/images/Racial Harmony 6.png alt=" /><img src="/images/Racial Harmony 7.png" alt="Racial Harmony 7.png" /></div>
 <div><img src="/images/Racial Harmony 3.png" alt="Racial Harmony 3.png" /></div>
