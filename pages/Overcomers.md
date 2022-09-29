@@ -28,7 +28,7 @@ Eventually, Sree was nominated to serve as Vice-President of the MCC from 2018 t
 “As cliché as it sounds – no matter where life takes you, you must always rise above your feelings of self-doubt,” Sree laughs.  “Remember that your mistakes are your biggest professors.”
 
 “Do not beat yourselves up over what goes wrong and always have the mindset of being forward-looking in becoming a better version of yourself every day.”</div>
-
+</li>
 <li>
 
 <input type="checkbox" id="accordion2">
@@ -58,7 +58,7 @@ Despite the numerous accolades he has received, Yan Liang does not think he is a
 “I would have never dreamt of getting to where I am today without the support of my PRCS teachers and peers.”
 
 Yan Liang remains ambivalent about his plans for the future, though he is certain about his love for the Humanities and is currently studying in the Arts course at Nanyang Junior College.  Since entering junior college in 2019, he is struck by the stiff competition among peers, yet he remains undeterred and wants to prove that a Normal Academic student can achieve great things!</div>
-
+</li>
 <li>
 
 <input type="checkbox" id="accordion3">
@@ -73,20 +73,24 @@ Yan Liang remains ambivalent about his plans for the future, though he is certai
 
 <label for="accordion4">MUHAMMAD AIMAN MUSTAFA</label>
 
-<div>text</div>
-
+<img src="/images/Muhammad-Aiman-Mustafa.jpeg" alt="Muhammad-Aiman-Mustafa.jpeg">
+</li>
 <li>
 
 <input type="checkbox" id="accordion5">
 
 <label for="accordion5">CHARMAINE OR</label>
 
-<div>text</div>
-
+<img src="/images/Charmaine-Or.jpeg" alt="Charmaine-Or.jpeg">
+</li>
 <li>
 
 <input type="checkbox" id="accordion6">
 
 <label for="accordion6">ANGELA WONG</label>
 
-<div>text</div>
+<img src="/images/Angela-Wong.jpeg" alt="Angela-Wong.jpeg">
+	
+	</li>
+	</ul>
+	
