@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Pasir Ris Crest Secondary School
+description: Pasir Ris Crest Secondary School
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
@@ -25,3 +25,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+
