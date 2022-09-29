@@ -58,7 +58,7 @@ description: ""
 <li><strong>MOE FAS Pamphlet 2021</strong></li>
 </ul>
 </div>
-<blockquote><a href="MOE FAS Pamphlet 2022.pdf" target="_blank" rel="noopener">MOE FAS Pamphlet 2022<br /><br /></a></blockquote>
+<blockquote><a href="/MOE FAS Pamphlet 2022.pdf" target="_blank" rel="noopener">MOE FAS Pamphlet 2022<br /><br /></a></blockquote>
 <ul>
 <li><strong>MOE FAS Application Form 2022</strong></li>
 </ul>
