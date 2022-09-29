@@ -22,10 +22,10 @@ third_nav_title: The Crestian Experience
 <div>A key component of the LLP is the music programme, which is delivered as level programmes for Secondary 1, 2 and 3. It consists of 3 main parts:</div>
 <div><strong>Part 1: Learning of Music for Growth (Lower Secondary)</strong></div>
 <div>All Crestians will be taught 3 musical instruments; Keyboard and Guitar/Ukulele (individual musical instrument) at Secondary One and Xylophone (ensemble performance) at Secondary Two. The learning of each musical instrument spans across a semester and comprises at least 15 hours of music lessons taught by our own Music Teachers.</div>
-<div><img alt="LLP-Pic1.JPG" src="/images/LLP-Pic1.JPG"><br>
+<div><img src="LLP-Pic1.JPG" alt="/images/LLP-Pic1.JPG"><br>
 <div>Watch the&nbsp;<a rel="noopener" target="_blank" href="http://gg.gg/prcss-llp">video</a>&nbsp;to see an example of a Secondary One xylophone ensemble performance.</div>
 </div>
-<div><img alt="LLP-Pic2.JPG" src="https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/LLP-Pic2.JPG"></div>
+<div><img src="/images/LLP-Pic2.JPG" alt="LLP-Pic2.JPG"></div>
 <div>Crestians will also spend a semester to learn music arrangement through ICT tools such as Garage Band. Selected enrichment programmes such as percussion workshops and attending external musical performances will also be organised to expose Crestians to different musical experiences.</div>
 <div><img width="100%" alt="LLP-Pic3.JPG" src="h/images/LLP-Pic3.JPG"></div>
 <div><img alt="LLP-Pic4.JPG" src="/images/LLP-Pic4.JPG"></div>
@@ -55,5 +55,5 @@ third_nav_title: The Crestian Experience
 <div><img alt="LLP-Pic9.JPG" src="/images/LLP-Pic9.JPG"></div>
 <div><strong>Performing Arts CCAs</strong></div>
 <div>The school’s Performing Arts CCAs include the Symphonic Band, Chinese Instrumental Orchestra, Choir, Guzheng, Drama and Modern Dance which enable students with musical talents/ interest to pursue their talents/ interests and further develop their musical abilities. Specialised training will be provided for the various Performing Arts CCAs. Opportunities are also provided for students to participate in competitions or public performances. More information about the various Performing Arts CCA activities can be found on their respective CCA webpages.</div>
-<div><img width="100%" alt="LLP-Pic10.JPG" src="/images/LLP-Pic10.JPG"></div>
+<div><img width="100%" alt="LLP-Pic10.JPG" src="/images/LLP-Pic10.jpg"></div>
 </div>
