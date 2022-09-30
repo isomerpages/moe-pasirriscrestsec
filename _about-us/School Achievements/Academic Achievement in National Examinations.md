@@ -14,7 +14,6 @@ third_nav_title: School Achievements
 		<label for="accordion1">2021</label>
 		<div>
 			</div>
-<p><br>Click <a href="https://forms.gle/oAR4PVwzLxUbWR7QA">here</a> for reporting form.</p>
 </li>
 	
 <li>
@@ -23,7 +22,7 @@ third_nav_title: School Achievements
 			<div>
 			
 				</div>
-<p><br>Click <a href=" https://forms.gle/3NUxL5Yv4UsbXTeG7">here</a> for reporting form.</p>
+
 </li>
 	
 <li>
