@@ -13,14 +13,14 @@ third_nav_title: Performing Arts
 </ul>
 <p>o Certificate of Distinction (2015, 2019)</p>
 <p>o Certification of Accomplishment (2017, 2021)</p>
-<p><em>SYF 2021 Video</em></p>
+<p><em>SYF 2021 Video to be uploaded to Youtube</em></p>
 <ul>
 <li>Junior Band in Concert held annually</li>
 <li>Performance during school&rsquo;s annual Speech Day</li>
 <li>Virtual Performances (2020, 2021)</li>
 </ul>
-<p><em>2020 Video</em></p>
-<p><em>2021 Video</em></p>
+<p><em>2020 Video to be uploaded to Youtube</em></p>
+<p><em>2021 Video to be uploaded to Youtube</em></p>
 <p><strong>CCA Training</strong></p>
 <p>Students will gain opportunities to</p>
 <ul>
