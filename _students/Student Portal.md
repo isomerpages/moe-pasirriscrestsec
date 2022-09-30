@@ -13,31 +13,20 @@ description: ""
 	
 <b><u>School Operating Hours</u></b> 
 <br>
+<p>During school operating hours, students should contact the <b><u>School-based Helpline</u></b> for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.</p><br><br>
 
-<p>During school operating hours, students should contact the <b><u>School-based Helpline</u></b> for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.</p><br>
-
-
-<p><b>School-based Helpline: 6581 1655 (ext. 104 or 105) <br>
-
-Mondays - Fridays: 8:00 am - 4:00 pm </b></p><br>
-
+<p><b>School-based Helpline: 6581 1655 (ext. 104 or 105) <br><br>
+Mondays - Fridays: 8:00 am - 4:00 pm </b></p><br><br>
 For other matters, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
 
-<u><b>Non-School Operating Hours</b></u><br>
+<u><b>Non-School Operating Hours</b></u><br><br>
+Students can only contact the <u><b>SLS Helpdesk</b></u> outside the school operating hours.<br><br>
 
-Students can only contact the <u><b>SLS Helpdesk</b></u> outside the school operating hours.<br>
-
-SLS Helpdesk: 6702 6513<br>
-
-Mondays - Fridays: 4:00 pm - 9:00 pm<br>
-
-Saturdays: 9:00 am -&nbsp;9:00 pm<br>
-
-<sub>*Closed on Sundays &amp; Public Holidays</sub><br>
-
-  
-
-Alternatively, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
+SLS Helpdesk: 6702 6513<br><br>
+Mondays - Fridays: 4:00 pm - 9:00 pm<br><br>
+Saturdays: 9:00 am -&nbsp;9:00 pm<br><br>
+<sub>*Closed on Sundays &amp; Public Holidays</sub><br><br>
+Alternatively, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.<br>
 	</div>
 </li><li>
 		<input id="accordion2" type="checkbox">
