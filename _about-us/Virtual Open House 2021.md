@@ -125,13 +125,8 @@ description: ""
 </div>
 
 </li><li>
-			<input id="accordion4" type="checkbox">
-			<label for="accordion4">APPLIED LEARNING PROGRAMME (ALP): EFFECTIVE COMMUNICATORS WHO IMPACT WITH THE HEART AND MIND</label>
-<div></div>
-
-</li><li>
-<input id="accordion5" type="checkbox">
-<label for="accordion5">DISTINCTIVE SPORT - FENCING</label>
+<input id="accordion4" type="checkbox">
+<label for="accordion4">DISTINCTIVE SPORT - FENCING</label>
 <div>One distinctive PRCS experience for the students would be the co-curricular activity, Fencing. PRCS Fencing Club was established as early as 2001 with 20 members. Our fencers have been a force to be reckoned with at national and international competitions. Some of our school fencers have gone on to join Singapore’s National Fencing Team.</div>
 <div><img width="100%" alt="Fencing1.png" src="/images/Fencing1.png"></div>
 <div>The Club aims to&nbsp;<strong>nurture respectful</strong>,&nbsp;<strong>responsible</strong>&nbsp;and&nbsp;<strong>disciplined</strong>&nbsp;young men and women. Supported by a team of dedicated coaches, the training regime at PRCS Fencing Club goes beyond the blade to help our fencers discover what they are gifted at. While the development of skills, agility and coordination are important, PRCS Fencing Club also firmly believes&nbsp;<strong>character building</strong>&nbsp;will help realize the full potential of all PRCS fencers.</div>
@@ -141,8 +136,8 @@ description: ""
 <div>2)&nbsp;<a rel="noopener" target="_blank" href="http://gg.gg/prcss-sabre">Video 2</a></div>
 	
 </li><li>
-<input id="accordion6" type="checkbox">
-<label for="accordion6">OUR STAKEHOLDERS</label>
+<input id="accordion5" type="checkbox">
+<label for="accordion5">OUR STAKEHOLDERS</label>
 <div>
 	<div><strong>What our parents say:</strong></div>
 <div>1) Ms.&nbsp;<a href="http://gg.gg/prcss-video1" target="_blank" rel="noopener">Prithiba Sri Sekar</a>&nbsp;on discipline and character development</div>
