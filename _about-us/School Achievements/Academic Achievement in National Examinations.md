@@ -13,6 +13,9 @@ third_nav_title: School Achievements
 		<input type="checkbox" id="accordion1">
 		<label for="accordion1">2021</label>
 		<div>
+			<img src="/images/2021 O  N Achievements.png" alt="2021 O  N Achievements">
+			<img src="/images/2021 N level 100 pass.png" alt="2021 N level 100 pass">
+			<img src="/images/2021 O level 100 pass.png" alt="2021 O level 100 pass">
 			</div>
 </li>
 	
