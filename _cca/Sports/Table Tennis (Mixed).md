@@ -4,43 +4,52 @@ permalink: /cca/Sports/TableTennisMixed/
 description: ""
 third_nav_title: Sports
 ---
-<h1>Table-Tennis (Mixed)</h1>
+<h1>Volleyball (Boys)</h1>
 <table>
 <tbody>
 <tr>
-<td><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-<p><strong><u>Table Tennis Photo Album</u></strong></p>
-<p>5</p>
-<p>Table Tennis 2017</p>
+<td><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<p><strong><u>Volleyball Photo Album</u></strong></p>
+<p>6</p>
+<p>Volleyball</p>
 </td>
 <td>
 <p><strong>Brief Description of CCA</strong></p>
-<p>● Table-tennis training for beginners as well as accomplished players.</p>
-<p>● Objective of this CCA is to inculcate school values as well as the values of discipline and confidence in the players.</p>
-<p>● Aim to equip students with the necessary skills to play, umpire and appreciate the game of table tennis.</p>
-<p>● Selected players will compete in the East Zone Table Tennis Competition.</p>
+<p>The School Volleyball Team constantly strives to develop its members holistically through values-driven processes, focusing on the physical, mental, social and character development of its boys. The Team aims to develop resilient and confident sportsmen through rigorous physical training sessions and skills. Members refine their skills through planned exposure to the sport through competitions, friendly matches and training camps.</p>
 <p><strong>Achievements of CCA</strong></p>
-<p>Performed creditably well in the East Zone Table-tennis Championship. Both the Boys &amp; Girls Teams did very well in the "Three Schools Invitational Meet" that was held in June 2019.</p>
+<p>The B Division boys participated in the National Inter-school East Zone Volleyball Championship 2021 to develop a better and more grounded understanding of the sport.</p>
 <p><strong>CCA Training and Highlights</strong></p>
-<p>Our Table Tennis students are coached by experienced ex-national players.</p>
-<p><strong>Expectations of CCA&nbsp;</strong></p>
-<p>No prior knowledge is required. However experienced players are most welcome to join the team.</p>
+<p>Development of members is done via</p>
+<ul>
+<li>participation in the National East Zone Volleyball Championship</li>
+<li>intensive volleyball training during the June and December holidays</li>
+<li>friendly matches</li>
+<li>Steady support of our alumni members to spar with our players</li>
+</ul>
+<p>Interesting activities include</p>
+<ul>
+<li>Volleyball Camps</li>
+</ul>
+<p><strong>Why Volleyball?</strong></p>
+<p>We constantly strive for improvement and excellence by nurturing our boys to be all-rounded, always willing to rise to challenges and seeking to outdo themselves in all aspects of their development.</p>
+<p><strong>Expectations of CCA</strong></p>
+<p>If you are a male student who has a passion for and an interest in volleyball, we would like to invite you to join us. Experience will be an advantage but those who are new to the sport may also come on board. Your commitment and hard work will be valued. Join the PRCS Volleyball Team for an exciting and rewarding time!</p>
 <table>
 <tbody>
 <tr>
 <th colspan="5">Teachers IC</th>
 </tr>
 <tr>
-<td colspan="5">Mr. Yah Chin Keong (IC)</td>
+<td colspan="5">Ms. Joyce Quah (IC)</td>
 </tr>
 <tr>
-<td colspan="5">Ms. Koh Yi Ming (IC)</td>
+<td colspan="5">Ms. Rina Bai (IC)</td>
 </tr>
 <tr>
-<td colspan="5">Mr. Mok Yee Tzek</td>
+<td colspan="5">Mr. Jonathan Peh</td>
 </tr>
 <tr>
-<td colspan="5">Ms. Felicia Ong Lay Choo</td>
+<td colspan="5">Mr. George Teo</td>
 </tr>
 </tbody>
 </table>
