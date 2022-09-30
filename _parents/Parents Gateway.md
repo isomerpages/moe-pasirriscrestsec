@@ -9,9 +9,7 @@ description: ""
 <div>Open the Apple App Store or Google Play Store app on your mobile phone to download.</div>
 <div><em>Or</em>&nbsp;scan the QR code below.</div>
 <div><img alt="parents_qrcode.png" src="/images/parents_qrcode.png"></div>
-<div>
-<div></div>
-</div>
+<br><div><iframe width="560" height="315" src="https://www.youtube.com/embed/tW9jwyuovOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
 <div><em>Note: Supported OS Versions - Android 6.0 or later &amp; iOS 9.1 or later<br></em></div>
 <div>
 <div><strong>SingPass Registration and 2FA Setup</strong></div>
