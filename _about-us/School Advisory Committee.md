@@ -3,16 +3,48 @@ title: School Advisory Committee
 permalink: /about-us/SchoolAdvisoryCommittee/
 description: ""
 ---
-School Advisory Committee
-=========================
-
-<table width="100%" class="ive_eobj_center iveo_table ives_tab_dark" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(42, 42, 42); border-spacing: 1px; border-collapse: collapse; text-align: justify; width: 731.117px; height: 240px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="250px" style="margin: 0px; outline: 0px; padding: 5px; text-align: justify; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(68, 68, 68); width: 260px;"><font color="#000000" style="margin: 0px; outline: 0px; padding: 0px;">Mr. Law Heng Dean</font></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: justify; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(68, 68, 68); width: 478px;"><font color="#000000" style="margin: 0px; outline: 0px; padding: 0px;">Chairman<br style="margin: 0px; outline: 0px; padding: 0px;"></font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="250px" style="margin: 0px; outline: 0px; padding: 5px; text-align: justify; border: 1px solid rgb(42, 42, 42); background: rgb(244, 245, 252); color: rgb(68, 68, 68);"><font color="#000000" style="margin: 0px; outline: 0px; padding: 0px;">Ms. Agnes Eu</font></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: justify; border: 1px solid rgb(42, 42, 42); background: rgb(244, 245, 252); color: rgb(68, 68, 68);"><font color="#000000" style="margin: 0px; outline: 0px; padding: 0px;">Vice-Chairman</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: justify; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(68, 68, 68);"><font color="#000000" style="margin: 0px; outline: 0px; padding: 0px;">Mrs. Koh Caiyu</font></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: justify; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(68, 68, 68);"><font color="#000000" style="margin: 0px; outline: 0px; padding: 0px;">Honorary Secretary (Principal)</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: justify; border: 1px solid rgb(42, 42, 42); background: rgb(244, 245, 252); color: rgb(68, 68, 68);"><font color="#000000" style="margin: 0px; outline: 0px; padding: 0px;">Ms. Kristine Chua</font></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: justify; border: 1px solid rgb(42, 42, 42); background: rgb(244, 245, 252); color: rgb(68, 68, 68);"><font color="#000000" style="margin: 0px; outline: 0px; padding: 0px;">Member</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: justify; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(68, 68, 68);"><font color="#000000" style="margin: 0px; outline: 0px; padding: 0px;">Mr. Christopher Yong</font></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: justify; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(68, 68, 68);"><font color="#000000" style="margin: 0px; outline: 0px; padding: 0px;">Member</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: justify; border: 1px solid rgb(42, 42, 42); background: rgb(244, 245, 252); color: rgb(68, 68, 68);"><font color="#000000" style="margin: 0px; outline: 0px; padding: 0px;">Mr. Koh Yat Chung</font></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: justify; border: 1px solid rgb(42, 42, 42); background: rgb(244, 245, 252); color: rgb(68, 68, 68);"><font color="#000000" style="margin: 0px; outline: 0px; padding: 0px;">Member</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: justify; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(68, 68, 68);"><font color="#000000" style="margin: 0px; outline: 0px; padding: 0px;">Mr. Mooi Kim Thiam&nbsp;</font></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; border: 1px solid rgb(42, 42, 42); background: rgb(255, 255, 255); color: rgb(68, 68, 68);"><font color="#000000" style="margin: 0px; outline: 0px; padding: 0px;">Member</font></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: justify; border: 1px solid rgb(42, 42, 42); background: rgb(244, 245, 252); color: rgb(68, 68, 68);"><font color="#000000" style="margin: 0px; outline: 0px; padding: 0px;">Mr. Alex Tan</font></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: justify; border: 1px solid rgb(42, 42, 42); background: rgb(244, 245, 252); color: rgb(68, 68, 68);"><font color="#000000" style="margin: 0px; outline: 0px; padding: 0px;">Member</font></td></tr></tbody></table>
-
-PRCSS SAC (2022)
-----------------
-
-![SAC.png](https://prcss.moe.edu.sg/qql/slot/u200/images/parents_support_group/SAC.png)  
-From Left:  
-School Principal Mrs Koh Caiyu, SAC Chairman Mr Law Heng Dean, SAC Member Mr Christopher Yong, SAC Member Mr Mooi Kim Thiam, SAC Member Mr Alex Tan, SAC Vice Chairman Ms Agnes Eu, SAC Member Ms Kristine Chua  
-  
-Absent: SAC Member Mr Koh Yat Chung.
+<div>
+<h1>School Advisory Committee</h1>
+<div>
+<table width="100%">
+<tbody>
+<tr>
+<td width="250px">Mr. Law Heng Dean</td>
+<td>Chairman<br></td>
+</tr>
+<tr>
+<td width="250px">Ms. Agnes Eu</td>
+<td>Vice-Chairman</td>
+</tr>
+<tr>
+<td>Mrs. Koh Caiyu</td>
+<td>Honorary Secretary (Principal)</td>
+</tr>
+<tr>
+<td>Ms. Kristine Chua</td>
+<td>Member</td>
+</tr>
+<tr>
+<td>Mr. Christopher Yong</td>
+<td>Member</td>
+</tr>
+<tr>
+<td>Mr. Koh Yat Chung</td>
+<td>Member</td>
+</tr>
+<tr>
+<td>Mr. Mooi Kim Thiam&nbsp;</td>
+<td>Member</td>
+</tr>
+<tr>
+<td>Mr. Alex Tan</td>
+<td>Member</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div>
+<h2>PRCSS SAC (2022)</h2>
+<div><img alt="SAC.png" src="https://prcss.moe.edu.sg/qql/slot/u200/images/parents_support_group/SAC.png"><br>From Left:<br>School Principal Mrs Koh Caiyu, SAC Chairman Mr Law Heng Dean, SAC Member Mr Christopher Yong, SAC Member Mr Mooi Kim Thiam, SAC Member Mr Alex Tan, SAC Vice Chairman Ms Agnes Eu, SAC Member Ms Kristine Chua<br><br>Absent: SAC Member Mr Koh Yat Chung.</div>
+</div>
