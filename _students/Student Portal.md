@@ -28,50 +28,44 @@ Saturdays: 9:00 am -&nbsp;9:00 pm<br><br>
 <sub>*Closed on Sundays &amp; Public Holidays</sub><br><br>
 Alternatively, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.<br>
 	</div>
-</li><li>
+</li>
+
+<li>
 		<input id="accordion2" type="checkbox">
 		<label for="accordion2">STUDENT LEARNING SPACE (SLS)</label>
+
 <div>
 
-The Singapore Student Learning Space is a platform that will support Teaching and Learning of our students. In particular, it will help empower them to drive their own learning according to their needs and interests.&nbsp;
+The Singapore Student Learning Space is a platform that will support Teaching and Learning of our students. In particular, it will help empower them to drive their own learning according to their needs and interests.<br><br>
+
+By spurring our students to take greater ownership of their learning and work collaboratively with their peers, the SLS aims to support them towards becoming responsible future-ready learners.<br><br>
+
+
+Click <a href="https://vle.learning.moe.edu.sg/login">here</a> to access the Student Learning Space (SLS) portal.<br><br>
 
   
 
-By spurring our students to take greater ownership of their learning and work collaboratively with their peers, the SLS aims to support them towards becoming responsible future-ready learners.
+For Sec 1 students, click <a href="/files/SLS%20Account%20Management%20-%20Guide%20for%20Sec%201%20Students.pdf">here</a> to access the Guide to SLS Account Management.<br><br>
 
   
 
-Click <a href="https://vle.learning.moe.edu.sg/login">here</a> to access the Student Learning Space (SLS) portal.  
+<b><u>What is SLS?</b></u><br>
+Click to <a href="https://www.youtube.com/watch?v=F0FTP2FveSg&amp;feature=youtu.be">watch the video.</a><br><br>
 
   
 
-For Sec 1 students, click <a href="https://prcss.moe.edu.sg/qql/slot/u200/pdf/SLS/SLS%20Account%20Management%20-%20Guide%20for%20Sec%201%20Students.pdf">here</a> to access the Guide to SLS Account Management.
+<b><u>INSTRUCTIONS FOR STUDENTS<br><br>
+SYSTEM REQUIREMENTS</b></u> 
 
-  
+The SLS is accessible through the internet browsers on either Windows PC, Mac, iPad or Android tablets (with screen size larger than 7 inches for good user experience).<br><br>
+<b>LOGIN</b><br><br>
+SLS can be accessed from <a href="https://learning.moe.edu.sg">https://learning.moe.edu.sg/.</a><br><br>
 
-**What is SLS?**
-
-Click to <a href="https://www.youtube.com/watch?v=F0FTP2FveSg&amp;feature=youtu.be">watch the video.</a>
-
-  
-
-**INSTRUCTIONS FOR STUDENTS**
-
-**SYSTEM REQUIREMENTS**&nbsp;  
-
-The SLS is accessible through the internet browsers on either Windows PC, Mac, iPad or Android tablets (with screen size larger than 7 inches for good user experience).
-
-  
-
-<b>LOGIN</b>
-
-SLS can be accessed from <a href="https://learning.moe.edu.sg">https://learning.moe.edu.sg/.</a>
-
-<img src="/images/SLS Login_1.png" alt="SLS Login_1.png">
+<img src="/images/SLS Login_1.png" alt="SLS Login_1.png"><br><br>
  
-<b>PASSWORD</b> 
+<b>PASSWORD</b><br><br>
 
-Passwords must have the following requirements:
+Passwords must have the following requirements:<br><br>
 
 *   8 characters or longer; and
 *   at least 1 letter and 1 number.
