@@ -2,6 +2,6 @@ collections:
   school-achievements:
     output: true
     order:
-      - CCA.md
-      - Crestians in the News.md
       - Academic Achievement in National Examinations.md
+      - Crestians in the News.md
+      - CCA.md
