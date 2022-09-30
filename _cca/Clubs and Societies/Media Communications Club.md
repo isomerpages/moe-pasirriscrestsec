@@ -5,21 +5,21 @@ description: ""
 third_nav_title: Clubs and Societies
 ---
 <h1>Media Communications Club</h1>
-<div><img alt="Main.jpg" src="https://prcss.moe.edu.sg/qql/slot/u200/pdf/CCA%20and%20NYAA/MCC/Main.jpg"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div><img alt="Main.jpg" src="/images/mccMain.jpg"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div><em>‘non ducor, duco’ - I am not led, I lead</em></div>
 <div>
 <div>Join us in our mission to motivate, convince, and communicate! Take the initiative to develop confidence, and broaden your intellectual horizons as sensitive communicators.</div>
 <div>Engage in a wide array of activities when you join MCC ‒ substantiate your arguments clearly in debates, source for fascinating material for our podcast show&nbsp;<strong><em>The Peak</em></strong>&nbsp;(<a rel="noopener" target="_blank" href="https://anchor.fm/thepeak">anchor.fm/the peak</a>), or capture the audience with Gavel Club speeches!</div>
 <div><strong>Training and Highlights</strong></div>
 <div>Access multiple opportunities to host important school events and celebrations and jumpstart your career to become budding emcees. Earn the Competent Communicator Certificate from Toastmasters International upon completion of 10 projects of Prepared Speeches, or learn strategies and argumentative mechanisms to clinch victory for the team in national tournaments.</div>
-<div><img width="100%" alt="MCC01.jpg" src="https://prcss.moe.edu.sg/qql/slot/u200/pdf/CCA%20and%20NYAA/MCC/MCC01.jpg"><br></div>
+<div><img width="100%" alt="MCC01.jpg" src="/images/MCC01.jpg"><br></div>
 </div>
 <div><em>2021 SSSDC Division III Champions</em></div>
-<div><img width="100%" alt="MCC02.jpg" src="https://prcss.moe.edu.sg/qql/slot/u200/pdf/CCA%20and%20NYAA/MCC/MCC02.jpg"></div>
+<div><img width="100%" alt="MCC02.jpg" src="/images/MCC02.jpg"></div>
 <div><em>Team Captain Stuart Quek presenting the Champions plaque to Mrs. Koh</em></div>
-<div><img width="100%" alt="MCC03.jpg" src="https://prcss.moe.edu.sg/qql/slot/u200/pdf/CCA%20and%20NYAA/MCC/MCC03.jpg"></div>
-<div><img width="100%" alt="MCC04.jpg" src="https://prcss.moe.edu.sg/qql/slot/u200/pdf/CCA%20and%20NYAA/MCC/MCC04.jpg"></div>
-<div><img width="100%" alt="MCC05.jpg" src="https://prcss.moe.edu.sg/qql/slot/u200/pdf/CCA%20and%20NYAA/MCC/MCC05.jpg"></div>
+<div><img width="100%" alt="MCC03.jpg" src="/images/MCC03.jpg"></div>
+<div><img width="100%" alt="MCC04.jpg" src="/images/MCC04.jpg"></div>
+<div><img width="100%" alt="MCC05.jpg" src="/images/MCC05.jpg"></div>
 <div><em>Collaboration with AVPA o produce a video podcast</em></div>
 <div><strong>Achievements</strong><br></div>
 <div>
