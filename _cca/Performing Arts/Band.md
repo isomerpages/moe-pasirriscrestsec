@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 ---
 <h1>Band</h1>
+<img src="/images/main.jpg" alt="main.jpg">
 <p><strong>Brief Description of CCA</strong></p>
 <p>The band, also known as Crestwinds, seeks to develop its members into confident musicians who enjoy making music together. Through the training, band members learn to play an instrument and hone their musical skills and knowledge. They also get to work in teams and exercise their leadership skills, becoming committed, disciplined and responsible individuals.&nbsp;</p>
 <p><strong>Highlights and Achievements of CCA</strong></p>
@@ -49,9 +50,9 @@ third_nav_title: Performing Arts
 </tr>
 </tbody>
 </table>
-<p>14</p>
-<p>Band 2021</p>
-<p>7</p>
-<p>Band 2018</p>
-<p>14</p>
-<p>Band 2017</p>
+
+<p>Google slideshow Band 2021</p>
+
+<p>Google slideshow Band 2018</p>
+
+<p>Google slideshow Band 2017</p>
