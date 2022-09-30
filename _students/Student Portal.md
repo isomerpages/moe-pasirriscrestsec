@@ -11,24 +11,21 @@ description: ""
 		<label for="accordion1">SLS SUPPORT</label>
 <div>
 	
-**School Operating Hours**  
-	<br>
+<b><u>School Operating Hours</u></b> 
+<br>
 
-During school operating hours, students should contact the **School-based Helpline** for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
+<p>During school operating hours, students should contact the <b><u>School-based Helpline</u></b> for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.</p>
 
-  
 
-**School-based Helpline: 6581 1655 (ext. 104 or 105)**  
+<p><b>School-based Helpline: 6581 1655 (ext. 104 or 105)  
 
-**Mondays - Fridays: 8:00 am - 4:00 pm**  
+Mondays - Fridays: 8:00 am - 4:00 pm </b></p>
 
 For other matters, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
 
-  
+<u><b>Non-School Operating Hours</b></u>
 
-**Non-School Operating Hours**  
-
-Students can only contact the **SLS Helpdesk** outside the school operating hours.
+Students can only contact the <u><b>SLS Helpdesk</b></u> outside the school operating hours.
 
 SLS Helpdesk: 6702 6513
 
@@ -36,7 +33,7 @@ Mondays - Fridays: 4:00 pm - 9:00 pm
 
 Saturdays: 9:00 am -&nbsp;9:00 pm
 
-_\*Closed on Sundays &amp; Public Holidays_
+<sub>*Closed on Sundays &amp; Public Holidays</sub>
 
   
 
