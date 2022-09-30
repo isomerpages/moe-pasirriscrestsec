@@ -10,7 +10,6 @@ third_nav_title: Sports
 <tr>
 <td><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <p><strong><u>Fencing Photo Album</u></strong></p>
-<p>6</p>
 <p>Fencing</p>
 </td>
 <td>
