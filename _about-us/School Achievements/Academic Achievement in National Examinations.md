@@ -23,7 +23,8 @@ third_nav_title: School Achievements
 			<input type="checkbox" id="accordion2">
 			<label for="accordion2">2020</label>
 			<div>
-			
+			<img src="/images/2020-O-N-Results.jpeg" alt="2020-O-N-Results">
+			<img src="/images/2020 O-Results.jpeg" alt="2020 O-Results">
 				</div>
 
 </li>
