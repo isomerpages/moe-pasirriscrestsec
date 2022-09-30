@@ -2,4 +2,5 @@ collections:
   school-achievements:
     output: true
     order:
+      - Crestians in the News.md
       - Academic Achievement in National Examinations.md
