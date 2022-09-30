@@ -50,11 +50,10 @@ description: ""
 <label for="accordion4">MOE FINANCIAL ASSISTANCE SCHEME 2022</label>
 <div>Dear Crestians and Parents /Guardians,</div>
 <div>The MOE FAS Application Form for 2022 is available now. Needy Singaporean students who wish to apply for financial help may collect the application form from the school's&nbsp;<strong>General Office</strong>&nbsp;or download the form from the school website.</div>
-<div></div>
 <div>
 <strong>MOE FAS Pamphlet 2021</strong>
-</div>
 <blockquote><a href="/files/MOE%20FAS%20Pamphlet%202022.pdf" target="_blank" rel="noopener">MOE FAS Pamphlet 2022<br /><br /></a></blockquote>
+</div>
 <strong>MOE FAS Application Form 2022</strong>
 <blockquote><a href="/files/MOE%20FAS%20Application%20Form%202022.pdf" target="_blank" rel="noopener">MOE FAS Application Form 2022</a></blockquote>
 </li>
