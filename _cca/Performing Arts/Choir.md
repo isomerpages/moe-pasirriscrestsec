@@ -9,14 +9,14 @@ third_nav_title: Performing Arts
 <table border="0">
 <tbody>
 <tr>
-<td><img src="https://prcss.moe.edu.sg/qql/slot/u200/images/cca/choir_1.png" alt="Choir" /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<td><img src="/images/cca/choir_1.png" alt="Choir" /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <div><strong><u>Choir Photo Album</u></strong></div>
 <div>
 <div>
 <div>
 <div data-cid="Photo+Album+%28Choir%29-19560">
 <div>3</div>
-<img src="https://prcss.moe.edu.sg/qql/slot/catalog/pc20/.tn.afd780d99_19561.jpg.jpg" width="100" /></div>
+<img src="afd780d99_19561.jpg" width="100" /></div>
 <div>Photo Album (Choir)</div>
 </div>
 </div>
