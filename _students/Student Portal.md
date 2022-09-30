@@ -74,15 +74,13 @@ The SLS is accessible through the internet browsers on either Windows PC, Mac, i
 
   
 
-**LOGIN**
+<b>LOGIN</b>
 
 SLS can be accessed from <a href="https://learning.moe.edu.sg">https://learning.moe.edu.sg/.</a>
 
-  
-![SLS Login_1.png](https://prcss.moe.edu.sg/qql/slot/u200/images/students/SLS%20Login_1.png)  
-  
-
-**PASSWORD**  
+<img src="/images/SLS Login_1.png" alt="SLS Login_1.png">
+ 
+<b>PASSWORD</b> 
 
 Passwords must have the following requirements:
 
@@ -93,7 +91,7 @@ SLS will prompt you for a change in password every 90 days.
 
   
 
-**RESETTING PASSWORD**
+<b>RESETTING PASSWORD</b>
 
 If you have forgotten your password, you can reset it through the following methods:
 
@@ -105,11 +103,10 @@ c) request any of your subject teachers for help.
 
   
 
-**FREQUENTLY ASKED QUESTIONS**
+<b>FREQUENTLY ASKED QUESTIONS
 
-  
 
-**Q1: My account has been locked. What should I do?**
+Q1: My account has been locked. What should I do?</b>
 
 Your account will be locked after 6 consecutive attempts to log in with an incorrect password. Please call the SLS Helpdesk at 6702 6513 to unlock your account. You will need to answer the security questions to verify that you are the legitimate account holder.
 
