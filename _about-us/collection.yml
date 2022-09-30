@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Achievements/.keep
       - Virtual Open House 2021.md
       - Principal's Message.md
       - Our Mission, Vision, Values and Motto.md
@@ -11,4 +10,5 @@ collections:
       - Our History.md
       - Our Staff.md
       - School Advisory Committee.md
+      - School Achievements/.keep
       - Contact Us.md
