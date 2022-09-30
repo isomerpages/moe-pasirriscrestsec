@@ -6,7 +6,7 @@ description: ""
 <h1>Principal's Message</h1>
 <div>
 <div style="float: left">
-<img src="/images/Principal_PRCS.jpeg" alt="Principal_PRCS.jpeg" style="width:200px; margin-right:10px;">
+<img src="/images/Principal_PRCS.jpeg" alt="Principal_PRCS.jpeg" style="width:400px; margin-right:10px;">
 </div><div>
 
 <p>A warm welcome to Pasir Ris Crest Secondary!</p>
