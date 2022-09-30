@@ -87,7 +87,7 @@ description: ""
 <div><strong>Part 1: Learning of Music for Growth (Lower Secondary)</strong></div>
 <div>All Crestians will be taught 3 musical instruments; Keyboard and Guitar/Ukulele (individual musical instrument) at Secondary One and Xylophone (ensemble performance) at Secondary Two. The learning of each musical instrument spans across a semester and comprises at least 15 hours of music lessons taught by our own Music Teachers.</div>
 <div><img alt="LLP-Pic1.jpeg" src="/images/LLP-Pic1.jpeg">
-<div>Watch the&nbsp;<a rel="noopener" target="_blank" href="http://gg.gg/prcss-llp">video</a>&nbsp;to see an example of a Secondary One xylophone ensemble performance.</div>
+<div>Watch the&nbsp;<a rel="noopener" target="_blank" href="http://gg.gg/prcss-llp">video</a>&nbsp;to see an example of a Secondary One xylophone ensemble performance. To upload to Youtube.</div>
 </div>
 <div><img alt="LLP-Pic2.jpeg" src="/images/LLP-Pic2.jpeg"></div>
 <div>
@@ -101,7 +101,7 @@ description: ""
 <div>Crestians are encouraged to infuse music learning and performance skills that they have picked up at Lower Secondary as part of the Crestians’ Values-In-Action Project in Secondary Three.&nbsp;</div>
 <div>A 20-hour level programme provides the opportunity for students to work as a class to plan and conceptualise their VIA project and to apply creatively the musical skills learnt in lower secondary to enhance their quality of their project.</div>
 <div>With guidance from Music Teachers/Home Tutors, Crestians will plan and decide their VIA activities. Crestians could choose to deliver live performances at community/school-based events, e.g. National Education events, create musical pieces in songs or videos to advocate awareness towards specific social concerns, share the joy of music with others through teaching music to the young or underprivileged, etc.</div>
-<div><img alt="LLP-Pic6.jpeg" src="https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/LLP-Pic6.jpeg"></div>
+<div><img alt="LLP-Pic6.jpeg" src="/images/LLP-Pic6.jpeg"></div>
 <div>The authentic learning experience for Crestians to create meaningful outcomes with their musical skills will inspire Crestians’ spirit of volunteerism. This is in line with the school’s goal to develop Crestians to become active and concerned citizens, paving the way for them to embark on a lifelong journey of active learning and helping others.</div>
 <div><strong>Part 3: Promoting Learning and Appreciation of Music&nbsp;</strong></div>
 <div>To sustain a positive and vibrant school culture where students can enjoy music, the school would continue to organise different school-based events to promote the learning of musical skills and support the development of Crestians in the aesthetics.</div>
@@ -112,7 +112,7 @@ description: ""
 <tbody>
 <tr>
 <td><br><img alt="LLP-Pic7.jpeg" src="/images/LLP-Pic7.jpeg"></td>
-<td><br>Watch the&nbsp;<a rel="noopener" target="_blank" href="http://gg.gg/prcss-llp-cgt">video</a>&nbsp;to view a magic show by a Crestians Got Talent Competition finalist</td>
+<td><br>Watch the&nbsp;<a rel="noopener" target="_blank" href="http://gg.gg/prcss-llp-cgt">video</a>&nbsp;to view a magic show by a Crestians Got Talent Competition finalist. To upload to Youtube</td>
 </tr>
 </tbody>
 </table>
