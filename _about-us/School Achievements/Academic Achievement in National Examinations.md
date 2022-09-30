@@ -315,9 +315,273 @@ third_nav_title: School Achievements
 <input type="checkbox" id="accordion3">
 <label for="accordion3">2018</label>
 <div>
-
+<p><strong><u>2018 GCE 'O' &amp; 'N' Level Examination</u></strong></p>
+<div>
+<table>
+<tbody>
+<tr>
+<td><strong>Course</strong></td>
+<td><strong>At least 5 NT Passes</strong></td>
+<td><strong>At least 7 NT Passes</strong></td>
+</tr>
+<tr>
+<td>Secondary 4 Normal(T)</td>
+<td>87.2</td>
+<td>66.7</td>
+</tr>
+</tbody>
+</table>
 </div>
-<p><br>Click <a href=" https://forms.gle/oAR4PVwzLxUbWR7QA">here</a> for reporting form.</p>
+<div><strong>Eligibility for various Post-Secondary Pathways (4NA)</strong></div>
+<div>
+<table>
+<tbody>
+<tr>
+<td><strong>Course</strong></td>
+<td><strong>PFP (%)</strong></td>
+<td><strong>PFP &amp; DPP (%)</strong></td>
+<td>&nbsp;<strong>5N (%)</strong></td>
+</tr>
+<tr>
+<td>Secondary 4 Express(A)</td>
+<td>34.6</td>
+<td>94.9</td>
+<td>97.4&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div><strong>Eligibility for various Post-Secondary Pathways (4E)</strong></div>
+<div>
+<table>
+<tbody>
+<tr>
+<td><strong>Course</strong></td>
+<td><strong>JC (%)</strong></td>
+<td><strong>Polytechnic (%)</strong></td>
+</tr>
+<tr>
+<td>Secondary 4 Express</td>
+<td>86.1</td>
+<td>100</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div><strong>Eligibility for various Post-Secondary Pathways (5N)</strong></div>
+<div>
+<table>
+<tbody>
+<tr>
+<td><strong>Course<br /></strong></td>
+<td><strong>JC (%)</strong></td>
+<td><strong>Polytechnic (%)</strong></td>
+</tr>
+<tr>
+<td>Secondary 5 Normal(A)</td>
+<td>22.2</td>
+<td>80.0</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div><strong>2018 GCE O-Level Examination</strong></div>
+<div>
+<div><strong>4 Express</strong></div>
+</div>
+<div>
+<table>
+<tbody>
+<tr>
+<td>
+<div><strong>Subjects with</strong></div>
+<div><strong>100% Passes</strong></div>
+</td>
+<td>
+<div><strong>Subjects performance above</strong></div>
+<div><strong>National Mean (Passes)</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Art</li>
+<li>Design &amp; Technology</li>
+<li>Food &amp; Nutrition</li>
+<li>Higher Music</li>
+<li>History</li>
+<li>Malay Language</li>
+<li>Music</li>
+<li>Physics</li>
+<li>Principles of Accounts</li>
+<li>Science (C, B)</li>
+<li>Tamil</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Additional Mathematics</li>
+<li>Art</li>
+<li>Chemistry</li>
+<li>Chinese Language</li>
+<li>Design &amp; Technology</li>
+<li>English</li>
+<li>Higher Chinese</li>
+<li>Food &amp; Nutrition</li>
+<li>Higher Music</li>
+<li>History</li>
+<li>Humanities</li>
+<li>Literature</li>
+<li>Malay Language</li>
+<li>Mathematics</li>
+<li>Music</li>
+<li>Physics</li>
+<li>Principles of Accounts</li>
+<li>Science (C, B)</li>
+<li>Science (P, C)</li>
+<li>Tamil</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div>
+<div><strong>5 Normal (Academic)</strong></div>
+</div>
+<div>
+<table>
+<tbody>
+<tr>
+<td>
+<div><strong>Subjects with</strong></div>
+<div><strong>100% Passes</strong></div>
+</td>
+<td>
+<div><strong>Subjects performance above</strong></div>
+<div><strong>National Mean (Passes)</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Chinese</li>
+<li>Design &amp; Technology</li>
+<li>Food &amp; Nutrition</li>
+<li>Malay Language</li>
+<li>Tamil</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Chinese</li>
+<li>Design &amp; Technology</li>
+<li>English Language</li>
+<li>Food &amp; Nutrition</li>
+<li>Humanities</li>
+<li>Literature</li>
+<li>Malay Language</li>
+<li>Mathematics</li>
+<li>Principles of Accounts</li>
+<li>Science (C, B)</li>
+<li>Science (P, C)</li>
+<li>Tamil</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div>
+<div><strong>2018 GCE N(A)-Level Examination</strong></div>
+<div>
+<table>
+<tbody>
+<tr>
+<td>
+<div><strong>Subjects with</strong></div>
+<div><strong>100% Passes</strong></div>
+</td>
+<td>
+<div><strong>Subjects performance above</strong></div>
+<div><strong>National Mean (Passes)</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Design &amp; Technology</li>
+<li>English Language</li>
+<li>Food &amp; Nutrition</li>
+<li>Mathematics</li>
+<li>Science (C, B)</li>
+<li>Science (P,C)</li>
+<li>Tamil</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Additional Mathematics</li>
+<li>Chinese Language</li>
+<li>Design &amp; Technology</li>
+<li>English Language</li>
+<li>Food &amp; Nutrition</li>
+<li>Humanities (S,H)</li>
+<li>Literature</li>
+<li>Mathematics</li>
+<li>Science (C, B)</li>
+<li>Science (P, C)</li>
+<li>Tamil</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div><strong>2018 GCE N(T)-Level Examination</strong></div>
+</div>
+<div>
+<table>
+<tbody>
+<tr>
+<td>
+<div><strong>Subjects with</strong></div>
+<div><strong>100% Passes</strong></div>
+</td>
+<td>
+<div><strong>Subjects performance above</strong></div>
+<div><strong>National Mean (Passes)</strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Art</li>
+<li>Basic Malay Language</li>
+<li>Basic Tamil Language</li>
+<li>Elements of Business Skills</li>
+<li>Food Studies</li>
+<li>Music</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Art</li>
+<li>Basic Chinese Language</li>
+<li>Basic Malay Language</li>
+<li>Basic Tamil Language</li>
+<li>Elements of Business Skills</li>
+<li>Food Studies</li>
+<li>Music</li>
+<li>Science</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
 </li>
 	
 	
