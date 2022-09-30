@@ -144,4 +144,17 @@ description: ""
 <input id="accordion6" type="checkbox">
 <label for="accordion6">OUR STAKEHOLDERS</label>
 <div>
+	<div><strong>What our parents say:</strong></div>
+<div>1) Ms.&nbsp;<a href="http://gg.gg/prcss-video1" target="_blank" rel="noopener">Prithiba Sri Sekar</a>&nbsp;on discipline and character development</div>
+<div>2) Ms.&nbsp;<a href="http://gg.gg/prcss-video2" target="_blank" rel="noopener">Kristine Chua</a>&nbsp;on T&amp;L</div>
+<div>3) Ms.&nbsp;<a href="http://gg.gg/prcss-video3" target="_blank" rel="noopener">Karen Sim</a>&nbsp;on LLP and student leadership</div>
+<div>4) Ms.&nbsp;<a href="http://gg.gg/prcss-video4" target="_blank" rel="noopener">Maggie Lim</a>&nbsp;on the school's environment and its impact</div>
+<div><strong>What our students say:</strong></div>
+<div>1)&nbsp;<a href="http://gg.gg/prcss-video5" target="_blank" rel="noopener">Lai Zi Yu</a>&nbsp;on ALP</div>
+<div>2)&nbsp;<a href="http://gg.gg/prcss-video6" target="_blank" rel="noopener">Kulkarni Tanmayee Sachin</a>&nbsp;on ALP and Fencing</div>
+<div>3)&nbsp;<a href="http://gg.gg/prcss-video7" target="_blank" rel="noopener">Mark Jacob Ong</a>&nbsp;on school culture</div>
+<div><strong>What our alumni say:</strong></div>
+<div>1)&nbsp;<a href="http://gg.gg/prcss-video8" target="_blank" rel="noopener">Aloysius Lee</a>&nbsp;on rising above mediocrity</div>
+<div>2)&nbsp;<a href="http://gg.gg/prcss-video9" target="_blank" rel="noopener">Vanessa Lim</a>&nbsp;on being an Overcomer</div>
+<div>3)&nbsp;<a href="http://gg.gg/prcss-video10" target="_blank" rel="noopener">Marinah Musa</a>&nbsp;on The Crestian Experience</div>
 </div></li></ul>
