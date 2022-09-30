@@ -9,14 +9,14 @@ third_nav_title: Uniformed Groups
 <table border="0">
 <tbody>
 <tr>
-<td><img src="https://prcss.moe.edu.sg/qql/slot/u200/images/cca/girl_guides_1.png" alt="Girl Guides" /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<td><img src="/images/cca/girl_guides_1.png" alt="Girl Guides" /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <div><strong><u>Girl Guides Photo Album</u></strong></div>
 <div>
 <div>
 <div>
 <div data-cid="Girl+Guides-23380">
 <div>13</div>
-<img src="https://prcss.moe.edu.sg/qql/slot/catalog/pc34/.tn.8fed6efce_33299.JPG.jpg" width="100" /></div>
+<img src="/images/8fed6efce_33299.jpg" width="100" /></div>
 <div>Girl Guides</div>
 </div>
 </div>
