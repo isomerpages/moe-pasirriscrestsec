@@ -5,32 +5,48 @@ description: ""
 third_nav_title: The Crestian Experience
 ---
 <h1>Character and Citizenship Education (CCE)</h1>
+
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" /> <label for="accordion1">OVERVIEW</label>
 <div>
-<h4>Character and Citizenship Education (CCE) at PRCS</h4>
-<p>At PRCS, we believe that&nbsp;<strong><em>every student can learn and achieve</em></strong>, and that<strong><em>every student is good and has the capacity to care for others</em></strong>.</p>
+	
+<h4 style="color: orange;">Character and Citizenship Education (CCE) at PRCS</h4>
+	
+<p>At PRCS, we believe that <strong><em>every student can learn and achieve</em></strong>, and that<strong><em>every student is good and has the capacity to care for others</em></strong>.</p>
+	
 <p>Our vision is to nurture Crestian Overcomers.</p>
+	
 <p>The <strong>Crestian Overcomer</strong>is one who embodies the school values and has strength of character to pursue and realise challenges in life.<br /></p>
+	
 <p>To achieve this, we aim to equip students with the necessary competencies to meet future challenges in the 21st century, which are aligned to the school's 5 desired student learning outcomes.</p>
-<ul><li>Active and Engaged Learner</li>
+	
+<ul>
+<li>Active and Engaged Learner</li>
 <li>Innovative Problem-Solver</li>
 <li>Effective Communicator</li>
 <li>Self-Disciplined and Responsible Leader</li>
 	<li>Active and Concerned Citizen with Global Awareness</li></ul>
 	
-<h4>PRCS Co-Curriculum Framework</h4>
+<h4 style="color: orange;">PRCS Co-Curriculum Framework</h4>
+	
 <p>At PRCS, we customise our co-curriculum and school programmes to meet our student development needs in the three major domains of Character, Citizenship and Leadership Development.</p>
+	
 <p><img src="https://prcss.moe.edu.sg/qql/slot/u200/images/crestian_experience/chart.jpg" alt="PRCS Co-Curriculum Framework Chart" width="" height="" /></p>
 	
-<h4>PRCS CCE Approach</h4>
+<h4 style="color: orange;">PRCS CCE Approach</h4>
+	
 <p>The school adopts our own 4A approach to the delivery of the CCE co-curriculum. We aim to develop moral <u>a</u>wareness and <u>a</u>ttitude through explicit teaching, and provide opportunities for students to take <u>a</u>ctions and exercise <u>a</u>utonomy to demonstrate good character.</p>
+	
 <p>Through the CCE curriculum, students are equipped with the knowledge and skills, and instilled with school values to guide them in their behaviour. Opportunities are provided for them to not only demonstrate the desirable behaviour but to also lead and mentor others in doing what is good and right.</p>
 </div>
 </li>
-<li><input type="checkbox" /> <label for="accordion2">NATIONAL YOUTH ACHIEVEMENT AWARD</label>
+	
+<li>
+<input type="checkbox" /> <label for="accordion2">NATIONAL YOUTH ACHIEVEMENT AWARD</label>
 <div>
+	
 <h5>National Youth Achievement Award (Bronze and Silver): An Overview</h5>
+
 <table width="650px">
 <tbody>
 <tr>
@@ -49,21 +65,25 @@ third_nav_title: The Crestian Experience
 </table>
 <p>The NYAA Programme serves as a platform for our students to be equipped with the skills to develop and maximise their potential. We believe that our NYAA programme plays an important part in bringing out the overcomer in every student.</p>
 <p>The bronze award participants start their Physical Recreation programme at the end of their Secondary One year. The students participate in our niche sport, fencing. Under the introductory fencing programme, students learn fencing footwork, basic sparring, offensive and defensive strategies, and basic umpiring skills.</p>
-<p>In Secondary Two, the students go on to learn basic keyboard, xylophone and guitar skills through our school&rsquo;s music programme for the Skills section of NYAA programme. The music programme aims to develop their interest in the learning and playing of these instruments.</p>
+<p>In Secondary Two, the students go on to learn basic keyboard, xylophone and guitar skills through our school's music programme for the Skills section of NYAA programme. The music programme aims to develop their interest in the learning and playing of these instruments.</p>
 <p>For the Adventurous Journey section, the students participate in a 3-day-2-night outdoor adventure camp at a local campsite. The camp helps our students to gain confidence, build their resilience through stretching beyond their mental and physical limits, and boost qualities of teamwork, self-reliance and perseverance.</p>
 <p>Under the Service section, the students contribute 15 hours of service through the planning and executing of a fund raising project during the Racial Harmony Day Carnival to raise funds for charitable children organisations under the Community Chest.</p>
 <p>Under the silver award programme, the participants take the initiative to start their own 30-hour physical recreation programme, learning different sports such as badminton and kayaking. In addition, the students also participate in a 3 days-2-nights outdoor expedition at an overseas campsite. Students also serve 30 hours of service on their own accord by contributing to various organizations through community work.</p>
 </div>
 </li>
-<li><input type="checkbox" /> <label for="accordion3">LEVEL CAMPS</label>
+	
+<li>
+<input type="checkbox" /> <label for="accordion3">LEVEL CAMPS</label>
 <div>
-<h4>Level Camps: An Overview</h4>
+	
+<h4 style="color: orange;">Level Camps: An Overview</h4>
 <p>Level Camps serve the larger purpose of a holistic education, inculcating school values, SEL competencies and important lifeskills through outdoor activities. At PRCS, every student participates in the Level Camps during the last three days of Term 1.</p>
 <p>The Secondary 1 students attend the Level Camp that is conducted in school. The students take part in team-building activities such as amazing race, tent-pitching, putting up performances and creating mascots for the campfire, and a night walk around the school compound.</p>
 <p>At the Secondary 2 Level Camp, students demonstrate self-leadership in overcoming obstacles and going out of their comfort zone through the adventure journey. The main focus of the camp is to develop peer-leadership competencies and relationship management skills.</p>
 <p>The highlight for the Secondary 3 students is the overseas Level Camp. The whole cohort is brought to a campsite located in one of our neighbouring countries. Not only do they develop resilience and teamwork by taking part in mountain trekking activities, they also reach out to the overseas community through a VIA programme.</p>
 <p>The main purpose of the Secondary 4 and 5 Level Camp is to help the students find ways in handling challenges they may face in their graduating and post-secondary years. Their Level Camp thus consists of activities such as motivational talks, workshops for cultivating effective studying habits, and career guidance activities, such as the Amazing Race.</p>
-<h4>Crestians Speak</h4>
+	
+<h4 style="color: orange;">Crestians Speak</h4>
 <h2>SECONDARY 1 LEVEL CAMP 2017</h2>
 <p>The school held the Sec 1 level camp in March this year. This camp focused on team building among students, class bonding, training us to be self-disciplined and confident Crestians through games. Most importantly, this level camp aimed to instill PRCS' school values in us. One of the activities I took part in was the Amazing Race at Pasir Ris Park, which was very enjoyable. I remembered that in one of the games my class took part in, all of us had to form pairs so that each pair could fill a pail with water that came from a cup which was dripping. We either transported the cup cheek-to-cheek, shoulder-to-shoulder or wrist-to-wrist. This game required a lot of teamwork and I felt that my class did great. After this whole camp, I personally thought that my classmates became closer to one another. If we did not have this camp, we might still be a very cold, distant class. I now know that my class will always have each other's backs. This was a memorable camp and we made great memories together.</p>
 <p><br />Choo Jun Ning Janelle<br />Class 1/7 (2017)</p>
