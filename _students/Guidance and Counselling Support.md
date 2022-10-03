@@ -16,7 +16,7 @@ description: ""
 <li>Ms. Lynette Ong (LBS): ong_jun_yi_lynette@schools.gov.sg</li>
 </ul>
 
-<div><strong><u>HELPLINES</u></strong></div>
+<h3><strong><u>HELPLINES</u></strong></h3>
 <div>
 <table>
 <tbody>
@@ -88,7 +88,7 @@ description: ""
 </tbody>
 </table>
 </div>
-<div><u><strong>Suggested Assessment Venues</strong></u></div>
+<h3><u><strong>Suggested Assessment Venues</strong></u></h3>
 <div>
 <table>
 <tbody>
