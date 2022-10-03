@@ -6,10 +6,8 @@ description: ""
 <h1>Education and Career Guidance</h1>
 <div>
 <p>Education and Career Guidance (ECG) equips students with the necessary knowledge, skills and values to make informed decisions at each key education stage for the successful transition from school to further education or work. This will enable students to manage their career pathways and inculcate a desire for lifelong learning throughout their lives. The programme develops social emotional competencies and qualities such as adaptability and resilience, which ensures that students are prepared for the 21<sup>st</sup> century. It is an important step to ensure that our students remain competitive in the global economy, and lead productive and meaningful lives.</p>
-<div>The objectives of the PRCS ECG programme are as follow:</div>
-<br />
-<div>
-</div>
+<p>The objectives of the PRCS ECG programme are as follow:</p>
+<br /><br />
 <blockquote>
 <p><strong>1. </strong><strong>Enable students to explore viable education and career options through the provision of accurate and comprehensive information.</strong></p>
 </blockquote>
