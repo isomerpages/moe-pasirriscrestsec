@@ -140,8 +140,8 @@ Applicants must demonstrate a passion for communication related programmes /comp
 Shortlisted applicants will be notified separately on the details of the selection test
 
 For more details on the <strong>ALP</strong>, click <a href="applied-learning-programme-alp">here</a>.
-	</div>
-	</li>
+</div>
+</li>
 	
 <li>
 		<input type="checkbox" id="accordion5">
@@ -193,5 +193,5 @@ Applicants must demonstrate a passion for communication related programmes /comp
 
 Shortlisted applicants will be notified separately on the details of the selection test.
 	</div>
-	</li>
+</li>
 </ul>
