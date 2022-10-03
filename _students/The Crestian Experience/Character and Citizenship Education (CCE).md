@@ -5,7 +5,7 @@ description: ""
 third_nav_title: The Crestian Experience
 ---
 <h1>Character and Citizenship Education (CCE)</h1>
-<ul>
+<ul class="jekyllcodex_accordion">
 <li><input type="checkbox" /> <label for="accordion1">OVERVIEW</label>
 <div>
 <h4>Character and Citizenship Education (CCE) at PRCS</h4>
