@@ -48,14 +48,14 @@ description: ""
 <div>Blk 256 Pasir Ris St 21, #01-289, S510256</div>
 <div>Email: prfsc@goodnews.org.sg</div>
 </td>
-<td>65812159<br />Mon, Wed &amp; Fri: 9am-6pm<br />Tue &amp; Thu: 9am-9pm<br />(Lunch Hour: 12:30-1pm)</td>
+<td>65812159<br />Mon, Wed & Fri: 9am-6pm<br />Tue & Thu: 9am-9pm<br />(Lunch Hour: 12:30-1pm)</td>
 </tr>
 <tr>
 <td><strong>Tampines Family Service Centre</strong><br />
 <div>Blk 470 Tampines St 44, #01-194, S520470</div>
-<div>Email: tfsc@mvs.sg&nbsp;</div>
+<div>Email: tfsc@mvs.sg</div>
 </td>
-<td>67872001<br />Mon &amp; Tue: 9am-6pm / 7-9pm<br />Wed-Fri: 9am-6pm&nbsp;</td>
+<td>67872001<br />Mon & Tue: 9am-6pm / 7-9pm<br />Wed-Fri: 9am-6pm</td>
 </tr>
 <tr>
 <td><strong>Moral Family Service Centre (Bedok North)</strong><br />
@@ -70,7 +70,7 @@ description: ""
 <div>Blk 322 Ubi Ave 1, #01-591, S400322</div>
 <div>Email: azita@ppis.sg</div>
 </td>
-<td>&nbsp;674558621<br /><br /><br /></td>
+<td>674558621<br /><br /><br /></td>
 </tr>
 <tr>
 <td><strong>HELP Family Service Centre (For single parents)</strong><br />
@@ -80,15 +80,14 @@ description: ""
 <td>64575188<br /><br /><br /></td>
 </tr>
 <tr>
-<td colspan="2"><strong>SOS Befriending:</strong>&nbsp;pat@samaritans.org.sg</td>
+<td colspan="2"><strong>SOS Befriending:</strong>pat@samaritans.org.sg</td>
 </tr>
 <tr>
-<td colspan="2"><strong>Info websites for teens:</strong>&nbsp;https://www.teencentral.gov.sg</td>
+<td colspan="2"><strong>Info websites for teens:</strong>https://www.teencentral.gov.sg</td>
 </tr>
 </tbody>
 </table>
 </div>
-<div>&nbsp;</div>
 <div><u><strong>Suggested Assessment Venues</strong></u></div>
 <div>
 <table>
@@ -106,13 +105,13 @@ description: ""
 </tr>
 <tr>
 <td><strong>Student Care Services (SCS) - Hougang Centre</strong><br />
-<div>Assessment for Learning &amp; Behavioural difficulties such as cognitive assessment, ADHA, Austism, Dyslexia, etc.</div>
+<div>Assessment for Learning & Behavioural difficulties such as cognitive assessment, ADHA, Austism, Dyslexia, etc.</div>
 </td>
 <td>62869905<br /><br /><br /></td>
 </tr>
 <tr>
 <td><strong>James Cook University - Psychological Clinic</strong><br />
-<div>Assessment for Learning &amp; Behavioural difficulties such as, ADHA, Austism, Dyslexia, etc and IQ test.</div>
+<div>Assessment for Learning & Behavioural difficulties such as, ADHA, Austism, Dyslexia, etc and IQ test.</div>
 </td>
 <td>67093762<br /><br />&nbsp;</td>
 </tr>
@@ -124,7 +123,7 @@ description: ""
 </tr>
 <tr>
 <td><strong>Dyslexia Association of Singapore (DSA)</strong><br />
-<div>Assessment for Learning &amp; Behavioural difficulties such as, Dyslexia, ADHA, Dyspraxia, Dysgraphia &amp; Dyscalculia, Asperger's Syndrome, Austism, Global Development Delay, Auditory &amp; Sensory, Speech &amp; Language, Non-Verbal issues.</div>
+<div>Assessment for Learning &amp; Behavioural difficulties such as, Dyslexia, ADHA, Dyspraxia, Dysgraphia & Dyscalculia, Asperger's Syndrome, Austism, Global Development Delay, Auditory &amp; Sensory, Speech & Language, Non-Verbal issues.</div>
 </td>
 <td>64445700<br /><br /><br /><br /><br /></td>
 </tr>
