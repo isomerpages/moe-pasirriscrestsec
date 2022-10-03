@@ -9,20 +9,22 @@ third_nav_title: The Crestian Experience
 <li><input type="checkbox" /> <label for="accordion1">OVERVIEW</label>
 <div>
 <h4>Character and Citizenship Education (CCE) at PRCS</h4>
-<p>At PRCS, we believe that&nbsp;<strong><em>every student can learn and achieve</em></strong>, and that&nbsp;<strong><em>every student is good and has the capacity to care for others</em></strong>.</p>
+<p>At PRCS, we believe that&nbsp;<strong><em>every student can learn and achieve</em></strong>, and that<strong><em>every student is good and has the capacity to care for others</em></strong>.</p>
 <p>Our vision is to nurture Crestian Overcomers.</p>
-<p>The&nbsp;<strong>Crestian Overcomer</strong>&nbsp;is one who embodies the school values and has strength of character to pursue and realise challenges in life.<br /></p>
-<p>To achieve this, we aim to equip students with the necessary competencies to meet future challenges in the 21st century, which are aligned to the school&rsquo;s 5 desired student learning outcomes.</p>
-<div>Active and Engaged Learner&nbsp;</div>
-<div>Innovative Problem-Solver&nbsp;</div>
-<div>Effective Communicator&nbsp;</div>
-<div>Self-Disciplined and Responsible Leader&nbsp;</div>
-<div>Active and Concerned Citizen with Global Awareness&nbsp;</div>
+<p>The <strong>Crestian Overcomer</strong>is one who embodies the school values and has strength of character to pursue and realise challenges in life.<br /></p>
+<p>To achieve this, we aim to equip students with the necessary competencies to meet future challenges in the 21st century, which are aligned to the school's 5 desired student learning outcomes.</p>
+<ul><li>Active and Engaged Learner</li>
+<li>Innovative Problem-Solver</li>
+<li>Effective Communicator</li>
+<li>Self-Disciplined and Responsible Leader</li>
+	<li>Active and Concerned Citizen with Global Awareness</li></ul>
+	
 <h4>PRCS Co-Curriculum Framework</h4>
 <p>At PRCS, we customise our co-curriculum and school programmes to meet our student development needs in the three major domains of Character, Citizenship and Leadership Development.</p>
 <p><img src="https://prcss.moe.edu.sg/qql/slot/u200/images/crestian_experience/chart.jpg" alt="PRCS Co-Curriculum Framework Chart" width="" height="" /></p>
+	
 <h4>PRCS CCE Approach</h4>
-<h4>The school adopts our own 4A approach to the delivery of the CCE co-curriculum. We aim to develop moral&nbsp;<u>a</u>wareness and&nbsp;<u>a</u>ttitude through explicit teaching, and provide opportunities for students to take&nbsp;<u>a</u>ctions and exercise&nbsp;<u>a</u>utonomy to demonstrate good character.</h4>
+<p>The school adopts our own 4A approach to the delivery of the CCE co-curriculum. We aim to develop moral<u>a</u>wareness and<u>a</u>ttitude through explicit teaching, and provide opportunities for students to take<u>a</u>ctions and exercise<u>a</u>utonomy to demonstrate good character.</p>
 <p>Through the CCE curriculum, students are equipped with the knowledge and skills, and instilled with school values to guide them in their behaviour. Opportunities are provided for them to not only demonstrate the desirable behaviour but to also lead and mentor others in doing what is good and right.</p>
 </div>
 </li>
@@ -32,16 +34,16 @@ third_nav_title: The Crestian Experience
 <table width="650px">
 <tbody>
 <tr>
-<td><img src="https://prcss.moe.edu.sg/qql/slot/u200/images/crestian_experience/nyaa1.jpg" alt="NYAA Image - 01" /></td>
-<td><img src="https://prcss.moe.edu.sg/qql/slot/u200/images/crestian_experience/nyaa2.jpg" alt="NYAA Image - 02" /></td>
+<td><img src="/images/nyaa1.jpg" alt="NYAA Image - 01" /></td>
+<td><img src="/images/nyaa2.jpg" alt="NYAA Image - 02" /></td>
 </tr>
 <tr>
-<td><img src="https://prcss.moe.edu.sg/qql/slot/u200/images/crestian_experience/nyaa3.jpg" alt="NYAA Image - 03" /></td>
-<td><img src="https://prcss.moe.edu.sg/qql/slot/u200/images/crestian_experience/nyaa4.jpg" alt="NYAA Image - 04" /></td>
+<td><img src="/images/nyaa3.jpg" alt="NYAA Image - 03" /></td>
+<td><img src="/images/nyaa4.jpg" alt="NYAA Image - 04" /></td>
 </tr>
 <tr>
-<td><img src="https://prcss.moe.edu.sg/qql/slot/u200/images/crestian_experience/nyaa5.jpg" alt="NYAA Image - 05" /></td>
-<td><img src="https://prcss.moe.edu.sg/qql/slot/u200/images/crestian_experience/nyaa6.jpg" alt="NYAA Image - 06" /></td>
+<td><img src="/images/nyaa5.jpg" alt="NYAA Image - 05" /></td>
+<td><img src="/images/nyaa6.jpg" alt="NYAA Image - 06" /></td>
 </tr>
 </tbody>
 </table>
@@ -63,13 +65,13 @@ third_nav_title: The Crestian Experience
 <p>The main purpose of the Secondary 4 and 5 Level Camp is to help the students find ways in handling challenges they may face in their graduating and post-secondary years. Their Level Camp thus consists of activities such as motivational talks, workshops for cultivating effective studying habits, and career guidance activities, such as the Amazing Race.</p>
 <h4>Crestians Speak</h4>
 <h2>SECONDARY 1 LEVEL CAMP 2017</h2>
-<p>The school held the Sec 1 level camp in March this year. This camp focused on team building among students, class bonding, training us to be self-disciplined and confident Crestians through games. Most importantly, this level camp aimed to instill PRCS&rsquo; school values in us. One of the activities I took part in was the Amazing Race at Pasir Ris Park, which was very enjoyable. I remembered that in one of the games my class took part in, all of us had to form pairs so that each pair could fill a pail with water that came from a cup which was dripping. We either transported the cup cheek-to-cheek, shoulder-to-shoulder or wrist-to-wrist. This game required a lot of teamwork and I felt that my class did great. After this whole camp, I personally thought that my classmates became closer to one another. If we did not have this camp, we might still be a very cold, distant class. I now know that my class will always have each other&rsquo;s backs. This was a memorable camp and we made great memories together.</p>
+<p>The school held the Sec 1 level camp in March this year. This camp focused on team building among students, class bonding, training us to be self-disciplined and confident Crestians through games. Most importantly, this level camp aimed to instill PRCS' school values in us. One of the activities I took part in was the Amazing Race at Pasir Ris Park, which was very enjoyable. I remembered that in one of the games my class took part in, all of us had to form pairs so that each pair could fill a pail with water that came from a cup which was dripping. We either transported the cup cheek-to-cheek, shoulder-to-shoulder or wrist-to-wrist. This game required a lot of teamwork and I felt that my class did great. After this whole camp, I personally thought that my classmates became closer to one another. If we did not have this camp, we might still be a very cold, distant class. I now know that my class will always have each other's backs. This was a memorable camp and we made great memories together.</p>
 <p><br />Choo Jun Ning Janelle<br />Class 1/7 (2017)</p>
 <table>
 <tbody>
 <tr>
-<td><img src="https://prcss.moe.edu.sg/qql/slot/u200/images/CCE/2018/.tn.DSC04538.JPG.mid.jpg" alt="Sec1 Camp 2017 - Image 01" width="100%" /></td>
-<td><img src="https://prcss.moe.edu.sg/qql/slot/u200/images/CCE/2018/.tn.DSC04660.JPG.mid.jpg" alt="Sec1 Camp 2017 - Image 02" width="100%" /></td>
+<td><img src="/images/DSC04538.jpeg" alt="Sec1 Camp 2017 - Image 01" width="100%" /></td>
+<td><img src="/images/DSC04660.jpeg" alt="Sec1 Camp 2017 - Image 02" width="100%" /></td>
 <td><img src="https://prcss.moe.edu.sg/qql/slot/u200/images/CCE/2018/.tn.DSC04669.JPG.mid.jpg" alt="Sec1 Camp 2017 - Image 03" width="100%" /></td>
 </tr>
 <tr>
