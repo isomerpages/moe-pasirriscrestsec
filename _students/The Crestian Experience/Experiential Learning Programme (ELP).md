@@ -19,28 +19,35 @@ third_nav_title: The Crestian Experience
 	
 <br>SEC 1 - PE OE ORIENTEERING AT SPORTS HUB<br>
 
-<img style="width:50%; float:left;" alt="PE OE Orienteering at Sports Hub 1.png" src="/images/PE OE Orienteering at Sports Hub 1.png">
-<img style="width:50%;" alt="PE OE Orienteering at Sports Hub 3.png" src="/images/PE OE Orienteering at Sports Hub 3.png"><br><br><br><br><br><br><br>
+<div><img style="width:50%; float:left;" alt="PE OE Orienteering at Sports Hub 1.png" src="/images/PE OE Orienteering at Sports Hub 1.png">
+<img style="width:50%" alt="PE OE Orienteering at Sports Hub 3.png" src="/images/PE OE Orienteering at Sports Hub 3.png"><br/></div>
+	
 <div>
-<img style="width:50%; float:left;" alt="PE OE Orienteering at Sports Hub 2.png" src="/images/PE OE Orienteering at Sports Hub 2.png">
-<img style="width:50%" alt="PE OE Orienteering at Sports Hub 5.png" src="/images/PE OE Orienteering at Sports Hub 5.png">
-<img style="width:50%; float:left;" alt="PE OE Orienteering at Sports Hub 7.png" src="/images/PE OE Orienteering at Sports Hub 7.png">
+<img style="width:30%; float:left;" alt="PE OE Orienteering at Sports Hub 2.png" src="/images/PE OE Orienteering at Sports Hub 2.png">
+<img style="width:30%; float:left;" alt="PE OE Orienteering at Sports Hub 5.png" src="/images/PE OE Orienteering at Sports Hub 5.png">
+<img style="width:30%; float:left;" alt="PE OE Orienteering at Sports Hub 7.png" src="/images/PE OE Orienteering at Sports Hub 7.png">
 </div>
 
 <div>
-	<img style="width:50%" alt="PE OE Orienteering at Sports Hub 6.png" src="/images/PE OE Orienteering at Sports Hub 6.png"></div>
-	
-<div><img style="width:50%" alt="PE OE Orienteering at Sports Hub 8.png" src="/images/PE OE Orienteering at Sports Hub 8.png"></div>
+	<img style="width:50%; float:left;" alt="PE OE Orienteering at Sports Hub 6.png" src="/images/PE OE Orienteering at Sports Hub 6.png">
+	<img style="width:50%;"  alt="PE OE Orienteering at Sports Hub 8.png" src="/images/PE OE Orienteering at Sports Hub 8.png"></div>
 
 <div>
 <h2>SEC 1 - VIA AND LIT AT FOOD CENTRES</h2>
 </div>
-<div><img style="style=&quot;width:50%;" alt="VIA &amp; LIT at food centres 1.png" src="/images/VIA &amp; LIT at food centres 1.png"><img style="width:50%; float:left;" alt="VIA &amp; LIT at food centres 2.png" src="/images/VIA &amp; LIT at food centres 2.png"></div>
-<div><img style="width:50%" alt="VIA &amp; LIT at food centres 3.png" src="/images/VIA &amp; LIT at food centres 3.png"></div>
-<div><img style="width:50%" alt="VIA &amp; LIT at food centres 4.png" src="h/images/VIA &amp; LIT at food centres 4.png"></div>
-<div><img style="width:50%" alt="VIA &amp; LIT at food centres 5.png" src="h/images/VIA &amp; LIT at food centres 5.png"></div>
-<div><img style="width:50%" alt="VIA &amp; LIT at food centres 7.png" src="/images/VIA &amp; LIT at food centres 7.png"></div>
-<div><br><img alt="VIA &amp; LIT at food centres 8.png" src="/images/VIA &amp; LIT at food centres 8.png"><img alt="VIA &amp; LIT at food centres 6.png" src="/images/VIA &amp; LIT at food centres 6.png"></div>
+	
+<div>
+<img style="width:50%; float:left;" alt="VIA &amp; LIT at food centres 1.png" src="/images/VIA &amp; LIT at food centres 1.png">
+<img style="width:50%;" alt="VIA &amp; LIT at food centres 2.png" src="/images/VIA &amp; LIT at food centres 2.png"></div>
+	
+<div><img style="width:50%; float:left;" alt="VIA &amp; LIT at food centres 3.png" src="/images/VIA &amp; LIT at food centres 3.png">
+<img style="width:50%" alt="VIA &amp; LIT at food centres 4.png" src="h/images/VIA &amp; LIT at food centres 4.png"></div>
+	
+<div><img style="width:50%; float:left;" alt="VIA &amp; LIT at food centres 5.png" src="h/images/VIA &amp; LIT at food centres 5.png">
+<img style="width:50%" alt="VIA &amp; LIT at food centres 7.png" src="/images/VIA &amp; LIT at food centres 7.png"></div>
+	
+<div><img alt="VIA &amp; LIT at food centres 8.png" src="/images/VIA &amp; LIT at food centres 8.png" style="width:50%; float:left;"><img alt="VIA &amp; LIT at food centres 6.png" src="/images/VIA &amp; LIT at food centres 6.png" style="width:50%;"></div>
+	
 <div>
 <h2>SEC 2ENA - SGEM AT MERLION PARK</h2>
 </div>
