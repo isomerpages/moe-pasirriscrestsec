@@ -114,6 +114,7 @@ Shortlisted applicants will be notified separately on the details of the selecti
 
 For more details on the <strong>LLP</strong>, click <a href="/learning-for-life-programme-llp">here</a>.
 	</li>
+
 <li>
 		<input type="checkbox" id="accordion4">
 		<label for="accordion4">ADMISSION CRITERIA FOR EFFECTIVE COMMUNICATION</label>
@@ -138,7 +139,7 @@ Applicants must demonstrate a passion for communication related programmes /comp
 
 Shortlisted applicants will be notified separately on the details of the selection test
 
-For more details on the **ALP**, click [here](https://prcss.moe.edu.sg/students/the-crestian-experience/applied-learning-programme-alp).
+For more details on the <strong>ALP</strong>, click <a href="applied-learning-programme-alp">here</a>.
 	</div>
 	</li>
 	
