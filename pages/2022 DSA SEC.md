@@ -15,7 +15,7 @@ description: ""
 2022 Direct School Admission Exercise<br/>
 For admission to Secondary One in 2023</h4>
 
-<p>Direct School Admission (DSA) - Secondary Exercise for admission to Secondary One in 2023 takes place from May to September 2022.  Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’s academic and non-academic requirements, and the programmes available to develop and nurture the area of talent.
+Direct School Admission (DSA) - Secondary Exercise for admission to Secondary One in 2023 takes place from May to September 2022.  Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’s academic and non-academic requirements, and the programmes available to develop and nurture the area of talent.
 
   
 
@@ -33,7 +33,7 @@ The DSA - Sec Exercise is conducted in 3 main stages as follows:
 			</ul>
   
 
-Primary school students who are interested to participate in this DSA exercise may refer to the instructions and the deadlines given below.</p>
+Primary school students who are interested to participate in this DSA exercise may refer to the instructions and the deadlines given below.
 
 <h4>Application</h4>
 
@@ -48,7 +48,7 @@ Primary school students who are interested to participate in this DSA exercise m
 
   
 
-<p>Applicants shortlisted for interview and selection test would receive a notification from Pasir Ris Crest Secondary School.  The selection interview dates are either on Thu, 14 July or Thu, 21 July 2022. 
+Applicants shortlisted for interview and selection test would receive a notification from Pasir Ris Crest Secondary School.  The selection interview dates are either on Thu, 14 July or Thu, 21 July 2022. 
 
   
 
@@ -60,7 +60,7 @@ Applicants will be notified of the selection outcome through email or hardcopy l
 
   
 
-The decision of the school is final.</p>
+The decision of the school is final.
 
 </div>
 
@@ -120,7 +120,7 @@ For more details on the <strong>LLP</strong>, click <a href="/learning-for-lif
 		<label for="accordion4">ADMISSION CRITERIA FOR EFFECTIVE COMMUNICATION</label>
 
 <h5>A) Basic Admission Criteria</h5>
-
+<div>
 <p>All applicants must have the following:
 <ul>
 <li>Good Academic Performance</li>
