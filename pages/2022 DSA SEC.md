@@ -94,17 +94,11 @@ All applicants must have the following:
 Applicants must demonstrate a passion for Music /Performing Arts and be committed to contribute to PRCS in this area for which they have been given DSA in one of the following DSA Talent Area:
 <ul>
 <li>Band - Concert (Girls/Boys) </li> 
-    
 <li>Choir (Girls/Boys)  </li>
-
 <li>Modern Dance (Girls/Boys)</li>  
-    
 <li>Drama English (Girls/Boys)</li>  
-    
 <li>Ensemble - Guzheng (Girls/Boys)</li>  
-    
-<li>Orchestra - Chinese (Girls/Boys)</li>
-		</ul>
+<li>Orchestra - Chinese (Girls/Boys)</li></ul>
 
 Shortlisted applicants will be invited to go through a selection test as well as an interview.  
 
@@ -118,14 +112,12 @@ Shortlisted applicants will be invited to go through a selection test as well as
 
 Shortlisted applicants will be notified separately on the details of the selection test
 
-For more details on the <strong>LLP</strong>, click <a href="/learning-for-life-programme-llp>here</a>.
-	</div>
+For more details on the <strong>LLP</strong>, click <a href="/learning-for-life-programme-llp">here</a>.
 	</li>
-	
 <li>
 		<input type="checkbox" id="accordion4">
 		<label for="accordion4">ADMISSION CRITERIA FOR EFFECTIVE COMMUNICATION</label>
-	<div>
+
 <h5>A) Basic Admission Criteria</h5>
 
 <p>All applicants must have the following:
