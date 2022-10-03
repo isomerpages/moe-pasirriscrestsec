@@ -87,6 +87,7 @@ Passwords must have the following requirements:
 <br>
 <br>
 *   8 characters or longer; and
+<br>
 *   at least 1 letter and 1 number.
 
 SLS will prompt you for a change in password every 90 days.
@@ -166,14 +167,14 @@ Students are the school’s representatives in the community and are expected to
 
 The following rules and regulations are to be adhered to:
 
-*   Students must be in proper school attire whenever they come to school, including school holidays. Students are to wear the prescribed school attire without any improper modification.
-*   Hair must be kept neatly in its natural colour. Outlandish, spiky/ punkish or dyed/ coloured/ highlighted hair is not allowed.
-*   Fancy spectacles, coloured contact lenses and tinted glasses are not allowed. Prescribed colours for spectacle frames are solid black, brown, gold or silver.
-*   The school T-shirt must be worn for PE lessons and all other physical activities.
-*   T-shirts’ sleeves should not be folded when worn.
-*   Shoes must be white-based / predominantly white with white shoelaces, and be properly tied. The shoes must not cover the ball of the ankles. Disallowed shoes include moccasins, dress shoes, ballet shoes, high-cut shoes, slip-ons, shoes with velcro straps and those not deemed as standard school shoes.
-*   Only plain white socks are allowed and they must be worn to conceal the ball of the ankle completely.
-*   Fingernails must be kept short and clean.
+*   Students must be in proper school attire whenever they come to school, including school holidays. Students are to wear the prescribed school attire without any improper modification.<br>
+*   Hair must be kept neatly in its natural colour. Outlandish, spiky/ punkish or dyed/ coloured/ highlighted hair is not allowed.<br>
+*   Fancy spectacles, coloured contact lenses and tinted glasses are not allowed. Prescribed colours for spectacle frames are solid black, brown, gold or silver.<br>
+*   The school T-shirt must be worn for PE lessons and all other physical activities.<br>
+*   T-shirts’ sleeves should not be folded when worn.<br>
+*   Shoes must be white-based / predominantly white with white shoelaces, and be properly tied. The shoes must not cover the ball of the ankles. Disallowed shoes include moccasins, dress shoes, ballet shoes, high-cut shoes, slip-ons, shoes with velcro straps and those not deemed as standard school shoes.<br>
+*   Only plain white socks are allowed and they must be worn to conceal the ball of the ankle completely.<br>
+*   Fingernails must be kept short and clean.<br>
 
   
 
@@ -189,34 +190,35 @@ The following rules and regulations are to be adhered to:
 
 Students are expected to be respectful to all in school at all times. They are to follow the school rules and regulations and to respect the authority of the Councillors, student leaders and class committee members. They are to be caring towards their schoolmates and avoid any activity that may cause harm or injury to others.
 
-**At the Assembly Area during Flag Raising Ceremony /At Assembly in the Hall**  
+<b>At the Assembly Area during Flag Raising Ceremony /At Assembly in the Hall</b>
 
-*   Assemble according to classes and index numbers quickly and quietly.
-*   Students are required to bring along their reading materials. Observe silence and read while waiting for the programme to begin.
-*   Show appreciation and behave with consideration towards the speaker or the event/ performance being presented.
-*   Sing the National Anthem, School Song and take the pledge with pride and passion.
+*   Assemble according to classes and index numbers quickly and quietly.<br>
+*   Students are required to bring along their reading materials. Observe silence and read while waiting for the programme to begin.<br>
+*   Show appreciation and behave with consideration towards the speaker or the event/ performance being presented.<br>
+*   Sing the National Anthem, School Song and take the pledge with pride and passion.<br>
 
 <h4>Classroom Behaviour</h4>
 
 To ensure that the class is conducive for learning and students practise the school values:&nbsp;
 
-*   Students must keep their classrooms clean and tidy at all times.
+*   Students must keep their classrooms clean and tidy at all times.<br>
 
-*   Students on cleaning duty must complete their duty before the end of the day.
-*   Students are to have all their texts and materials for the lessons. They are not allowed to borrow books or any items from another class unless permission is granted by a teacher.
-*   Students must switch off the electrical items such as lights and fans before leaving the class.
-*   Students should not leave books and files in the classroom after dismissal unless authorised by their subject teachers.&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+*   Students on cleaning duty must complete their duty before the end of the day.<br>
+*   Students are to have all their texts and materials for the lessons. They are not allowed to borrow books or any items from another class unless permission is granted by a teacher.<br>
+*   Students must switch off the electrical items such as lights and fans before leaving the class.<br>
+*   Students should not leave books and files in the classroom after dismissal unless authorised by their subject teachers.<br>
 
 <h4>School Premises</h4>
 
 To ensure safety in school and respect for others in the school:  
 
-*   When moving from one place to another for lessons, students should move together in an orderly manner according to the PQR guidelines. (Walk in Pairs, remain Quiet and keep to the Right of the passageway).
-
-*   Students are not allowed to ride their bicycle, tricycle and skateboard in the school compound.
-*   Students are to dismount from their bicycle in the school compound and walk their bicycle to the designated bicycle bay.
-*   All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
-
+<ul>
+    <li>When moving from one place to another for lessons, students should move together in an orderly manner according to the PQR guidelines. (Walk in Pairs, remain Quiet and keep to the Right of the passageway).</li>
+<br>
+</li><li>Students are not allowed to ride their bicycle, tricycle and skateboard in the school compound.<br>
+</li><li>Students are to dismount from their bicycle in the school compound and walk their bicycle to the designated bicycle bay.<br>
+</li><li>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
+</li></ul>
 <h4>Use of Sports Facilities (school field, basketball court, ISH)</h4> 
 
 Students are encouraged to use the school facilities to play and exercise. In line with the school values of being caring, students should show sportsmanship, respect for opponents and team work throughout their play time. They should also adhere to the following safety measures: 
