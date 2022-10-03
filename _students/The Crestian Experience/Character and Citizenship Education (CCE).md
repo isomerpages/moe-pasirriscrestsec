@@ -19,13 +19,13 @@ third_nav_title: The Crestian Experience
 <p>The <strong>Crestian Overcomer</strong>is one who embodies the school values and has strength of character to pursue and realise challenges in life.<br /></p>
 	
 <p>To achieve this, we aim to equip students with the necessary competencies to meet future challenges in the 21st century, which are aligned to the school's 5 desired student learning outcomes.</p>
-	
-<ul>
-<li>Active and Engaged Learner</li>
-<li>Innovative Problem-Solver</li>
-<li>Effective Communicator</li>
-<li>Self-Disciplined and Responsible Leader</li>
-	<li>Active and Concerned Citizen with Global Awareness</li></ul>
+
+<div style="text-align:center;">
+Active and Engaged Learner<br/>
+Innovative Problem-Solver<br/>
+Effective Communicator<br/>
+Self-Disciplined and Responsible Leader<br/>
+Active and Concerned Citizen with Global Awareness</div>
 	
 <h4 style="color: orange;">PRCS Co-Curriculum Framework</h4>
 	
