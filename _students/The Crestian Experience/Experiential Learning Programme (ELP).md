@@ -67,17 +67,27 @@ third_nav_title: The Crestian Experience
 <div>
 <h2>SEC 2 - ACT LJ AT ART SCIENCE MUSEUM</h2>
 </div>
-<div><img alt="ACT LJ 1.png" src="/images/ACT LJ 1.png"></div>
-<div><img alt="ACT LJ 5.png" src="/images/ACT LJ 5.png"></div>
-<div><img alt="ACT LJ 6.png" src="/images/ACT LJ 6.png"></div>
-<div><img alt="ACT LJ 2.png" src="/images/ACT LJ 2.png"></div>
-<div><img alt="ACT LJ 3.png" src="/images/ACT LJ 3.png"></div>
-<div><img alt="ACT LJ 7.png" src="/images/ACT LJ 7.png"></div>
-<div><img alt="ACT LJ 8.png" src="/images/ACT LJ 8.png"><br><img alt="ACT LJ 4.png" src="/images/ACT LJ 4.png"></div>
+	
+<div><img alt="ACT LJ 1.png" src="/images/ACT LJ 1.png" style="width:50%; float:left;">
+	<img alt="ACT LJ 5.png" src="/images/ACT LJ 5.png" style="width:50%;"></div>
+	
+<div><img alt="ACT LJ 6.png" src="/images/ACT LJ 6.png" style="width:50%; float:left;">
+<img alt="ACT LJ 2.png" src="/images/ACT LJ 2.png" style="width:50%;"></div>
+	
+<div><img alt="ACT LJ 3.png" src="/images/ACT LJ 3.png" style="width:50%; float:left;"><img alt="ACT LJ 7.png" src="/images/ACT LJ 7.png" style="width:50%;"></div>
+	
+<div><img alt="ACT LJ 8.png" src="/images/ACT LJ 8.png" style="width:50%; float:left;">
+<img alt="ACT LJ 4.png" src="/images/ACT LJ 4.png" style="width:50%;"></div>
+	
 <div>
 <h2>SEC 2 - AESTHETICS ENTHIC DRUMS AT KALLANG CC</h2>
 </div>
-<div><img alt="Aesthetics Enthic Drums 1.png" src="/images/Aesthetics Enthic Drums 1.png"></div>
+	
+<div><img alt="Aesthetics Enthic Drums 1.png" src="/images/Aesthetics Enthic Drums 1.png" style="width:30%; float:left;">
+<img alt="Aesthetics Enthic Drums 2.png" src="/images/Aesthetics Enthic Drums 2.png" style="width:30%; float:left;">
+	<img alt="Aesthetics Enthic Drums 3.png" src="/images/Aesthetics Enthic Drums 3.png" style="width:30%;"></div>
+	
+<div><img alt="Aesthetics Enthic Drums 2.png" src="/images/Aesthetics Enthic Drums 2.png"><img alt="Aesthetics Enthic Drums 3.png" src="/images/Aesthetics Enthic Drums 3.png"></div>
 <div><img alt="Aesthetics Enthic Drums 2.png" src="/images/Aesthetics Enthic Drums 2.png"><img alt="Aesthetics Enthic Drums 3.png" src="/images/Aesthetics Enthic Drums 3.png"></div>
 <div><img alt="Aesthetics Enthic Drums 4.png" src="/images/Aesthetics Enthic Drums 4.png"></div>
 <div><br><img alt="Aesthetics Enthic Drums 5.png" src="/images/Aesthetics Enthic Drums 5.png"></div>
