@@ -288,7 +288,7 @@ The Speak English Policy is to promote communication among the different races. 
 </ul>
 </li>
 <li><input type="checkbox" /><label for="accordion4">STUDENT INSURANCE</label>
-<div>Parents /students are to submit their claims online and check the claims status through the online portal. Information on claims, FAQs and other details pertaining to the GPA Insurance Plan for Students can be found on Income Insurance Limited website at&nbsp;[https://www.income.com.sg/studentgpa](https://www.income.com.sg/studentgpa)</div>
+<div>Parents /students are to submit their claims online and check the claims status through the online portal. Information on claims, FAQs and other details pertaining to the GPA Insurance Plan for Students can be found on Income Insurance Limited website at <a href="https://www.income.com.sg/studentgpa">https://www.income.com.sg/studentgpa</a></div>
 </li>
 <li><input type="checkbox" /><label for="accordion5">PEDESTRIAN AND VEHICLE ROUTE</label>
 <div>Click <a href="/images/1443412269106905142.jpg">here</a> for Safe Route School Map.</div>
