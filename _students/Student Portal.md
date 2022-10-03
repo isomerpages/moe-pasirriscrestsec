@@ -4,7 +4,7 @@ permalink: /student-portal/
 description: ""
 ---
 <h1>Student Portal</h1>
-<ul>
+<ul class="jekyllcodex_accordion">
 <li><input type="checkbox" /><label for="accordion1">SLS SUPPORT</label>
 <div>
 <h3>School Operating Hours</h3>
