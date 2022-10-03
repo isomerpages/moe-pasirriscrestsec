@@ -11,9 +11,9 @@ description: ""
 		<label for="accordion1">2022 DIRECT SCHOOL ADMISSION (DSA) EXERCISE</label>
 		<div>
 
-<h4>Pasir Ris Crest Secondary School</h4>
-<h4>2022 Direct School Admission Exercise</h4>
-<h4>For admission to Secondary One in 2023</h4>
+<h4>Pasir Ris Crest Secondary School<br/>
+2022 Direct School Admission Exercise<br/>
+For admission to Secondary One in 2023</h4>
 
 <p>Direct School Admission (DSA) - Secondary Exercise for admission to Secondary One in 2023 takes place from May to September 2022.  Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’s academic and non-academic requirements, and the programmes available to develop and nurture the area of talent.
 
@@ -44,24 +44,24 @@ Primary school students who are interested to participate in this DSA exercise m
 
 <li>Applicants are required to login to the MOE Centralised DSA-SEC Portal to apply for the school’s identified talent area/s.</li>
 
-<li>Applicants NOT studying in MOE mainstream primary schools would need to obtain a Registration Number at MOE DSA-Sec website: <a href="https://go.gov.sg/nmsdsa-sec-application">https://go.gov.sg/nmsdsa-sec-application</a></li>
+<li>Applicants NOT studying in MOE mainstream primary schools would need to obtain a Registration Number at MOE DSA-Sec website: <a href="https://go.gov.sg/nmsdsa-sec-application">https://go.gov.sg/nmsdsa-sec-application</a></li></ul>
 
   
 
-<li>Applicants shortlisted for interview and selection test would receive a notification from Pasir Ris Crest Secondary School.  The selection interview dates are either on Thu, 14 July or Thu, 21 July 2022. </li>
+<p>Applicants shortlisted for interview and selection test would receive a notification from Pasir Ris Crest Secondary School.  The selection interview dates are either on Thu, 14 July or Thu, 21 July 2022. 
 
   
 
-<li>Shortlisted applicants may wish to submit certified true copies of certificates /documentary proof for non-school based activities and achievements in support of the DSA application on the day of the selection /interview.</li>
+Shortlisted applicants may wish to submit certified true copies of certificates /documentary proof for non-school based activities and achievements in support of the DSA application on the day of the selection /interview.
 
   
 
-<li>Applicants will be notified of the selection outcome through email or hardcopy letters <strong>by 31 August (Wed) 2022.</strong></li>
+Applicants will be notified of the selection outcome through email or hardcopy letters <strong>by 31 August (Wed) 2022.</strong>
 
   
 
-<li>The decision of the school is final.</li>
-</ul>
+The decision of the school is final.</p>
+
 </div>
 
 <li>
