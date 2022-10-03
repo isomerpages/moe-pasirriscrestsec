@@ -3,6 +3,7 @@ title: Student Portal
 permalink: /student-portal/
 description: ""
 ---
+
 <h1>Student Portal</h1>
 
 <ul class="jekyllcodex_accordion">
@@ -167,14 +168,15 @@ Students are the school’s representatives in the community and are expected to
 
 The following rules and regulations are to be adhered to:
 
-*   Students must be in proper school attire whenever they come to school, including school holidays. Students are to wear the prescribed school attire without any improper modification.<br>
-*   Hair must be kept neatly in its natural colour. Outlandish, spiky/ punkish or dyed/ coloured/ highlighted hair is not allowed.<br>
-*   Fancy spectacles, coloured contact lenses and tinted glasses are not allowed. Prescribed colours for spectacle frames are solid black, brown, gold or silver.<br>
-*   The school T-shirt must be worn for PE lessons and all other physical activities.<br>
-*   T-shirts’ sleeves should not be folded when worn.<br>
-*   Shoes must be white-based / predominantly white with white shoelaces, and be properly tied. The shoes must not cover the ball of the ankles. Disallowed shoes include moccasins, dress shoes, ballet shoes, high-cut shoes, slip-ons, shoes with velcro straps and those not deemed as standard school shoes.<br>
-*   Only plain white socks are allowed and they must be worn to conceal the ball of the ankle completely.<br>
-*   Fingernails must be kept short and clean.<br>
+*   Students must be in proper school attire whenever they come to school, including school holidays. Students are to wear the prescribed school attire without any improper modification.
+</li><li>Hair must be kept neatly in its natural colour. Outlandish, spiky/ punkish or dyed/ coloured/ highlighted hair is not allowed.
+</li><li>Fancy spectacles, coloured contact lenses and tinted glasses are not allowed. Prescribed colours for spectacle frames are solid black, brown, gold or silver.
+</li><li>The school T-shirt must be worn for PE lessons and all other physical activities.
+</li><li>T-shirts’ sleeves should not be folded when worn.
+</li><li>Shoes must be white-based / predominantly white with white shoelaces, and be properly tied. The shoes must not cover the ball of the ankles. Disallowed shoes include moccasins, dress shoes, ballet shoes, high-cut shoes, slip-ons, shoes with velcro straps and those not deemed as standard school shoes.
+</li><li>Only plain white socks are allowed and they must be worn to conceal the ball of the ankle completely.
+</li><li>Fingernails must be kept short and clean.
+</li></ul>
 
   
 
@@ -192,30 +194,31 @@ Students are expected to be respectful to all in school at all times. They are t
 
 <b>At the Assembly Area during Flag Raising Ceremony /At Assembly in the Hall</b>
 
-*   Assemble according to classes and index numbers quickly and quietly.<br>
-*   Students are required to bring along their reading materials. Observe silence and read while waiting for the programme to begin.<br>
-*   Show appreciation and behave with consideration towards the speaker or the event/ performance being presented.<br>
-*   Sing the National Anthem, School Song and take the pledge with pride and passion.<br>
-
+<ul><li>Assemble according to classes and index numbers quickly and quietly.<br>
+</li><li>Students are required to bring along their reading materials. Observe silence and read while waiting for the programme to begin.<br>
+</li><li>Show appreciation and behave with consideration towards the speaker or the event/ performance being presented.<br>
+</li><li>Sing the National Anthem, School Song and take the pledge with pride and passion.<br>
+</li></ul>
 <h4>Classroom Behaviour</h4>
 
 To ensure that the class is conducive for learning and students practise the school values:&nbsp;
 
-*   Students must keep their classrooms clean and tidy at all times.<br>
-
-*   Students on cleaning duty must complete their duty before the end of the day.<br>
-*   Students are to have all their texts and materials for the lessons. They are not allowed to borrow books or any items from another class unless permission is granted by a teacher.<br>
-*   Students must switch off the electrical items such as lights and fans before leaving the class.<br>
-*   Students should not leave books and files in the classroom after dismissal unless authorised by their subject teachers.<br>
-
+<ul><li>Students must keep their classrooms clean and tidy at all times.
+</li>
+<br>
+<li>Students on cleaning duty must complete their duty before the end of the day.
+</li><li>Students are to have all their texts and materials for the lessons. They are not allowed to borrow books or any items from another class unless permission is granted by a teacher.
+</li><li>Students must switch off the electrical items such as lights and fans before leaving the class.
+</li><li>Students should not leave books and files in the classroom after dismissal unless authorised by their subject teachers.
+</li></ul>
 <h4>School Premises</h4>
 
 To ensure safety in school and respect for others in the school:  
 
 <ul>
-    <li>When moving from one place to another for lessons, students should move together in an orderly manner according to the PQR guidelines. (Walk in Pairs, remain Quiet and keep to the Right of the passageway).</li>
-<br>
-</li><li>Students are not allowed to ride their bicycle, tricycle and skateboard in the school compound.<br>
+    <li>When moving from one place to another for lessons, students should move together in an orderly manner according to the PQR guidelines. (Walk in Pairs, remain Quiet and keep to the Right of the passageway).
+</li><br>
+<li>Students are not allowed to ride their bicycle, tricycle and skateboard in the school compound.<br>
 </li><li>Students are to dismount from their bicycle in the school compound and walk their bicycle to the designated bicycle bay.<br>
 </li><li>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
 </li></ul>
@@ -223,41 +226,46 @@ To ensure safety in school and respect for others in the school:
 
 Students are encouraged to use the school facilities to play and exercise. In line with the school values of being caring, students should show sportsmanship, respect for opponents and team work throughout their play time. They should also adhere to the following safety measures: 
 
-*   Students must hydrate themselves before and after their play.
-*   Students must report any injury to the General Office or PE office immediately.
-*   Students must be aware of any change in weather condition during play and stay indoors when it is raining or lighting alert is turned on.
-
+<ul>
+    <li>Students must hydrate themselves before and after their play.
+</li><li>Students must report any injury to the General Office or PE office immediately.
+</li><li>Students must be aware of any change in weather condition during play and stay indoors when it is raining or lighting alert is turned on.
+</li></ul>
 <h4>School Property</h4>
 
 To instill the value of caring:  
 
-*   Students are to handle and use the school property with care.
-*   Students must not tamper with other equipment on the field and in the ISH.
-*   Students are to keep the toilets clean and flushed after use.
-
+<ul>
+    <li>Students are to handle and use the school property with care.
+    </li><li>Students must not tamper with other equipment on the field and in the ISH.
+    </li><li>Students are to keep the toilets clean and flushed after use.
+    </li></ul>
 <h4>Rules and Regulations</h4>
 
 To promote a caring, safe and conducive learning environment and to instill discipline in learning, students are to conform to the following rules and regulations:
 
 At the Assembly Area during Flag Raising Ceremony/ At Assembly in the Hall
 
-*   To promote citizenship, students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.
-*   Students who are not Singapore citizens must stand at attention and maintain respectful silence.
-
+<ul>
+    <li>To promote citizenship, students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.
+    </li><li>Students who are not Singapore citizens must stand at attention and maintain respectful silence.
+    </li></ul>
 <h4>Classroom Behaviour</h4>
 
-*   Students are not allowed to leave the classroom without an Exit Pass, which must be displayed clearly on the student when out of the classroom.
+<ul>
+    <li>Students are not allowed to leave the classroom without an Exit Pass, which must be displayed clearly on the student when out of the classroom.
 *   Students are not allowed to eat in the classroom.
 *   Students must leave their classrooms during recess unless authorised by a teacher.
-
+</li></ul>
 <h4>School Premises</h4>
 
-*   Students are not allowed to loiter during curriculum time.
+<ul>
+    <li>Students are not allowed to loiter during curriculum time.
 
 *   Students are not allowed to use the designated special rooms and venues such as the Computer Labs, School Halls etc for any activity at any time unless authorized by a teacher.
 *   Students must not enter the Staff Room and HOD Room without permission.
 *   Students are not allowed to eat in the canteen during lesson time unless permission is granted.
-
+</li></ul>
 <h4>Use of Sports Facilities (school field, basketball court, ISH)</h4>
 
 Students must adhere to the following rules and regulations when using the sports facilities:
@@ -266,48 +274,52 @@ Students must adhere to the following rules and regulations when using the sport
 
 To ensure students are properly attired and ready for lessons:
 
-*   Students are not allowed to play before school. Students can only play during recess and after school, from 3pm to 5.30pm, provided they have no lesson, CCA or other school programmes.
-*   During recess, students must stop their play 10 minutes before the start of the next lesson. The students’ playing equipment, like soccer ball and frisbee, will be confiscated if they do not comply with the above.
-
+<ul>
+    <li>Students are not allowed to play before school. Students can only play during recess and after school, from 3pm to 5.30pm, provided they have no lesson, CCA or other school programmes.
+    </li><li>During recess, students must stop their play 10 minutes before the start of the next lesson. The students’ playing equipment, like soccer ball and frisbee, will be confiscated if they do not comply with the above.
+    </li></ul>
 <h4>Attire</h4>
 Wearing proper attire will reduce the risk of injury and heat stroke, thus,
 
-*   Students must be in half uniform, i.e. PE T-shirts and shorts/pants/skirts for their play during recess.
-*   Students&nbsp;**must be**&nbsp;in full PE attire (PE T-shirts and shorts) when they play after school hours.
-
+<ul>
+    <li>Students must be in half uniform, i.e. PE T-shirts and shorts/pants/skirts for their play during recess.
+    </li><li>Students&nbsp;**must be**&nbsp;in full PE attire (PE T-shirts and shorts) when they play after school hours.
+    </li></ul>
 <h4>School Property</h4>
 
 To instill the value of caring and being righteous:
 
-*   Students are not to remove furniture, equipment and other items from any part of the school premises without the permission of the teacher-in-charge or the Operation Manager.
+<ul>
+    <li>Students are not to remove furniture, equipment and other items from any part of the school premises without the permission of the teacher-in-charge or the Operation Manager.
 
-*   Students are not to vandalise any school property.
-
+    </li><li>Students are not to vandalise any school property.
+    </li></ul>
 <h4>Use of mobile phones</h4>
 
 Students are encouraged not to bring their mobile phones to school. They may use the telephone in the General Office if they need to contact their parents/guardians. In an emergency, their parents/ guardians can call the school to contact the student. Students bring mobile phones to school at their own risk and the school will not be held liable or responsible for any loss or damage to the mobile phones. The following must be adhered to <b>unless a teacher’s permission has been expressly granted</b>.
 
   
 
-*   Students cannot use their mobile phones during curriculum and co-curriculum time.
+<ul>
+    <li>Students cannot use their mobile phones during curriculum and co-curriculum time.
 
-*   Students can only use their mobile phones in the designated areas.
+    </li><li>Students can only use their mobile phones in the designated areas.
 
-*   Mobile phones cannot be used in all the Academic Blocks C, D, E &amp; F, areas between Blocks E &amp; F, Parade Square before the start of the morning assembly, library and all staircases.
+    </li><li>Mobile phones cannot be used in all the Academic Blocks C, D, E &amp; F, areas between Blocks E &amp; F, Parade Square before the start of the morning assembly, library and all staircases.
 
-*   Students are to ensure their mobile phones are turned off at all times when they are in the classrooms. Mobile phones that are turned on are considered being used by the students.
+    </li><li>Students are to ensure their mobile phones are turned off at all times when they are in the classrooms. Mobile phones that are turned on are considered being used by the students.
 
-*   Mobile phones are not to be used for audio or video recording or picture taking.
+    </li><li>Mobile phones are not to be used for audio or video recording or picture taking.
 
-*   Mobile phones will be confiscated and kept by the office for **ONE** week if a student violates any of the rules related to the usage of mobile phones.
+    </li><li>Mobile phones will be confiscated and kept by the office for **ONE** week if a student violates any of the rules related to the usage of mobile phones.
 
-*   Students who allow other students to misuse their mobile phones will have their mobile phones confiscated and kept by the office for **ONE** week.
+    </li><li>Students who allow other students to misuse their mobile phones will have their mobile phones confiscated and kept by the office for **ONE** week.
 
-*   Repeat offences will result in the mobile phones to be confiscated for&nbsp;**ONE month**.
+    </li><li>Repeat offences will result in the mobile phones to be confiscated for&nbsp;**ONE month**.
 
-*   Confiscated mobile phones will only be returned to parents/guardians after the confiscation period.
+    </li><li>Confiscated mobile phones will only be returned to parents/guardians after the confiscation period.
 
-  
+    </li></ul>
 
 <h3> 3) ATTENDANCE AND PUNCTUALITY</h3>
 
@@ -315,29 +327,31 @@ Students are encouraged not to bring their mobile phones to school. They may use
 
 <h4>Expected Student Behaviour</h4>
 
-*   To support students in managing their time effectively, leading to being self-disciplined and self-motivated, students are expected to attend all their school activities and to be punctual for them.
+<ul>
+    <li>To support students in managing their time effectively, leading to being self-disciplined and self-motivated, students are expected to attend all their school activities and to be punctual for them.
     
-    **Rules and Regulations  
-    **Students are to comply with the following school rules and regulations:
+    <b>Rules and Regulations <br>
+    Students are to comply with the following school rules and regulations:</b>
     
     <h5>Attendance</h5>
     
     *   Students who are absent must present a Medical Certificate or a letter from a parent/guardian as soon as he/ she returns to school.
     
-    *   Students wishing to leave school during school hours must fill in a prescribed form available from the General Office and get it signed by the Home Tutors/subject teacher. Home Tutors/subject teachers may grant approval after checking that the reason given is genuine. The student then needs to see the Principal / Vice-Principal/ Key Personnel for final approval to be given. The parent/guardian would have to come to school to pick up the student.
+</li><li>Students wishing to leave school during school hours must fill in a prescribed form available from the General Office and get it signed by the Home Tutors/subject teacher. Home Tutors/subject teachers may grant approval after checking that the reason given is genuine. The student then needs to see the Principal / Vice-Principal/ Key Personnel for final approval to be given. The parent/guardian would have to come to school to pick up the student.
     
-    *   Students who are taken ill during school hours must be accompanied home by a parent or an adult whom the parent has given consent.
+</li><li>Students who are taken ill during school hours must be accompanied home by a parent or an adult whom the parent has given consent.
     
-    *   Students who leave school early for medical reasons must produce a valid medical document (e.g. appointment card, Medical Certificate).
+</li><li>Students who leave school early for medical reasons must produce a valid medical document (e.g. appointment card, Medical Certificate).
     
-    *   Students who leave school early for other personal reasons must produce a valid document (e.g. Music exams entry proof, external examinations letter).
-    
+</li><li>Students who leave school early for other personal reasons must produce a valid document (e.g. Music exams entry proof, external examinations letter).
+</li></ul>
     <h5>Punctuality</h5>  
     
-    *   Students will be considered late if they are not with their classes when the bell has rung for the start of the flag-raising ceremony.
+    <ul>
+        <li>Students will be considered late if they are not with their classes when the bell has rung for the start of the flag-raising ceremony.
     
-    *   Late comers are to report to the office and must obtain a permission slip (green slip) to enter the classroom.
-    
+</li><li>Late comers are to report to the office and must obtain a permission slip (green slip) to enter the classroom.
+</li></ul>
 
   
 
@@ -353,10 +367,11 @@ To be self-motivated and self-disciplined, students are expected to complete all
 <h4>Rules and Regulations  
 Students are to follow the following school rules and regulations:</h4>  
 
-*   To submit all schoolwork on time.
-*   To not plagiarise.
-*   To not copy the work of other students.
-
+<ul>
+    <li>To submit all schoolwork on time.
+    </li><li>To not plagiarise.
+    </li><li>To not copy the work of other students.
+    </li></ul>
   
 
 <h3> 5) SOCIAL</h3>
@@ -373,14 +388,16 @@ The Speak English Policy is to promote communication among the different races. 
 
 <h4>Rules and Regulations</h4>
 
-*   Students are required to adhere to the following rules and regulations:
-*   Students are to obey instructions given by the authority.
-*   Students should not engage in fights, assault, bullying, extortion or behaviour that endanger the safety of others.
-*   Students are to behave appropriately with staff, teachers and schoolmates.
-*   Students are to respect their schoolmates’ belongings.
-*   Students must not use vulgarities at all times in the school.
-*   Students must be truthful and honest to staff, teachers and schoolmates.
-*   Students are to dispose of their litter appropriately.
+<ul>
+    <li>Students are required to adhere to the following rules and regulations:
+    </li><li>Students are to obey instructions given by the authority.
+    </li><li>Students should not engage in fights, assault, bullying, extortion or behaviour that endanger the safety of others.
+    </li><li>Students are to behave appropriately with staff, teachers and schoolmates.
+    </li><li>Students are to respect their schoolmates’ belongings.
+    </li><li>Students must not use vulgarities at all times in the school.
+    </li><li>Students must be truthful and honest to staff, teachers and schoolmates.
+    </li><li>Students are to dispose of their litter appropriately.
+    </li></ul>
 	</div>
 </li>
     
