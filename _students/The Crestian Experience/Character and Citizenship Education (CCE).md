@@ -140,7 +140,7 @@ Active and Concerned Citizen with Global Awareness</div>
 </tr>
 </tbody>
 </table>
-<p><br />SECONDARY 3 LEVEL CAMP</p>
+<h2><br />SECONDARY 3 LEVEL CAMP</h2>
 <div>
 <p>After my OBS camp, many asked "was it challenging?". I would say, "challenging and tough" is an understatement. OBS is unpredictable. It gets torturous when you are fasting as well. A 5-day course such as OBS is truly an experience as I am given the chance to interact with others including those from elite schools such as Raffles Institution.</p>
 <p>There were so many things that I have learnt but if you were to ask for my greatest takeaway, it would be resilience. OBS is not just about you or me. It is about being in a team. You learn how to work as a team and you learn how to go far as a team. Resilience plays a very big role in teamwork. This is because if one member is down, the team would not be able to progress. I experienced the struggle to move on due to an injury but because my team wanted so badly to reach our destination during the land expeditions, my teammates actually provided me with words of encouragement as well as motivation so that the thoughts of giving up would not stay long in my mind.</p>
@@ -189,7 +189,7 @@ Active and Concerned Citizen with Global Awareness</div>
 </tr>
 </tbody>
 </table>
-<h2>SECONDARY 4 LEVEL CAMP&nbsp;</h2>
+<h2>SECONDARY 4 LEVEL CAMP</h2>
 <div>Inspiring, motivating. Those would be the two words that perfectly described our secondary 4 level camp experience. Our camp was activity-filled. We were taught unique ways to create our very own notes, did personality test to find our true self and figure out our best methods of learning. We also did dragon-boating which bonded us through teamwork. The camp taught us important life values like never giving up and to put in our best effort in everything we do. Many of us were more proactive and hardworking for our national examinations because of this very encouraging experience. I am proud to say that most of us applied what we were taught during this motivational camp. I am absolutely grateful for this experience. &ldquo;Hardwork is temporary, glory is forever&rdquo;.</div>
 <div>Chia Wen Wen</div>
 <div>Class 4/3 (2016)</div>
@@ -213,17 +213,16 @@ Active and Concerned Citizen with Global Awareness</div>
 </li>
 <li><input type="checkbox" /> <label for="accordion4">VALUES IN ACTION PROGRAMMES</label>
 <div>
-	<h4>Overview</h4>
+	<h4 style="color: orange;">Overview</h4>
 <p>Values in Action (VIA) is an integral part of Character and Citizenship Education (CCE), aligned to the school&rsquo;s desired learning outcome of nurturing student to become&nbsp;<strong><em>Active and Concerned Citizens with Global Awareness</em></strong>. VIA are learning experiences that support our students&rsquo; development as&nbsp;<strong>socially responsible citizens who contribute meaningfully to the community</strong>, through the learning and application of school values, knowledge and skills.</p>
-<h4>Objectives</h4>
+<h4 style="color: orange;">Objectives</h4>
 <p>The VIA programme aims to develop students to:</p>
 <ol>
 <li>demonstrate a sense of responsibility towards the community and nation, and take actions to contribute to them; and</li>
 <li>be able to reflect on and respond to social and environmental issues locally and regionally.</li>
 </ol>
 <p>All students will be progressively developed during their time in school, and different levels will focus on different themes each year. All students should participate in VIA learning experiences for at least 12 hours by the end of Secondary Two, and a total of 24 hours by the end of Secondary Four or Five. Students will be given opportunities to work with their classmates to initiate their own VIA projects.</p>
-<h4>Secondary 1</h4>
-<h4>Theme: Environmental Conservation</h4>
+<h4 style="color: orange;">Secondary 1<br/>Theme: Environmental Conservation</h4>
 <table width="650px">
 <tbody>
 <tr>
@@ -231,8 +230,7 @@ Active and Concerned Citizen with Global Awareness</div>
 </tbody>
 </table>
 <p>In line with the Keep Singapore Clean Movement, and to develop a sense of self-responsibility in students, the Secondary One students play their part in keeping common spaces clean through the school&rsquo;s Experiential Learning Programme in Semester One. Students will first acquire knowledge on pollution through the Science Camp, before putting their knowledge into action by participating in a beach clean-up at the East Coast Park. Students will also create posters to raise awareness on the importance of environmental conservation.</p>
-<h4>Secondary 2</h4>
-<h4>Theme: Children</h4>
+<h4 style="color: orange;">Secondary 2<br/>Theme: Children</h4>
 <table>
 <tbody>
 <tr>
@@ -240,8 +238,7 @@ Active and Concerned Citizen with Global Awareness</div>
 </tbody>
 </table>
 <p>Secondary Two students go through a peer leadership and events management training workshop in Term two. They then identify a charitable children organisation supported by the Community Chest to raise funds for the Youth Day Appeal in July. Over the next three months, students plan for their fund-raising booths in groups in preparation for the Racial Harmony Day Carnival.</p>
-<h4>Secondary 3</h4>
-<h4>Theme: Intergeneration (Seniors)</h4>
+<h4 style="color: orange;">Secondary 3<br/>Theme: Intergeneration (Seniors)</h4>
 <table>
 <tbody>
 <tr>
@@ -249,7 +246,7 @@ Active and Concerned Citizen with Global Awareness</div>
 </tbody>
 </table>
 <p>Secondary Three students will participate in a service leadership workshop, through which they acquire leadership competencies that can be applied when serving to the community. They then take part in intergenerational projects which will provide them with opportunities to interact with the seniors in the community. Through such projects, the school aims to forge stronger intergenerational bonds between our students and seniors.</p>
-<h4>Secondary 4/5</h4>
+<h4 style="color: orange;">Secondary 4/5</h4>
 <p>Theme: Local Community at Large</p>
 <p>Secondary Four and Five students exercise autonomy in conceptualising and executing their own VIA projects during their final year. The students are given the first semester to identify a local beneficiary, and they will analyse their needs before proposing a project that seeks to address the needs of the beneficiary or promote a cause that they care for.</p>
 <p>Overseas Values-in-Action (OVIA): Vietnam</p>
