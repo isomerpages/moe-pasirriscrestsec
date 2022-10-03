@@ -10,8 +10,8 @@ description: ""
 		<input id="accordion1" type="checkbox">
 		<label for="accordion1">SLS SUPPORT</label>
 <div>
-	
-<b><u>School Operating Hours</u></b> 
+
+<h3><b><u>School Operating Hours</u></b></h3>
 <br>
 <p>During school operating hours, students should contact the <b><u>School-based Helpline</u></b> for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.</p><br><br>
 
@@ -19,7 +19,7 @@ description: ""
 Mondays - Fridays: 8:00 am - 4:00 pm </b></p><br><br>
 For other matters, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
 
-<u><b>Non-School Operating Hours</b></u><br><br>
+<h3><u><b>Non-School Operating Hours</b></u></h3><br><br>
 Students can only contact the <u><b>SLS Helpdesk</b></u> outside the school operating hours.<br><br>
 
 SLS Helpdesk: 6702 6513<br><br>
@@ -49,10 +49,9 @@ For Sec 1 students, click <a href="/files/SLS%20Account%20Management%20-%20Guide
 
   
 
-<b><u>What is SLS?</b></u><br>
+<b><u>What is SLS?</b></u>
+<br>
 Click to <a href="https://www.youtube.com/watch?v=F0FTP2FveSg&amp;feature=youtu.be">watch the video.</a><br><br>
-
-  
 
 <b><u>INSTRUCTIONS FOR STUDENTS<br><br>
 SYSTEM REQUIREMENTS</b></u> 
@@ -94,22 +93,21 @@ Q1: My account has been locked. What should I do?</b>
 Your account will be locked after 6 consecutive attempts to log in with an incorrect password. Please call the SLS Helpdesk at 6702 6513 to unlock your account. You will need to answer the security questions to verify that you are the legitimate account holder.
 
   
-
-**Operating Hours**
+<b>Operating Hours</b>
 
 Mondays to Fridays: 9:00 am - 9:00 pm
 
-Saturdays: 9:00 am - 3:00 pm&nbsp;
+Saturdays: 9:00 am - 3:00 pm
 
   
 
-**Q2: I used the “Password Reset Link Method” but I cannot find my password reset email. What can I do?**
+<b>Q2: I used the “Password Reset Link Method” but I cannot find my password reset email. What can I do?</b>
 
 If you cannot see the email in your inbox, it may be in the spam or junk email folder. The URL in the email will expire within 10 minutes. If the URL has expired, go to the login page and select "Forgot Password" to try again.
 
   
 
-**Q3: What are the Operating System and Browser Requirements for SLS?**
+	<b>Q3: What are the Operating System and Browser Requirements for SLS?</b>
 
 The following are the recommended operating systems:
 
@@ -125,30 +123,30 @@ SLS is accessible through the latest internet browsers (minimum: Internet Explor
 
   
 
-**Q4 : Can SLS run on mobile phones?**
+<b>Q4 : Can SLS run on mobile phones?*</b>
 
 You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.
-	</div>
+</div>
+</li>
 	
-</li><li>
+<li>
 		<input id="accordion3" type="checkbox">
 		<label for="accordion3">EXPECTED STUDENT BEHAVIOUR - RULES AND REGULATIONS</label>
-
 <div>
 	
 To guide students in their character development and in order to achieve our desired learning outcomes especially of being a Self-Disciplined and Responsible Leader as well as an Active and Concerned Citizen with Global Awareness, the school has in place the following Expected Student Behaviours and Rules and Regulations, which are divided into five main categories. These Expected Student Behaviours and Rules and Regulations are to support the students in understanding the importance of good moral behavior, respect and care for self and others and to create a conducive environment for learning to take place. The categories are aligned to the school values of Care, Resilience, Excellence, Self-Belief, Trustworthiness (CREST).
+</div>
+  
+<h3> 1) ATTIRE / APPEARANCE </h3>
 
   
 
-#### 1) ATTIRE / APPEARANCE
-
-  
-
-**Expected Student Behaviour**  
+</b>Expected Student Behaviour</b>
 
 Students are the school’s representatives in the community and are expected to be always prim and proper in their school attire at all times. Taking pride in wearing the school uniform will help students to be self-disciplined and self-motivated.
 
-**Rules and Regulations**  
+<b>Rules and Regulations</b>
+
 The following rules and regulations are to be adhered to:
 
 *   Students must be in proper school attire whenever they come to school, including school holidays. Students are to wear the prescribed school attire without any improper modification.
@@ -162,7 +160,7 @@ The following rules and regulations are to be adhered to:
 
   
 
-****PROPER SCHOOL ATTIRE FOR BOYS****
+<h4>PROPER SCHOOL ATTIRE FOR BOYS</h4>
 
 <table style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; text-align: left; width: 694.555px;" class="iveo_table ives_tab_1"><tbody style="margin: 0px; outline: 0px; padding: 0px;" class=""><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(68, 68, 68); width: 368px;" width="284" class="" colspan="2"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;" type="disc" class=""><li style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN-US" class="">Boys are to put on the school tie daily.</span></li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN-US" class="">Boy's shirts should always be tucked in with unfolded sleeves.</span></li></ul><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 1.75 !important; color: rgb(16, 25, 66); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 1em;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN-US" class="">&nbsp;</span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(68, 68, 68); width: 354px;" width="284" class=""><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;" type="disc" class=""><li style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN-US" class="">Boys are prohibited from wearing earrings, ear sticks, ear studs or any facial studs.</span></li></ul></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(244, 245, 252); color: rgb(68, 68, 68);" width="142" class="" rowspan="2"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 1.75 !important; color: rgb(16, 25, 66); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 1em;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN-US" class="">&nbsp;</span><img style="margin: 0px 10px 10px 0px; outline: 0px; padding: 0px; border: 1px solid rgb(153, 153, 153); max-width: calc(100% - 10px); float: left; box-shadow: rgb(153, 153, 153) 5px 5px 8px; width: 131px; height: 390px;" class="ive_eobj_left" alt="Proper Attire - Boy 1" src="https://prcss.moe.edu.sg/qql/slot/u200/images/students/boy%201.jpg"></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(244, 245, 252); color: rgb(68, 68, 68);" width="142" class=""><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 1.75 !important; color: rgb(16, 25, 66); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 1em;" class=""><img style="margin: 0px 10px 10px 0px; outline: 0px; padding: 0px; border: 1px solid rgb(153, 153, 153); max-width: calc(100% - 10px); float: left; box-shadow: rgb(153, 153, 153) 5px 5px 8px; width: 115px; height: 172px;" class="ive_eobj_left" alt="Proper Attire - Boy 2" src="https://prcss.moe.edu.sg/qql/slot/u200/images/students/boy%202.jpg"></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(244, 245, 252); color: rgb(68, 68, 68);" width="284" class="" rowspan="2"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;" type="disc" class=""><li style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN-US" class="">Hair must be short and neat. Hair should be sloped and when combed down should not touch the eye brows, the ears and the collar. The sideburn should not be lower than the half ear mark. The length of the hair should be consistent throughout and the differences in length should not exceed more than 4 cm.</span></li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN-US" class="">Boys must maintain a clean-shaven appearance at all times in school.</span></li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN-US" class="">Sideburns must</span><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN-US" class=""><span>&nbsp;</span>not be longer than half of the earlobes.</span></li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN-US" class="">Pants must not be tapered.</span></li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN-US" class="">Pants must be altered to its correct length.</span></li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN-US" class="">Long pants must cover the balls of the ankles.</span></li></ul><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 1.75 !important; color: rgb(16, 25, 66); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 1em;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN-US" class="">&nbsp;</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(68, 68, 68);" width="142" class=""><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 1.75 !important; color: rgb(16, 25, 66); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 1em;" class=""><img style="margin: 0px 10px 10px 0px; outline: 0px; padding: 0px; border: 1px solid rgb(153, 153, 153); max-width: calc(100% - 10px); float: left; box-shadow: rgb(153, 153, 153) 5px 5px 8px; width: 115px; height: 164px;" class="ive_eobj_left" alt="Proper Attire - Boy 3" src="https://prcss.moe.edu.sg/qql/slot/u200/images/students/boy%203.jpg"></p></td></tr></tbody></table>
 
@@ -170,9 +168,7 @@ The following rules and regulations are to be adhered to:
 
 <table style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; text-align: left; width: 694.555px;" class="iveo_table ives_tab_1"><tbody style="margin: 0px; outline: 0px; padding: 0px;" class=""><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(68, 68, 68); width: 184px;" width="142" class="" rowspan="2"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 1.75 !important; color: rgb(16, 25, 66); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 1em;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN-US" class=""><img style="margin: 0px 10px 10px 0px; outline: 0px; padding: 0px; border: 1px solid rgb(153, 153, 153); max-width: calc(100% - 10px); float: left; box-shadow: rgb(153, 153, 153) 5px 5px 8px; width: 119px; height: 372px;" class="ive_eobj_left" alt="Proper Attire - Girl 1" src="https://prcss.moe.edu.sg/qql/slot/u200/images/students/girl%201.jpg">&nbsp;</span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(68, 68, 68); width: 186px;" width="145" class=""><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 1.75 !important; color: rgb(16, 25, 66); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 1em;" class=""><img style="margin: 0px 10px 10px 0px; outline: 0px; padding: 0px; border: 1px solid rgb(153, 153, 153); max-width: calc(100% - 10px); float: left; box-shadow: rgb(153, 153, 153) 5px 5px 8px; width: 116px; height: 172px;" class="ive_eobj_left" alt="Proper Attire - Girl 2" src="https://prcss.moe.edu.sg/qql/slot/u200/images/students/girl%202.jpg"></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(255, 255, 255); color: rgb(68, 68, 68); width: 352px;" width="281" class="" rowspan="2"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;" type="disc" class=""><li style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN-US" class="">Hair must be neat and tidy. The fringe must not touch the eyebrows. There must not be any hair covering the face. If necessary, only black hair bands/clips can be worn. Girls who have hair touching their shoulders must be kept tied up<span>&nbsp;</span><b style="margin: 0px; outline: 0px; padding: 0px;" class=""><u style="margin: 0px; outline: 0px; padding: 0px;" class="">at all times</u></b>.</span></li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN-US" class="">Girls are allowed one pair of black/dark blue, plain, simple ear studs of the same design or one pair of translucent ear sticks on each earlobe.</span></li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN-US" class="">The blouse should not be folded when worn.</span></li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN-US" class="">The length of the skirts must not be shorter than 5 cm above the knee.</span></li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" lang="EN-US" class="">The skirts should not be folded around the waist when worn.</span>&nbsp;</li></ul></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 5px; text-align: center; background: rgb(244, 245, 252); color: rgb(68, 68, 68);" width="145" class=""><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 1.75 !important; color: rgb(16, 25, 66); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 1em;" class=""><img style="margin: 0px 10px 10px 0px; outline: 0px; padding: 0px; border: 1px solid rgb(153, 153, 153); max-width: calc(100% - 10px); float: left; box-shadow: rgb(153, 153, 153) 5px 5px 8px; width: 121px; height: 180px;" class="ive_eobj_left" alt="Proper Attire - Girl 3" src="https://prcss.moe.edu.sg/qql/slot/u200/images/students/girl%203.jpg"></p></td></tr></tbody></table>
 
-####   
-
-#### 2) Expected Student Behaviour
+<h3> 2) Expected Student Behaviour </h3>
 
   
 
@@ -187,7 +183,7 @@ Students are expected to be respectful to all in school at all times. They are t
 *   Show appreciation and behave with consideration towards the speaker or the event/ performance being presented.
 *   Sing the National Anthem, School Song and take the pledge with pride and passion.
 
-**Classroom Behaviour**  
+<b>Classroom Behaviour</b>
 
 To ensure that the class is conducive for learning and students practise the school values:&nbsp;
 
@@ -216,7 +212,7 @@ Students are encouraged to use the school facilities to play and exercise. In li
 *   Students must report any injury to the General Office or PE office immediately.
 *   Students must be aware of any change in weather condition during play and stay indoors when it is raining or lighting alert is turned on.
 
-**School Property**  
+<b>School Property</b>
 
 To instill the value of caring:  
 
@@ -239,7 +235,7 @@ At the Assembly Area during Flag Raising Ceremony/ At Assembly in the Hall
 *   Students are not allowed to eat in the classroom.
 *   Students must leave their classrooms during recess unless authorised by a teacher.
 
-**School Premises**  
+<b>School Premises</b>
 
 *   Students are not allowed to loiter during curriculum time.
 
@@ -247,11 +243,11 @@ At the Assembly Area during Flag Raising Ceremony/ At Assembly in the Hall
 *   Students must not enter the Staff Room and HOD Room without permission.
 *   Students are not allowed to eat in the canteen during lesson time unless permission is granted.
 
-**Use of Sports Facilities (school field, basketball court, ISH)**  
+<b>Use of Sports Facilities (school field, basketball court, ISH)</b>
 
 Students must adhere to the following rules and regulations when using the sports facilities:
 
-**Playing time**
+<b>Playing time</b>
 
 To ensure students are properly attired and ready for lessons:
 
@@ -273,9 +269,9 @@ To instill the value of caring and being righteous:
 
 *   Students are not to vandalise any school property.
 
-**Use of mobile phones**  
+<b>Use of mobile phones</b>
 
-Students are encouraged not to bring their mobile phones to school. They may use the telephone in the General Office if they need to contact their parents/guardians. In an emergency, their parents/ guardians can call the school to contact the student. Students bring mobile phones to school at their own risk and the school will not be held liable or responsible for any loss or damage to the mobile phones. The following must be adhered to **unless a teacher’s permission has been expressly granted**.
+Students are encouraged not to bring their mobile phones to school. They may use the telephone in the General Office if they need to contact their parents/guardians. In an emergency, their parents/ guardians can call the school to contact the student. Students bring mobile phones to school at their own risk and the school will not be held liable or responsible for any loss or damage to the mobile phones. The following must be adhered to <b>unless a teacher’s permission has been expressly granted</b>.
 
   
 
@@ -303,7 +299,7 @@ Students are encouraged not to bring their mobile phones to school. They may use
 
   
 
-**Expected Student Behaviour**
+<b>Expected Student Behaviour</b>
 
 *   To support students in managing their time effectively, leading to being self-disciplined and self-motivated, students are expected to attend all their school activities and to be punctual for them.
     
@@ -322,7 +318,7 @@ Students are encouraged not to bring their mobile phones to school. They may use
     
     *   Students who leave school early for other personal reasons must produce a valid document (e.g. Music exams entry proof, external examinations letter).
     
-    **Punctuality**  
+    <b>Punctuality</b>  
     
     *   Students will be considered late if they are not with their classes when the bell has rung for the start of the flag-raising ceremony.
     
@@ -331,16 +327,16 @@ Students are encouraged not to bring their mobile phones to school. They may use
 
   
 
-#### 4) SCHOOLWORK AND ASSIGNMENT
+<h3>4) SCHOOLWORK AND ASSIGNMENT</h3>
 
   
 
-**Expected Student Behaviour  
-**To be self-motivated and self-disciplined, students are expected to complete all schoolwork and assignment to the best of their ability.
+<b>Expected Student Behaviour </b><br>
+To be self-motivated and self-disciplined, students are expected to complete all schoolwork and assignment to the best of their ability.
 
   
-**Rules and Regulations  
-**Students are to follow the following school rules and regulations:  
+<b>Rules and Regulations  
+Students are to follow the following school rules and regulations:</b>  
 
 *   To submit all schoolwork on time.
 *   To not plagiarise.
@@ -348,19 +344,19 @@ Students are encouraged not to bring their mobile phones to school. They may use
 
   
 
-#### 5) SOCIAL
+<h3> 5) SOCIAL</h3>
 
   
 
-**Expected Student Behaviour**
+<b>Expected Student Behaviour</b>
 
 To help build a caring environment, students are to be courteous, polite and respectful to all teachers, staff, schoolmates and guests/visitors to the school. Students are to greet all teachers, staff, schoolmates and guests/visitors to the school and offer assistance to all when required. Students are to be civic-minded and to report to the school authority if they witness anyone doing things detrimental to the school and schoolmates.
 
-**Speak English Policy:**
+<b>Speak English Policy:</b>
 
 The Speak English Policy is to promote communication among the different races. The use of a common language would promote social cohesion and racial harmony. The students can also value and appreciate the diverse multi-cultural society in the school.
 
-**Rules and Regulations**
+<b>Rules and Regulations</b>
 
 *   Students are required to adhere to the following rules and regulations:
 *   Students are to obey instructions given by the authority.
@@ -387,9 +383,11 @@ Information on claims, FAQs and other details pertaining to the GPA Insurance Pl
 <div>
 Click [here](https://prcss.moe.edu.sg/qql/slot/u200/pdf/student_administration/1443412269106905142.jpg) for Safe Route School Map.
 </div>
-			</li><li>
+			</li>
+<li>
 		<input id="accordion6" type="checkbox">
 		<label for="accordion6">TRAFFIC MANAGEMENT PLAN</label>
 <div>
 Click [here](https://prcss.moe.edu.sg/qql/slot/u200/pdf/student_administration/Traffic%20Management%20Plan%2013112020.pdf)for Traffic Management Plan.
-				</div></li>
+</div></li>
+</ul>
