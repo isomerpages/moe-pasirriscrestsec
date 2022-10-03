@@ -12,12 +12,8 @@ description: ""
 		<div>
 
 <h4>Pasir Ris Crest Secondary School</h4>
-
 <h4>2022 Direct School Admission Exercise</h4>
-
 <h4>For admission to Secondary One in 2023</h4>
-
-  
 
 <p>Direct School Admission (DSA) - Secondary Exercise for admission to Secondary One in 2023 takes place from May to September 2022.  Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’s academic and non-academic requirements, and the programmes available to develop and nurture the area of talent.
 
@@ -45,9 +41,7 @@ Primary school students who are interested to participate in this DSA exercise m
 
   
 
-<li>Application is free of charge and will be open from 5 May 2022 at 11am to 1 June 2022 at 3pm.  For more details, please refer to MOE Website: <=a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></li>
-
-  
+<li>Application is free of charge and will be open from 5 May 2022 at 11am to 1 June 2022 at 3pm.  For more details, please refer to MOE Website: <a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></li>
 
 <li>Applicants are required to login to the MOE Centralised DSA-SEC Portal to apply for the school’s identified talent area/s.</li>
 
@@ -79,11 +73,12 @@ The decision of the school is final.
 	<div>
 	Primary 6 students may seek Direct School Admission to PRCS in one of the following areas:  
   
-
-*   Music and Performing Arts
-*   Effective Communication
-*   Fencing
-*   Mother Tongue Languages
+<ul>
+<li>Music and Performing Arts</li>
+<li>Effective Communication</li>
+<li>Fencing</li>
+<li>Mother Tongue Languages</li>
+		</ul>
 	</div>
 	</li>
 	
@@ -94,24 +89,25 @@ The decision of the school is final.
 <h5>A) Basic Admission Criteria</h5>
 
 All applicants must have the following:
-
-*   Good Academic Performance
-*   Good Conduct Grade
-*   Good Personal Qualities
-
+<ul>
+<li>Good Academic Performance</li>
+<li>Good Conduct Grade</li>
+<li>Good Personal Qualities</li>
+		</ul>
 Applicants must demonstrate a passion for Music /Performing Arts and be committed to contribute to PRCS in this area for which they have been given DSA in one of the following DSA Talent Area:
+<ul>
+<li>Band - Concert (Girls/Boys) </li> 
+    
+<li>Choir (Girls/Boys)  </li>
 
-*   Band - Concert (Girls/Boys)  
+<li>Modern Dance (Girls/Boys)</li>  
     
-*   Choir (Girls/Boys)  
+<li>Drama English (Girls/Boys)</li>  
     
-*   Modern Dance (Girls/Boys)  
+<li>Ensemble - Guzheng (Girls/Boys)</li>  
     
-*   Drama English (Girls/Boys)  
-    
-*   Ensemble - Guzheng (Girls/Boys)  
-    
-*   Orchestra - Chinese (Girls/Boys)
+<li>Orchestra - Chinese (Girls/Boys)</li>
+		</ul>
 
 Shortlisted applicants will be invited to go through a selection test as well as an interview.  
 
@@ -125,7 +121,7 @@ Shortlisted applicants will be invited to go through a selection test as well as
 
 Shortlisted applicants will be notified separately on the details of the selection test
 
-For more details on the **LLP**, click [here](https://prcss.moe.edu.sg/students/the-crestian-experience/learning-for-life-programme-llp).
+For more details on the <strong>LLP</strong>, click <a href="/learning-for-life-programme-llp>here</a>.
 	</div>
 	</li>
 	
@@ -135,13 +131,13 @@ For more details on the **LLP**, click [here](https://prcss.moe.edu.sg/student
 	<div>
 <h5>A) Basic Admission Criteria</h5>
 
-All applicants must have the following:
-
-*   Good Academic Performance
-*   Good Conduct Grade
-*   Good Personal Qualities
-
-Applicants must demonstrate a passion for communication related programmes /competitions and be committed to contribute to PRCS in the area for which they have been given DSA. Shortlisted applicants will be invited to go through a selection test as well as an interview.
+<p>All applicants must have the following:
+<ul>
+<li>Good Academic Performance</li>
+<li>Good Conduct Grade</li>
+<li>Good Personal Qualities</li>
+		</ul>
+Applicants must demonstrate a passion for communication related programmes /competitions and be committed to contribute to PRCS in the area for which they have been given DSA. Shortlisted applicants will be invited to go through a selection test as well as an interview.</p>
 
   
 
