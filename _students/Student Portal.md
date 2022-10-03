@@ -11,7 +11,9 @@ description: ""
 <br />
 <p>During school operating hours, students should contact the <strong><u>School-based Helpline</u></strong> for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.</p>
 <br /><br />
-<p><strong>School-based Helpline: 6581 1655 (ext. 104 or 105) <br /><br />Mondays - Fridays: 8:00 am - 4:00 pm </strong></p>
+<p><strong>School-based Helpline: 6581 1655 (ext. 104 or 105) 
+	<br />
+	<br />Mondays - Fridays: 8:00 am - 4:00 pm </strong></p>
 <br /><br />For other matters, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
 <h3>Non-School Operating Hours</h3>
 <br /><br />Students can only contact the <u><strong>SLS Helpdesk</strong></u> outside the school operating hours. <br /><br />SLS Helpdesk: 6702 6513 <br /><br />Mondays - Fridays: 4:00 pm - 9:00 pm <br /><br />Saturdays: 9:00 am - 9:00 pm <br /><br /><sub>*Closed on Sundays &amp; Public Holidays</sub><br /><br />Alternatively, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.</div>
@@ -29,17 +31,18 @@ description: ""
 <h4>PASSWORD</h4>
 <br /><br />Passwords must have the following requirements: <br /><br />
 <ul>
-<ul>
 <li>8 characters or longer; and</li>
-</ul>
-</ul>
-<br />
-<ul>
+
 <li>at least 1 letter and 1 number.</li>
 </ul>
 SLS will prompt you for a change in password every 90 days.
 <h4>RESETTING PASSWORD</h4>
-If you have forgotten your password, you can reset it through the following methods: a) click the password reset link, b) call the SLS Helpdesk at 6702 6513, c) request any of your subject teachers for help.
+If you have forgotten your password, you can reset it through the following methods:
+<ol>
+<li>click the password reset link, </li>
+<li>call the SLS Helpdesk at 6702 6513, </li>
+<li>request any of your subject teachers for help.</li>
+	</ol>
 <h4>FREQUENTLY ASKED QUESTIONS</h4>
 Q1: My account has been locked. What should I do? Your account will be locked after 6 consecutive attempts to log in with an incorrect password. Please call the SLS Helpdesk at 6702 6513 to unlock your account. You will need to answer the security questions to verify that you are the legitimate account holder.
 <h4>Operating Hours</h4>
@@ -50,7 +53,7 @@ Mondays to Fridays: 9:00 am - 9:00 pm Saturdays: 9:00 am - 3:00 pm <strong>Q2: I
 <li>iPad with iOS 8 and later;</li>
 <li>Android tablet with Android 5 and later.</li>
 </ul>
-SLS is accessible through the latest internet browsers (minimum: Internet Explorer 11, Google Chrome 51, FireFox 51 or Safari 7.1). <strong>Q4 : Can SLS run on mobile phones?*</strong> You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.</div>
+SLS is accessible through the latest internet browsers (minimum: Internet Explorer 11, Google Chrome 51, FireFox 51 or Safari 7.1). <br/><br/><strong>Q4 : Can SLS run on mobile phones?</strong> <br/>You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.</div>
 </li>
 <li><input type="checkbox" /><label for="accordion3">EXPECTED STUDENT BEHAVIOUR - RULES AND REGULATIONS</label>
 <div>To guide students in their character development and in order to achieve our desired learning outcomes especially of being a Self-Disciplined and Responsible Leader as well as an Active and Concerned Citizen with Global Awareness, the school has in place the following Expected Student Behaviours and Rules and Regulations, which are divided into five main categories. These Expected Student Behaviours and Rules and Regulations are to support the students in understanding the importance of good moral behavior, respect and care for self and others and to create a conducive environment for learning to take place. The categories are aligned to the school values of Care, Resilience, Excellence, Self-Belief, Trustworthiness (CREST).</div>
@@ -138,7 +141,7 @@ The following rules and regulations are to be adhered to:
 </tbody>
 </table>
 <h3>2) Expected Student Behaviour</h3>
-Students are expected to be respectful to all in school at all times. They are to follow the school rules and regulations and to respect the authority of the Councillors, student leaders and class committee members. They are to be caring towards their schoolmates and avoid any activity that may cause harm or injury to others. <strong>At the Assembly Area during Flag Raising Ceremony /At Assembly in the Hall</strong>
+Students are expected to be respectful to all in school at all times. They are to follow the school rules and regulations and to respect the authority of the Councillors, student leaders and class committee members. They are to be caring towards their schoolmates and avoid any activity that may cause harm or injury to others. <br/><br/><strong>At the Assembly Area during Flag Raising Ceremony /At Assembly in the Hall</strong>
 <ul>
 <li>Assemble according to classes and index numbers quickly and quietly.</li>
 <li>Students are required to bring along their reading materials. Observe silence and read while waiting for the programme to begin.</li>
@@ -148,26 +151,19 @@ Students are expected to be respectful to all in school at all times. They are t
 <h4>Classroom Behaviour</h4>
 To ensure that the class is conducive for learning and students practise the school values:
 <ul>
-<ul>
 <li>Students must keep their classrooms clean and tidy at all times.</li>
-</ul>
-</ul>
+
 <br />
-<ul>
+
 <li>Students on cleaning duty must complete their duty before the end of the day.</li>
 <li>Students are to have all their texts and materials for the lessons. They are not allowed to borrow books or any items from another class unless permission is granted by a teacher.</li>
 <li>Students must switch off the electrical items such as lights and fans before leaving the class.</li>
-<li>Students should not leave books and files in the classroom after dismissal unless authorised by their subject teachers.</li>
-</ul>
+<li>Students should not leave books and files in the classroom after dismissal unless authorised by their subject teachers.</li></ul>
 <h4>School Premises</h4>
 To ensure safety in school and respect for others in the school:
 <ul>
-<ul>
 <li>When moving from one place to another for lessons, students should move together in an orderly manner according to the PQR guidelines. (Walk in Pairs, remain Quiet and keep to the Right of the passageway).</li>
-</ul>
-</ul>
-<br />
-<ul>
+
 <li>Students are not allowed to ride their bicycle, tricycle and skateboard in the school compound.</li>
 <li>Students are to dismount from their bicycle in the school compound and walk their bicycle to the designated bicycle bay.</li>
 <li>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</li>
@@ -199,13 +195,9 @@ To promote a caring, safe and conducive learning environment and to instill disc
 <li>Students must leave their classrooms during recess unless authorised by a teacher.</li>
 </ul>
 <h4>School Premises</h4>
-<ul>
+
 <ul>
 <li>Students are not allowed to loiter during curriculum time.</li>
-</ul>
-</ul>
-<br />
-<ul>
 <li>Students are not allowed to use the designated special rooms and venues such as the Computer Labs, School Halls etc for any activity at any time unless authorized by a teacher.</li>
 <li>Students must not enter the Staff Room and HOD Room without permission.</li>
 <li>Students are not allowed to eat in the canteen during lesson time unless permission is granted.</li>
@@ -249,7 +241,7 @@ Students are encouraged not to bring their mobile phones to school. They may use
 <li>To support students in managing their time effectively, leading to being self-disciplined and self-motivated, students are expected to attend all their school activities and to be punctual for them.</li>
 </ul>
 <h5>Rules and Regulations</h5>
-&gt; Students are to comply with the following school rules and regulations:
+Students are to comply with the following school rules and regulations:
 <h5>Attendance</h5>
 <ul>
 <li>Students who are absent must present a Medical Certificate or a letter from a parent/guardian as soon as he/ she returns to school.</li>
