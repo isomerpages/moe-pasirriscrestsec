@@ -44,16 +44,22 @@ If you have forgotten your password, you can reset it through the following meth
 <li>request any of your subject teachers for help.</li>
 	</ol>
 <h4>FREQUENTLY ASKED QUESTIONS</h4>
-Q1: My account has been locked. What should I do? Your account will be locked after 6 consecutive attempts to log in with an incorrect password. Please call the SLS Helpdesk at 6702 6513 to unlock your account. You will need to answer the security questions to verify that you are the legitimate account holder.
+<br/>Q1: My account has been locked. What should I do? <br/><br/>Your account will be locked after 6 consecutive attempts to log in with an incorrect password. Please call the SLS Helpdesk at 6702 6513 to unlock your account. You will need to answer the security questions to verify that you are the legitimate account holder.
 <h4>Operating Hours</h4>
-Mondays to Fridays: 9:00 am - 9:00 pm Saturdays: 9:00 am - 3:00 pm <strong>Q2: I used the &ldquo;Password Reset Link Method&rdquo; but I cannot find my password reset email. What can I do?</strong> If you cannot see the email in your inbox, it may be in the spam or junk email folder. The URL in the email will expire within 10 minutes. If the URL has expired, go to the login page and select "Forgot Password" to try again. <strong>Q3: What are the Operating System and Browser Requirements for SLS?</strong> The following are the recommended operating systems:
+<br/>Mondays to Fridays: 9:00 am - 9:00 pm 
+<br/>Saturdays: 9:00 am - 3:00 pm 
+<br/><br/><strong>Q2: I used the &ldquo;Password Reset Link Method&rdquo; but I cannot find my password reset email. What can I do?</strong> 
+<br/><br/>If you cannot see the email in your inbox, it may be in the spam or junk email folder. The URL in the email will expire within 10 minutes. If the URL has expired, go to the login page and select "Forgot Password" to try again. 
+<br/>
+<br/><strong>Q3: What are the Operating System and Browser Requirements for SLS?</strong> 
+	<br/><br/>The following are the recommended operating systems:
 <ul>
 <li>Windows laptop/desktop with Microsoft Windows 7 SP1 and later;</li>
 <li>Apple laptop/desktop with Mac OS X 10.9 and later;</li>
 <li>iPad with iOS 8 and later;</li>
 <li>Android tablet with Android 5 and later.</li>
 </ul>
-SLS is accessible through the latest internet browsers (minimum: Internet Explorer 11, Google Chrome 51, FireFox 51 or Safari 7.1). <br/><br/><strong>Q4 : Can SLS run on mobile phones?</strong> <br/>You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.</div>
+SLS is accessible through the latest internet browsers (minimum: Internet Explorer 11, Google Chrome 51, FireFox 51 or Safari 7.1). <br/><br/><strong>Q4 : Can SLS run on mobile phones?</strong> <br/><br/>You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.</div>
 </li>
 <li><input type="checkbox" /><label for="accordion3">EXPECTED STUDENT BEHAVIOUR - RULES AND REGULATIONS</label>
 <div>To guide students in their character development and in order to achieve our desired learning outcomes especially of being a Self-Disciplined and Responsible Leader as well as an Active and Concerned Citizen with Global Awareness, the school has in place the following Expected Student Behaviours and Rules and Regulations, which are divided into five main categories. These Expected Student Behaviours and Rules and Regulations are to support the students in understanding the importance of good moral behavior, respect and care for self and others and to create a conducive environment for learning to take place. The categories are aligned to the school values of Care, Resilience, Excellence, Self-Belief, Trustworthiness (CREST).</div>
@@ -223,16 +229,16 @@ To instill the value of caring and being righteous:
 <li>Students are not to vandalise any school property.</li>
 </ul>
 <h4>Use of mobile phones</h4>
-Students are encouraged not to bring their mobile phones to school. They may use the telephone in the General Office if they need to contact their parents/guardians. In an emergency, their parents/ guardians can call the school to contact the student. Students bring mobile phones to school at their own risk and the school will not be held liable or responsible for any loss or damage to the mobile phones. The following must be adhered to <strong>unless a teacher&rsquo;s permission has been expressly granted</strong>.
+Students are encouraged not to bring their mobile phones to school. They may use the telephone in the General Office if they need to contact their parents/guardians. In an emergency, their parents/ guardians can call the school to contact the student. Students bring mobile phones to school at their own risk and the school will not be held liable or responsible for any loss or damage to the mobile phones. The following must be adhered to <strong>unless a teacher's permission has been expressly granted</strong>.
 <ul>
 <li>Students cannot use their mobile phones during curriculum and co-curriculum time.</li>
 <li>Students can only use their mobile phones in the designated areas.</li>
-<li>Mobile phones cannot be used in all the Academic Blocks C, D, E &amp; F, areas between Blocks E &amp; F, Parade Square before the start of the morning assembly, library and all staircases.</li>
+<li>Mobile phones cannot be used in all the Academic Blocks C, D, E & F, areas between Blocks E &amp; F, Parade Square before the start of the morning assembly, library and all staircases.</li>
 <li>Students are to ensure their mobile phones are turned off at all times when they are in the classrooms. Mobile phones that are turned on are considered being used by the students.</li>
 <li>Mobile phones are not to be used for audio or video recording or picture taking.</li>
-<li>Mobile phones will be confiscated and kept by the office for <strong>ONE<strong> week if a student violates any of the rules related to the usage of mobile phones.</strong></strong></li>
-<li>Students who allow other students to misuse their mobile phones will have their mobile phones confiscated and kept by the office for <strong>ONE<strong> week.</strong></strong></li>
-<li>Repeat offences will result in the mobile phones to be confiscated for&nbsp;<strong>ONE month<strong>.</strong></strong></li>
+<li>Mobile phones will be confiscated and kept by the office for <strong>ONE</strong> week if a student violates any of the rules related to the usage of mobile phones.</li>
+<li>Students who allow other students to misuse their mobile phones will have their mobile phones confiscated and kept by the office for <strong>ONE</strong> week.</li>
+<li>Repeat offences will result in the mobile phones to be confiscated for <strong>ONE month</strong>.</li>
 <li>Confiscated mobile phones will only be returned to parents/guardians after the confiscation period.</li>
 </ul>
 <h3>3) ATTENDANCE AND PUNCTUALITY</h3>
