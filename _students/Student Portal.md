@@ -87,9 +87,10 @@ SLS can be accessed from <a href="https://learning.moe.edu.sg">https://learning.
 Passwords must have the following requirements:
 <br>
 <br>
-*   8 characters or longer; and
+<ul><li>8 characters or longer; and</li>
 <br>
-*   at least 1 letter and 1 number.
+<li>at least 1 letter and 1 number.</li>
+</ul>
 
 SLS will prompt you for a change in password every 90 days.
 
@@ -133,13 +134,13 @@ If you cannot see the email in your inbox, it may be in the spam or junk email f
 
 The following are the recommended operating systems:
 
-● Windows laptop/desktop with Microsoft Windows 7 SP1 and later;
+<ul><li>Windows laptop/desktop with Microsoft Windows 7 SP1 and later;
 
-● Apple laptop/desktop with Mac OS X 10.9 and later;
+</li><li>Apple laptop/desktop with Mac OS X 10.9 and later;
 
-● iPad with iOS 8 and later;
+</li><li>iPad with iOS 8 and later;
 
-● Android tablet with Android 5 and later.
+</li><li>Android tablet with Android 5 and later.</li></ul>
 
 SLS is accessible through the latest internet browsers (minimum: Internet Explorer 11, Google Chrome 51, FireFox 51 or Safari 7.1).
 
@@ -168,7 +169,7 @@ Students are the school’s representatives in the community and are expected to
 
 The following rules and regulations are to be adhered to:
 
-*   Students must be in proper school attire whenever they come to school, including school holidays. Students are to wear the prescribed school attire without any improper modification.
+<ul><li>Students must be in proper school attire whenever they come to school, including school holidays. Students are to wear the prescribed school attire without any improper modification.
 </li><li>Hair must be kept neatly in its natural colour. Outlandish, spiky/ punkish or dyed/ coloured/ highlighted hair is not allowed.
 </li><li>Fancy spectacles, coloured contact lenses and tinted glasses are not allowed. Prescribed colours for spectacle frames are solid black, brown, gold or silver.
 </li><li>The school T-shirt must be worn for PE lessons and all other physical activities.
@@ -203,8 +204,7 @@ Students are expected to be respectful to all in school at all times. They are t
 
 To ensure that the class is conducive for learning and students practise the school values:&nbsp;
 
-<ul><li>Students must keep their classrooms clean and tidy at all times.
-</li>
+<ul><li>Students must keep their classrooms clean and tidy at all times.</li>
 <br>
 <li>Students on cleaning duty must complete their duty before the end of the day.
 </li><li>Students are to have all their texts and materials for the lessons. They are not allowed to borrow books or any items from another class unless permission is granted by a teacher.
@@ -254,17 +254,17 @@ At the Assembly Area during Flag Raising Ceremony/ At Assembly in the Hall
 
 <ul>
     <li>Students are not allowed to leave the classroom without an Exit Pass, which must be displayed clearly on the student when out of the classroom.
-*   Students are not allowed to eat in the classroom.
-*   Students must leave their classrooms during recess unless authorised by a teacher.
+    </li><li>Students are not allowed to eat in the classroom.
+    </li><li>Students must leave their classrooms during recess unless authorised by a teacher.
 </li></ul>
 <h4>School Premises</h4>
 
 <ul>
-    <li>Students are not allowed to loiter during curriculum time.
-
-*   Students are not allowed to use the designated special rooms and venues such as the Computer Labs, School Halls etc for any activity at any time unless authorized by a teacher.
-*   Students must not enter the Staff Room and HOD Room without permission.
-*   Students are not allowed to eat in the canteen during lesson time unless permission is granted.
+    <li>Students are not allowed to loiter during curriculum time.</li>
+    <br>
+    <li>Students are not allowed to use the designated special rooms and venues such as the Computer Labs, School Halls etc for any activity at any time unless authorized by a teacher.
+    </li><li>Students must not enter the Staff Room and HOD Room without permission.
+    </li><li>Students are not allowed to eat in the canteen during lesson time unless permission is granted.
 </li></ul>
 <h4>Use of Sports Facilities (school field, basketball court, ISH)</h4>
 
@@ -283,7 +283,7 @@ Wearing proper attire will reduce the risk of injury and heat stroke, thus,
 
 <ul>
     <li>Students must be in half uniform, i.e. PE T-shirts and shorts/pants/skirts for their play during recess.
-    </li><li>Students&nbsp;**must be**&nbsp;in full PE attire (PE T-shirts and shorts) when they play after school hours.
+    </li><li>Students<b>must be</b>in full PE attire (PE T-shirts and shorts) when they play after school hours.
     </li></ul>
 <h4>School Property</h4>
 
@@ -302,23 +302,23 @@ Students are encouraged not to bring their mobile phones to school. They may use
 
 <ul>
     <li>Students cannot use their mobile phones during curriculum and co-curriculum time.
-
+<br>
     </li><li>Students can only use their mobile phones in the designated areas.
-
-    </li><li>Mobile phones cannot be used in all the Academic Blocks C, D, E &amp; F, areas between Blocks E &amp; F, Parade Square before the start of the morning assembly, library and all staircases.
-
+        <br>
+    </li><li>Mobile phones cannot be used in all the Academic Blocks C, D, E & F, areas between Blocks E & F, Parade Square before the start of the morning assembly, library and all staircases.
+        <br>
     </li><li>Students are to ensure their mobile phones are turned off at all times when they are in the classrooms. Mobile phones that are turned on are considered being used by the students.
-
+        <br>
     </li><li>Mobile phones are not to be used for audio or video recording or picture taking.
-
+        <br>
     </li><li>Mobile phones will be confiscated and kept by the office for **ONE** week if a student violates any of the rules related to the usage of mobile phones.
-
+        <br>
     </li><li>Students who allow other students to misuse their mobile phones will have their mobile phones confiscated and kept by the office for **ONE** week.
-
+        <br>
     </li><li>Repeat offences will result in the mobile phones to be confiscated for&nbsp;**ONE month**.
-
+        <br>
     </li><li>Confiscated mobile phones will only be returned to parents/guardians after the confiscation period.
-
+        <br>
     </li></ul>
 
 <h3> 3) ATTENDANCE AND PUNCTUALITY</h3>
@@ -329,27 +329,28 @@ Students are encouraged not to bring their mobile phones to school. They may use
 
 <ul>
     <li>To support students in managing their time effectively, leading to being self-disciplined and self-motivated, students are expected to attend all their school activities and to be punctual for them.
-    
-    <b>Rules and Regulations <br>
+    </li></ul>
+    <h5>Rules and Regulations </h5>>
     Students are to comply with the following school rules and regulations:</b>
     
     <h5>Attendance</h5>
     
-    *   Students who are absent must present a Medical Certificate or a letter from a parent/guardian as soon as he/ she returns to school.
+    <ul>
+        <li>Students who are absent must present a Medical Certificate or a letter from a parent/guardian as soon as he/ she returns to school.
     
 </li><li>Students wishing to leave school during school hours must fill in a prescribed form available from the General Office and get it signed by the Home Tutors/subject teacher. Home Tutors/subject teachers may grant approval after checking that the reason given is genuine. The student then needs to see the Principal / Vice-Principal/ Key Personnel for final approval to be given. The parent/guardian would have to come to school to pick up the student.
-    
+<br>
 </li><li>Students who are taken ill during school hours must be accompanied home by a parent or an adult whom the parent has given consent.
-    
+    <br>
 </li><li>Students who leave school early for medical reasons must produce a valid medical document (e.g. appointment card, Medical Certificate).
-    
+    <br>
 </li><li>Students who leave school early for other personal reasons must produce a valid document (e.g. Music exams entry proof, external examinations letter).
 </li></ul>
     <h5>Punctuality</h5>  
     
     <ul>
         <li>Students will be considered late if they are not with their classes when the bell has rung for the start of the flag-raising ceremony.
-    
+            <br>
 </li><li>Late comers are to report to the office and must obtain a permission slip (green slip) to enter the classroom.
 </li></ul>
 
