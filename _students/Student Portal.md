@@ -14,7 +14,7 @@ description: ""
 <p><strong>School-based Helpline: 6581 1655 (ext. 104 or 105) <br /><br />Mondays - Fridays: 8:00 am - 4:00 pm </strong></p>
 <br /><br />For other matters, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
 <h3>Non-School Operating Hours</h3>
-<br /><br />Students can only contact the <u><strong>SLS Helpdesk</strong></u> outside the school operating hours. <br /><br />SLS Helpdesk: 6702 6513 <br /><br />Mondays - Fridays: 4:00 pm - 9:00 pm <br /><br />Saturdays: 9:00 am - 9:00 pm <br /><br /><sub>*Closed on Sundays &amp; Public Holidays</sub><br /><br />Alternatively, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class. </div>
+<br /><br />Students can only contact the <u><strong>SLS Helpdesk</strong></u> outside the school operating hours. <br /><br />SLS Helpdesk: 6702 6513 <br /><br />Mondays - Fridays: 4:00 pm - 9:00 pm <br /><br />Saturdays: 9:00 am - 9:00 pm <br /><br /><sub>*Closed on Sundays &amp; Public Holidays</sub><br /><br />Alternatively, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.</div>
 </li>
 <li><input type="checkbox" /><label for="accordion2">STUDENT LEARNING SPACE (SLS)</label>
 <div>The Singapore Student Learning Space is a platform that will support Teaching and Learning of our students. In particular, it will help empower them to drive their own learning according to their needs and interests. <br /><br />By spurring our students to take greater ownership of their learning and work collaboratively with their peers, the SLS aims to support them towards becoming responsible future-ready learners. <br /><br />Click <a href="https://vle.learning.moe.edu.sg/login">here</a> to access the Student Learning Space (SLS) portal. <br /><br />For Sec 1 students, click <a href="/files/SLS%20Account%20Management%20-%20Guide%20for%20Sec%201%20Students.pdf">here</a> to access the Guide to SLS Account Management. <br /><br />
@@ -233,15 +233,15 @@ To instill the value of caring and being righteous:
 <h4>Use of mobile phones</h4>
 Students are encouraged not to bring their mobile phones to school. They may use the telephone in the General Office if they need to contact their parents/guardians. In an emergency, their parents/ guardians can call the school to contact the student. Students bring mobile phones to school at their own risk and the school will not be held liable or responsible for any loss or damage to the mobile phones. The following must be adhered to <strong>unless a teacher&rsquo;s permission has been expressly granted</strong>.
 <ul>
-<li>Students cannot use their mobile phones during curriculum and co-curriculum time. </li>
-<li>Students can only use their mobile phones in the designated areas. </li>
-<li>Mobile phones cannot be used in all the Academic Blocks C, D, E &amp; F, areas between Blocks E &amp; F, Parade Square before the start of the morning assembly, library and all staircases. </li>
-<li>Students are to ensure their mobile phones are turned off at all times when they are in the classrooms. Mobile phones that are turned on are considered being used by the students. </li>
-<li>Mobile phones are not to be used for audio or video recording or picture taking. </li>
-<li>Mobile phones will be confiscated and kept by the office for **ONE** week if a student violates any of the rules related to the usage of mobile phones. </li>
-<li>Students who allow other students to misuse their mobile phones will have their mobile phones confiscated and kept by the office for **ONE** week. </li>
-<li>Repeat offences will result in the mobile phones to be confiscated for&nbsp;**ONE month**. </li>
-<li>Confiscated mobile phones will only be returned to parents/guardians after the confiscation period. </li>
+<li>Students cannot use their mobile phones during curriculum and co-curriculum time.</li>
+<li>Students can only use their mobile phones in the designated areas.</li>
+<li>Mobile phones cannot be used in all the Academic Blocks C, D, E &amp; F, areas between Blocks E &amp; F, Parade Square before the start of the morning assembly, library and all staircases.</li>
+<li>Students are to ensure their mobile phones are turned off at all times when they are in the classrooms. Mobile phones that are turned on are considered being used by the students.</li>
+<li>Mobile phones are not to be used for audio or video recording or picture taking.</li>
+<li>Mobile phones will be confiscated and kept by the office for <strong>ONE<strong> week if a student violates any of the rules related to the usage of mobile phones.</strong></strong></li>
+<li>Students who allow other students to misuse their mobile phones will have their mobile phones confiscated and kept by the office for <strong>ONE<strong> week.</strong></strong></li>
+<li>Repeat offences will result in the mobile phones to be confiscated for&nbsp;<strong>ONE month<strong>.</strong></strong></li>
+<li>Confiscated mobile phones will only be returned to parents/guardians after the confiscation period.</li>
 </ul>
 <h3>3) ATTENDANCE AND PUNCTUALITY</h3>
 <h4>Expected Student Behaviour</h4>
@@ -253,14 +253,14 @@ Students are encouraged not to bring their mobile phones to school. They may use
 <h5>Attendance</h5>
 <ul>
 <li>Students who are absent must present a Medical Certificate or a letter from a parent/guardian as soon as he/ she returns to school.</li>
-<li>Students wishing to leave school during school hours must fill in a prescribed form available from the General Office and get it signed by the Home Tutors/subject teacher. Home Tutors/subject teachers may grant approval after checking that the reason given is genuine. The student then needs to see the Principal / Vice-Principal/ Key Personnel for final approval to be given. The parent/guardian would have to come to school to pick up the student. </li>
-<li>Students who are taken ill during school hours must be accompanied home by a parent or an adult whom the parent has given consent. </li>
-<li>Students who leave school early for medical reasons must produce a valid medical document (e.g. appointment card, Medical Certificate). </li>
+<li>Students wishing to leave school during school hours must fill in a prescribed form available from the General Office and get it signed by the Home Tutors/subject teacher. Home Tutors/subject teachers may grant approval after checking that the reason given is genuine. The student then needs to see the Principal / Vice-Principal/ Key Personnel for final approval to be given. The parent/guardian would have to come to school to pick up the student.</li>
+<li>Students who are taken ill during school hours must be accompanied home by a parent or an adult whom the parent has given consent.</li>
+<li>Students who leave school early for medical reasons must produce a valid medical document (e.g. appointment card, Medical Certificate).</li>
 <li>Students who leave school early for other personal reasons must produce a valid document (e.g. Music exams entry proof, external examinations letter).</li>
 </ul>
 <h5>Punctuality</h5>
 <ul>
-<li>Students will be considered late if they are not with their classes when the bell has rung for the start of the flag-raising ceremony. </li>
+<li>Students will be considered late if they are not with their classes when the bell has rung for the start of the flag-raising ceremony.</li>
 <li>Late comers are to report to the office and must obtain a permission slip (green slip) to enter the classroom.</li>
 </ul>
 <h3>4) SCHOOLWORK AND ASSIGNMENT</h3>
