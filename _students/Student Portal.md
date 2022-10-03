@@ -294,6 +294,6 @@ The Speak English Policy is to promote communication among the different races. 
 <div>Click <a href="/images/1443412269106905142.jpg">here</a> for Safe Route School Map.</div>
 </li>
 <li><input type="checkbox" /><label for="accordion6">TRAFFIC MANAGEMENT PLAN</label>
-<div>Click <a href="/files/Traffic%20Management%20Plan%2013112020.pdf">here</a>for Traffic Management Plan.</div>
+<div>Click <a href="/files/Traffic%20Management%20Plan%2013112020.pdf">here</a> for Traffic Management Plan.</div>
 </li>
 </ul>
