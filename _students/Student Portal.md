@@ -10,8 +10,7 @@ description: ""
 		<input id="accordion1" type="checkbox">
 		<label for="accordion1">SLS SUPPORT</label>
 <div>
-
-<h3><b><u>School Operating Hours</u></b></h3>
+<h3>School Operating Hours</h3>
 <br>
 <p>During school operating hours, students should contact the <b><u>School-based Helpline</u></b> for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.</p><br><br>
 
@@ -19,53 +18,74 @@ description: ""
 Mondays - Fridays: 8:00 am - 4:00 pm </b></p><br><br>
 For other matters, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
 
-<h3><u><b>Non-School Operating Hours</b></u></h3><br><br>
-Students can only contact the <u><b>SLS Helpdesk</b></u> outside the school operating hours.<br><br>
-
-SLS Helpdesk: 6702 6513<br><br>
-Mondays - Fridays: 4:00 pm - 9:00 pm<br><br>
-Saturdays: 9:00 am -&nbsp;9:00 pm<br><br>
-<sub>*Closed on Sundays &amp; Public Holidays</sub><br><br>
-Alternatively, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.<br>
+<h3>Non-School Operating Hours</h3>
+<br>
+<br>
+Students can only contact the <u><b>SLS Helpdesk</b></u> outside the school operating hours.
+<br>
+<br>
+SLS Helpdesk: 6702 6513
+<br>
+<br>
+Mondays - Fridays: 4:00 pm - 9:00 pm
+<br>
+<br>
+Saturdays: 9:00 am - 9:00 pm
+<br>
+<br>
+<sub>*Closed on Sundays &amp; Public Holidays</sub>
+<br>
+<br>
+Alternatively, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
+<br>
 	</div>
 </li>
 
 <li>
 		<input id="accordion2" type="checkbox">
 		<label for="accordion2">STUDENT LEARNING SPACE (SLS)</label>
-
 <div>
-
-The Singapore Student Learning Space is a platform that will support Teaching and Learning of our students. In particular, it will help empower them to drive their own learning according to their needs and interests.<br><br>
-
-By spurring our students to take greater ownership of their learning and work collaboratively with their peers, the SLS aims to support them towards becoming responsible future-ready learners.<br><br>
-
-
-Click <a href="https://vle.learning.moe.edu.sg/login">here</a> to access the Student Learning Space (SLS) portal.<br><br>
+The Singapore Student Learning Space is a platform that will support Teaching and Learning of our students. In particular, it will help empower them to drive their own learning according to their needs and interests.
+<br>
+<br>
+By spurring our students to take greater ownership of their learning and work collaboratively with their peers, the SLS aims to support them towards becoming responsible future-ready learners.
+<br>
+<br>
+Click <a href="https://vle.learning.moe.edu.sg/login">here</a> to access the Student Learning Space (SLS) portal.
+<br>
+<br>
+For Sec 1 students, click <a href="/files/SLS%20Account%20Management%20-%20Guide%20for%20Sec%201%20Students.pdf">here</a> to access the Guide to SLS Account Management.
+<br>
+<br>
 
   
 
-For Sec 1 students, click <a href="/files/SLS%20Account%20Management%20-%20Guide%20for%20Sec%201%20Students.pdf">here</a> to access the Guide to SLS Account Management.<br><br>
-
-  
-
-<b><u>What is SLS?</b></u>
+<h3>What is SLS?</h3>
 <br>
 Click to <a href="https://www.youtube.com/watch?v=F0FTP2FveSg&amp;feature=youtu.be">watch the video.</a><br><br>
 
-<b><u>INSTRUCTIONS FOR STUDENTS<br><br>
-SYSTEM REQUIREMENTS</b></u> 
-
-The SLS is accessible through the internet browsers on either Windows PC, Mac, iPad or Android tablets (with screen size larger than 7 inches for good user experience).<br><br>
-<b>LOGIN</b><br><br>
-SLS can be accessed from <a href="https://learning.moe.edu.sg">https://learning.moe.edu.sg/.</a><br><br>
-
-<img src="/images/SLS Login_1.png" alt="SLS Login_1.png"><br><br>
- 
-<b>PASSWORD</b><br><br>
-
-Passwords must have the following requirements:<br><br>
-
+<h3>INSTRUCTIONS FOR STUDENTS</h3>
+<br><h4>SYSTEM REQUIREMENTS</h4>
+<br>
+<br>
+The SLS is accessible through the internet browsers on either Windows PC, Mac, iPad or Android tablets (with screen size larger than 7 inches for good user experience).
+<br>
+<br>
+<h4>LOGIN</h4>
+<br>
+<br>
+SLS can be accessed from <a href="https://learning.moe.edu.sg">https://learning.moe.edu.sg/.</a>
+<br>
+<br>
+<img src="/images/SLS Login_1.png" alt="SLS Login_1.png">
+<br>
+<br>
+<h4>PASSWORD</h4>
+<br>
+<br>
+Passwords must have the following requirements:
+<br>
+<br>
 *   8 characters or longer; and
 *   at least 1 letter and 1 number.
 
@@ -73,7 +93,7 @@ SLS will prompt you for a change in password every 90 days.
 
   
 
-<b>RESETTING PASSWORD</b>
+<h4>RESETTING PASSWORD</h4>
 
 If you have forgotten your password, you can reset it through the following methods:
 
@@ -85,15 +105,15 @@ c) request any of your subject teachers for help.
 
   
 
-<b>FREQUENTLY ASKED QUESTIONS
+<h4>FREQUENTLY ASKED QUESTIONS</h4>
 
 
-Q1: My account has been locked. What should I do?</b>
+Q1: My account has been locked. What should I do?
 
 Your account will be locked after 6 consecutive attempts to log in with an incorrect password. Please call the SLS Helpdesk at 6702 6513 to unlock your account. You will need to answer the security questions to verify that you are the legitimate account holder.
 
   
-<b>Operating Hours</b>
+<h4>Operating Hours</h4>
 
 Mondays to Fridays: 9:00 am - 9:00 pm
 
@@ -129,23 +149,20 @@ You can access SLS from internet browsers installed on your mobile phones or equ
 </div>
 </li>
 
-	<li>
+<li>
 		<input id="accordion3" type="checkbox">
 		<label for="accordion3">EXPECTED STUDENT BEHAVIOUR - RULES AND REGULATIONS</label>
 <div>
-	
 To guide students in their character development and in order to achieve our desired learning outcomes especially of being a Self-Disciplined and Responsible Leader as well as an Active and Concerned Citizen with Global Awareness, the school has in place the following Expected Student Behaviours and Rules and Regulations, which are divided into five main categories. These Expected Student Behaviours and Rules and Regulations are to support the students in understanding the importance of good moral behavior, respect and care for self and others and to create a conducive environment for learning to take place. The categories are aligned to the school values of Care, Resilience, Excellence, Self-Belief, Trustworthiness (CREST).
 </div>
   
 <h3> 1) ATTIRE / APPEARANCE </h3>
 
-  
-
-</b>Expected Student Behaviour</b>
+<h4>Expected Student Behaviour</h4>
 
 Students are the school’s representatives in the community and are expected to be always prim and proper in their school attire at all times. Taking pride in wearing the school uniform will help students to be self-disciplined and self-motivated.
 
-<b>Rules and Regulations</b>
+<h4>Rules and Regulations</h4>
 
 The following rules and regulations are to be adhered to:
 
@@ -170,11 +187,7 @@ The following rules and regulations are to be adhered to:
 
 <h3> 2) Expected Student Behaviour </h3>
 
-  
-
 Students are expected to be respectful to all in school at all times. They are to follow the school rules and regulations and to respect the authority of the Councillors, student leaders and class committee members. They are to be caring towards their schoolmates and avoid any activity that may cause harm or injury to others.
-
-  
 
 **At the Assembly Area during Flag Raising Ceremony /At Assembly in the Hall**  
 
@@ -183,7 +196,7 @@ Students are expected to be respectful to all in school at all times. They are t
 *   Show appreciation and behave with consideration towards the speaker or the event/ performance being presented.
 *   Sing the National Anthem, School Song and take the pledge with pride and passion.
 
-<b>Classroom Behaviour</b>
+<h4>Classroom Behaviour</h4>
 
 To ensure that the class is conducive for learning and students practise the school values:&nbsp;
 
@@ -194,7 +207,7 @@ To ensure that the class is conducive for learning and students practise the sch
 *   Students must switch off the electrical items such as lights and fans before leaving the class.
 *   Students should not leave books and files in the classroom after dismissal unless authorised by their subject teachers.&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
 
-**School Premises**  
+<h4>School Premises</h4>
 
 To ensure safety in school and respect for others in the school:  
 
@@ -204,7 +217,7 @@ To ensure safety in school and respect for others in the school:
 *   Students are to dismount from their bicycle in the school compound and walk their bicycle to the designated bicycle bay.
 *   All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
 
-**Use of Sports Facilities (school field, basketball court, ISH)**  
+<h4>Use of Sports Facilities (school field, basketball court, ISH)</h4> 
 
 Students are encouraged to use the school facilities to play and exercise. In line with the school values of being caring, students should show sportsmanship, respect for opponents and team work throughout their play time. They should also adhere to the following safety measures: 
 
@@ -212,7 +225,7 @@ Students are encouraged to use the school facilities to play and exercise. In li
 *   Students must report any injury to the General Office or PE office immediately.
 *   Students must be aware of any change in weather condition during play and stay indoors when it is raining or lighting alert is turned on.
 
-<b>School Property</b>
+<h4>School Property</h4>
 
 To instill the value of caring:  
 
@@ -220,7 +233,7 @@ To instill the value of caring:
 *   Students must not tamper with other equipment on the field and in the ISH.
 *   Students are to keep the toilets clean and flushed after use.
 
-**Rules and Regulations**  
+<h4>Rules and Regulations</h4>
 
 To promote a caring, safe and conducive learning environment and to instill discipline in learning, students are to conform to the following rules and regulations:
 
@@ -229,13 +242,13 @@ At the Assembly Area during Flag Raising Ceremony/ At Assembly in the Hall
 *   To promote citizenship, students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.
 *   Students who are not Singapore citizens must stand at attention and maintain respectful silence.
 
-**Classroom Behaviour**  
+<h4>Classroom Behaviour</h4>
 
 *   Students are not allowed to leave the classroom without an Exit Pass, which must be displayed clearly on the student when out of the classroom.
 *   Students are not allowed to eat in the classroom.
 *   Students must leave their classrooms during recess unless authorised by a teacher.
 
-<b>School Premises</b>
+<h4>School Premises</h4>
 
 *   Students are not allowed to loiter during curriculum time.
 
@@ -243,25 +256,24 @@ At the Assembly Area during Flag Raising Ceremony/ At Assembly in the Hall
 *   Students must not enter the Staff Room and HOD Room without permission.
 *   Students are not allowed to eat in the canteen during lesson time unless permission is granted.
 
-<b>Use of Sports Facilities (school field, basketball court, ISH)</b>
+<h4>Use of Sports Facilities (school field, basketball court, ISH)</h4>
 
 Students must adhere to the following rules and regulations when using the sports facilities:
 
-<b>Playing time</b>
+<h4>Playing time</h4>
 
 To ensure students are properly attired and ready for lessons:
 
 *   Students are not allowed to play before school. Students can only play during recess and after school, from 3pm to 5.30pm, provided they have no lesson, CCA or other school programmes.
 *   During recess, students must stop their play 10 minutes before the start of the next lesson. The students’ playing equipment, like soccer ball and frisbee, will be confiscated if they do not comply with the above.
 
-**Attire**  
-
+<h4>Attire</h4>
 Wearing proper attire will reduce the risk of injury and heat stroke, thus,
 
 *   Students must be in half uniform, i.e. PE T-shirts and shorts/pants/skirts for their play during recess.
 *   Students&nbsp;**must be**&nbsp;in full PE attire (PE T-shirts and shorts) when they play after school hours.
 
-**School Property**  
+<h4>School Property</h4>
 
 To instill the value of caring and being righteous:
 
@@ -269,7 +281,7 @@ To instill the value of caring and being righteous:
 
 *   Students are not to vandalise any school property.
 
-<b>Use of mobile phones</b>
+<h4>Use of mobile phones</h4>
 
 Students are encouraged not to bring their mobile phones to school. They may use the telephone in the General Office if they need to contact their parents/guardians. In an emergency, their parents/ guardians can call the school to contact the student. Students bring mobile phones to school at their own risk and the school will not be held liable or responsible for any loss or damage to the mobile phones. The following must be adhered to <b>unless a teacher’s permission has been expressly granted</b>.
 
@@ -299,14 +311,14 @@ Students are encouraged not to bring their mobile phones to school. They may use
 
   
 
-<b>Expected Student Behaviour</b>
+<h4>Expected Student Behaviour</h4>
 
 *   To support students in managing their time effectively, leading to being self-disciplined and self-motivated, students are expected to attend all their school activities and to be punctual for them.
     
     **Rules and Regulations  
     **Students are to comply with the following school rules and regulations:
     
-    **Attendance**
+    <h5>Attendance</h5>
     
     *   Students who are absent must present a Medical Certificate or a letter from a parent/guardian as soon as he/ she returns to school.
     
@@ -318,7 +330,7 @@ Students are encouraged not to bring their mobile phones to school. They may use
     
     *   Students who leave school early for other personal reasons must produce a valid document (e.g. Music exams entry proof, external examinations letter).
     
-    <b>Punctuality</b>  
+    <h5>Punctuality</h5>  
     
     *   Students will be considered late if they are not with their classes when the bell has rung for the start of the flag-raising ceremony.
     
@@ -331,12 +343,13 @@ Students are encouraged not to bring their mobile phones to school. They may use
 
   
 
-<b>Expected Student Behaviour </b><br>
+<h4>Expected Student Behaviour </h4>
+<br>
 To be self-motivated and self-disciplined, students are expected to complete all schoolwork and assignment to the best of their ability.
 
   
-<b>Rules and Regulations  
-Students are to follow the following school rules and regulations:</b>  
+<h4>Rules and Regulations  
+Students are to follow the following school rules and regulations:</h4>  
 
 *   To submit all schoolwork on time.
 *   To not plagiarise.
@@ -348,15 +361,15 @@ Students are to follow the following school rules and regulations:</b>
 
   
 
-<b>Expected Student Behaviour</b>
+<h4>Expected Student Behaviour</h4>
 
 To help build a caring environment, students are to be courteous, polite and respectful to all teachers, staff, schoolmates and guests/visitors to the school. Students are to greet all teachers, staff, schoolmates and guests/visitors to the school and offer assistance to all when required. Students are to be civic-minded and to report to the school authority if they witness anyone doing things detrimental to the school and schoolmates.
 
-<b>Speak English Policy:</b>
+<h4>Speak English Policy:</h4>
 
 The Speak English Policy is to promote communication among the different races. The use of a common language would promote social cohesion and racial harmony. The students can also value and appreciate the diverse multi-cultural society in the school.
 
-<b>Rules and Regulations</b>
+<h4>Rules and Regulations</h4>
 
 *   Students are required to adhere to the following rules and regulations:
 *   Students are to obey instructions given by the authority.
@@ -367,8 +380,9 @@ The Speak English Policy is to promote communication among the different races. 
 *   Students must be truthful and honest to staff, teachers and schoolmates.
 *   Students are to dispose of their litter appropriately.
 	</div>
-
-	</li><li>
+</li>
+    
+<li>
 		<input id="accordion4" type="checkbox">
 		<label for="accordion4">STUDENT INSURANCE</label>
 <div>
@@ -377,17 +391,20 @@ Parents /students are to submit their claims online and check the claims status 
 Information on claims, FAQs and other details pertaining to the GPA Insurance Plan for Students can be found on Income Insurance Limited website at&nbsp;[https://www.income.com.sg/studentgpa](https://www.income.com.sg/studentgpa)
 		</div>
 		
-</li><li>
+</li>
+<li>
 		<input id="accordion5" type="checkbox">
 		<label for="accordion5">PEDESTRIAN AND VEHICLE ROUTE</label>
 <div>
-Click [here](https://prcss.moe.edu.sg/qql/slot/u200/pdf/student_administration/1443412269106905142.jpg) for Safe Route School Map.
+Click <a href="/images/1443412269106905142.jpg">here</a> for Safe Route School Map.
 </div>
-			</li>
+</li>
+
 <li>
 		<input id="accordion6" type="checkbox">
 		<label for="accordion6">TRAFFIC MANAGEMENT PLAN</label>
 <div>
-Click [here](https://prcss.moe.edu.sg/qql/slot/u200/pdf/student_administration/Traffic%20Management%20Plan%2013112020.pdf)for Traffic Management Plan.
-</div></li>
+Click <a href="/files/Traffic%20Management%20Plan%2013112020.pdf">here</a>for Traffic Management Plan.
+</div>
+</li>
 </ul>
