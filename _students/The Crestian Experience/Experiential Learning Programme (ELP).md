@@ -51,14 +51,19 @@ third_nav_title: The Crestian Experience
 <div>
 <h2>SEC 2ENA - SGEM AT MERLION PARK</h2>
 </div>
-<div><img alt="SGEM at Merlion Park 1.png" src="/images/SGEM at Merlion Park 1.png">
-<img alt="SGEM at Merlion Park 2.png" src="/images/SGEM at Merlion Park 2.png"></div>
-<div><img alt="SGEM at Merlion Park 3.png" src="/images/SGEM at Merlion Park 3.png"></div>
-<div><img alt="SGEM at Merlion Park 4.png" src="/images/SGEM at Merlion Park 4.png"></div>
-<div><img alt="SGEM at Merlion Park 5.png" src="/images/SGEM at Merlion Park 5.png"></div>
-<div><img alt="SGEM at Merlion Park 6.png" src="/images/SGEM at Merlion Park 6.png"></div>
-<div><img alt="SGEM at Merlion Park 7.png" src="/images/SGEM at Merlion Park 7.png"></div>
-<div><img alt="SGEM at Merlion Park 8.png" src="/images/SGEM at Merlion Park 8.png"></div>
+	
+<div><img alt="SGEM at Merlion Park 1.png" src="/images/SGEM at Merlion Park 1.png" style="width:50%; float:left;">
+<img alt="SGEM at Merlion Park 2.png" src="/images/SGEM at Merlion Park 2.png" style="width:50%;"></div>
+	
+<div><img alt="SGEM at Merlion Park 3.png" src="/images/SGEM at Merlion Park 3.png"style="width:50%; float:left;">
+<img alt="SGEM at Merlion Park 4.png" src="/images/SGEM at Merlion Park 4.png" style="width:50%;"></div>
+	
+<div><img alt="SGEM at Merlion Park 5.png" src="/images/SGEM at Merlion Park 5.png" style="width:50%; float:left;">
+	<img alt="SGEM at Merlion Park 6.png" src="/images/SGEM at Merlion Park 6.png" style="width:50%;"></div>
+	
+<div><img alt="SGEM at Merlion Park 7.png" src="/images/SGEM at Merlion Park 7.png" style="width:50%; float:left;">
+<img alt="SGEM at Merlion Park 8.png" src="/images/SGEM at Merlion Park 8.png" style="width:50%;"></div>
+	
 <div>
 <h2>SEC 2 - ACT LJ AT ART SCIENCE MUSEUM</h2>
 </div>
