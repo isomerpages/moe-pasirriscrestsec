@@ -7,14 +7,14 @@ description: ""
  
 <ul class="jekyllcodex_accordion">
 <li>
-<input type="checkbox" />
+<input type="checkbox" id="accordion1">
 <label for="accordion1">E-BROCHURE</label>
 <div>
  <p>Click <a href="/files/e-OpenHouse%202020/PRCS%20Booklet%2025.10.2021.pdf" target="_blank" rel="noopener">here</a> for the e-brochure.</p>
 </div>
 </li>
         
-<li><input type="checkbox" /><label for="accordion2">APPLIED LEARNING PROGRAMME (ALP): EFFECTIVE COMMUNICATORS WHO IMPACT WITH THE HEART AND MIND</label>
+<li><input type="checkbox" id="accordion2"><label for="accordion2">APPLIED LEARNING PROGRAMME (ALP): EFFECTIVE COMMUNICATORS WHO IMPACT WITH THE HEART AND MIND</label>
 <div>
 <div>One of the programmes which will make the Crestian student distinctive from his or her peers in other schools would be the Applied Learning Programme (ALP), which focuses on effective communication. Named 'Effective Communicators of the 21st Century', this programme envisions our students to be effective communicators who impact with the heart and mind, putting their language competencies to good use at the workplace and in the society, hence our ALP Vision: <em><strong>Effective communicators who impact with the heart and mind</strong></em>.<br /><br /></div>
 <div>The ALP is run by the English Language department and the skills of effective communication are woven into classroom teaching. Additionally, the department has designed and implemented performance tasks at all levels to hone students' communicative ability. The detailed plans drawn up by the ALP team are in alignment to the learning outcomes of the EL Syllabus 2020 and the intent of ALP. The school has a two-tiered approach in delivering the programme:<br /><br /></div>
@@ -61,7 +61,7 @@ description: ""
 </div>
 </li>
 
-<li><input type="checkbox" /><label for="accordion3">LEARNING FOR LIFE PROGRAMME (LLP)</label>
+<li><input type="checkbox" id="accordion3"><label for="accordion3">LEARNING FOR LIFE PROGRAMME (LLP)</label>
 <div>
 <div><strong><u>Objectives</u></strong></div>
 <div>As the Music Satellite to the East Zone Centre of Excellence for Creative Arts, PRCS believes in providing a quality music education for Crestians to nurture their interest and talent in the performing arts. The exploration of music and other forms of the performing arts supports the holistic development of students, allowing them to discover and express themselves as well as to strengthen their character, giving rise to the focus of PRCS&rsquo; Learning for Life Programme (LLP), <strong>Nurturing Crestian Learners of Tomorrow through Music and the Performing Arts</strong>.</div>
@@ -118,7 +118,7 @@ description: ""
     </div>
  </li>
 
-<li><input type="checkbox" /><label for="accordion4">DISTINCTIVE SPORT - FENCING</label>
+<li><input type="checkbox" id="accordion4"><label for="accordion4">DISTINCTIVE SPORT - FENCING</label>
     <div>One distinctive PRCS experience for the students would be the co-curricular activity, Fencing. PRCS Fencing Club was established as early as 2001 with 20 members. Our fencers have been a force to be reckoned with at national and international competitions. Some of our school fencers have gone on to join Singapore's National Fencing Team.</div>
     <div><img src="/images/Fencing1.png" alt="Fencing1.png" width="100%" /></div>
     <div>The Club aims to <strong>nurture respectful</strong>, <strong>responsible</strong> and <strong>disciplined</strong> young men and women. Supported by a team of dedicated coaches, the training regime at PRCS Fencing Club goes beyond the blade to help our fencers discover what they are gifted at. While the development of skills, agility and coordination are important, PRCS Fencing Club also firmly believes <strong>character building</strong> will help realize the full potential of all PRCS fencers.</div>
@@ -128,7 +128,7 @@ description: ""
     <div>2) <a href="http://gg.gg/prcss-sabre" target="_blank" rel="noopener">Video 2</a></div>
 </li>
 
-<li><input type="checkbox" /><label for="accordion5">OUR STAKEHOLDERS</label>
+<li><input type="checkbox" id="accordion5"><label for="accordion5">OUR STAKEHOLDERS</label>
     <div>
     <div><strong>What our parents say:</strong></div>
     <div>1) Ms. <a href="http://gg.gg/prcss-video1" target="_blank" rel="noopener">Prithiba Sri Sekar</a> on discipline and character development</div>
