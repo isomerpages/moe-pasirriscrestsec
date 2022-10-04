@@ -589,12 +589,57 @@ Congratulations to Crestians who continue to do well.
 		<input type="checkbox" id="accordion8">
 		<label for="accordion8">CRESTIANS WHO HAVE WON SCHOLARSHIPS</label>
 		<div>
-			
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-muza{background-color:#FFF;color:#444;text-align:left;vertical-align:middle}
+.tg .tg-6cnb{background-color:#FFF;color:#444;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-l0hy{background-color:#F4F5FC;color:#444;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-6cnb">Name</th>
+    <th class="tg-6cnb">Authority</th>
+    <th class="tg-6cnb">Award</th>
+    <th class="tg-muza"><span style="color:#444;background-color:#FFF">Year</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">Nur Azeemah Bte Abdul Kadir</span></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">Ministry of Education</span></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">Ministry of Education Teaching and Post-grad Scholarship</span></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">2011</span></td>
+  </tr>
+  <tr>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF">Lok Teng Ping</span></td>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF">Ministry of Education</span></td>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF">Teaching Scholarship (Local)</span></td>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF">2012</span></td>
+  </tr>
+  <tr>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">Darren Fong Zheng Wai</span></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">Infocomm Development Authority of Singapore</span></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">National Infocomm Scholarship and Integrated Infocomm Scholarship</span></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">2011</span></td>
+  </tr>
+  <tr>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF">Chin Si Ying Sally</span></td>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF">Infocomm Development Authority of Singapore</span></td>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF">Integrated Infocomm Scholarship (IIS)</span></td>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF">2012</span></td>
+  </tr>
+</tbody>
+</table>
 </div></li>
 <li>
 		<input type="checkbox" id="accordion9">
 		<label for="accordion9">CRESTIANS IN THE NEWS</label>
 		<div>
-			
+Newspaper reports of Crestians.
 </div>
 </ul>
