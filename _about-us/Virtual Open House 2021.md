@@ -55,7 +55,7 @@ Feature News</h3>
 <div><img width="100%" alt="MCC.JPG" src="/images/MCC.JPG"></div>
 <br/><div>Click on this link if you wish to listen to some of the The Peak podcast episodes:</div><br/>
 <div>
-<div style="float: left"><img alt="ThePeak.jpg" src="https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/ThePeak.jpg" style="width:50%"></div>
+<div style="float: left;"><img alt="ThePeak.jpg" src="https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/ThePeak.jpg" style="width:50%"></div>
 <div><a rel="noopener" target="_blank" href="http://gg.gg/thepeak">The Peak Podcast</a></div>
 </div>
 <div><strong>ENHANCED ALP (MOTHER TONGUE LANGUAGES)</strong></div>
