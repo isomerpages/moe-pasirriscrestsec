@@ -23,18 +23,6 @@ Fencers will have the opportunity to take part in competitions such as National 
 </div>
 
 <div>
-Footer
-</div>
-</div>
-
-<div><div style="float:left">
-	</div>
-	
-<div>
-</p></div>
-</div>
-
-<br/>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -70,3 +58,9 @@ Footer
 </tbody>
 </table>
 <img src="/images/Fencing.png">
+</div>
+</div>
+
+
+	
+
