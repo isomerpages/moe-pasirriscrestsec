@@ -26,7 +26,7 @@ The PSG’s role is to provide support and partner the school in their efforts t
 
 For MOE resources to support your child, please click&nbsp;<a href="https://useful-links">here</a>.
 
-If you are interested to join the PSG, please sign up via the QR code below, at this&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLScz_aMWALubDvnByaW0F14tudbVFG6NRpve_DxlG3YH3_3hfA/viewform">link</a>.
+If you are interested to join the PSG, please sign up via the QR code below, at this <a href="https://docs.google.com/forms/d/e/1FAIpQLScz_aMWALubDvnByaW0F14tudbVFG6NRpve_DxlG3YH3_3hfA/viewform">link</a>.
 
 <div>
 <div style="float: left">
@@ -40,11 +40,10 @@ QR code for PSG sign-up</div>
 OUR CORE TEAM 2022  
 
   
+<img src="/images/PSG-Core-Team-2022.jpg" style="width: 50%;">
 
-![PSG-Core-Team-2022.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/parents_support_group/2022/PSG-Core-Team-2022.JPG)  
-
-**2022 Events/Activities that would be hosted and/or conducted by PSG**&nbsp;
+**2022 Events/Activities that would be hosted and/or conducted by PSG**;
 
 _Activities TBC in view of COVID-19 situation. Please contact psgprcs\[at\]gmail.com if you would like to participate._  
 
-![PSG-Activities-2022.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/parents_support_group/2022/PSG-Activities-2022.JPG)
+<img src="/images/PSG-Activities-2022.jpg" style="width: 50%;">
