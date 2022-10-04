@@ -28,11 +28,9 @@ For MOE resources to support your child, please click <a href="https://useful-l
 
 If you are interested to join the PSG, please sign up via the QR code below, at this <a href="https://docs.google.com/forms/d/e/1FAIpQLScz_aMWALubDvnByaW0F14tudbVFG6NRpve_DxlG3YH3_3hfA/viewform">link</a>.
 
-<div>
-<div style="float: left">
-<img src="/Images/QR-Code.png" style="width: 20%">
-</div><div>
-QR code for PSG sign-up</div></div>
+<img style="width: 30%;" src="/images/QR-Code.png" align = "left" /> 
+	
+QR code for PSG sign-up
 
 
 
