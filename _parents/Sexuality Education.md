@@ -83,7 +83,7 @@ description: ""
 
 **At Pasir Ris Crest Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
 
-![eTeens.JPG](https://prcss.moe.edu.sg/qql/slot/u200/pdf/SED/eTeens.JPG)  
+<img src="/images/eTeens.jpg" />
 
   
 
@@ -91,22 +91,22 @@ description: ""
 
   
 
-**Information for Parents**  
+<h3>Information for Parents</h3>
 
-10\. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.  
-
-  
-
-11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://prcss.moe.edu.sg/qql/slot/u200/pdf/SED/GY%20consent%20from_2022.pdf). The completed form is to be submitted by 28/02/2022.
+10. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.  
 
   
 
-12\. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://prcss.moe.edu.sg/qql/slot/u200/pdf/SED/ETeens__consent%20Form%202022.pdf). The completed form is to be submitted by 28/02/2022.
+11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://prcss.moe.edu.sg/qql/slot/u200/pdf/SED/GY%20consent%20from_2022.pdf). The completed form is to be submitted by 28/02/2022.
 
   
 
-13\. Parents can contact Ms Conceicao Daphnie Colette \[SH/Citizenship Education\] at [conceicao\_daphnie\_colette@schools.gov.sg](mailto:conceicao_daphnie_colette@schools.gov.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+12\. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/ETeens__consent%20Form%202022.pdf" />here</a>. The completed form is to be submitted by 28/02/2022.
 
   
 
-14\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+13. Parents can contact Ms Conceicao Daphnie Colette \[SH/Citizenship Education\] at [conceicao\_daphnie\_colette@schools.gov.sg](mailto:conceicao_daphnie_colette@schools.gov.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+
+  
+
+14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
