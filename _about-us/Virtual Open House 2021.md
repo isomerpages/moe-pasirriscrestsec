@@ -75,7 +75,7 @@ description: ""
 <ul>
 <li><strong>Learning of musical knowledge and skills</strong>, to equip all students with a range of music skills to encourage them to pursue music as an interest beyond their school days.</li>
 <li><strong>Learning of values and life skills through learning music and performance</strong>, to develop core life skills and competencies anchored in values to enable students to be self-disciplined persons and leaders.</li>
-<li><strong>Using music to serve and help others</strong>, to inspire students&rsquo; spirit of volunteerism and empathy; to be conscious of one self&rsquo;s potential and be empowered to contribute to the betterment of others.</li>
+<li><strong>Using music to serve and help others</strong>, to inspire students&rsquo; spirit of volunteerism and empathy; to be conscious of one self's potential and be empowered to contribute to the betterment of others.</li>
 </ul>
 </div>
 <div><strong><u>Outline</u></strong></div>
@@ -100,7 +100,7 @@ description: ""
 <div>A 20-hour level programme provides the opportunity for students to work as a class to plan and conceptualise their VIA project and to apply creatively the musical skills learnt in lower secondary to enhance their quality of their project.</div>
 <div>With guidance from Music Teachers/Home Tutors, Crestians will plan and decide their VIA activities. Crestians could choose to deliver live performances at community/school-based events, e.g. National Education events, create musical pieces in songs or videos to advocate awareness towards specific social concerns, share the joy of music with others through teaching music to the young or underprivileged, etc.</div>
 <div><img src="/images/LLP-Pic6.jpeg" alt="LLP-Pic6.jpeg" /></div>
-<div>The authentic learning experience for Crestians to create meaningful outcomes with their musical skills will inspire Crestians&rsquo; spirit of volunteerism. This is in line with the school&rsquo;s goal to develop Crestians to become active and concerned citizens, paving the way for them to embark on a lifelong journey of active learning and helping others.</div>
+<div>The authentic learning experience for Crestians to create meaningful outcomes with their musical skills will inspire Crestians&rsquo; spirit of volunteerism. This is in line with the school's goal to develop Crestians to become active and concerned citizens, paving the way for them to embark on a lifelong journey of active learning and helping others.</div>
 <div><strong>Part 3: Promoting Learning and Appreciation of Music&nbsp;</strong></div>
 <div>To sustain a positive and vibrant school culture where students can enjoy music, the school would continue to organise different school-based events to promote the learning of musical skills and support the development of Crestians in the aesthetics.</div>
 <div><strong>Events and Competitions</strong></div>
@@ -118,25 +118,25 @@ description: ""
 <div><img src="/images/LLP-Pic8.jpeg" alt="LLP-Pic8.jpeg" width="100%" /></div>
 <div><img src="/images/LLP-Pic9.jpeg" alt="LLP-Pic9.jpeg" /></div>
 <div><strong>Performing Arts CCAs</strong></div>
-<div>The school&rsquo;s Performing Arts CCAs include the Symphonic Band, Chinese Instrumental Orchestra, Choir, Guzheng, Drama and Modern Dance which enable students with musical talents/ interest to pursue their talents/ interests and further develop their musical abilities. Specialised training will be provided for the various Performing Arts CCAs. Opportunities are also provided for students to participate in competitions or public performances. More information about the various Performing Arts CCA activities can be found on their respective CCA webpages.</div>
+<div>The school's Performing Arts CCAs include the Symphonic Band, Chinese Instrumental Orchestra, Choir, Guzheng, Drama and Modern Dance which enable students with musical talents/ interest to pursue their talents/ interests and further develop their musical abilities. Specialised training will be provided for the various Performing Arts CCAs. Opportunities are also provided for students to participate in competitions or public performances. More information about the various Performing Arts CCA activities can be found on their respective CCA webpages.</div>
 <div><img src="/images/LLP-Pic10.jpeg" alt="LLP-Pic10.jpeg" width="100%" /></div>
 </div>
 </li>
 <li><input type="checkbox" /><label for="accordion4">DISTINCTIVE SPORT - FENCING</label>
-<div>One distinctive PRCS experience for the students would be the co-curricular activity, Fencing. PRCS Fencing Club was established as early as 2001 with 20 members. Our fencers have been a force to be reckoned with at national and international competitions. Some of our school fencers have gone on to join Singapore&rsquo;s National Fencing Team.</div>
+<div>One distinctive PRCS experience for the students would be the co-curricular activity, Fencing. PRCS Fencing Club was established as early as 2001 with 20 members. Our fencers have been a force to be reckoned with at national and international competitions. Some of our school fencers have gone on to join Singapore's National Fencing Team.</div>
 <div><img src="/images/Fencing1.png" alt="Fencing1.png" width="100%" /></div>
-<div>The Club aims to&nbsp;<strong>nurture respectful</strong>,&nbsp;<strong>responsible</strong>&nbsp;and&nbsp;<strong>disciplined</strong>&nbsp;young men and women. Supported by a team of dedicated coaches, the training regime at PRCS Fencing Club goes beyond the blade to help our fencers discover what they are gifted at. While the development of skills, agility and coordination are important, PRCS Fencing Club also firmly believes&nbsp;<strong>character building</strong>&nbsp;will help realize the full potential of all PRCS fencers.</div>
+<div>The Club aims to <strong>nurture respectful</strong>, <strong>responsible</strong>&nbsp;and&nbsp;<strong>disciplined</strong>&nbsp;young men and women. Supported by a team of dedicated coaches, the training regime at PRCS Fencing Club goes beyond the blade to help our fencers discover what they are gifted at. While the development of skills, agility and coordination are important, PRCS Fencing Club also firmly believes <strong>character building</strong> will help realize the full potential of all PRCS fencers.</div>
 <div><img src="/images/Fencing2.jpeg" alt="Fencing2.jpeg" width="100%" /></div>
 <div>Watch the videos below to see our fencers in action:To upload to Youtube.</div>
-<div>1)&nbsp;<a href="http://gg.gg/prcss-fencing" target="_blank" rel="noopener">Video 1</a></div>
+<div>1) <a href="http://gg.gg/prcss-fencing" target="_blank" rel="noopener">Video 1</a></div>
 <div>2)&nbsp;<a href="http://gg.gg/prcss-sabre" target="_blank" rel="noopener">Video 2</a></div>
 </li>
 <li><input type="checkbox" /><label for="accordion5">OUR STAKEHOLDERS</label>
 <div>
 <div><strong>What our parents say:</strong></div>
-<div>1) Ms.&nbsp;<a href="http://gg.gg/prcss-video1" target="_blank" rel="noopener">Prithiba Sri Sekar</a>&nbsp;on discipline and character development</div>
-<div>2) Ms.&nbsp;<a href="http://gg.gg/prcss-video2" target="_blank" rel="noopener">Kristine Chua</a>&nbsp;on T&amp;L</div>
-<div>3) Ms.&nbsp;<a href="http://gg.gg/prcss-video3" target="_blank" rel="noopener">Karen Sim</a>&nbsp;on LLP and student leadership</div>
+<div>1) Ms. <a href="http://gg.gg/prcss-video1" target="_blank" rel="noopener">Prithiba Sri Sekar</a> on discipline and character development</div>
+<div>2) Ms.<a href="http://gg.gg/prcss-video2" target="_blank" rel="noopener">Kristine Chua</a>&nbsp;on T&amp;L</div>
+<div>3) Ms.<a href="http://gg.gg/prcss-video3" target="_blank" rel="noopener">Karen Sim</a>&nbsp;on LLP and student leadership</div>
 <div>4) Ms.&nbsp;<a href="http://gg.gg/prcss-video4" target="_blank" rel="noopener">Maggie Lim</a>&nbsp;on the school's environment and its impact</div>
 <div><strong>What our students say:</strong></div>
 <div>1)&nbsp;<a href="http://gg.gg/prcss-video5" target="_blank" rel="noopener">Lai Zi Yu</a>&nbsp;on ALP</div>
