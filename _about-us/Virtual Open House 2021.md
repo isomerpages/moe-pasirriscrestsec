@@ -12,45 +12,43 @@ description: ""
 <input id="accordion1" type="checkbox">
 <label for="accordion1">E-BROCHURE</label>
 <div>
-<p>Click&nbsp;<a rel="noopener" target="_blank" href="/files/e-OpenHouse%202020/PRCS%20Booklet%2025.10.2021.pdf">here</a>&nbsp;for the e-brochure.</p>
+<p>Click <a rel="noopener" target="_blank" href="/files/e-OpenHouse%202020/PRCS%20Booklet%2025.10.2021.pdf">here</a> for the e-brochure.</p>
 </div>
 
 </li><li>
 			<input id="accordion2" type="checkbox">
 			<label for="accordion2">APPLIED LEARNING PROGRAMME (ALP): EFFECTIVE COMMUNICATORS WHO IMPACT WITH THE HEART AND MIND</label>
 <div>
-<div>One of the programmes which will make the Crestian student distinctive from his or her peers in other schools would be the Applied Learning Programme (ALP), which focuses on effective communication. Named ‘Effective Communicators of the 21st Century’, this programme envisions our students to be effective communicators who impact with the heart and mind, putting their language competencies to good use at the workplace and in the society, hence our ALP Vision:&nbsp;<em><strong>Effective communicators who impact with the heart and mind</strong></em>.</div>
-<div>The ALP is run by the English Language department and the skills of effective communication are woven into classroom teaching. Additionally, the department has designed and implemented performance tasks at all levels to hone students’ communicative ability. The detailed plans drawn up by the ALP team are in alignment to the learning outcomes of the EL Syllabus 2020 and the intent of ALP. The school has a two-tiered approach in delivering the programme:</div>
-<div><strong><u>Tier 1</u></strong>&nbsp;is for the whole student population and all students will be taught the skills in class:</div>
-<div><img width="100%" alt="Tier1.jpeg" src="/images/Tier1.jpeg"></div>
-<div><strong>PROGRAMMES</strong></div>
-<div>
-<div><strong>Secondary One ALP</strong></div>
-<div>For Secondary One students, the EL Department has designed lessons that would allow students to be creative in the narrative genre. The culmination of the lessons will be a digital story-telling project where students weave a narrative, marrying their understanding of visuals and text which they will then present to their peers. This project also presents them with a platform to express themselves and to learn how to entertain an audience.</div>
-<div><img width="100%" alt="Sec1ALP.jpeg" src="/images/Sec1ALP.jpeg"></div>
-<div><strong>Secondary Two ALP</strong></div>
-<div>
-<div><strong>Feature News</strong></div>
-<div>To enhance the students’ skills in writing and speaking in the news genre, students engage in a performance task where they research, write a short feature story of a landmark, then present it as part of a feature story broadcasting project. They will also use the school’s multimedia room – The Black Box.</div>
+<div style="text-align: justify;">One of the programmes which will make the Crestian student distinctive from his or her peers in other schools would be the Applied Learning Programme (ALP), which focuses on effective communication. Named ‘Effective Communicators of the 21st Century’, this programme envisions our students to be effective communicators who impact with the heart and mind, putting their language competencies to good use at the workplace and in the society, hence our ALP Vision:&nbsp;<em><strong>Effective communicators who impact with the heart and mind</strong></em>.<br/><br/></div>
+<div style="text-align: justify;">The ALP is run by the English Language department and the skills of effective communication are woven into classroom teaching. Additionally, the department has designed and implemented performance tasks at all levels to hone students’ communicative ability. The detailed plans drawn up by the ALP team are in alignment to the learning outcomes of the EL Syllabus 2020 and the intent of ALP. The school has a two-tiered approach in delivering the programme:<br/><br/></div>
+<div style="text-align: justify;"><strong><u>Tier 1</u></strong>&nbsp;is for the whole student population and all students will be taught the skills in class:<br/><br/></div>
+<div><img width="100%" alt="Tier1.jpeg" src="/images/Tier1.jpeg"><br/></div>
+<h3>PROGRAMMES<br/>
+Secondary One ALP</h3>
+<div style="text-align: justify;">For Secondary One students, the EL Department has designed lessons that would allow students to be creative in the narrative genre. The culmination of the lessons will be a digital story-telling project where students weave a narrative, marrying their understanding of visuals and text which they will then present to their peers. This project also presents them with a platform to express themselves and to learn how to entertain an audience.</div><br/>
+<div><img width="100%" alt="Sec1ALP.jpeg" src="/images/Sec1ALP.jpeg"></div><br/>
+<h3>Secondary Two ALP<br/>
+Feature News</h3>
+<div  style="text-align: justify;">To enhance the students’ skills in writing and speaking in the news genre, students engage in a performance task where they research, write a short feature story of a landmark, then present it as part of a feature story broadcasting project. They will also use the school’s multimedia room – The Black Box.</div><br/>
 </div>
 <div><img width="100%" alt="Sec2ALP.jpeg" src="/images/Sec2ALP.jpeg"></div>
-<div><strong>Transmediation Tasks</strong></div>
+<h3>Transmediation Tasks</h3>
 <div><img width="100%" alt="TransTasks.jpeg" src="/images/TransTasks.jpeg"></div>
-<div><strong>Secondary Three ALP</strong></div>
+<h3>Secondary Three ALP</h3>
 <div>
-<div>Secondary Three students look into how advertisements are produced. They learn about the message and purpose found in an advertisement. They will understand how sound, moving images and text can come together to persuade consumers and in doing so, become discerning viewers of advertisement themselves. Below are two samples of the projects which were scripted, performed and filmed by our students.</div>
+<div style="text-align: justify;">Secondary Three students look into how advertisements are produced. They learn about the message and purpose found in an advertisement. They will understand how sound, moving images and text can come together to persuade consumers and in doing so, become discerning viewers of advertisement themselves. Below are two samples of the projects which were scripted, performed and filmed by our students.<br/><br/></div>
 </div>
-<div><img width="100%" alt="Sec3ALP.jpeg" src="/images/Sec3ALP.JPG"></div>
-<div><strong>Secondary Four and Five ALP</strong></div>
-<div>Our Secondary Four and Five students take the lead in inspiring juniors through their impassioned speeches delivered during our morning Advocacy Programme. Topics delivered thus far include the refugee crisis in war-torn countries, showing kindness to all in the community, casual racism and cultivating a healthy self-esteem by loving ourselves.</div>
+<div><img width="100%" alt="Sec3ALP.jpeg" src="/images/Sec3ALP.JPG"></div><br/>
+<h3>Secondary Four and Five ALP</h3>
+<div  style="text-align: justify;">Our Secondary Four and Five students take the lead in inspiring juniors through their impassioned speeches delivered during our morning Advocacy Programme. Topics delivered thus far include the refugee crisis in war-torn countries, showing kindness to all in the community, casual racism and cultivating a healthy self-esteem by loving ourselves.</div>
 <div><img width="100%" alt="Sec4&amp;5ALP.jpeg" src="/images//Sec4&amp;5ALP.jpeg"></div>
 <div>
-<div><strong>Tier 2 Programmes (Selected students)</strong></div>
-<div><strong><u>Tier 2</u></strong>&nbsp;programmes are for a selected group of students who show a keen interest in developing their communication skills. Some of the activities are as follows:</div>
-<div>1) <u><strong>ALP Talent Management Programme (Secondary 1 to 2)</strong></u></div>
-<div>Selected students go through a robust 2-year programme where they are given exposure to authentic settings where communications skills are key. For example, they become tour guides for their peers when embarking on the Civic District Trail. They are also given the opportunity to interact with parents and P6 pupils, and guide them during the school’s Open House. The students are sent for various competitions such as the UNSW Writing Competition. The school also seeks opportunities in the neighbourhood to showcase the students’ talent such as having a photojournalism exhibition in the Pasir Ris East Community Centre.</div>
+<h3>Tier 2 Programmes (Selected students)</h3>
+<div style="text-align: justify;"><strong><u>Tier 2</u></strong> programmes are for a selected group of students who show a keen interest in developing their communication skills. Some of the activities are as follows:</div><br/>
+<div>1) <u><strong>ALP Talent Management Programme (Secondary 1 to 2)</strong></u></div><br/>
+<div style="text-align: justify;">Selected students go through a robust 2-year programme where they are given exposure to authentic settings where communications skills are key. For example, they become tour guides for their peers when embarking on the Civic District Trail. They are also given the opportunity to interact with parents and P6 pupils, and guide them during the school’s Open House. The students are sent for various competitions such as the UNSW Writing Competition. The school also seeks opportunities in the neighbourhood to showcase the students’ talent such as having a photojournalism exhibition in the Pasir Ris East Community Centre.<br/><br/></div>
 </div>
-<div><img width="100%" alt="Tier2.JPG" src="/images/Tier2.JPG"></div>
+<div><img width="100%" alt="Tier2.JPG" src="/images/Tier2.JPG"><br/></div>
 <div>2) <strong><u>The Media Communications Club (CCA)</u></strong></div>
 <div>
 <div>Students who join this CCA engage in activities that will further develop their skills in speaking. Students who enjoy debating are coached to prepare them for the Secondary Schools Debating Championship. Those who prefer to simply improve speaking skills are given weekly Toastmasters sessions where they work on mini projects to improve their oratorical skills. The students are also responsible for creating weekly podcasts that share with the school their concerns with school and life in general.</div>
