@@ -11,11 +11,11 @@ third_nav_title: School Achievements
 		<input type="checkbox" id="accordion1">
 		<label for="accordion1">LEE KUAN YEW AWARD FOR OUTSTANDING NORMAL COURSE STUDENTS</label>
 <div>
-			We congratulate our student, Lau Yan Liang, on being awarded the Lee Kuan Yew Award for Outstanding Normal Course Students in 2019, in recognition of his excellent performance at the ‘O’ level examinations, strength of character and leadership qualities.
+<p>We congratulate our student, Lau Yan Liang, on being awarded the Lee Kuan Yew Award for Outstanding Normal Course Students in 2019, in recognition of his excellent performance at the ‘O’ level examinations, strength of character and leadership qualities.
 
 Yan Liang was a good role model and a positive influence on his peers. He was a mature and responsible student who looked after the overall well-being of the class as Class Chairperson and took meticulous care of volleyball equipment as Overall-in-charge of Logistics in his CCA.  He demonstrated strong leadership in honing his juniors’ skills during CCA sessions and the volleyball camps which he organised for the entire team.
 
-A NYAA Bronze and Silver winner, Yan Liang was an all-rounder who excelled in both curricular and co-curricular areas.  He sets high expectations, shows strong determination, and embodies the school values of Proactive, Righteous, Caring and Self-Motivated.  We wish him all the best as he continues to exhibit the traits of a Crestian Overcomer at Nanyang Junior College and beyond.
+A NYAA Bronze and Silver winner, Yan Liang was an all-rounder who excelled in both curricular and co-curricular areas.  He sets high expectations, shows strong determination, and embodies the school values of Proactive, Righteous, Caring and Self-Motivated.  We wish him all the best as he continues to exhibit the traits of a Crestian Overcomer at Nanyang Junior College and beyond.</p>
 </div>
 </li>
 	
