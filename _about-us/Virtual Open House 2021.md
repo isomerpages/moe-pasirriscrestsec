@@ -3,12 +3,12 @@ title: Virtual Open House 2021
 permalink: /about-us/VirtualOpenHouse2021/
 description: ""
 ---
-<div>
 <h1>Virtual Open House 2021</h1>
-</div>
  
 <ul class="jekyllcodex_accordion">
-<li><input type="checkbox" /><label for="accordion1">E-BROCHURE</label>
+<li>
+<input type="checkbox" />
+<label for="accordion1">E-BROCHURE</label>
 <div>
  <p>Click <a href="/files/e-OpenHouse%202020/PRCS%20Booklet%2025.10.2021.pdf" target="_blank" rel="noopener">here</a> for the e-brochure.</p>
 </div>
@@ -16,8 +16,8 @@ description: ""
         
 <li><input type="checkbox" /><label for="accordion2">APPLIED LEARNING PROGRAMME (ALP): EFFECTIVE COMMUNICATORS WHO IMPACT WITH THE HEART AND MIND</label>
 <div>
-<div>One of the programmes which will make the Crestian student distinctive from his or her peers in other schools would be the Applied Learning Programme (ALP), which focuses on effective communication. Named &lsquo;Effective Communicators of the 21st Century, this programme envisions our students to be effective communicators who impact with the heart and mind, putting their language competencies to good use at the workplace and in the society, hence our ALP Vision: <em><strong>Effective communicators who impact with the heart and mind</strong></em>.<br /><br /></div>
-<div>The ALP is run by the English Language department and the skills of effective communication are woven into classroom teaching. Additionally, the department has designed and implemented performance tasks at all levels to hone students&rsquo; communicative ability. The detailed plans drawn up by the ALP team are in alignment to the learning outcomes of the EL Syllabus 2020 and the intent of ALP. The school has a two-tiered approach in delivering the programme:<br /><br /></div>
+<div>One of the programmes which will make the Crestian student distinctive from his or her peers in other schools would be the Applied Learning Programme (ALP), which focuses on effective communication. Named 'Effective Communicators of the 21st Century', this programme envisions our students to be effective communicators who impact with the heart and mind, putting their language competencies to good use at the workplace and in the society, hence our ALP Vision: <em><strong>Effective communicators who impact with the heart and mind</strong></em>.<br /><br /></div>
+<div>The ALP is run by the English Language department and the skills of effective communication are woven into classroom teaching. Additionally, the department has designed and implemented performance tasks at all levels to hone students' communicative ability. The detailed plans drawn up by the ALP team are in alignment to the learning outcomes of the EL Syllabus 2020 and the intent of ALP. The school has a two-tiered approach in delivering the programme:<br /><br /></div>
 <div><strong><u>Tier 1</u></strong> is for the whole student population and all students will be taught the skills in class:<br /><br /></div>
 <div><img src="/images/Tier1.jpeg" alt="Tier1.jpeg" width="100%" /></div>
 <h3>PROGRAMMES<br />Secondary One ALP</h3>
