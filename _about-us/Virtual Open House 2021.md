@@ -4,78 +4,78 @@ permalink: /about-us/VirtualOpenHouse2021/
 description: ""
 ---
 <div>
-    <h1>Virtual Open House 2021</h1>
-    </div>
-    
- <ul class="jekyllcodex_accordion">
-        
- <li><input type="checkbox" /><label for="accordion1">E-BROCHURE</label>
- <div>
+<h1>Virtual Open House 2021</h1>
+</div>
+ 
+<ul class="jekyllcodex_accordion">
+
+<li><input type="checkbox" /><label for="accordion1">E-BROCHURE</label>
+<div>
  <p>Click <a href="/files/e-OpenHouse%202020/PRCS%20Booklet%2025.10.2021.pdf" target="_blank" rel="noopener">here</a> for the e-brochure.</p>
 </div>
 </li>
         
 <li><input type="checkbox" /><label for="accordion2">APPLIED LEARNING PROGRAMME (ALP): EFFECTIVE COMMUNICATORS WHO IMPACT WITH THE HEART AND MIND</label>
-    <div>
-    <div>One of the programmes which will make the Crestian student distinctive from his or her peers in other schools would be the Applied Learning Programme (ALP), which focuses on effective communication. Named &lsquo;Effective Communicators of the 21st Century, this programme envisions our students to be effective communicators who impact with the heart and mind, putting their language competencies to good use at the workplace and in the society, hence our ALP Vision: <em><strong>Effective communicators who impact with the heart and mind</strong></em>.<br /><br /></div>
-    <div>The ALP is run by the English Language department and the skills of effective communication are woven into classroom teaching. Additionally, the department has designed and implemented performance tasks at all levels to hone students&rsquo; communicative ability. The detailed plans drawn up by the ALP team are in alignment to the learning outcomes of the EL Syllabus 2020 and the intent of ALP. The school has a two-tiered approach in delivering the programme:<br /><br /></div>
-    <div><strong><u>Tier 1</u></strong> is for the whole student population and all students will be taught the skills in class:<br /><br /></div>
-    <div><img src="/images/Tier1.jpeg" alt="Tier1.jpeg" width="100%" /></div>
-    <h3>PROGRAMMES<br />Secondary One ALP</h3>
-    <div>For Secondary One students, the EL Department has designed lessons that would allow students to be creative in the narrative genre. The culmination of the lessons will be a digital story-telling project where students weave a narrative, marrying their understanding of visuals and text which they will then present to their peers. This project also presents them with a platform to express themselves and to learn how to entertain an audience.</div>
-    <br />
-    <div><img src="/images/Sec1ALP.jpeg" alt="Sec1ALP.jpeg" width="100%" /></div>
-    <br />
-    <h3>Secondary Two ALP<br />Feature News</h3>
-    <div>To enhance the students&rsquo; skills in writing and speaking in the news genre, students engage in a performance task where they research, write a short feature story of a landmark, then present it as part of a feature story broadcasting project. They will also use the school&rsquo;s multimedia room &ndash; The Black Box.</div>
-    <br />
-    <div><img src="/images/Sec2ALP.jpeg" alt="Sec2ALP.jpeg" width="100%" /></div>
-    <h3>Transmediation Tasks</h3>
-    <div><img src="/images/TransTasks.jpeg" alt="TransTasks.jpeg" width="100%" /></div>
-    <h3>Secondary Three ALP</h3>
-    <div>Secondary Three students look into how advertisements are produced. They learn about the message and purpose found in an advertisement. They will understand how sound, moving images and text can come together to persuade consumers and in doing so, become discerning viewers of advertisement themselves. Below are two samples of the projects which were scripted, performed and filmed by our students.<br /><br /></div>
-    <div><img src="/images/Sec3ALP.JPG" alt="Sec3ALP.jpeg" width="100%" /></div>
-    <br />
-    <h3>Secondary Four and Five ALP</h3>
-    <div>Our Secondary Four and Five students take the lead in inspiring juniors through their impassioned speeches delivered during our morning Advocacy Programme. Topics delivered thus far include the refugee crisis in war-torn countries, showing kindness to all in the community, casual racism and cultivating a healthy self-esteem by loving ourselves.</div>
-    <div><img src="/images//Sec4&amp;5ALP.jpeg" alt="Sec4&amp;5ALP.jpeg" width="100%" /></div>
-    <h3>Tier 2 Programmes (Selected students)</h3>
-    <div><strong><u>Tier 2</u></strong> programmes are for a selected group of students who show a keen interest in developing their communication skills. Some of the activities are as follows:</div>
-    <br />
-    <div>1) <u><strong>ALP Talent Management Programme (Secondary 1 to 2)</strong></u></div>
-    <br />
-    <div>Selected students go through a robust 2-year programme where they are given exposure to authentic settings where communications skills are key. For example, they become tour guides for their peers when embarking on the Civic District Trail. They are also given the opportunity to interact with parents and P6 pupils, and guide them during the school&rsquo;s Open House. The students are sent for various competitions such as the UNSW Writing Competition. The school also seeks opportunities in the neighbourhood to showcase the students&rsquo; talent such as having a photojournalism exhibition in the Pasir Ris East Community Centre.<br /><br /></div>
-    <div><img src="/images/Tier2.JPG" alt="Tier2.JPG" width="100%" /></div>
-    <div>2) <strong><u>The Media Communications Club (CCA)</u></strong></div>
-    <br />
-    <div>Students who join this CCA engage in activities that will further develop their skills in speaking. Students who enjoy debating are coached to prepare them for the Secondary Schools Debating Championship. Those who prefer to simply improve speaking skills are given weekly Toastmasters sessions where they work on mini projects to improve their oratorical skills. The students are also responsible for creating weekly podcasts that share with the school their concerns with school and life in general.<br /><br /></div>
-    <div><img src="/images/MCC.JPG" alt="MCC.JPG" width="100%" /></div>
-    <br />
-    <div>Click on this link if you wish to listen to some of the The Peak podcast episodes:</div>
-    <br />
-    <div><img src="https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/ThePeak.jpg" alt="ThePeak.jpg" /></div>
-    <div><a href="http://gg.gg/thepeak" target="_blank" rel="noopener">The Peak Podcast</a></div>
-    <div><strong>ENHANCED ALP (MOTHER TONGUE LANGUAGES)</strong></div>
-    <div>Since 2018, the school has also embarked on the Enhanced ALP in Mother Tongue Languages. The MTL department has worked with the EL department to help students to be effectively bilingual in speaking and writing. Below are the activities the department offers to the student.</div>
-    <div><img src="/images/eALP[1].JPG" alt="eALP.JPG" width="100%" /></div>
-    <div>See what our students have to say about ALP. To upload video to Youtube</div>
-    </div>
+<div>
+<div>One of the programmes which will make the Crestian student distinctive from his or her peers in other schools would be the Applied Learning Programme (ALP), which focuses on effective communication. Named &lsquo;Effective Communicators of the 21st Century, this programme envisions our students to be effective communicators who impact with the heart and mind, putting their language competencies to good use at the workplace and in the society, hence our ALP Vision: <em><strong>Effective communicators who impact with the heart and mind</strong></em>.<br /><br /></div>
+<div>The ALP is run by the English Language department and the skills of effective communication are woven into classroom teaching. Additionally, the department has designed and implemented performance tasks at all levels to hone students&rsquo; communicative ability. The detailed plans drawn up by the ALP team are in alignment to the learning outcomes of the EL Syllabus 2020 and the intent of ALP. The school has a two-tiered approach in delivering the programme:<br /><br /></div>
+<div><strong><u>Tier 1</u></strong> is for the whole student population and all students will be taught the skills in class:<br /><br /></div>
+<div><img src="/images/Tier1.jpeg" alt="Tier1.jpeg" width="100%" /></div>
+<h3>PROGRAMMES<br />Secondary One ALP</h3>
+<div>For Secondary One students, the EL Department has designed lessons that would allow students to be creative in the narrative genre. The culmination of the lessons will be a digital story-telling project where students weave a narrative, marrying their understanding of visuals and text which they will then present to their peers. This project also presents them with a platform to express themselves and to learn how to entertain an audience.</div>
+<br />
+<div><img src="/images/Sec1ALP.jpeg" alt="Sec1ALP.jpeg" width="100%" /></div>
+<br />
+<h3>Secondary Two ALP<br />Feature News</h3>
+<div>To enhance the students&rsquo; skills in writing and speaking in the news genre, students engage in a performance task where they research, write a short feature story of a landmark, then present it as part of a feature story broadcasting project. They will also use the school&rsquo;s multimedia room &ndash; The Black Box.</div>
+<br />
+<div><img src="/images/Sec2ALP.jpeg" alt="Sec2ALP.jpeg" width="100%" /></div>
+<h3>Transmediation Tasks</h3>
+<div><img src="/images/TransTasks.jpeg" alt="TransTasks.jpeg" width="100%" /></div>
+<h3>Secondary Three ALP</h3>
+<div>Secondary Three students look into how advertisements are produced. They learn about the message and purpose found in an advertisement. They will understand how sound, moving images and text can come together to persuade consumers and in doing so, become discerning viewers of advertisement themselves. Below are two samples of the projects which were scripted, performed and filmed by our students.<br /><br /></div>
+<div><img src="/images/Sec3ALP.JPG" alt="Sec3ALP.jpeg" width="100%" /></div>
+<br />
+<h3>Secondary Four and Five ALP</h3>
+<div>Our Secondary Four and Five students take the lead in inspiring juniors through their impassioned speeches delivered during our morning Advocacy Programme. Topics delivered thus far include the refugee crisis in war-torn countries, showing kindness to all in the community, casual racism and cultivating a healthy self-esteem by loving ourselves.</div>
+<div><img src="/images//Sec4&amp;5ALP.jpeg" alt="Sec4&amp;5ALP.jpeg" width="100%" /></div>
+<h3>Tier 2 Programmes (Selected students)</h3>
+<div><strong><u>Tier 2</u></strong> programmes are for a selected group of students who show a keen interest in developing their communication skills. Some of the activities are as follows:</div>
+<br />
+<div>1) <u><strong>ALP Talent Management Programme (Secondary 1 to 2)</strong></u></div>
+<br />
+<div>Selected students go through a robust 2-year programme where they are given exposure to authentic settings where communications skills are key. For example, they become tour guides for their peers when embarking on the Civic District Trail. They are also given the opportunity to interact with parents and P6 pupils, and guide them during the school&rsquo;s Open House. The students are sent for various competitions such as the UNSW Writing Competition. The school also seeks opportunities in the neighbourhood to showcase the students&rsquo; talent such as having a photojournalism exhibition in the Pasir Ris East Community Centre.<br /><br /></div>
+<div><img src="/images/Tier2.JPG" alt="Tier2.JPG" width="100%" /></div>
+<div>2) <strong><u>The Media Communications Club (CCA)</u></strong></div>
+<br />
+<div>Students who join this CCA engage in activities that will further develop their skills in speaking. Students who enjoy debating are coached to prepare them for the Secondary Schools Debating Championship. Those who prefer to simply improve speaking skills are given weekly Toastmasters sessions where they work on mini projects to improve their oratorical skills. The students are also responsible for creating weekly podcasts that share with the school their concerns with school and life in general.<br /><br /></div>
+<div><img src="/images/MCC.JPG" alt="MCC.JPG" width="100%" /></div>
+<br />
+<div>Click on this link if you wish to listen to some of the The Peak podcast episodes:</div>
+<br />
+<div><img src="https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/ThePeak.jpg" alt="ThePeak.jpg" /></div>
+<div><a href="http://gg.gg/thepeak" target="_blank" rel="noopener">The Peak Podcast</a></div>
+<div><strong>ENHANCED ALP (MOTHER TONGUE LANGUAGES)</strong></div>
+<div>Since 2018, the school has also embarked on the Enhanced ALP in Mother Tongue Languages. The MTL department has worked with the EL department to help students to be effectively bilingual in speaking and writing. Below are the activities the department offers to the student.</div>
+<div><img src="/images/eALP[1].JPG" alt="eALP.JPG" width="100%" /></div>
+<div>See what our students have to say about ALP. To upload video to Youtube</div>
+</div>
 </li>
 
 <li><input type="checkbox" /><label for="accordion3">LEARNING FOR LIFE PROGRAMME (LLP)</label>
-    <div>
-    <div><strong><u>Objectives</u></strong></div>
-    <div>As the Music Satellite to the East Zone Centre of Excellence for Creative Arts, PRCS believes in providing a quality music education for Crestians to nurture their interest and talent in the performing arts. The exploration of music and other forms of the performing arts supports the holistic development of students, allowing them to discover and express themselves as well as to strengthen their character, giving rise to the focus of PRCS&rsquo; Learning for Life Programme (LLP), <strong>Nurturing Crestian Learners of Tomorrow through Music and the Performing Arts</strong>.</div>
+<div>
+<div><strong><u>Objectives</u></strong></div>
+<div>As the Music Satellite to the East Zone Centre of Excellence for Creative Arts, PRCS believes in providing a quality music education for Crestians to nurture their interest and talent in the performing arts. The exploration of music and other forms of the performing arts supports the holistic development of students, allowing them to discover and express themselves as well as to strengthen their character, giving rise to the focus of PRCS&rsquo; Learning for Life Programme (LLP), <strong>Nurturing Crestian Learners of Tomorrow through Music and the Performing Arts</strong>.</div>
     <div>The LLP brings together the school&rsquo;s music programme and performing arts CCAs to help develop Crestians in the following areas:</div>
     <div>
     <ul>
  <li><strong>Learning of musical knowledge and skills</strong>, to equip all students with a range of music skills to encourage them to pursue music as an interest beyond their school days.</li>
- <li><strong>Learning of values and life skills through learning music and performance</strong>, to develop core life skills and competencies anchored in values to enable students to be self-disciplined persons and leaders.</li>
+<li><strong>Learning of values and life skills through learning music and performance</strong>, to develop core life skills and competencies anchored in values to enable students to be self-disciplined persons and leaders.</li>
  <li><strong>Using music to serve and help others</strong>, to inspire students&rsquo; spirit of volunteerism and empathy; to be conscious of one self's potential and be empowered to contribute to the betterment of others.</li>
- </ul>
-    </div>
-    <div><strong><u>Outline</u></strong></div>
-    <div>The LLP comprises broad-based programmes to equip all students with basic skills in music and performance and appreciation for the performing arts (Tier 1). Students who demonstrate aptitude and passion for music and the performing arts also have various opportunities to further pursue and deepen their skills through a wide range of activities and interest groups/ performing arts CCAs (Tier 2).</div>
+</ul>
+</div>
+<div><strong><u>Outline</u></strong></div>
+<div>The LLP comprises broad-based programmes to equip all students with basic skills in music and performance and appreciation for the performing arts (Tier 1). Students who demonstrate aptitude and passion for music and the performing arts also have various opportunities to further pursue and deepen their skills through a wide range of activities and interest groups/ performing arts CCAs (Tier 2).</div>
     <div><img src="/images/LLP-Tiers.jpeg" alt="LLP-Tiers.jpeg" /></div>
     <div>A key component of the LLP is the music programme, which is delivered as level programmes for Secondary 1, 2 and 3. It consists of 3 main parts:</div>
     <div><strong>Part 1: Learning of Music for Growth (Lower Secondary)</strong></div>
