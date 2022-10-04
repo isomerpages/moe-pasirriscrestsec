@@ -23,8 +23,8 @@ third_nav_title: School Achievements
 			<input type="checkbox" id="accordion2">
 			<label for="accordion2">2020</label>
 			<div>
-			<img src="/images/2020-O-N-Results.jpeg" alt="2020-O-N-Results">
-			<img src="/images/2020 O-Results.jpeg" alt="2020 O-Results">
+			<img src="/images/2020-O-N-Results.jpeg" alt="2020-O-N-Results"><br/>
+			<img src="/images/2020 O-Results.jpeg" alt="2020 O-Results" style="width: 70%">
 				</div>
 
 </li>
@@ -71,10 +71,10 @@ third_nav_title: School Achievements
 <p><strong>PFP (%)</strong></p>
 </td>
 <td width="114">
-<p><strong>PFP &amp; DPP (%)</strong></p>
+<p><strong>PFP & DPP (%)</strong></p>
 </td>
 <td width="113">
-<p>&nbsp;<strong>5N (%)</strong></p>
+<p><strong>5N (%)</strong></p>
 </td>
 </tr>
 <tr>
@@ -342,14 +342,14 @@ third_nav_title: School Achievements
 <tr>
 <td><strong>Course</strong></td>
 <td><strong>PFP (%)</strong></td>
-<td><strong>PFP &amp; DPP (%)</strong></td>
-<td>&nbsp;<strong>5N (%)</strong></td>
+<td><strong>PFP & DPP (%)</strong></td>
+<td><strong>5N (%)</strong></td>
 </tr>
 <tr>
 <td>Secondary 4 Express(A)</td>
 <td>34.6</td>
 <td>94.9</td>
-<td>97.4&nbsp;</td>
+<td>97.4</td>
 </tr>
 </tbody>
 </table>
@@ -800,7 +800,7 @@ third_nav_title: School Achievements
 <li>Additional Mathematics</li>
 <li>Art</li>
 <li>Chinese</li>
-<li>Design &amp; Technology</li>
+<li>Design & Technology</li>
 <li>Humanities</li>
 <li>Literature</li>
 <li>Malay Language</li>
@@ -900,7 +900,7 @@ third_nav_title: School Achievements
 <li>Basic Malay Language</li>
 <li>Basic Tamil Language</li>
 <li>Computer Applications</li>
-<li>Design &amp; Technology</li>
+<li>Design & Technology</li>
 <li>Elements of Business Skills</li>
 <li>English Language</li>
 <li>Food Studies</li>
@@ -934,7 +934,7 @@ third_nav_title: School Achievements
 <label for="accordion5">2016</label>
 
 <div>
-<p><strong><u>2016 GCE 'O' &amp; 'N' Level Examination</u></strong></p>
+<p><strong><u>2016 GCE 'O' & 'N' Level Examination</u></strong></p>
 <table border="1" width="300" cellspacing="0">
 <tbody>
 <tr>
@@ -1210,7 +1210,7 @@ third_nav_title: School Achievements
 <li>Art</li>
 <li>Combined Humanities</li>
 <li>Chinese Language</li>
-<li>Design &amp; Technology</li>
+<li>Design & Technology</li>
 <li>English Language</li>
 <li>Food &amp; Nutrition</li>
 <li>Literature</li>
@@ -1228,7 +1228,7 @@ third_nav_title: School Achievements
 <li>Art</li>
 <li>Combined Humanities</li>
 <li>Chinese Language</li>
-<li>Design &amp; Technology</li>
+<li>Design & Technology</li>
 <li>English Language</li>
 <li>Literature</li>
 <li>Malay Language</li>
@@ -1257,7 +1257,7 @@ third_nav_title: School Achievements
 <li>Basic Chinese Language</li>
 <li>Basic Malay Language</li>
 <li>Basic Tamil Language</li>
-<li>Design &amp; Technology</li>
+<li>Design & Technology</li>
 <li>Elements of Business Skills</li>
 <li>English Language</li>
 <li>Food Studies</li>
@@ -1270,7 +1270,7 @@ third_nav_title: School Achievements
 <li>Art</li>
 <li>Basic Malay Language</li>
 <li>Basic Tamil Language</li>
-<li>Design &amp; Technology</li>
+<li>Design & Technology</li>
 <li>Elements of Business Skills</li>
 <li>Food Studies</li>
 <li>Mathematics</li>
