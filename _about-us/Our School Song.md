@@ -7,7 +7,7 @@ description: ""
 
 Input song file
 
-<p>Words &amp; Music by Ken Low</p>
+<p>Words & Music by Ken Low</p>
 	
 <p><strong>Verse 1:</strong></p>
 	
@@ -17,7 +17,7 @@ What we have will last forever<br/>
 The world will be at our feet<br/>
 When you hold your hand right out to me<br/>
 I see a glowing chance<br/>
-	Spark the burning flame inside of me<br/><br/></div>
+	Spark the burning flame inside of me<br/></div>
 	
 <p><strong>Chorus:</strong></p><br/>
 	
