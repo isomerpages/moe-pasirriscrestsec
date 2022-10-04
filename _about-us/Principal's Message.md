@@ -11,7 +11,7 @@ description: ""
 
 <p align="justify">A warm welcome to Pasir Ris Crest Secondary!</p>
 <p align="justify">When you enter our campus, you will see the phrase &lsquo;Home of the Overcomers&rsquo;, shining beautifully under the warm rays. Indeed, this is our home, our PRCS, where we want all of you to be able to find your place, your growth, and strength to take on and overcome any challenge in life</p>
-<p align="justify">Every year, we have a school theme to galvanise our efforts and guide our focus as we commit to achieving the school&rsquo;s vision and mission.</p>
+<p align="justify">Every year, we have a school theme to galvanise our efforts and guide our focus as we commit to achieving the school&rsquo;s vision and mission.</p><br/>
 <p align="justify">For 2022, the school theme is&nbsp;<strong>'OUR PRCS'</strong>.</p>
 <p align="justify">A simple phrase made weighty due to the determiner &lsquo;OUR&rsquo;. OUR is a powerful word with deep meaning. It symbolises collective belonging and emphasises the focus and priority as a school to develop collective ownership in what do, by staff, students and stakeholders.&nbsp;</p>
 <p align="justify">'OUR' represents Ownership-Unity-Responsiveness.</p>
