@@ -91,7 +91,7 @@ description: ""
     <div>All Crestians will acquire basic music skills to perform simple musical pieces and to create/arrange their own music.</div>
     <div><img src="/images/LLP-Pic5.jpeg" alt="LLP-Pic5.jpeg" /></div>
     <div><strong>Part 2: Deepening the Learning of Music to Serve (Upper Secondary)</strong></div>
-    <div>Crestians are encouraged to infuse music learning and performance skills that they have picked up at Lower Secondary as part of the Crestians&rsquo; Values-In-Action Project in Secondary Three. </div>
+    <div>Crestians are encouraged to infuse music learning and performance skills that they have picked up at Lower Secondary as part of the Crestians' Values-In-Action Project in Secondary Three. </div>
     <div>A 20-hour level programme provides the opportunity for students to work as a class to plan and conceptualise their VIA project and to apply creatively the musical skills learnt in lower secondary to enhance their quality of their project.</div>
     <div>With guidance from Music Teachers/Home Tutors, Crestians will plan and decide their VIA activities. Crestians could choose to deliver live performances at community/school-based events, e.g. National Education events, create musical pieces in songs or videos to advocate awareness towards specific social concerns, share the joy of music with others through teaching music to the young or underprivileged, etc.</div>
     <div><img src="/images/LLP-Pic6.jpeg" alt="LLP-Pic6.jpeg" /></div>
