@@ -26,7 +26,6 @@ A NYAA Bronze and Silver winner, Yan Liang was an all-rounder who excelled in bo
 <p>We congratulate our student, Nur Haziqah Bte Salleh Huddin, for winning the Lee Kuan Yew Award for All-Round Excellence 2016.  She won because of her excellent N Level results which saw her top the 2015 N Level cohort, and for her strong values. Haziqah was a good role model and a positive influence on her peers. She displayed strong leadership qualities as the Sergeant major of the National Cadet Corp (NCC Girls) where she set high standards for cadets. She was also a School Councillor who was well respected by her peers. She has done the school proud as she embodies the school values of being Proactive, Righteous, Caring and Self-motivated.</p>
 </div>
 </li>
-	
 <li>
 		<input type="checkbox" id="accordion3">
 		<label for="accordion3">LEE KUAN YEW: THRU YOUR EYES ART COMPETITION</label>
@@ -107,15 +106,13 @@ A NYAA Bronze and Silver winner, Yan Liang was an all-rounder who excelled in bo
 <li>
 		<input type="checkbox" id="accordion4">
 		<label for="accordion4">CONGRATULATIONS FOR GOOD RESULTS</label>
-		<div>
-Congratulations to Crestians who continue to do well.
+<div>Congratulations to Crestians who continue to do well.
 </div></li>
 	
 	<li>
 		<input type="checkbox" id="accordion5">
 		<label for="accordion5">CRESTIANS EXCELLING AT POLYTECHNICS</label>
-		<div>
-<style type="text/css">
+		<div><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
