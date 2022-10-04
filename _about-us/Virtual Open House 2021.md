@@ -9,13 +9,13 @@ description: ""
     
  <ul class="jekyllcodex_accordion">
         
-  <li><input type="checkbox" /><label for="accordion1">E-BROCHURE</label>
-    <div>
-    <p>Click <a href="/files/e-OpenHouse%202020/PRCS%20Booklet%2025.10.2021.pdf" target="_blank" rel="noopener">here</a> for the e-brochure.</p>
-    </div>
-    </li>
+ <li><input type="checkbox" /><label for="accordion1">E-BROCHURE</label>
+ <div>
+ <p>Click <a href="/files/e-OpenHouse%202020/PRCS%20Booklet%2025.10.2021.pdf" target="_blank" rel="noopener">here</a> for the e-brochure.</p>
+</div>
+</li>
         
- <li><input type="checkbox" /><label for="accordion2">APPLIED LEARNING PROGRAMME (ALP): EFFECTIVE COMMUNICATORS WHO IMPACT WITH THE HEART AND MIND</label>
+<li><input type="checkbox" /><label for="accordion2">APPLIED LEARNING PROGRAMME (ALP): EFFECTIVE COMMUNICATORS WHO IMPACT WITH THE HEART AND MIND</label>
     <div>
     <div>One of the programmes which will make the Crestian student distinctive from his or her peers in other schools would be the Applied Learning Programme (ALP), which focuses on effective communication. Named &lsquo;Effective Communicators of the 21st Century, this programme envisions our students to be effective communicators who impact with the heart and mind, putting their language competencies to good use at the workplace and in the society, hence our ALP Vision: <em><strong>Effective communicators who impact with the heart and mind</strong></em>.<br /><br /></div>
     <div>The ALP is run by the English Language department and the skills of effective communication are woven into classroom teaching. Additionally, the department has designed and implemented performance tasks at all levels to hone students&rsquo; communicative ability. The detailed plans drawn up by the ALP team are in alignment to the learning outcomes of the EL Syllabus 2020 and the intent of ALP. The school has a two-tiered approach in delivering the programme:<br /><br /></div>
@@ -60,7 +60,7 @@ description: ""
     <div><img src="/images/eALP[1].JPG" alt="eALP.JPG" width="100%" /></div>
     <div>See what our students have to say about ALP. To upload video to Youtube</div>
     </div>
-    </li>
+</li>
 
 <li><input type="checkbox" /><label for="accordion3">LEARNING FOR LIFE PROGRAMME (LLP)</label>
     <div>
@@ -69,10 +69,10 @@ description: ""
     <div>The LLP brings together the school&rsquo;s music programme and performing arts CCAs to help develop Crestians in the following areas:</div>
     <div>
     <ul>
-    <li><strong>Learning of musical knowledge and skills</strong>, to equip all students with a range of music skills to encourage them to pursue music as an interest beyond their school days.</li>
-    <li><strong>Learning of values and life skills through learning music and performance</strong>, to develop core life skills and competencies anchored in values to enable students to be self-disciplined persons and leaders.</li>
-    <li><strong>Using music to serve and help others</strong>, to inspire students&rsquo; spirit of volunteerism and empathy; to be conscious of one self's potential and be empowered to contribute to the betterment of others.</li>
-    </ul>
+ <li><strong>Learning of musical knowledge and skills</strong>, to equip all students with a range of music skills to encourage them to pursue music as an interest beyond their school days.</li>
+ <li><strong>Learning of values and life skills through learning music and performance</strong>, to develop core life skills and competencies anchored in values to enable students to be self-disciplined persons and leaders.</li>
+ <li><strong>Using music to serve and help others</strong>, to inspire students&rsquo; spirit of volunteerism and empathy; to be conscious of one self's potential and be empowered to contribute to the betterment of others.</li>
+ </ul>
     </div>
     <div><strong><u>Outline</u></strong></div>
     <div>The LLP comprises broad-based programmes to equip all students with basic skills in music and performance and appreciation for the performing arts (Tier 1). Students who demonstrate aptitude and passion for music and the performing arts also have various opportunities to further pursue and deepen their skills through a wide range of activities and interest groups/ performing arts CCAs (Tier 2).</div>
@@ -117,7 +117,7 @@ description: ""
     <div>The school's Performing Arts CCAs include the Symphonic Band, Chinese Instrumental Orchestra, Choir, Guzheng, Drama and Modern Dance which enable students with musical talents/ interest to pursue their talents/ interests and further develop their musical abilities. Specialised training will be provided for the various Performing Arts CCAs. Opportunities are also provided for students to participate in competitions or public performances. More information about the various Performing Arts CCA activities can be found on their respective CCA webpages.</div>
     <div><img src="/images/LLP-Pic10.jpeg" alt="LLP-Pic10.jpeg" width="100%" /></div>
     </div>
-    </li>
+ </li>
 
 <li><input type="checkbox" /><label for="accordion4">DISTINCTIVE SPORT - FENCING</label>
     <div>One distinctive PRCS experience for the students would be the co-curricular activity, Fencing. PRCS Fencing Club was established as early as 2001 with 20 members. Our fencers have been a force to be reckoned with at national and international competitions. Some of our school fencers have gone on to join Singapore's National Fencing Team.</div>
@@ -127,7 +127,7 @@ description: ""
     <div>Watch the videos below to see our fencers in action:To upload to Youtube.</div>
     <div>1) <a href="http://gg.gg/prcss-fencing" target="_blank" rel="noopener">Video 1</a></div>
     <div>2) <a href="http://gg.gg/prcss-sabre" target="_blank" rel="noopener">Video 2</a></div>
-    </li>
+</li>
 
 <li><input type="checkbox" /><label for="accordion5">OUR STAKEHOLDERS</label>
     <div>
@@ -145,6 +145,6 @@ description: ""
     <div>2) <a href="http://gg.gg/prcss-video9" target="_blank" rel="noopener">Vanessa Lim</a> on being an Overcomer</div>
     <div>3) <a href="http://gg.gg/prcss-video10" target="_blank" rel="noopener">Marinah Musa</a> on The Crestian Experience</div>
     </div>
-    </li>
+ </li>
 
   </ul>
