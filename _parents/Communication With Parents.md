@@ -21,9 +21,9 @@ The Term 2 Letter to Parents summarising the latest school updates for all level
 <p><strong>Letter to Parents dated 4 May 2022</strong></p>
 
 <a href="/files/Sec%201%20level%20letter_4%20May%202022.pdf">Sec 1 Letter to Parents 4 May 2022</a>
-<a href="/files/Sec%202NAEXP%20level%20letter_4%20May%202022.pdf">Sec 2NAEXP Letter to Parents 4 May 2022</a>
-<a href="/files/Sec%202NT%20level%20letter_4%20May%202022.pdf">Sec 2NT Letter to Parents 4 May 2022</a>
-<a href="/files/SSec%203%20level%20letter_4%20May%202022.pdf">Sec 3 Letter to Parents 4 May 2022</a>
+<br/><a href="/files/Sec%202NAEXP%20level%20letter_4%20May%202022.pdf">Sec 2NAEXP Letter to Parents 4 May 2022</a>
+<br/><a href="/files/Sec%202NT%20level%20letter_4%20May%202022.pdf">Sec 2NT Letter to Parents 4 May 2022</a>
+<br/><a href="/files/SSec%203%20level%20letter_4%20May%202022.pdf">Sec 3 Letter to Parents 4 May 2022</a><br/>
 <a href="/files/Sec%204%20and%205%20level%20letter1%204%20May%202022.pdf">Sec 4 and 5 Letter to Parents 4 May 2022</a>
 	</div>
 	</li>
