@@ -3,39 +3,39 @@ title: Parent Support Group
 permalink: /parents/ParentSupportGroup/
 description: ""
 ---
-Parent Support Group
-====================
+<h1>Parent Support Group</h1>
 
-PSG VIDEO
----------
+To upload PSG VIDEO to youtube
 
-  
-  
-VISION  
+<h3>VISION</h3>
 
-Partnering the school to nurture CRESTian leaders.
+<p>Partnering the school to nurture CRESTian leaders.</p>
 
-MISSION
--------
+<h3>MISSION</h3>
 
 The PSG’s role is to provide support and partner the school in their efforts to become 'A Choice School that nurtures the Hearts and Minds of Crestian Leaders to be the pride of family, community and nation'.
 
-OBJECTIVES  
-
-*   To work with the school to support and enrich the learning experiences of Crestians.
-*   To encourage parental involvement in school activities and peer support among parents.
-*   To create opportunities for parent and child to bond.
-*   To promote a greater sense of belonging to the school.
+<h3>OBJECTIVES</h3>
+<ul>
+<li>To work with the school to support and enrich the learning experiences of Crestians.</li>
+<li>To encourage parental involvement in school activities and peer support among parents.</li>
+<li>To create opportunities for parent and child to bond.</li>
+<li>To promote a greater sense of belonging to the school.</li></ul>
 
   
 
-For MOE resources to support your child, please click [here](https://prcss.moe.edu.sg/parents/useful-links).
+For MOE resources to support your child, please click <a href="https://useful-links">here</a>.
 
-If you are interested to join the PSG, please sign up via the QR code below, at this [link](https://docs.google.com/forms/d/e/1FAIpQLScz_aMWALubDvnByaW0F14tudbVFG6NRpve_DxlG3YH3_3hfA/viewform)
+If you are interested to join the PSG, please sign up via the QR code below, at this <a href="https://docs.google.com/forms/d/e/1FAIpQLScz_aMWALubDvnByaW0F14tudbVFG6NRpve_DxlG3YH3_3hfA/viewform">link</a>.
 
-![QR-Code.png](https://prcss.moe.edu.sg/qql/slot/u200/images/parents_support_group/QR-Code.png)
+<div>
+<div style="float: left">
+<img src="/Images/QR-Code.png" style="width: 20%">
+</div><div>
+QR code for PSG sign-up</div></div>
 
-_QR code for PSG sign-up_  
+
+
 
   
 
