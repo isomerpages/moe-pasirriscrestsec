@@ -45,7 +45,7 @@ These students who need assistance for home broadband connectivity, can apply fo
 the MOE FAS Application Form for 2022 is available now. Needy Singaporean students who wish to apply for financial help may collect the application form from the school's <strong>General Office</strong> or download the form from the school website.</p>
 <div>
 <ul>
-<li><strong>MOE FAS Pamphlet 2021</strong><br/>
+<li><strong>MOE FAS Pamphlet 2022</strong><br/>
 <a href="/files/MOE%20FAS%20Pamphlet%202022.pdf" target="_blank" rel="noopener">MOE FAS Pamphlet 2022</a></li>
 <li><strong>MOE FAS Application Form 2022</strong><br/>
 <a href="/files/MOE%20FAS%20Application%20Form%202022.pdf" target="_blank" rel="noopener">MOE FAS Application Form 2022</a></li></ul>
