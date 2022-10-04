@@ -37,13 +37,13 @@ description: ""
 <br />
 <h3>Secondary Four and Five ALP</h3>
 <div>Our Secondary Four and Five students take the lead in inspiring juniors through their impassioned speeches delivered during our morning Advocacy Programme. Topics delivered thus far include the refugee crisis in war-torn countries, showing kindness to all in the community, casual racism and cultivating a healthy self-esteem by loving ourselves.</div>
-<div><img src="/images//Sec4&amp;5ALP.jpeg" alt="Sec4&amp;5ALP.jpeg" width="100%" /></div>
+<div><img src="/images//Sec4&5ALP.jpeg" alt="Sec4&5ALP.jpeg" width="100%" /></div>
 <h3>Tier 2 Programmes (Selected students)</h3>
 <div><strong><u>Tier 2</u></strong> programmes are for a selected group of students who show a keen interest in developing their communication skills. Some of the activities are as follows:</div>
 <br />
 <div>1) <u><strong>ALP Talent Management Programme (Secondary 1 to 2)</strong></u></div>
 <br />
-<div>Selected students go through a robust 2-year programme where they are given exposure to authentic settings where communications skills are key. For example, they become tour guides for their peers when embarking on the Civic District Trail. They are also given the opportunity to interact with parents and P6 pupils, and guide them during the school&rsquo;s Open House. The students are sent for various competitions such as the UNSW Writing Competition. The school also seeks opportunities in the neighbourhood to showcase the students&rsquo; talent such as having a photojournalism exhibition in the Pasir Ris East Community Centre.<br /><br /></div>
+<div>Selected students go through a robust 2-year programme where they are given exposure to authentic settings where communications skills are key. For example, they become tour guides for their peers when embarking on the Civic District Trail. They are also given the opportunity to interact with parents and P6 pupils, and guide them during the school's Open House. The students are sent for various competitions such as the UNSW Writing Competition. The school also seeks opportunities in the neighbourhood to showcase the students&rsquo; talent such as having a photojournalism exhibition in the Pasir Ris East Community Centre.<br /><br /></div>
 <div><img src="/images/Tier2.JPG" alt="Tier2.JPG" width="100%" /></div>
 <div>2) <strong><u>The Media Communications Club (CCA)</u></strong></div>
 <br />
@@ -145,5 +145,3 @@ description: ""
     <div>3) <a href="http://gg.gg/prcss-video10" target="_blank" rel="noopener">Marinah Musa</a> on The Crestian Experience</div>
     </div>
  </li>
-
-</ul>
