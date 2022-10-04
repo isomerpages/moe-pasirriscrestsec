@@ -25,22 +25,34 @@ third_nav_title: Sports
 <p><strong>Why Join PRCS Netball?</strong></p>
 <p>If you want to be developed into a fit, disciplined and confident student, Netball offers a platform for you to do so. Physical fitness is a requirement as netball is a fast and physical game. We invite serious athletes and ladies who are prepared to accept physical challenges to join us.</p>
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-q5ur{background-color:#141F55;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-acva{background-color:#F4F5FC;color:#444;text-align:left;vertical-align:top}
+.tg .tg-l7na{background-color:#FFF;color:#444;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-q5ur" colspan="5">Teachers IC</th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<th colspan="5">Teachers IC</th>
-</tr>
-<tr>
-<td colspan="5">Ms. Clara Wong (IC)</td>
-</tr>
-<tr>
-<td colspan="5">Ms. Huda Mohamed (IC)</td>
-</tr>
-<tr>
-<td colspan="5">Ms. Vijiyalakshmi Raja</td>
-</tr>
-<tr>
-<td colspan="5">Ms. Cheryl Seet</td>
-</tr>
+  <tr>
+    <td class="tg-acva" colspan="5">Ms. Clara Wong (IC)</td>
+  </tr>
+  <tr>
+    <td class="tg-l7na" colspan="5">Ms. Huda Mohamed (IC)</td>
+  </tr>
+  <tr>
+    <td class="tg-acva" colspan="5"><span style="font-weight:400;color:#000">Ms. Vijiyalakshmi Raja</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-l7na" colspan="5">Ms. Cheryl Seet</td>
+  </tr>
 </tbody>
 </table>
