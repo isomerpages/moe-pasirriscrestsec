@@ -52,7 +52,7 @@ third_nav_title: School Achievements
 </div></li>
 	<li>
 		<input type="checkbox" id="accordion8">
-		<label for="accordion8">CRESTIANS WHO HAVE WON SCHOLARSHIPS/label>
+		<label for="accordion8">CRESTIANS WHO HAVE WON SCHOLARSHIPS</label>
 		<div>
 			
 </div></li>
@@ -63,11 +63,3 @@ third_nav_title: School Achievements
 			
 </div>
 </ul>
-
-
-
-
-
-
-
-
