@@ -8,25 +8,32 @@ third_nav_title: School Achievements
 <ul class="jekyllcodex_accordion">
 	<li>
 		<input type="checkbox" id="accordion1">
-		<label for="accordion1">FAULT REPORTING</label>
+		<label for="accordion1">UNIFORMED GROUPS</label>
 		<div>
-			<img src="https://loremflickr.com/320/240" />
+			<img src="/images/UG1.png" />
 			</div>
 		</li>
 		<li>
 			<input type="checkbox" id="accordion2">
-			<label for="accordion2">LIVESTREAM</label>
+			<label for="accordion2">SPORTS</label>
 			<div>
-			<img src="https://loremflickr.com/320/240" />
+			<img src="/images/Sports.png" />
 				</div>
 		</li>
 	
 <li>
 				<input type="checkbox" id="accordion3">
-			<label for="accordion3">SUPPORT</label>
+			<label for="accordion3">PERFORMING ARTS</label>
 			<div>
-				<img src="https://loremflickr.com/320/240" />
+				<img src="/images/Performing Arts.png/" />
 				</div>
 </li>
-				
+
+<li>
+				<input type="checkbox" id="accordion4">
+			<label for="accordion4">NATIONAL YOUTH ACHIEVEMENT AWARD (NYAA)</label>
+			<div>
+				<img src="/images/NYAA.jpeg" />
+				</div>
+</li>
 </ul>
