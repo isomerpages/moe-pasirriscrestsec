@@ -49,18 +49,19 @@ Feature News</h3>
 <div style="text-align: justify;">Selected students go through a robust 2-year programme where they are given exposure to authentic settings where communications skills are key. For example, they become tour guides for their peers when embarking on the Civic District Trail. They are also given the opportunity to interact with parents and P6 pupils, and guide them during the school’s Open House. The students are sent for various competitions such as the UNSW Writing Competition. The school also seeks opportunities in the neighbourhood to showcase the students’ talent such as having a photojournalism exhibition in the Pasir Ris East Community Centre.<br/><br/></div>
 </div>
 <div><img width="100%" alt="Tier2.JPG" src="/images/Tier2.JPG"><br/></div>
-<div>2) <strong><u>The Media Communications Club (CCA)</u></strong></div>
+<div>2) <strong><u>The Media Communications Club (CCA)</u></strong></div><br/>
 <div>
-<div>Students who join this CCA engage in activities that will further develop their skills in speaking. Students who enjoy debating are coached to prepare them for the Secondary Schools Debating Championship. Those who prefer to simply improve speaking skills are given weekly Toastmasters sessions where they work on mini projects to improve their oratorical skills. The students are also responsible for creating weekly podcasts that share with the school their concerns with school and life in general.</div>
+<div style="text-align: justify;">Students who join this CCA engage in activities that will further develop their skills in speaking. Students who enjoy debating are coached to prepare them for the Secondary Schools Debating Championship. Those who prefer to simply improve speaking skills are given weekly Toastmasters sessions where they work on mini projects to improve their oratorical skills. The students are also responsible for creating weekly podcasts that share with the school their concerns with school and life in general.<br/><br/></div>
 <div><img width="100%" alt="MCC.JPG" src="/images/MCC.JPG"></div>
-<div>Click on this link if you wish to listen to some of the The Peak podcast episodes:</div>
-<div><img alt="ThePeak.jpg" src="https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/ThePeak.jpg"></div>
+<br/><div>Click on this link if you wish to listen to some of the The Peak podcast episodes:</div><br/>
+<div>
+<div style="float: left"><img alt="ThePeak.jpg" src="https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/ThePeak.jpg" style="width:50%"></div>
 <div><a rel="noopener" target="_blank" href="http://gg.gg/thepeak">The Peak Podcast</a></div>
 </div>
 <div><strong>ENHANCED ALP (MOTHER TONGUE LANGUAGES)</strong></div>
 <div>Since 2018, the school has also embarked on the Enhanced ALP in Mother Tongue Languages. The MTL department has worked with the EL department to help students to be effectively bilingual in speaking and writing. Below are the activities the department offers to the student.</div>
 <div><img width="100%" alt="eALP.JPG" src="/images/eALP[1].JPG"></div>
-<div>See&nbsp;what our students have to say about ALP. To upload video to Youtube</div>
+<div>See what our students have to say about ALP. To upload video to Youtube</div>
 </div>
 </div>
 
@@ -85,7 +86,7 @@ Feature News</h3>
 <div><strong>Part 1: Learning of Music for Growth (Lower Secondary)</strong></div>
 <div>All Crestians will be taught 3 musical instruments; Keyboard and Guitar/Ukulele (individual musical instrument) at Secondary One and Xylophone (ensemble performance) at Secondary Two. The learning of each musical instrument spans across a semester and comprises at least 15 hours of music lessons taught by our own Music Teachers.</div>
 <div><img src="/images/LLP-Pic1.jpeg" alt="LLP-Pic1.jpeg">
-<div>Watch the&nbsp;<a href="http://gg.gg/prcss-llp" target="_blank" rel="noopener">video</a>&nbsp;to see an example of a Secondary One xylophone ensemble performance. To upload to Youtube.</div>
+<div>Watch the <a href="http://gg.gg/prcss-llp" target="_blank" rel="noopener">video</a> to see an example of a Secondary One xylophone ensemble performance. To upload to Youtube.</div>
 </div>
 <div><img src="/images/LLP-Pic2.jpeg" alt="LLP-Pic2.jpeg"></div>
 <div>
@@ -110,7 +111,7 @@ Feature News</h3>
 <tbody>
 <tr>
 <td><br><img src="/images/LLP-Pic7.jpeg" alt="LLP-Pic7.jpeg"></td>
-<td><br>Watch the&nbsp;<a href="http://gg.gg/prcss-llp-cgt" target="_blank" rel="noopener">video</a>&nbsp;to view a magic show by a Crestians Got Talent Competition finalist. To upload to Youtube</td>
+<td><br>Watch the <a href="http://gg.gg/prcss-llp-cgt" target="_blank" rel="noopener">video</a> to view a magic show by a Crestians Got Talent Competition finalist. To upload to Youtube</td>
 </tr>
 </tbody>
 </table>
