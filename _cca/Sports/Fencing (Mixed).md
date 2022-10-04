@@ -60,7 +60,3 @@ Fencers will have the opportunity to take part in competitions such as National 
 <img src="/images/Fencing.png">
 </div>
 </div>
-
-
-	
-
