@@ -4,13 +4,12 @@ permalink: /guidance-and-counselling-support/
 description: ""
 ---
 <h1>Guidance and Counselling Support</h1>
-
-<p>Located at Level 2 of Block D, Crest Haven provides a safe place for students to air their feelings and open up to a trusted adult. Our officers at Crest Haven are equipped to assist students on issues which may affect their social and emotional well-being and progress in learning. These include relationship issues, transitional issues, dealing with loss and grief, and learning needs. These efforts are also complemented by the weekly Crest lessons, which provides social skills training to strengthen the socio-emotional competencies of the students.</p>
-<br/>
+<div align="justify">
+<br/><p>Located at Level 2 of Block D, Crest Haven provides a safe place for students to air their feelings and open up to a trusted adult. Our officers at Crest Haven are equipped to assist students on issues which may affect their social and emotional well-being and progress in learning. These include relationship issues, transitional issues, dealing with loss and grief, and learning needs. These efforts are also complemented by the weekly Crest lessons, which provides social skills training to strengthen the socio-emotional competencies of the students.</p>
 <p>Students who visit Crest Haven either do so themselves or are referred by their Home Tutors, parents, friends, or other organisations. Students can make their own appointments to see the School Counsellor (SC) or the Learning & Behavioural Specialist (LBS). Appointment slips are attached to the letter box placed near the window to Crest Haven.</p>
-<br/>
+
 <p>The SC and LBS could also be contacted at 65811655 ext. 158 or email:</p>
-<br/>
+</div>
 <ul>
 <li>Ms. Suzanah Ohorella Yusope (SC): suzanah_ohorella_yusope@schools.gov.sg</li>
 <li>Ms. Lynette Ong (LBS): ong_jun_yi_lynette@schools.gov.sg</li>
