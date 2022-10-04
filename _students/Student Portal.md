@@ -48,7 +48,7 @@ If you have forgotten your password, you can reset it through the following meth
 <h4>Operating Hours</h4>
 <br/>Mondays to Fridays: 9:00 am - 9:00 pm 
 <br/>Saturdays: 9:00 am - 3:00 pm 
-<br/><br/><strong>Q2: I used the &ldquo;Password Reset Link Method&rdquo; but I cannot find my password reset email. What can I do?</strong> 
+<br/><br/><strong>Q2: I used the "Password Reset Link Method" but I cannot find my password reset email. What can I do?</strong> 
 <br/><br/>If you cannot see the email in your inbox, it may be in the spam or junk email folder. The URL in the email will expire within 10 minutes. If the URL has expired, go to the login page and select "Forgot Password" to try again. 
 <br/>
 <br/><strong>Q3: What are the Operating System and Browser Requirements for SLS?</strong> 
