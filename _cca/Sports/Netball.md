@@ -5,16 +5,13 @@ description: ""
 third_nav_title: Sports
 ---
 <h1>Netball</h1>
-<table>
-<tbody>
-<tr>
-<td><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<div>
+<div style="float:left">
+<img src="/images/netball_1.png" style="width:50%;">
 <p><strong><u>Netball Photo Album</u></strong></p>
 <p>Netball</p>
-</td>
-</tr>
-</tbody>
-</table>
+</div></div>
+
 <p><strong>Brief Description of CCA</strong></p>
 <p>Netball as a CCA uses the National School&rsquo;s Competition as a platform to develop a school team, various values are inculcated so that Netballers emerge as strong, confident and disciplined individuals with a competitive edge.</p>
 <p><strong>Achievements of CCA</strong></p>
@@ -27,6 +24,7 @@ third_nav_title: Sports
 <p>Trainings are conducted every Tuesdays and Fridays. Additional trainings are conducted nearing competitions to fine tune the team.</p>
 <p><strong>Why Join PRCS Netball?</strong></p>
 <p>If you want to be developed into a fit, disciplined and confident student, Netball offers a platform for you to do so. Physical fitness is a requirement as netball is a fast and physical game. We invite serious athletes and ladies who are prepared to accept physical challenges to join us.</p>
+
 <table>
 <tbody>
 <tr>
