@@ -41,13 +41,13 @@ These students who need assistance for home broadband connectivity, can apply fo
 <li>
 <input type="checkbox" id="accordion4">
 <label for="accordion4">MOE FINANCIAL ASSISTANCE SCHEME 2022</label>
-<div>Dear Crestians and Parents /Guardians,</div>
-<div>The MOE FAS Application Form for 2022 is available now. Needy Singaporean students who wish to apply for financial help may collect the application form from the school's&nbsp;<strong>General Office</strong>&nbsp;or download the form from the school website.</div>
+<p align="justify">Dear Crestians and Parents /Guardians,<br/>
+the MOE FAS Application Form for 2022 is available now. Needy Singaporean students who wish to apply for financial help may collect the application form from the school's <strong>General Office</strong> or download the form from the school website.</p>
 <div>
-<strong>MOE FAS Pamphlet 2021</strong>
-<a href="/files/MOE%20FAS%20Pamphlet%202022.pdf" target="_blank" rel="noopener">MOE FAS Pamphlet 2022<br /><br /></a>
-</div>
-<strong>MOE FAS Application Form 2022</strong>
-<a href="/files/MOE%20FAS%20Application%20Form%202022.pdf" target="_blank" rel="noopener">MOE FAS Application Form 2022</a>
+<ul>
+<li><strong>MOE FAS Pamphlet 2021</strong><br/>
+<a href="/files/MOE%20FAS%20Pamphlet%202022.pdf" target="_blank" rel="noopener">MOE FAS Pamphlet 2022</a></li>
+<li><strong>MOE FAS Application Form 2022</strong><br/>
+<a href="/files/MOE%20FAS%20Application%20Form%202022.pdf" target="_blank" rel="noopener">MOE FAS Application Form 2022</a></li></ul>
 </li>
 </ul>
