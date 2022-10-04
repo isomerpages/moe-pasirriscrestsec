@@ -290,13 +290,300 @@ Congratulations to Crestians who continue to do well.
 		<label for="accordion6">CRESTIANS EXCELLING AT JUNIOR COLLEGES</label>
 
 <div>
-			
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-muza{background-color:#FFF;color:#444;text-align:left;vertical-align:middle}
+.tg .tg-qacr{background-color:#FFF;color:#444;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-acva{background-color:#F4F5FC;color:#444;text-align:left;vertical-align:top}
+.tg .tg-l0hy{background-color:#F4F5FC;color:#444;text-align:left;vertical-align:middle}
+.tg .tg-l7na{background-color:#FFF;color:#444;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-qacr">Name</th>
+    <th class="tg-qacr">Junior College</th>
+    <th class="tg-qacr">Award</th>
+    <th class="tg-qacr">Year</th>
+    <th class="tg-qacr">Remarks</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Soh Yi Ling</span><br></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">Meridian Junior College</span></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Excelled at the 2015 GCE  A-Level Examinations</span><br></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">2016</span></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Tan Wee Kiat Joel</span><br></td>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF">Meridian Junior College</span></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Excelled at the 2015 GCE A-Level Examinations</span><br></td>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF">2016</span></td>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">Loh Yi Fong</span></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">Temasek Junior College</span></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Toh Shung Chee Trophy</span><br></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">2016</span></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">The Performing Arts Award is a pinnacle award presented to the student who has the expertise in, demonstrates a passion for, and has made an impact on the Performing Arts in the College and beyond.</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Chew Hui Xuan</span><br></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Nanyang Junior College</span><br></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Excelled at 2016 GCE A Level Exams</span><br></td>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF">2017</span></td>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Sean Lee Xian Yu</span><br></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Meridian Junior College</span><br></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Excelled at 2016 GCE A Level Exams</span><br></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">2017</span></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Tin Kah Ong Isaac</span><br></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Meridian Junior College</span><br></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Excelled at 2016 GCE A Level Exams</span><br></td>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF">2017</span></td>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Aiman Nurjannah Bte Abdul Halim</span><br></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">Temasek Junior College</span></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Outstanding Results at 2016 GCE A Level Exams</span><br></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">2017</span></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Lau Wyatt</span><br></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Temasek Junior College</span><br></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Temasek Academic Excellence Scholarship</span><br></td>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF">2017 </span></td>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Tan Hong Wen</span><br></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Tampines Junior College</span><br></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Outstanding 2017 GCE 'A' Level Results</span><br></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">2018</span></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Lau Wyatt</span><br></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Temasek Junior College</span><br></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Outstanding Results at 2018 GCE A Level Exams</span><br></td>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF">2019</span></td>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Soon Keng Song Andre</span><br></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Temasek Junior College</span><br></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Outstanding Results at 2018 GCE A Level Exams</span><br></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">2019</span></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
 </div></li>
 	<li>
 		<input type="checkbox" id="accordion7">
 		<label for="accordion7">CRESTIANS EXCELLING AT ITE</label>
 		<div>
-			
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-muza{background-color:#FFF;color:#444;text-align:left;vertical-align:middle}
+.tg .tg-qacr{background-color:#FFF;color:#444;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-acva{background-color:#F4F5FC;color:#444;text-align:left;vertical-align:top}
+.tg .tg-l0hy{background-color:#F4F5FC;color:#444;text-align:left;vertical-align:middle}
+.tg .tg-l7na{background-color:#FFF;color:#444;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-qacr">Name</th>
+    <th class="tg-qacr">ITE</th>
+    <th class="tg-qacr">Award<span style="color:#444;background-color:#FFF"> </span></th>
+    <th class="tg-qacr">Year</th>
+    <th class="tg-qacr">Remarks</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">Lee Jia De Jonathan</span><br></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">ITE College Central</span><br></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">Top Graduate Award</span></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">2014</span></td>
+    <td class="tg-acva"><br>Top student from the School of Design &amp; MediaClass Valedictorian<br></td>
+  </tr>
+  <tr>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Marcus Choy Qi Song</span><br></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">ITE College Central</span><br></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Outstanding Graduate Award</span><br></td>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF">2014</span></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Top 5% of the cohort </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Muhammad Irshad B Noorhalim</span><br></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">ITE</span><br></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">National Precision Engineering Study Award (NPESA)</span><br></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">2014</span></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Awardee to serve a two-year bond in the precision engineering industry.</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Nur Raudhah Bte Amir Hamjah</span><br></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">ITE College Central</span><br></td>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF">Outstanding Graduate</span></td>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF">2014</span></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Higher Nitec in Advanced Manufacturing course</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">Ong Kim Choo Jenny</span></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">ITE College East</span><br></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Outstanding Graduate Award</span><br></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">2014</span></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Top 1% of the students cohort for the Nitec in Applied Food Science course</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Khairiyah Bte Mohd Hussin</span><br></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">ITE College East</span><br></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Outstanding Graduate Award</span><br></td>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF">2014 </span></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Top 1% of the students cohort for Higher Nitec in Business Studies (Administration) course</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Muhammad Irshad B Noorhalim</span><br></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">ITE College Central</span><br></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Outstanding Graduate Award</span><br></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">2014 </span></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">A Nitec in Aerospace Machining Technology graduate</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Ang Xing Zhi Joel</span><br></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">ITE College Central</span><br></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Outstanding Graduate Award</span><br></td>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF">2014</span></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">A Nitec in Aerospace Technology graduate</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Tan Zi Wei Raywyn Zayne Tan</span><br></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">ITE College East</span><br></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Course Medals</span><br></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">2015 </span></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">NITEC in Electrical Technology (Lighting &amp; Sound)</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Muhammad Rizqin B Zaini</span><br></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">ITE College Central</span><br></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Course Medals</span><br></td>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF">2015</span></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Higher NITEC in Marine &amp; Offshore Technology</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Desmond Wong Han Wee</span><br></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">ITE College East</span><br></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Course Medals</span><br></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">2015</span></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Higher NITEC in Business Information Systems</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Ahmad Fuad B Ahiari</span><br></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">ITE College Central</span><br></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Course Medals</span><br></td>
+    <td class="tg-muza"><span style="color:#444;background-color:#FFF">2015</span></td>
+    <td class="tg-l7na"><span style="color:#444;background-color:#FFF">Higher NITEC in Games Design &amp; Development</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">Lau Bo Liang Xavier</span></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">ITE College Central</span><br></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">Director’s Commendation Letter</span><br></td>
+    <td class="tg-l0hy"><span style="color:#444;background-color:#F4F5FC">2016</span></td>
+    <td class="tg-acva"><span style="color:#444;background-color:#F4F5FC">For outstanding academic performance in the Sept 2016 examination series. This commendation is given to the top 10% of students in the course.</span></td>
+  </tr>
+</tbody>
+</table>
 </div></li>
 	<li>
 		<input type="checkbox" id="accordion8">
