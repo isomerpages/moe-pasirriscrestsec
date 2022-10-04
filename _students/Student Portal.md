@@ -5,7 +5,7 @@ description: ""
 ---
 <h1>Student Portal</h1>
 <ul class="jekyllcodex_accordion">
-<li><input type="checkbox" /><label for="accordion1">SLS SUPPORT</label>
+<li><input type="checkbox" id="accordion1"><label for="accordion1">SLS SUPPORT</label>
 <div>
 <h3>School Operating Hours</h3>
 <br />
@@ -18,7 +18,7 @@ description: ""
 <h3>Non-School Operating Hours</h3>
 <br /><br />Students can only contact the <u><strong>SLS Helpdesk</strong></u> outside the school operating hours. <br /><br />SLS Helpdesk: 6702 6513 <br /><br />Mondays - Fridays: 4:00 pm - 9:00 pm <br /><br />Saturdays: 9:00 am - 9:00 pm <br /><br /><sub>*Closed on Sundays & Public Holidays</sub><br /><br />Alternatively, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.</div>
 </li>
-<li><input type="checkbox" /><label for="accordion2">STUDENT LEARNING SPACE (SLS)</label>
+<li><input type="checkbox" id="accordion2"><label for="accordion2">STUDENT LEARNING SPACE (SLS)</label>
 <div>The Singapore Student Learning Space is a platform that will support Teaching and Learning of our students. In particular, it will help empower them to drive their own learning according to their needs and interests. <br /><br />By spurring our students to take greater ownership of their learning and work collaboratively with their peers, the SLS aims to support them towards becoming responsible future-ready learners. <br /><br />Click <a href="https://vle.learning.moe.edu.sg/login">here</a> to access the Student Learning Space (SLS) portal. <br /><br />For Sec 1 students, click <a href="/files/SLS%20Account%20Management%20-%20Guide%20for%20Sec%201%20Students.pdf">here</a> to access the Guide to SLS Account Management. <br /><br />
 <h3>What is SLS?</h3>
 <br />Click to <a href="https://www.youtube.com/watch?v=F0FTP2FveSg&amp;feature=youtu.be">watch the video.</a><br /><br />
@@ -61,7 +61,7 @@ If you have forgotten your password, you can reset it through the following meth
 </ul>
 SLS is accessible through the latest internet browsers (minimum: Internet Explorer 11, Google Chrome 51, FireFox 51 or Safari 7.1). <br/><br/><strong>Q4 : Can SLS run on mobile phones?</strong> <br/><br/>You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.</div>
 </li>
-<li><input type="checkbox" /><label for="accordion3">EXPECTED STUDENT BEHAVIOUR - RULES AND REGULATIONS</label>
+<li><input type="checkbox" id="accordion3"><label for="accordion3">EXPECTED STUDENT BEHAVIOUR - RULES AND REGULATIONS</label>
 <div>To guide students in their character development and in order to achieve our desired learning outcomes especially of being a Self-Disciplined and Responsible Leader as well as an Active and Concerned Citizen with Global Awareness, the school has in place the following Expected Student Behaviours and Rules and Regulations, which are divided into five main categories. These Expected Student Behaviours and Rules and Regulations are to support the students in understanding the importance of good moral behavior, respect and care for self and others and to create a conducive environment for learning to take place. The categories are aligned to the school values of Care, Resilience, Excellence, Self-Belief, Trustworthiness (CREST).</div>
 <h3>1) ATTIRE / APPEARANCE</h3>
 <h4>Expected Student Behaviour</h4>
@@ -73,7 +73,7 @@ The following rules and regulations are to be adhered to:
 <li>Hair must be kept neatly in its natural colour. Outlandish, spiky/ punkish or dyed/ coloured/ highlighted hair is not allowed.</li>
 <li>Fancy spectacles, coloured contact lenses and tinted glasses are not allowed. Prescribed colours for spectacle frames are solid black, brown, gold or silver.</li>
 <li>The school T-shirt must be worn for PE lessons and all other physical activities.</li>
-<li>T-shirts&rsquo; sleeves should not be folded when worn.</li>
+<li>T-shirts' sleeves should not be folded when worn.</li>
 <li>Shoes must be white-based / predominantly white with white shoelaces, and be properly tied. The shoes must not cover the ball of the ankles. Disallowed shoes include moccasins, dress shoes, ballet shoes, high-cut shoes, slip-ons, shoes with velcro straps and those not deemed as standard school shoes.</li>
 <li>Only plain white socks are allowed and they must be worn to conceal the ball of the ankle completely.</li>
 <li>Fingernails must be kept short and clean.</li>
@@ -96,7 +96,7 @@ The following rules and regulations are to be adhered to:
 </tr>
 <tr>
 <td rowspan="2" width="142">
-<p>&nbsp;<img src="https://prcss.moe.edu.sg/qql/slot/u200/images/students/boy%201.jpg" alt="Proper Attire - Boy 1" /></p>
+<p><img src="https://prcss.moe.edu.sg/qql/slot/u200/images/students/boy%201.jpg" alt="Proper Attire - Boy 1" /></p>
 </td>
 <td width="142">
 <p><img src="https://prcss.moe.edu.sg/qql/slot/u200/images/students/boy%202.jpg" alt="Proper Attire - Boy 2" /></p>
@@ -135,7 +135,7 @@ The following rules and regulations are to be adhered to:
 <li>Girls are allowed one pair of black/dark blue, plain, simple ear studs of the same design or one pair of translucent ear sticks on each earlobe.</li>
 <li>The blouse should not be folded when worn.</li>
 <li>The length of the skirts must not be shorter than 5 cm above the knee.</li>
-<li>The skirts should not be folded around the waist when worn.&nbsp;</li>
+<li>The skirts should not be folded around the waist when worn.</li>
 </ul>
 </td>
 </tr>
@@ -287,13 +287,13 @@ The Speak English Policy is to promote communication among the different races. 
 <li>Students are to dispose of their litter appropriately.</li>
 </ul>
 </li>
-<li><input type="checkbox" /><label for="accordion4">STUDENT INSURANCE</label>
+<li><input type="checkbox" id="accordion4"><label for="accordion4">STUDENT INSURANCE</label>
 <div>Parents /students are to submit their claims online and check the claims status through the online portal. Information on claims, FAQs and other details pertaining to the GPA Insurance Plan for Students can be found on Income Insurance Limited website at <a href="https://www.income.com.sg/studentgpa">https://www.income.com.sg/studentgpa</a></div>
 </li>
-<li><input type="checkbox" /><label for="accordion5">PEDESTRIAN AND VEHICLE ROUTE</label>
+<li><input type="checkbox" id="accordion5"><label for="accordion5">PEDESTRIAN AND VEHICLE ROUTE</label>
 <div>Click <a href="/images/1443412269106905142.jpg">here</a> for Safe Route School Map.</div>
 </li>
-<li><input type="checkbox" /><label for="accordion6">TRAFFIC MANAGEMENT PLAN</label>
+<li><input type="checkbox" id="accordion6"><label for="accordion6">TRAFFIC MANAGEMENT PLAN</label>
 <div>Click <a href="/files/Traffic%20Management%20Plan%2013112020.pdf">here</a> for Traffic Management Plan.</div>
 </li>
 </ul>
