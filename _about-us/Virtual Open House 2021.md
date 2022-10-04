@@ -6,7 +6,7 @@ description: ""
 <div>
 <h1>Virtual Open House 2021</h1>
 </div>
-<ul>
+<ul class="jekyllcodex_accordion">
 <li><input type="checkbox" /><label for="accordion1">E-BROCHURE</label>
 <div>
 <p>Click <a href="/files/e-OpenHouse%202020/PRCS%20Booklet%2025.10.2021.pdf" target="_blank" rel="noopener">here</a> for the e-brochure.</p>
