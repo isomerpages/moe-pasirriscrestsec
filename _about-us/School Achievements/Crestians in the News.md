@@ -641,5 +641,6 @@ A NYAA Bronze and Silver winner, Yan Liang was an all-rounder who excelled in bo
 		<label for="accordion9">CRESTIANS IN THE NEWS</label>
 		<div>
 Newspaper reports of Crestians.
+<img src="/images/13841370462079858796.jpeg" style="width:100%" align="center" />
 </div>
 </ul>
