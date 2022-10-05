@@ -87,12 +87,12 @@ description: ""
 <div><img src="/images/LLP-Pic1.jpeg" alt="LLP-Pic1.jpeg" style="width:50%">
 <div>Watch the <a href="http://gg.gg/prcss-llp" target="_blank" rel="noopener">video</a> to see an example of a Secondary One xylophone ensemble performance. To upload to Youtube.</div>
 
-<div><img src="/images/LLP-Pic2.jpeg" alt="LLP-Pic2.jpeg" width="100%"></div>
+<div><img src="/images/LLP-Pic2.jpeg" alt="LLP-Pic2.jpeg" width="70%"></div>
 
 <p>Crestians will also spend a semester to learn music arrangement through ICT tools such as Garage Band. Selected enrichment programmes such as percussion workshops and attending external musical performances will also be organised to expose Crestians to different musical experiences.</p>
 
- <div><img src="/images/LLP-Pic3.jpeg" alt="LLP-Pic3.jpeg" width="100%" /></div>
- <div><img src="/images/LLP-Pic4.jpeg" alt="LLP-Pic4.jpeg" width="100%" /></div>
+ <div><img src="/images/LLP-Pic3.jpeg" alt="LLP-Pic3.jpeg" width="70%" /></div>
+ <div><img src="/images/LLP-Pic4.jpeg" alt="LLP-Pic4.jpeg" width="70%" /></div>
  <div>All Crestians will acquire basic music skills to perform simple musical pieces and to create/arrange their own music.</div>
     <div><img src="/images/LLP-Pic5.jpeg" alt="LLP-Pic5.jpeg" width="100%" /></div>
     <div><strong>Part 2: Deepening the Learning of Music to Serve (Upper Secondary)</strong></div>
