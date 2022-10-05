@@ -65,8 +65,8 @@ description: ""
 <div>
 <h2>COMPREHENSIVE MUSIC PROGRAMME</h2>
 <div>
-<div>As the music satellite for the East Zone Centre of Excellence for Creative Arts, the school conducts activities such as the East Zone Music Competition, the East Zone &lsquo;O&rsquo; Level Music Camp, the East Zone N(T) Music Workshop and the East Zone N(T) Music Workshop and 'O' level Music classes.</div>
-<div>The school has in place a comprehensive unique&nbsp;Primary and Lower Sec Music Syllabus All Lower Secondary students learn basic keyboard and guitar skills (NYAA), xylophone ensemble skills,&nbsp;songwriting and music sequencing skills.</div>
-<div>Opportunities are given to selected upper secondary students from Express, Normal (Academic) and Normal (Technical) to offer Music or Higher Music for the National Examinations. Upper Secondary students taking Music and Art as an examinable subject, also attend school-selected performances and/or learning journeys.</div>
+<p>As the music satellite for the East Zone Centre of Excellence for Creative Arts, the school conducts activities such as the East Zone Music Competition, the East Zone 'O' Level Music Camp, the East Zone N(T) Music Workshop and the East Zone N(T) Music Workshop and 'O' level Music classes.</p>
+<p>The school has in place a comprehensive unique Primary and Lower Sec Music Syllabus All Lower Secondary students learn basic keyboard and guitar skills (NYAA), xylophone ensemble skills, songwriting and music sequencing skills.</p>
+<p>Opportunities are given to selected upper secondary students from Express, Normal (Academic) and Normal (Technical) to offer Music or Higher Music for the National Examinations. Upper Secondary students taking Music and Art as an examinable subject, also attend school-selected performances and/or learning journeys.</p>
 </div>
 </div>
