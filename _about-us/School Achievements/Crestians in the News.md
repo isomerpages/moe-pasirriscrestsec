@@ -8,30 +8,28 @@ third_nav_title: School Achievements
 
 <ul class="jekyllcodex_accordion">
 <li>
-		<input type="checkbox" id="accordion1">
-		<label for="accordion1">LEE KUAN YEW AWARD FOR OUTSTANDING NORMAL COURSE STUDENTS</label>
+<input type="checkbox" id="accordion1">
+<label for="accordion1">LEE KUAN YEW AWARD FOR OUTSTANDING NORMAL COURSE STUDENTS</label>
 <div>
-<p>We congratulate our student, Lau Yan Liang, on being awarded the Lee Kuan Yew Award for Outstanding Normal Course Students in 2019, in recognition of his excellent performance at the ‘O’ level examinations, strength of character and leadership qualities.
-
-Yan Liang was a good role model and a positive influence on his peers. He was a mature and responsible student who looked after the overall well-being of the class as Class Chairperson and took meticulous care of volleyball equipment as Overall-in-charge of Logistics in his CCA.  He demonstrated strong leadership in honing his juniors’ skills during CCA sessions and the volleyball camps which he organised for the entire team.
-
+<p>We congratulate our student, Lau Yan Liang, on being awarded the Lee Kuan Yew Award for Outstanding Normal Course Students in 2019, in recognition of his excellent performance at the ‘O’ level examinations, strength of character and leadership qualities.<br/>
+Yan Liang was a good role model and a positive influence on his peers. He was a mature and responsible student who looked after the overall well-being of the class as Class Chairperson and took meticulous care of volleyball equipment as Overall-in-charge of Logistics in his CCA.  He demonstrated strong leadership in honing his juniors’ skills during CCA sessions and the volleyball camps which he organised for the entire team.<br/>
 A NYAA Bronze and Silver winner, Yan Liang was an all-rounder who excelled in both curricular and co-curricular areas.  He sets high expectations, shows strong determination, and embodies the school values of Proactive, Righteous, Caring and Self-Motivated.  We wish him all the best as he continues to exhibit the traits of a Crestian Overcomer at Nanyang Junior College and beyond.</p>
 </div>
 </li>
 	
 <li>
-		<input type="checkbox" id="accordion2">
-		<label for="accordion2">LEE KUAN YEW: ALL ROUND EXCELLENCE AWARD</label>
+<input type="checkbox" id="accordion2">
+<label for="accordion2">LEE KUAN YEW: ALL ROUND EXCELLENCE AWARD</label>
 <div>
 <p>We congratulate our student, Nur Haziqah Bte Salleh Huddin, for winning the Lee Kuan Yew Award for All-Round Excellence 2016.  She won because of her excellent N Level results which saw her top the 2015 N Level cohort, and for her strong values. Haziqah was a good role model and a positive influence on her peers. She displayed strong leadership qualities as the Sergeant major of the National Cadet Corp (NCC Girls) where she set high standards for cadets. She was also a School Councillor who was well respected by her peers. She has done the school proud as she embodies the school values of being Proactive, Righteous, Caring and Self-motivated.</p>
 </div>
 </li>
+
 <li>
-		<input type="checkbox" id="accordion3">
-		<label for="accordion3">LEE KUAN YEW: THRU YOUR EYES ART COMPETITION</label>
+<input type="checkbox" id="accordion3">
+<label for="accordion3">LEE KUAN YEW: THRU YOUR EYES ART COMPETITION</label>
 <div>
-<p>11 of our Crestians' creative artworks have been shortlisted for the Lee Kuan Yew: Thru Your Eyes Art Competition organised by Popular Bookstore. This competition aims to inspire students to express Mr Lee Kuan Yew's legacy and his contribution to Singapore through their artworks. </p>
-<p>Do support our budding artists with your votes at:</p>
+<p>11 of our Crestians' creative artworks have been shortlisted for the Lee Kuan Yew: Thru Your Eyes Art Competition organised by Popular Bookstore. This competition aims to inspire students to express Mr Lee Kuan Yew's legacy and his contribution to Singapore through their artworks.<br/><br/>Do support our budding artists with your votes at:</p>
 <p><a href="https://www.facebook.com/PopularBookstoreSingapore/app_234953320034875?app_data=%7B%22cat%22:2%7D" target="_blank" rel="noopener">https://www.facebook.com/PopularBookstoreSingapore/app_234953320034875?app_data={%22cat%22:2}</a></p>
 <p>Thank you for your support!</p>
 	
@@ -104,15 +102,15 @@ A NYAA Bronze and Silver winner, Yan Liang was an all-rounder who excelled in bo
 </div></li>
 	
 <li>
-		<input type="checkbox" id="accordion4">
-		<label for="accordion4">CONGRATULATIONS FOR GOOD RESULTS</label>
+<input type="checkbox" id="accordion4">
+<label for="accordion4">CONGRATULATIONS FOR GOOD RESULTS</label>
 <div>Congratulations to Crestians who continue to do well.
+	<img src="/images/1388637749877322222.jpeg" style="width:50%" align="left"/><img src="/images/14062677311211383137.jpeg" style="width:50%" />
 </div></li>
-	
-	<li>
-		<input type="checkbox" id="accordion5">
-		<label for="accordion5">CRESTIANS EXCELLING AT POLYTECHNICS</label>
-		<div><style type="text/css">
+<li>
+<input type="checkbox" id="accordion5">
+<label for="accordion5">CRESTIANS EXCELLING AT POLYTECHNICS</label>
+<div><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
