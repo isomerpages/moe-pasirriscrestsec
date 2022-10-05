@@ -47,27 +47,27 @@ Traditionally held to coincide with Valentine’s Day week, students are encoura
 
 <img src="/images/Pic3.jpeg" alt="Pic3" style="width:70%">
 
-<p><strong>Crestian Reads</strong>
+<p align="justify"><strong>Crestian Reads</strong>
 
 An Instagram account run by the Reading Committee of the English Language Department, this platform showcases what staff and students are currently reading to generate an interest among the student population.</p>
 
 <img src="/images/Pic4.jpeg" alt="Pic4" style="width:70%">
 
-<b>Roald Dahl Showdown</b>  <br>
+<p align="justify"><b>Roald Dahl Showdown</b>  <br>
 
-This is an annual competition in PRCS which gets the Secondary One students to enjoy the British novelist’s books.
+This is an annual competition in PRCS which gets the Secondary One students to enjoy the British novelist’s books.</p>
 	
 <img src="/images/Pic5.jpeg" alt="Pic5" style="width:50%">
 
-<b>Other Book Events</b>
+<p align="justify"><b>Other Book Events</b>
 
-To get students to enjoy owning a copy of a book, the department regularly invites vendors to introduce books for book sale events.
+To get students to enjoy owning a copy of a book, the department regularly invites vendors to introduce books for book sale events.</p>
 
 <img src="/images/Pic6.jpeg" alt="Pic6" style="width:70%">
 
-The Critical Writing Programme is a weekly activity for the students.  
+<p align="justify">The Critical Writing Programme is a weekly activity for the students.  
 
-In Critical Writing, students learn to appreciate how multimodality works in language. Students are exposed to visual texts which they have to analyse and evaluate. These visual texts can include websites, posters and videos. 
+In Critical Writing, students learn to appreciate how multimodality works in language. Students are exposed to visual texts which they have to analyse and evaluate. These visual texts can include websites, posters and videos. </p>
 </div>
 	</li>
 	
@@ -75,18 +75,11 @@ In Critical Writing, students learn to appreciate how multimodality works in lan
 <input type="checkbox" id="accordion4">
 <label for="accordion4">PRCS LITERARY WEEK </label>
 <div>
-With the aim of celebrating local literary geniuses and highlighting local issues, we have in place the annual PRCS Literary Week with Assembly Programmes as creative platforms for students to shine in their presentation skills. During this week, we broaden their perspectives by engaging with issues such as marginalisation and disability. Budding poets and writers in our midst also have the opportunity to take part in activities that will be lined up for them throughout the week.  
-  
+<p align="justify">With the aim of celebrating local literary geniuses and highlighting local issues, we have in place the annual PRCS Literary Week with Assembly Programmes as creative platforms for students to shine in their presentation skills. During this week, we broaden their perspectives by engaging with issues such as marginalisation and disability. Budding poets and writers in our midst also have the opportunity to take part in activities that will be lined up for them throughout the week. </p>
 
-<img src="/images/Pic7.jpeg" alt="Pic7">
-
-														
-
-<img src="/images/Pic8.jpeg" alt="Pic8">
-
-  
-
-<img src="/images/Pic9.jpeg" alt="Pic9">
+<img src="/images/Pic7.jpeg" alt="Pic7" style="width:70%">
+<img src="/images/Pic8.jpeg" alt="Pic8" style="width:70%">
+<img src="/images/Pic9.jpeg" alt="Pic9" style="width:70%">
 	</div>
 	</li>
 	
@@ -94,17 +87,13 @@ With the aim of celebrating local literary geniuses and highlighting local issue
 		<input type="checkbox" id="accordion5">
 		<label for="accordion5">LITERATURE</label>  
 <div> 
-	The Literature Unit supports the school’s language programme in class. Below are some of the activities for the students:
+<p align="justify">The Literature Unit supports the school’s language programme in class. Below are some of the activities for the students:</p>
 	
 <img src="/images/Table2.jpeg" alt="Table2">
 
-  
+<p align="justify">Every year, the school participates in the National Schools Literature Festival. We have sent students to compete in various categories and they have always made us proud with their enthusiastic performances. </p>
 
-Every year, the school participates in the National Schools Literature Festival. We have sent students to compete in various categories and they have always made us proud with their enthusiastic performances.  
-
-  
-
-<img src="/images/Pic10.jpeg" alt="Pic10">
+<img src="/images/Pic10.jpeg" alt="Pic10" style="width:70%">
 </div>
 	</li>
 	
@@ -112,8 +101,8 @@ Every year, the school participates in the National Schools Literature Festival.
 		<input type="checkbox" id="accordion6">
 		<label for="accordion6">ENRICHMENT</label>
 <div>
-To deepen the language learning experience, Crestians have a chance to watch plays.  The department also actively looks out for possible Learning Journeys to local exhibitions to help students build a wider world view of life.
-<img src="/images/Pic11.jpeg"  alt="Pic11">
+<p align="justify">To deepen the language learning experience, Crestians have a chance to watch plays.  The department also actively looks out for possible Learning Journeys to local exhibitions to help students build a wider world view of life.</p>
+<img src="/images/Pic11.jpeg"  alt="Pic11" style="width:70%">
 </div>
 	</li>
 	</ul>
