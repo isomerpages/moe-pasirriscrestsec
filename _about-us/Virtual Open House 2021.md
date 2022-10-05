@@ -127,10 +127,10 @@ description: ""
     <div>One distinctive PRCS experience for the students would be the co-curricular activity, Fencing. PRCS Fencing Club was established as early as 2001 with 20 members. Our fencers have been a force to be reckoned with at national and international competitions. Some of our school fencers have gone on to join Singapore's National Fencing Team.</div>
 <div><img src="/images/Fencing1.png" alt="Fencing1.png" width="100%" /></div>
 <div>The Club aims to <strong>nurture respectful</strong>, <strong>responsible</strong> and <strong>disciplined</strong> young men and women. Supported by a team of dedicated coaches, the training regime at PRCS Fencing Club goes beyond the blade to help our fencers discover what they are gifted at. While the development of skills, agility and coordination are important, PRCS Fencing Club also firmly believes <strong>character building</strong> will help realize the full potential of all PRCS fencers.</div>
-    <div><img src="/images/Fencing2.jpeg" alt="Fencing2.jpeg" width="100%" /></div>
-    <div>Watch the videos below to see our fencers in action:To upload to Youtube.</div>
-    <div>1) <a href="http://gg.gg/prcss-fencing" target="_blank" rel="noopener">Video 1</a></div>
-    <div>2) <a href="http://gg.gg/prcss-sabre" target="_blank" rel="noopener">Video 2</a></div>
+<div><img src="/images/Fencing2.jpeg" alt="Fencing2.jpeg" width="100%" /></div>
+<div>Watch the videos below to see our fencers in action:To upload to Youtube.</div>
+<div>1) <a href="http://gg.gg/prcss-fencing" target="_blank" rel="noopener">Video 1</a></div>
+<div>2) <a href="http://gg.gg/prcss-sabre" target="_blank" rel="noopener">Video 2</a></div>
 </li>
 
 <li><input type="checkbox" id="accordion5"><label for="accordion5">OUR STAKEHOLDERS</label>
