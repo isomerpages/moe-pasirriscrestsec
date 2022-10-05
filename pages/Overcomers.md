@@ -11,7 +11,7 @@ description: ""
 
 <input type="checkbox" id="accordion1">
 <label for="accordion1">T. SREEDHARAN</label>
-<div>“I have always known that life is a constant struggle,” recalls T. Sreedharan of Secondary 5NA.  Struggling with motor issues indicative of dyspraxia, he has difficulties coordinating his hand movements and this often results in poor penmanship.  Sree also suffers from a speech impediment which causes him to lisp.  Dealing with two major issues is certainly no mean feat.
+<p>“I have always known that life is a constant struggle,” recalls T. Sreedharan of Secondary 5NA.  Struggling with motor issues indicative of dyspraxia, he has difficulties coordinating his hand movements and this often results in poor penmanship.  Sree also suffers from a speech impediment which causes him to lisp.  Dealing with two major issues is certainly no mean feat.
 
 “I am unable to write neatly no matter how hard I try,” Sree explains.  “My subject teachers have constantly been reminding me about the need to write legibly so that my work is understood by markers, especially for external examinations.  However, I remained stagnant and only saw a change when I entered Secondary Three.”
 
@@ -27,7 +27,7 @@ Eventually, Sree was nominated to serve as Vice-President of the MCC from 2018 t
 
 “As cliché as it sounds – no matter where life takes you, you must always rise above your feelings of self-doubt,” Sree laughs.  “Remember that your mistakes are your biggest professors.”
 
-“Do not beat yourselves up over what goes wrong and always have the mindset of being forward-looking in becoming a better version of yourself every day.”</div>
+“Do not beat yourselves up over what goes wrong and always have the mindset of being forward-looking in becoming a better version of yourself every day.”</p>
 </li>
 <li>
 
@@ -35,7 +35,7 @@ Eventually, Sree was nominated to serve as Vice-President of the MCC from 2018 t
 
 <label for="accordion2">LAU YAN LIANG</label>
 
-<div>“My fondest memory of school isn’t pleasant,” recalls Lau Yan Liang with a laugh. This comes as a surprise to many, as the confident and affable 18-year-old is known by peers and teachers for achieving excellent ‘O’ level examination results and showing strength of character throughout his five years in Pasir Ris Crest Secondary School.  He was also a recipient of the prestigious Lee Kuan Yew Award for Outstanding Normal Course Students in 2019.  
+<p>“My fondest memory of school isn’t pleasant,” recalls Lau Yan Liang with a laugh. This comes as a surprise to many, as the confident and affable 18-year-old is known by peers and teachers for achieving excellent ‘O’ level examination results and showing strength of character throughout his five years in Pasir Ris Crest Secondary School.  He was also a recipient of the prestigious Lee Kuan Yew Award for Outstanding Normal Course Students in 2019.  
 
 The booming loud voice and enraged look on his teacher’s face left vivid impressions on Yan Liang, but she had a good reason for her reaction.  It harkened back to a Mathematics class that took place after recess.  Yan Liang recalls he was immersed in playing an online multiplayer battle game with his friends during recess and their chance of winning was dashed by the bell that went off.
 
@@ -57,7 +57,7 @@ Despite the numerous accolades he has received, Yan Liang does not think he is a
 
 “I would have never dreamt of getting to where I am today without the support of my PRCS teachers and peers.”
 
-Yan Liang remains ambivalent about his plans for the future, though he is certain about his love for the Humanities and is currently studying in the Arts course at Nanyang Junior College.  Since entering junior college in 2019, he is struck by the stiff competition among peers, yet he remains undeterred and wants to prove that a Normal Academic student can achieve great things!</div>
+Yan Liang remains ambivalent about his plans for the future, though he is certain about his love for the Humanities and is currently studying in the Arts course at Nanyang Junior College.  Since entering junior college in 2019, he is struck by the stiff competition among peers, yet he remains undeterred and wants to prove that a Normal Academic student can achieve great things!</p>
 </li>
 <li>
 
