@@ -49,7 +49,7 @@ description: ""
 </tbody>
 </table>
 <div>
-<div>As a culmination of the entire coursework, selected projects are highlighted for participation in competitions such as:</div>
+<p>As a culmination of the entire coursework, selected projects are highlighted for participation in competitions such as:</p>
 <div>&bull; D&amp;T Awards&nbsp;</div>
 <div>&bull; Toy Design Competition</div>
 <div>&bull; iChef Competition</div>
