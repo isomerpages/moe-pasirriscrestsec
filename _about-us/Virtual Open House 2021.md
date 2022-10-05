@@ -80,7 +80,7 @@ description: ""
 </div>
 <div><strong><u>Outline</u></strong></div>
 <div>The LLP comprises broad-based programmes to equip all students with basic skills in music and performance and appreciation for the performing arts (Tier 1). Students who demonstrate aptitude and passion for music and the performing arts also have various opportunities to further pursue and deepen their skills through a wide range of activities and interest groups/ performing arts CCAs (Tier 2).</div>
-    <div><img src="/images/LLP-Tiers.jpeg" alt="LLP-Tiers.jpeg" /></div>
+    <div><img src="/images/LLP-Tiers.jpeg" alt="LLP-Tiers.jpeg" style="width:70%"></div>
     <div>A key component of the LLP is the music programme, which is delivered as level programmes for Secondary 1, 2 and 3. It consists of 3 main parts:</div>
     <div><strong>Part 1: Learning of Music for Growth (Lower Secondary)</strong></div>
     <div>All Crestians will be taught 3 musical instruments; Keyboard and Guitar/Ukulele (individual musical instrument) at Secondary One and Xylophone (ensemble performance) at Secondary Two. The learning of each musical instrument spans across a semester and comprises at least 15 hours of music lessons taught by our own Music Teachers.</div>
