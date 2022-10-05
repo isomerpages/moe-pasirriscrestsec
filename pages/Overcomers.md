@@ -8,10 +8,9 @@ description: ""
 <ul class="jekyllcodex\_accordion">
 
 <li>
-
 <input type="checkbox" id="accordion1">
 <label for="accordion1">T. SREEDHARAN</label>
-<p>“I have always known that life is a constant struggle,” recalls T. Sreedharan of Secondary 5NA.  Struggling with motor issues indicative of dyspraxia, he has difficulties coordinating his hand movements and this often results in poor penmanship.  Sree also suffers from a speech impediment which causes him to lisp.  Dealing with two major issues is certainly no mean feat.
+<p align="justify">“I have always known that life is a constant struggle,” recalls T. Sreedharan of Secondary 5NA.  Struggling with motor issues indicative of dyspraxia, he has difficulties coordinating his hand movements and this often results in poor penmanship.  Sree also suffers from a speech impediment which causes him to lisp.  Dealing with two major issues is certainly no mean feat.
 
 “I am unable to write neatly no matter how hard I try,” Sree explains.  “My subject teachers have constantly been reminding me about the need to write legibly so that my work is understood by markers, especially for external examinations.  However, I remained stagnant and only saw a change when I entered Secondary Three.”
 
@@ -29,13 +28,11 @@ Eventually, Sree was nominated to serve as Vice-President of the MCC from 2018 t
 
 “Do not beat yourselves up over what goes wrong and always have the mindset of being forward-looking in becoming a better version of yourself every day.”</p>
 </li>
+	
 <li>
-
 <input type="checkbox" id="accordion2">
-
 <label for="accordion2">LAU YAN LIANG</label>
-
-<p>“My fondest memory of school isn’t pleasant,” recalls Lau Yan Liang with a laugh. This comes as a surprise to many, as the confident and affable 18-year-old is known by peers and teachers for achieving excellent ‘O’ level examination results and showing strength of character throughout his five years in Pasir Ris Crest Secondary School.  He was also a recipient of the prestigious Lee Kuan Yew Award for Outstanding Normal Course Students in 2019.  
+<p align="justify">“My fondest memory of school isn’t pleasant,” recalls Lau Yan Liang with a laugh. This comes as a surprise to many, as the confident and affable 18-year-old is known by peers and teachers for achieving excellent ‘O’ level examination results and showing strength of character throughout his five years in Pasir Ris Crest Secondary School.  He was also a recipient of the prestigious Lee Kuan Yew Award for Outstanding Normal Course Students in 2019.  
 
 The booming loud voice and enraged look on his teacher’s face left vivid impressions on Yan Liang, but she had a good reason for her reaction.  It harkened back to a Mathematics class that took place after recess.  Yan Liang recalls he was immersed in playing an online multiplayer battle game with his friends during recess and their chance of winning was dashed by the bell that went off.
 
@@ -59,37 +56,29 @@ Despite the numerous accolades he has received, Yan Liang does not think he is a
 
 Yan Liang remains ambivalent about his plans for the future, though he is certain about his love for the Humanities and is currently studying in the Arts course at Nanyang Junior College.  Since entering junior college in 2019, he is struck by the stiff competition among peers, yet he remains undeterred and wants to prove that a Normal Academic student can achieve great things!</p>
 </li>
-<li>
 
+<li>
 <input type="checkbox" id="accordion3">
-
 <label for="accordion3">ANIRUDH MENON</label>
-
 <img src="/images/Anirudh-Menon.jpeg" alt="Anirudh-Menon.jpeg">
-
+</li>
+	
 <li>
-
 <input type="checkbox" id="accordion4">
-
 <label for="accordion4">MUHAMMAD AIMAN MUSTAFA</label>
-
 <img src="/images/Muhammad-Aiman-Mustafa.jpeg" alt="Muhammad-Aiman-Mustafa.jpeg">
 </li>
+	
 <li>
-
 <input type="checkbox" id="accordion5">
-
 <label for="accordion5">CHARMAINE OR</label>
-
 <img src="/images/Charmaine-Or.jpeg" alt="Charmaine-Or.jpeg">
 </li>
-<li>
-
-<input type="checkbox" id="accordion6">
-
-<label for="accordion6">ANGELA WONG</label>
-
-<img src="/images/Angela-Wong.jpeg" alt="Angela-Wong.jpeg">
 	
+<li>
+<input type="checkbox" id="accordion6">
+<label for="accordion6">ANGELA WONG</label>
+<img src="/images/Angela-Wong.jpeg" alt="Angela-Wong.jpeg">
 </li>
+
 </ul>
