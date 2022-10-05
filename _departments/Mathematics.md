@@ -5,7 +5,7 @@ description: ""
 ---
 <h1>Mathematics</h1>
 
-<div><img src="/images/Picture All 3.png" /></div>
+<div><img src="/images/Picture All 3.png" style="width:70%"/></div>
 <h3>MISSION</h3>
 
 <p>To Foster A Vibrant Learning Environment Where All Crestians Develop Their Mathematical Ability To The Fullest Potential.</p>
