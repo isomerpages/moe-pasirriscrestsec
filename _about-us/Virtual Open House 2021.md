@@ -48,12 +48,14 @@ description: ""
 <div>2) <strong><u>The Media Communications Club (CCA)</u></strong></div>
 <br />
 <div>Students who join this CCA engage in activities that will further develop their skills in speaking. Students who enjoy debating are coached to prepare them for the Secondary Schools Debating Championship. Those who prefer to simply improve speaking skills are given weekly Toastmasters sessions where they work on mini projects to improve their oratorical skills. The students are also responsible for creating weekly podcasts that share with the school their concerns with school and life in general.<br /><br /></div>
-<div><img src="/images/MCC.JPG" alt="MCC.JPG" width="100%" /></div>
+<div><img src="/images/MCC.jpeg" alt="MCC.jpeg" width="100%" /></div>
 <br />
 <div>Click on this link if you wish to listen to some of the The Peak podcast episodes:</div>
 <br />
-<div><img src="https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/ThePeak.jpg" alt="ThePeak.jpg" /></div>
-<div><a href="http://gg.gg/thepeak" target="_blank" rel="noopener">The Peak Podcast</a></div>
+<div style="float: left">
+<div><img src="https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/ThePeak.jpg" alt="ThePeak.jpg" style="width: 50%"></div>
+	<div><a href="http://gg.gg/thepeak" target="_blank" rel="noopener">The Peak Podcast</a></div></div>
+	
 <div><strong>ENHANCED ALP (MOTHER TONGUE LANGUAGES)</strong></div>
 <div>Since 2018, the school has also embarked on the Enhanced ALP in Mother Tongue Languages. The MTL department has worked with the EL department to help students to be effectively bilingual in speaking and writing. Below are the activities the department offers to the student.</div>
 <div><img src="/images/eALP.JPG" alt="eALP.JPG" width="100%" /></div>
