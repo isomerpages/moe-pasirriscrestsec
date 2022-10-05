@@ -9,7 +9,7 @@ description: ""
 <div>
 <h2>INTRODUCTION</h2>
 <div>
-<div><strong><em>Aesthetics, Craft and Technology</em>&nbsp;</strong>(ACT) Department encompasses all coursework subject in PRCS. Design and Technology, Food and Nutrition, Art and Music.&nbsp;Before embarking on their theme-related projects, students are first grounded in basics of their respective disciplines.&nbsp;Coursework aims to realise student potential in product design, visual art creations, nutritional science, and music compositions.</div>
+<p><strong><em>Aesthetics, Craft and Technology</em>&nbsp;</strong>(ACT) Department encompasses all coursework subject in PRCS. Design and Technology, Food and Nutrition, Art and Music.&nbsp;Before embarking on their theme-related projects, students are first grounded in basics of their respective disciplines.&nbsp;Coursework aims to realise student potential in product design, visual art creations, nutritional science, and music compositions.</p>
 </div>
 </div>
 <div>
