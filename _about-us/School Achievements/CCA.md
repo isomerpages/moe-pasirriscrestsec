@@ -18,8 +18,7 @@ third_nav_title: School Achievements
 <label for="accordion2">SPORTS</label>
 <div>
 <img src="/images/Sports.png" />
-</div>
-		</li>
+</div></li>
 	
 <li>
 				<input type="checkbox" id="accordion3">
