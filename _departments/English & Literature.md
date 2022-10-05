@@ -41,25 +41,25 @@ description: ""
 
 Traditionally held to coincide with Valentine’s Day week, students are encouraged to make a ‘blind date’ with a book.</p>
 
-<img src="/images/Pic3.jpeg" alt="Pic3" style="width:70%">
+<img src="/images/Pic3.jpeg" alt="Pic3" style="padding:10px; width:70%;">
 
 <p align="justify"><strong>Crestian Reads</strong>
 
 An Instagram account run by the Reading Committee of the English Language Department, this platform showcases what staff and students are currently reading to generate an interest among the student population.</p>
 
-<img src="/images/Pic4.jpeg" alt="Pic4" style="width:70%">
+<img src="/images/Pic4.jpeg" alt="Pic4" style="padding:10px; width:70%;">
 
 <p align="justify"><b>Roald Dahl Showdown</b>  <br>
 
 This is an annual competition in PRCS which gets the Secondary One students to enjoy the British novelist’s books.</p>
 	
-<img src="/images/Pic5.jpeg" alt="Pic5" style="width:50%">
+<img src="/images/Pic5.jpeg" alt="Pic5" style="padding:10px; width:50%;">
 
 <p align="justify"><b>Other Book Events</b>
 
 To get students to enjoy owning a copy of a book, the department regularly invites vendors to introduce books for book sale events.</p>
 
-<img src="/images/Pic6.jpeg" alt="Pic6" style="width:70%">
+<img src="/images/Pic6.jpeg" alt="Pic6" style="padding:10px; width:70%;">
 
 <p align="justify">The Critical Writing Programme is a weekly activity for the students.  
 
@@ -85,11 +85,11 @@ In Critical Writing, students learn to appreciate how multimodality works in lan
 <div> 
 <p align="justify">The Literature Unit supports the school’s language programme in class. Below are some of the activities for the students:</p>
 	
-<img src="/images/Table2.jpeg" alt="Table2">
+<img src="/images/Table2.jpeg" alt="Table2" style="padding:10px; width:70%;">
 
 <p align="justify">Every year, the school participates in the National Schools Literature Festival. We have sent students to compete in various categories and they have always made us proud with their enthusiastic performances. </p>
 
-<img src="/images/Pic10.jpeg" alt="Pic10" style="width:70%">
+<img src="/images/Pic10.jpeg" alt="Pic10" style="padding:10px; width:70%;">
 </div>
 	</li>
 	
