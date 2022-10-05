@@ -105,7 +105,7 @@ A NYAA Bronze and Silver winner, Yan Liang was an all-rounder who excelled in bo
 <input type="checkbox" id="accordion4">
 <label for="accordion4">CONGRATULATIONS FOR GOOD RESULTS</label>
 <div>Congratulations to Crestians who continue to do well.
-	<img src="/images/1388637749877322222.jpeg" style="width:50%" align="left"/><img src="/images/14062677311211383137.jpeg" style="width:50%" />
+<img src="/images/1388637749877322222.jpeg" style="width:50%" align="left"/><img src="/images/14062677311211383137.jpeg" style="width:50%" />
 </div></li>
 <li>
 <input type="checkbox" id="accordion5">
@@ -585,9 +585,10 @@ A NYAA Bronze and Silver winner, Yan Liang was an all-rounder who excelled in bo
 </tbody>
 </table>
 </div></li>
-	<li>
-		<input type="checkbox" id="accordion8">
-		<label for="accordion8">CRESTIANS WHO HAVE WON SCHOLARSHIPS</label>
+
+<li>
+<input type="checkbox" id="accordion8">
+<label for="accordion8">CRESTIANS WHO HAVE WON SCHOLARSHIPS</label>
 		<div>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -637,9 +638,9 @@ A NYAA Bronze and Silver winner, Yan Liang was an all-rounder who excelled in bo
 </table>
 </div></li>
 <li>
-		<input type="checkbox" id="accordion9">
-		<label for="accordion9">CRESTIANS IN THE NEWS</label>
-		<div>
+<input type="checkbox" id="accordion9">
+<label for="accordion9">CRESTIANS IN THE NEWS</label>
+<div>
 Newspaper reports of Crestians.
 <img src="/images/13841370462079858796.jpeg" style="width:100%" align="center" />
 </div>
