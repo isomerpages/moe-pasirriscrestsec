@@ -31,41 +31,39 @@ description: ""
 <p align="justify">The English Language and Literature Department supports the school’s Applied Learning Programme (ALP) which aims to develop Crestians into effective communicators who are capable of articulating complex information and ideas in varying contexts and modes. To this end, the programmes below have been developed to make learning experiences meaningful and engaging for the students:</p>
 <img src="/images/Table1.jpeg">
 <p align="justify">For more information on the skills the students acquire and to view some of their projects, please click on this link: <a href="https://prcss.moe.edu.sg/about-us/virtual-open-house-2021">Effective Communicators who impact with the heart and mind.</a></p>
-
 </div>
-	</li>
+</li>
+
 <li>
 <input type="checkbox" id="accordion3">
 <label for="accordion3">EXTENSIVE READING /CRITICAL WRITING PROGRAMME</label>
 
 <div>
-	To inculcate a love for reading, time is set aside weekly for the students to do intensive and extensive reading. Here are some of the activities and platforms to foster a reading culture among the students:  
+<p align="justify">To inculcate a love for reading, time is set aside weekly for the students to do intensive and extensive reading. Here are some of the activities and platforms to foster a reading culture among the students:  
 
-<b>Blind Date with a Book</b>
+<strong>Blind Date with a Book</strong>
 
-Traditionally held to coincide with Valentine’s Day week, students are encouraged to make a ‘blind date’ with a book.
+Traditionally held to coincide with Valentine’s Day week, students are encouraged to make a ‘blind date’ with a book.</p>
 
-  
+<img src="/images/Pic3.jpeg" alt="Pic3" style="width:70%">
 
-<img src="/images/Pic3.jpeg" alt="Pic3">
+<p><strong>Crestian Reads</strong>
 
-	<b>Crestian Reads</b>
+An Instagram account run by the Reading Committee of the English Language Department, this platform showcases what staff and students are currently reading to generate an interest among the student population.</p>
 
-An Instagram account run by the Reading Committee of the English Language Department, this platform showcases what staff and students are currently reading to generate an interest among the student population.
-
-<img src="/images/Pic4.jpeg" alt="Pic4">
+<img src="/images/Pic4.jpeg" alt="Pic4" style="width:70%">
 
 <b>Roald Dahl Showdown</b>  <br>
 
 This is an annual competition in PRCS which gets the Secondary One students to enjoy the British novelist’s books.
 	
-<img src="/images/Pic5.jpeg" alt="Pic5">
+<img src="/images/Pic5.jpeg" alt="Pic5" style="width:50%">
 
 <b>Other Book Events</b>
 
 To get students to enjoy owning a copy of a book, the department regularly invites vendors to introduce books for book sale events.
 
-<img src="/images/Pic6.jpeg" alt="Pic6">
+<img src="/images/Pic6.jpeg" alt="Pic6" style="width:70%">
 
 The Critical Writing Programme is a weekly activity for the students.  
 
