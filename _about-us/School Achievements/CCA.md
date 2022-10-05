@@ -30,10 +30,10 @@ third_nav_title: School Achievements
 </li>
 
 <li>
-				<input type="checkbox" id="accordion4">
-			<label for="accordion4">NATIONAL YOUTH ACHIEVEMENT AWARD (NYAA)</label>
-			<div>
-				<img src="/images/NYAA.jpeg" />
-				</div>
+<input type="checkbox" id="accordion4">
+<label for="accordion4">NATIONAL YOUTH ACHIEVEMENT AWARD (NYAA)</label>
+<div>
+<img src="/images/NYAA.jpeg" />
+</div>
 </li>
 </ul>
