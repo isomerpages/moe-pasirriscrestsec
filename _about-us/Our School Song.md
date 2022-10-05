@@ -18,9 +18,8 @@ The world will be at our feet<br/>
 When you hold your hand right out to me<br/>
 I see a glowing chance<br/>
 	Spark the burning flame inside of me<br/></div>
-	
-<p><strong>Chorus:</strong></p><br/>
-	
+
+<p><strong>Chorus:</strong></p>
 <div align="justify">Show me the way, show me the signs<br/>
 Give me the wisdom to believe in me and find<br/>
 Find within myself, capacities to excel<br/>
