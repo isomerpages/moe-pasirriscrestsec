@@ -84,22 +84,22 @@ description: ""
     <div>A key component of the LLP is the music programme, which is delivered as level programmes for Secondary 1, 2 and 3. It consists of 3 main parts:</div>
     <div><strong>Part 1: Learning of Music for Growth (Lower Secondary)</strong></div>
     <div>All Crestians will be taught 3 musical instruments; Keyboard and Guitar/Ukulele (individual musical instrument) at Secondary One and Xylophone (ensemble performance) at Secondary Two. The learning of each musical instrument spans across a semester and comprises at least 15 hours of music lessons taught by our own Music Teachers.</div>
-    <div><img src="/images/LLP-Pic1.jpeg" alt="LLP-Pic1.jpeg" />
+<div><img src="/images/LLP-Pic1.jpeg" alt="LLP-Pic1.jpeg" style="width:50%">
     <div>Watch the <a href="http://gg.gg/prcss-llp" target="_blank" rel="noopener">video</a> to see an example of a Secondary One xylophone ensemble performance. To upload to Youtube.</div>
 
-    <div><img src="/images/LLP-Pic2.jpeg" alt="LLP-Pic2.jpeg" /></div>
+ <div><img src="/images/LLP-Pic2.jpeg" alt="LLP-Pic2.jpeg" /></div>
 
-    <div>Crestians will also spend a semester to learn music arrangement through ICT tools such as Garage Band. Selected enrichment programmes such as percussion workshops and attending external musical performances will also be organised to expose Crestians to different musical experiences.</div>
+<p>Crestians will also spend a semester to learn music arrangement through ICT tools such as Garage Band. Selected enrichment programmes such as percussion workshops and attending external musical performances will also be organised to expose Crestians to different musical experiences.</p>
 
  <div><img src="/images/LLP-Pic3.jpeg" alt="LLP-Pic3.jpeg" width="100%" /></div>
-    <div><img src="/images/LLP-Pic4.jpeg" alt="LLP-Pic4.jpeg" /></div>
+    <div><img src="/images/LLP-Pic4.jpeg" alt="LLP-Pic4.jpeg" width="100%" /></div>
     <div>All Crestians will acquire basic music skills to perform simple musical pieces and to create/arrange their own music.</div>
-    <div><img src="/images/LLP-Pic5.jpeg" alt="LLP-Pic5.jpeg" /></div>
+    <div><img src="/images/LLP-Pic5.jpeg" alt="LLP-Pic5.jpeg" width="100%" /></div>
     <div><strong>Part 2: Deepening the Learning of Music to Serve (Upper Secondary)</strong></div>
     <div>Crestians are encouraged to infuse music learning and performance skills that they have picked up at Lower Secondary as part of the Crestians' Values-In-Action Project in Secondary Three. </div>
     <div>A 20-hour level programme provides the opportunity for students to work as a class to plan and conceptualise their VIA project and to apply creatively the musical skills learnt in lower secondary to enhance their quality of their project.</div>
     <div>With guidance from Music Teachers/Home Tutors, Crestians will plan and decide their VIA activities. Crestians could choose to deliver live performances at community/school-based events, e.g. National Education events, create musical pieces in songs or videos to advocate awareness towards specific social concerns, share the joy of music with others through teaching music to the young or underprivileged, etc.</div>
-    <div><img src="/images/LLP-Pic6.jpeg" alt="LLP-Pic6.jpeg" /></div>
+    <div><img src="/images/LLP-Pic6.jpeg" alt="LLP-Pic6.jpeg" width="100%" /></div>
     <div>The authentic learning experience for Crestians to create meaningful outcomes with their musical skills will inspire Crestians&rsquo; spirit of volunteerism. This is in line with the school's goal to develop Crestians to become active and concerned citizens, paving the way for them to embark on a lifelong journey of active learning and helping others.</div>
     <div><strong>Part 3: Promoting Learning and Appreciation of Music </strong></div>
     <div>To sustain a positive and vibrant school culture where students can enjoy music, the school would continue to organise different school-based events to promote the learning of musical skills and support the development of Crestians in the aesthetics.</div>
