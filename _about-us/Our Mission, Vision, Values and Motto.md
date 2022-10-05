@@ -3,7 +3,6 @@ title: Our Mission, Vision, Values and Motto
 permalink: /about-us/OurMissionVisionValuesandMotto/
 description: ""
 ---
-
 <h3>MISSION:</h3>
 <p align="justify">A Choice School that nurtures the Hearts and Minds of Crestian Leaders to be the pride of family, community and nation.</p>
 
@@ -14,4 +13,4 @@ description: ""
 <p align="justify"><u>C</u>are, <u>R</u>esilience, <u>E</u>xcellence, <u>S</u>elf-Belief, <u>T</u>rustworthiness (CREST)</p>
 
 <h3>MOTTO:</h3>
-<div align="justify">Pursue and Realise Challenges.
+<p align="justify">Pursue and Realise Challenges.</p>
