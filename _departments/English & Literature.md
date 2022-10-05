@@ -8,16 +8,12 @@ description: ""
 <input type="checkbox" id="accordion1">
 <label for="accordion1">VISION AND MISSION</label>
 <div>
-	
-<img src="/images/Pic1.jpg" alt="Pic1"> 
-
+<img src="/images/Pic1.jpg" alt="Pic1" style="padding:10px; width:70%;"> 
 <strong>ENGLISH LANGUAGE AND LITERATURE DEPARTMENT</strong>
-
-<img src="/images/Pic2.jpg" alt="Pic2">
+<img src="/images/Pic2.jpg" alt="Pic2" style="padding:10px; width:70%;">
 
 <h3>VISION:</h3>
 <p align="justify">Effective Communicators who impact with the Heart and Mind</p>
-
 <h3>MISSION:</h3>
 <p align="justify">Nurturing Crestians to be perceptive readers and empathetic communicators who are able to express themselves in various contexts</p>
 </div>
@@ -29,7 +25,7 @@ description: ""
 
 <div>
 <p align="justify">The English Language and Literature Department supports the school’s Applied Learning Programme (ALP) which aims to develop Crestians into effective communicators who are capable of articulating complex information and ideas in varying contexts and modes. To this end, the programmes below have been developed to make learning experiences meaningful and engaging for the students:</p>
-<img src="/images/Table1.jpeg">
+<img src="/images/Table1.jpeg" style="padding:10px; width:70%;">
 <p align="justify">For more information on the skills the students acquire and to view some of their projects, please click on this link: <a href="https://prcss.moe.edu.sg/about-us/virtual-open-house-2021">Effective Communicators who impact with the heart and mind.</a></p>
 </div>
 </li>
