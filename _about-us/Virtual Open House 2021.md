@@ -61,7 +61,7 @@ description: ""
 	
 <div><strong>ENHANCED ALP (MOTHER TONGUE LANGUAGES)</strong></div>
 <div>Since 2018, the school has also embarked on the Enhanced ALP in Mother Tongue Languages. The MTL department has worked with the EL department to help students to be effectively bilingual in speaking and writing. Below are the activities the department offers to the student.</div>
-<div><img src="/images/eALP.JPG" alt="eALP.JPG" width="100%" /></div>
+<div><img src="/images/eALP.jpeg" alt="eALP.jpeg" width="100%" /></div>
 <div>See what our students have to say about ALP. To upload video to Youtube</div>
 </div>
 </li>
