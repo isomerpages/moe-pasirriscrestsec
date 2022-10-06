@@ -48,6 +48,25 @@ description: ""
       </tr>
     </tbody>
     </table>
+	<strong>Eligibility for various Post-Secondary Pathways (4NA)</strong>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-38i8">Course</th>
+    <th class="tg-38i8">PFP (%)</th>
+    <th class="tg-38i8">PFP &amp; DPP (%)</th>
+    <th class="tg-7v0h"> 5N (%)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-aioz">Secondary 4 Normal(A)</td>
+    <td class="tg-aioz">35.9</td>
+    <td class="tg-aioz">91.0</td>
+    <td class="tg-aioz">94.9</td>
+  </tr>
+</tbody>
+</table>
 	
 </div>
 	</li>
