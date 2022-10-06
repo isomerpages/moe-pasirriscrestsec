@@ -104,25 +104,49 @@ description: ""
 <strong><u>2019 GCE O-Level Examination</u><br/>
 4 Express	</strong>
 <table class="tg">
-    <thead>
-      <tr>
-        <th class="tg-0lax">Course</th>
-        <th class="tg-0lax">JC (%)</th>
-        <th class="tg-0lax">Polytechnic (%)</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td class="tg-0lax">Secondary 5 Normal(A)</td>
-        <td class="tg-0lax">12.5</td>
-        <td class="tg-0lax">81.3</td>
-      </tr>
-    </tbody>
-    </table>
+<thead>
+  <tr>
+    <th class="tg-0lax">Subjects with<br>100% Passes</th>
+    <th class="tg-0lax">Subjects performance above<br>National Mean (Passes)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">·        Biology<br>·        Chemistry<br>·        Design &amp; Technology<br>·        Geography<br>·        Higher Tamil<br>·        Malay Language<br>·        Music<br>·        Tamil<br><br><br><br></td>
+    <td class="tg-0lax">·        Additional Mathematics<br>·        Art<br>·        Chinese Language<br>·        English Language<br>·        Food &amp; Nutrition<br>·        Higher Chinese<br>·        Humanities (S,H)<br>·        Literature<br>·        Mathematics<br>·        Principles of Accounts<br>·        Science (C, B)<br>·        Science (P, C)</td>
+  </tr>
+</tbody>
+</table>
 <strong>5 Normal (Academic)</strong>
-	
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Subjects with<br>100% Passes</th>
+    <th class="tg-0lax">Subjects performance above<br>National Mean (Passes)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">·        Additional Mathematics<br>·        Art<br>·        Chinese Language<br>·        Design &amp; Technology<br>·        Food &amp; Nutrition<br>·        Malay Language<br>·        Literature</td>
+    <td class="tg-0lax">·        English Language<br>·        Humanities (S,G)<br>·        Science (C, B)</td>
+  </tr>
+</tbody>
+</table>
 <strong><u>2019 GCE N(A)-Level Examination	</u></strong>
-	
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Subjects with<br>100% Passes</th>
+    <th class="tg-0lax">Subjects performance above<br>National Mean (Passes)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Additional Mathematics<br>Art<br>Chinese Language<br>Design &amp; Technology<br>English Language<br>Food &amp; Nutrition<br>Literature<br>Malay Language<br>Mathematics<br>Science (C, B)<br>Science (P,C)</td>
+    <td class="tg-0lax">·        Additional Mathematics<br>·        Art<br>·        Chinese Language<br>·        Design &amp; Technology<br>·        English Language<br>·        Food &amp; Nutrition<br>·        Humanities (S,G)<br>·        Humanities (S,H)<br>·        Literature<br>·        Malay<br>·        Mathematics<br>·        Science (C, B)<br>·        Science (P, C)</td>
+  </tr>
+</tbody>
+</table>
 </div>
 	</li>
 	
