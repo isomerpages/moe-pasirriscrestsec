@@ -67,6 +67,23 @@ description: ""
   </tr>
 </tbody>
 </table>
+		<strong>Eligibility for various Post-Secondary Pathways (4E)</strong>
+	   <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-38i8">Course</th>
+        <th class="tg-38i8">JC (%)</th>
+        <th class="tg-38i8">Polytechnic (%)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-aioz">Secondary 4 Express</td>
+        <td class="tg-aioz">73.6</td>
+        <td class="tg-aioz">99.4</td>
+      </tr>
+    </tbody>
+    </table>
 	
 </div>
 	</li>
