@@ -22,7 +22,8 @@ description: ""
 <input type="checkbox" id="accordion2">
 <label for="accordion2">2020</label>
 <div>
-<p></p>
+<img src="/images/2020-O-N-Results.jpeg" />
+<img src="/images/2020 O-Results.jpeg" style="width:50%">
 </div>
 	</li>
 
@@ -30,8 +31,24 @@ description: ""
 <input type="checkbox" id="accordion3">
 <label for="accordion3">2019</label>
 <div>
-<img src="/images/2020-O-N-Results.jpeg" />
-<img src="/images/2020 O-Results.jpeg" style="width:50%">
+	<h6><u>2019 GCE 'O' & 'N' Level Examination</u></h6>
+    <table class="tg">
+    <thead>
+      <tr>
+        <th class="tg-38i8">Course</th>
+        <th class="tg-38i8">At least 5 NT Passes</th>
+        <th class="tg-38i8">At least 7 NT Passes</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-aioz">Secondary 4 Normal(T)</td>
+        <td class="tg-aioz">100 %</td>
+        <td class="tg-aioz">83.3 %</td>
+      </tr>
+    </tbody>
+    </table>
+	
 </div>
 	</li>
 	
