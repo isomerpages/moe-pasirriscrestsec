@@ -6,12 +6,12 @@ third_nav_title: Sports
 ---
 <div style="width:100%;"><h1>Fencing (Mixed)</h1></div>
 
-<div style="float:left; width:20%;">
-<img src="/images/fencing_1.png" style="width 20%; padding:10px"><p><strong><u>Fencing Photo Album</u></strong></p>
+<div style="float:left; width:40%;">
+<img src="/images/fencing_1.png" style="width 40%; padding:10px"><p><strong><u>Fencing Photo Album</u></strong></p>
 <p>Fencing</p>
 </div>
 
-<div style="float:left; width:80%; margin-left:10px;">
+<div style="float:left; width:60%; margin-left:10px;">
 <p><strong>Brief Description of CCA</strong></p>
 <p>Founded in 2001, PRCS Fencing Club aims to nurture respectful, responsible and disciplined young men and women. Supported by a team of dedicated coaches, the training regime at PRCS Fencing Club goes beyond the blade to help our fencers discover what they are gifted at. While the development of skills, agility and coordination are important, PRCS Fencing Club also firmly believes character building will help realize the full potential of all PRCS fencers.</p>
 <strong>Achievements of CCA</strong>
