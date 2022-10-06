@@ -30,7 +30,8 @@ description: ""
 <input type="checkbox" id="accordion3">
 <label for="accordion3">2019</label>
 <div>
-<p></p>
+<img src="/images/2020-O-N-Results.jpeg" />
+<img src="/images/2020 O-Results.jpeg" style="width:50%">
 </div>
 	</li>
 	
