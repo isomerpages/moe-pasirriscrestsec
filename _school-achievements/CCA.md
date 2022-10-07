@@ -17,19 +17,20 @@ description: ""
 <input type="checkbox" id="accordion2">
 <label for="accordion2">SPORTS</label>
 			<div>
-<img src="/images/UG1.png"/>
+<img src="/images/Sports.png"/>
 </div></li>
 			
 <li>
 				<input type="checkbox" id="accordion3">
 			<label for="accordion3">PERFORMING ARTS</label>
 			<div>
-<img src="/images/UG1.png"/>
+<img src="/images/Performing Arts.png"/>
 </div></li>
 
 <li>
 				<input type="checkbox" id="accordion4">
 			<label for="accordion4">NATIONAL YOUTH ACHIEVEMENT AWARD (NYAA)</label>
 			<div>
-<img src="/images/UG1.png"/>
+<img src="/images/NYAA.jpeg"/>
 </div></li>
+</ul>
