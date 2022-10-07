@@ -92,22 +92,28 @@ description: ""
 <label for="accordion5">2017</label>
 <div>
 	<strong><u>2017 GCE 'O' & 'N' Level Examination</u></strong>
-
+	<table><thead><tr><th>Course</th><th>At least 5 NT Passes</th><th>At least 7 NT Passes</th></tr></thead><tbody><tr><td>Secondary 4 Normal(T)</td><td>97.1</td><td>82.9</td></tr></tbody></table>
 
 <strong>Eligibility for various Post-Secondary Pathways (4NA)</strong>
+	<table><thead><tr><th>Course</th><th>PFP (%)</th><th>PFP &amp; DPP (%)</th><th>5N (%)</th></tr></thead><tbody><tr><td>Secondary 4 Normal(A)</td><td>25.6</td><td>95.1</td><td>98.8</td></tr></tbody></table>
 
 <strong>Eligibility for various Post-Secondary Pathways (4E)</strong>
+	<table><thead><tr><th>Course</th><th>JC (%)</th><th>Polytechnic (%)</th><th>Pre-U(MI) (%)</th></tr></thead><tbody><tr><td>Secondary 4 Express</td><td>84.2</td><td>100</td><td></td></tr></tbody></table>
 
 <strong>Eligibility for various Post-Secondary Pathways (5N)</strong>
+	<table><thead><tr><th>Course</th><th>JC (%)</th><th>Polytechnic (%)</th><th>Pre-U(MI) (%)</th></tr></thead><tbody><tr><td>Secondary 5 Normal(A)</td><td>17.5</td><td>82.5</td><td></td></tr></tbody></table>
 
 <strong>2017 GCE O-Level Examination <br/>4 Express</strong>
+	<table><thead><tr><th>Subjects with 100% Passes</th><th>Subjects performance above National Mean (Passes)</th><th> Subjects performance above National Mean (Distinctions)</th></tr></thead><tbody><tr><td><br>Additional Mathematics<br>Biology<br>Design &amp; Technology<br>Higher Tamil<br>Malay Language<br>Mathematics<br>Music<br>Physics<br>Principles of Accounts<br>Tamil<br></td><td>Additional Mathematics<br>Art<br>Biology<br>Chemistry<br>Chinese<br>Design &amp; Technology<br>English<br>Higher Tamil<br>Humanities<br>Food &amp; Nutrition<br>Geography<br>Malay Language<br>Mathematics<br>Music<br>Physics<br>Principles of Accounts<br>Science (C, B)<br>Science (P, C)<br>Tamil</td><td>Additional Mathematics<br>Art<br>Biology<br>Chinese<br>Design &amp; Technology<br>Food &amp; Nutrition<br>Malay Language<br>Mathematics<br>Music<br>Principles of Accounts<br>Science (C, B)<br>Science (P, C)<br>Tamil</td></tr></tbody></table>
 
 <strong>5 Normal (Academic)</strong>
+	<table><thead><tr><th>Subjects with 100% Passes</th><th>Subjects performance above National Mean (Passes)</th><th>Subjects performance above National Mean (Distinctions)</th></tr></thead><tbody><tr><td><br>Additional Mathematics<br>Art<br>Chinese<br>Design &amp; Technology<br>Literature<br>Malay Language<br>Tamil<br></td><td>Additional Mathematics<br>Art<br>Chinese<br>Design &amp; Technology<br>Humanities<br>Literature<br>Malay Language<br>Mathematics<br>Principles of Accounts<br>Tamil</td><td>Additional Mathematics<br>Art<br>Chinese<br>Design &amp; Technology<br>Humanities<br>Literature<br>Malay Language<br>Mathematics<br>Principles of Accounts<br>Science (C, B)<br>Science (P, C)</td></tr></tbody></table>
 
 <strong>2017 GCE N(A)-Level Examination</strong>
+	<table><thead><tr><th>Subjects with 100% Passes</th><th>Subjects performance above National Mean (Passes)</th><th>Subjects performance above National Mean (Distinctions)</th></tr></thead><tbody><tr><td><br>Art<br>English Language<br>Food &amp; Nutrition<br>Malay Language<br>Mathematics<br>Principles of Accounts<br>Science (C, B)<br>Science (P, C)<br>Tamil<br></td><td>Additional Mathematics<br>Art<br>Chinese Language<br>English Language<br>Food &amp; Nutrition<br>Humanities<br>Malay Language<br>Mathematics<br>Principles of Accounts<br>Science (C, B)<br>Science (P, C)<br>Tamil</td><td>Additional Mathematics<br>Art<br>Design &amp; Technology<br>Food &amp; Nutrition<br>Humanities<br>Literature<br>Malay Language<br>Mathematics<br>Principles of Accounts<br>Science (C, B)<br>Science (P, C)<br>Tamil</td></tr></tbody></table>
 
 <strong>2017 GCE N(T)-Level Examination</strong>
-
+<table><thead><tr><th>Subjects with 100 % Passes</th><th>Subjects performance above National Mean (Passes)</th><th>Subjects performance above National Mean (Distinctions)</th></tr></thead><tbody><tr><td><br>Basic Chinese Language<br>Basic Malay Language<br>Basic Tamil Language<br>Computer Applications<br>Design &amp; Technology<br>Elements of Business Skills<br>Food Studies<br>Music<br></td><td>Basic Chinese Language<br>Basic Malay Language<br>Basic Tamil Language<br>Computer Applications<br>Design &amp; Technology<br>Elements of Business Skills<br>English Language<br>Food Studies<br>Mathematics<br>Music<br>Science</td><td>Computer Applications<br><br>Design &amp; Technology<br>Elements of Business Skills<br>English Language<br>Food Studies<br><br>Mathematics<br>Music<br>Science</td></tr></tbody></table>
 </div>
 	</li>
 	
