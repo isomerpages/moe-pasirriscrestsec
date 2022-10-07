@@ -91,36 +91,22 @@ description: ""
 <input type="checkbox" id="accordion5">
 <label for="accordion5">2017</label>
 <div>
-**2017 GCE 'O' & 'N' Level Examination**  
+	<strong><u>2017 GCE 'O' & 'N' Level Examination</u></strong>
 
 
-**Eligibility for various Post-Secondary Pathways (4NA)**
+<strong>Eligibility for various Post-Secondary Pathways (4NA)</strong>
 
+<strong>Eligibility for various Post-Secondary Pathways (4E)</strong>
 
+<strong>Eligibility for various Post-Secondary Pathways (5N)</strong>
 
-**Eligibility for various Post-Secondary Pathways (4E)**
+<strong>2017 GCE O-Level Examination <br/>4 Express</strong>
 
+<strong>5 Normal (Academic)</strong>
 
+<strong>2017 GCE N(A)-Level Examination</strong>
 
-**Eligibility for various Post-Secondary Pathways (5N)**
-
-
-
-**2017 GCE O-Level Examination  
-****4 Express**
-
-
-
-**5 Normal (Academic)**
-
-
-
-**2017 GCE N(A)-Level Examination**
-
-
-
-**2017 GCE N(T)-Level Examination**
-
+<strong>2017 GCE N(T)-Level Examination</strong>
 
 </div>
 	</li>
