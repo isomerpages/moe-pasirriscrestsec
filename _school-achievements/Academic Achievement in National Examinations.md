@@ -121,23 +121,23 @@ description: ""
 <input type="checkbox" id="accordion6">
 <label for="accordion6">2016</label>
 <div>
-2016 GCE 'O' & 'N' Level Examination
+	<strong><u>2016 GCE 'O' & 'N' Level Examination</u></strong>
+	<table><thead><tr><th>Course</th><th>Actual L1B4</th></tr></thead><tbody><tr><td>Secondary 5 Normal(A)</td><td>17.6</td></tr><tr><th>Course</th><th>Actual L1B5</th></tr><tr><td>Secondary 4 Express</td><td>15.9</td></tr><tr><th>Course</th><th>Actual EMB3</th></tr><tr><td>Secondary 4 Normal(A)</td><td>12.1</td></tr></tbody></table>
 
-Eligibility for various Post-Secondary Pathways (4NA)
+<strong>Eligibility for various Post-Secondary Pathways (4NA)</strong>
 
-Eligibility for various Post-Secondary Pathways (4E)
+<strong>Eligibility for various Post-Secondary Pathways (4E)</strong>
 
 
-Eligibility for various Post-Secondary Pathways (5N)
+<strong>Eligibility for various Post-Secondary Pathways (5N)<strong>
 
-2016 GCE O-Level Examination
-4 Express
+<strong>2016 GCE O-Level Examination<br/>4 Express</strong>
 
-5 Normal (Academic)
+<strong>5 Normal (Academic)</strong>
 
-2016 GCE N(A)-Level Examination
+<strong>2016 GCE N(A)-Level Examination</strong>
 
-2016 GCE N(T)-Level Examination
+<strong>2016 GCE N(T)-Level Examination</strong>
 
 </div>
 	</li>
