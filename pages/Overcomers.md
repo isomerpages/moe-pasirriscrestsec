@@ -5,7 +5,7 @@ description: ""
 ---
 <h1>OVERCOMERS</h1>
 
-<ul class="jekyllcodex\_accordion">
+<ul class="jekyllcodex_accordion">
 
 <li>
 <input type="checkbox" id="accordion1">
