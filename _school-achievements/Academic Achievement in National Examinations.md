@@ -69,17 +69,20 @@ description: ""
 	<table><thead><tr><th>Course</th><th>JC (%)</th><th>Polytechnic (%)</th></tr></thead><tbody><tr><td>Secondary 4 Express</td><td>86.1</td><td>100</td></tr></tbody></table>
 
 <strong>Eligibility for various Post-Secondary Pathways (5N)</strong>
-	
+	<table><thead><tr><th>Course<br></th><th>JC (%)</th><th>Polytechnic (%)</th></tr></thead><tbody><tr><td>Secondary 5 Normal(A)</td><td>22.2</td><td>80.0</td></tr></tbody></table>
 
 <strong>2018 GCE O-Level Examination<br/>
 4 Express</strong>
 <table><thead><tr><th>Subjects with 100% Passes</th><th>Subjects performance above National Mean (Passes)</th></tr></thead><tbody><tr><td>Art<br>Design &amp; Technology<br>Food &amp; Nutrition<br>Higher Music<br>History<br>Malay Language<br>Music<br>Physics<br>Principles of Accounts<br>Science (C, B)<br>Tamil</td><td>Additional Mathematics<br>Art<br>Chemistry<br>Chinese Language<br>Design &amp; Technology<br>English<br>Higher Chinese<br>Food &amp; Nutrition<br>Higher Music<br>History<br>Humanities<br>Literature<br>Malay Language<br>Mathematics<br>Music<br>Physics<br>Principles of Accounts<br>Science (C, B)<br>Science (P, C)<br>Tamil</td></tr></tbody></table>
 
 <strong>5 Normal (Academic)</strong>
+	<table><thead><tr><th>Subjects with100% Passes</th><th>Subjects performance aboveNational Mean (Passes)</th></tr></thead><tbody><tr><td>Chinese<br>Design &amp; Technology<br><br>Food &amp; Nutrition<br>Malay Language<br>Tamil</td><td>Chinese<br><br>Design &amp; Technology<br>English Language<br>Food &amp; Nutrition<br>Humanities<br>Literature<br>Malay Language<br>Mathematics<br>Principles of Accounts<br>Science (C, B)<br>Science (P, C)<br>Tamil</td></tr></tbody></table>
 
 <strong>2018 GCE N(A)-Level Examination</strong>
+	<table><thead><tr><th>Subjects with 100% Passes</th><th>Subjects performance above National Mean (Passes)</th></tr></thead><tbody><tr><td>Design &amp; Technology<br>English Language<br>Food &amp; Nutrition<br>Mathematics<br>Science (C, B)<br><br>Science (P,C)<br>Tamil</td><td>Additional Mathematics<br>Chinese Language<br>Design &amp; Technology<br>English Language<br>Food &amp; Nutrition<br>Humanities (S,H)<br>Literature<br>Mathematics<br>Science (C, B)<br>Science (P, C)<br>Tamil</td></tr></tbody></table>
 
 <strong>2018 GCE N(T)-Level Examination</strong>
+	<table><thead><tr><th>Subjects with 100% Passes</th><th>Subjects performance above National Mean (Passes)</th></tr></thead><tbody><tr><td>Art<br>Basic Malay Language<br><br>Basic Tamil Language<br>Elements of Business Skills<br>Food Studies<br>Music</td><td>Art<br>Basic Chinese Language<br><br>Basic Malay Language<br><br>Basic Tamil Language<br>Elements of Business Skills<br>Food Studies<br>Music<br>Science</td></tr></tbody></table>
 
 </div>
 	</li>
