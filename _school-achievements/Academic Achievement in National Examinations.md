@@ -23,7 +23,7 @@ description: ""
 <label for="accordion2">2020</label>
 <div>
 <img src="/images/2020-O-N-Results.jpeg" />
-<img src="/images/2020 O-Results.jpeg" style="width:50%">
+<img src="/images/2020 O-Results.jpeg" style="width:300px">
 </div>
 	</li>
 
