@@ -32,121 +32,26 @@ description: ""
 <label for="accordion3">2019</label>
 <div>
 	<h6><u>2019 GCE 'O' & 'N' Level Examination</u></h6>
-    <table class="tg">
-    <thead>
-      <tr>
-        <th class="tg-38i8">Course</th>
-        <th class="tg-38i8">At least 5 NT Passes</th>
-        <th class="tg-38i8">At least 7 NT Passes</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td class="tg-aioz">Secondary 4 Normal(T)</td>
-        <td class="tg-aioz">100 %</td>
-        <td class="tg-aioz">83.3 %</td>
-      </tr>
-    </tbody>
-    </table>
-	<strong>Eligibility for various Post-Secondary Pathways (4NA)</strong>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-38i8">Course</th>
-    <th class="tg-38i8">PFP (%)</th>
-    <th class="tg-38i8">PFP &amp; DPP (%)</th>
-    <th class="tg-7v0h"> 5N (%)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-aioz">Secondary 4 Normal(A)</td>
-    <td class="tg-aioz">35.9</td>
-    <td class="tg-aioz">91.0</td>
-    <td class="tg-aioz">94.9</td>
-  </tr>
-</tbody>
-</table>
-		<strong>Eligibility for various Post-Secondary Pathways (4E)</strong>
-	   <table class="tg">
-    <thead>
-      <tr>
-        <th class="tg-38i8">Course</th>
-        <th class="tg-38i8">JC (%)</th>
-        <th class="tg-38i8">Polytechnic (%)</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td class="tg-aioz">Secondary 4 Express</td>
-        <td class="tg-aioz">73.6</td>
-        <td class="tg-aioz">99.4</td>
-      </tr>
-    </tbody>
-    </table>
-	<strong>Eligibility for various Post-Secondary Pathways (5N)</strong>
-	    <table class="tg">
-    <thead>
-      <tr>
-        <th class="tg-0lax">Course</th>
-        <th class="tg-0lax">JC (%)</th>
-        <th class="tg-0lax">Polytechnic (%)</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td class="tg-0lax">Secondary 5 Normal(A)</td>
-        <td class="tg-0lax">12.5</td>
-        <td class="tg-0lax">81.3</td>
-      </tr>
-    </tbody>
-    </table>
+	<table><thead><tr><th>Course</th><th>At least 5 NT Passes</th><th>At least 7 NT Passes</th></tr></thead><tbody><tr><td>Secondary 4 Normal(T)</td><td>100 %</td><td>83.3 %</td></tr></tbody></table>
+    
+<strong>Eligibility for various Post-Secondary Pathways (4NA)</strong>
+<table><thead><tr><th>Course</th><th>PFP (%)</th><th>PFP &amp; DPP (%)</th><th> 5N (%)</th></tr></thead><tbody><tr><td>Secondary 4 Normal(A)</td><td>35.9</td><td>91.0</td><td>94.9</td></tr></tbody></table>
+	
+<strong>Eligibility for various Post-Secondary Pathways (4E)</strong>
+<table><thead><tr><th>Course</th><th>JC (%)</th><th>Polytechnic (%)</th></tr></thead><tbody><tr><td>Secondary 4 Express</td><td>73.6</td><td>99.4</td></tr></tbody></table>
+	   
+<strong>Eligibility for various Post-Secondary Pathways (5N)</strong>
+	<table><thead><tr><th>Course</th><th>JC (%)</th><th>Polytechnic (%)</th></tr></thead><tbody><tr><td>Secondary 5 Normal(A)</td><td>12.5</td><td>81.3</td></tr></tbody></table>
+	    
 <strong><u>2019 GCE O-Level Examination</u><br/>
 4 Express	</strong>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax">Subjects with<br>100% Passes</th>
-    <th class="tg-0lax">Subjects performance above<br>National Mean (Passes)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">·        Biology<br>·        Chemistry<br>·        Design &amp; Technology<br>·        Geography<br>·        Higher Tamil<br>·        Malay Language<br>·        Music<br>·        Tamil<br><br><br><br></td>
-    <td class="tg-0lax">·        Additional Mathematics<br>·        Art<br>·        Chinese Language<br>·        English Language<br>·        Food &amp; Nutrition<br>·        Higher Chinese<br>·        Humanities (S,H)<br>·        Literature<br>·        Mathematics<br>·        Principles of Accounts<br>·        Science (C, B)<br>·        Science (P, C)</td>
-  </tr>
-</tbody>
-</table>
+	<table><thead><tr><th>Subjects with<br>100% Passes</th><th>Subjects performance above<br>National Mean (Passes)</th></tr></thead><tbody><tr><td>·        Biology<br>·        Chemistry<br>·        Design &amp; Technology<br>·        Geography<br>·        Higher Tamil<br>·        Malay Language<br>·        Music<br>·        Tamil<br><br><br><br></td><td>·        Additional Mathematics<br>·        Art<br>·        Chinese Language<br>·        English Language<br>·        Food &amp; Nutrition<br>·        Higher Chinese<br>·        Humanities (S,H)<br>·        Literature<br>·        Mathematics<br>·        Principles of Accounts<br>·        Science (C, B)<br>·        Science (P, C)</td></tr></tbody></table>
+
 <strong>5 Normal (Academic)</strong>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax">Subjects with<br>100% Passes</th>
-    <th class="tg-0lax">Subjects performance above<br>National Mean (Passes)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">·        Additional Mathematics<br>·        Art<br>·        Chinese Language<br>·        Design &amp; Technology<br>·        Food &amp; Nutrition<br>·        Malay Language<br>·        Literature</td>
-    <td class="tg-0lax">·        English Language<br>·        Humanities (S,G)<br>·        Science (C, B)</td>
-  </tr>
-</tbody>
-</table>
+	<table><thead><tr><th>Subjects with<br>100% Passes</th><th>Subjects performance above<br>National Mean (Passes)</th></tr></thead><tbody><tr><td>·        Additional Mathematics<br>·        Art<br>·        Chinese Language<br>·        Design &amp; Technology<br>·        Food &amp; Nutrition<br>·        Malay Language<br>·        Literature</td><td>·        English Language<br>·        Humanities (S,G)<br>·        Science (C, B)</td></tr></tbody></table>
+
 <strong><u>2019 GCE N(A)-Level Examination	</u></strong>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax">Subjects with<br>100% Passes</th>
-    <th class="tg-0lax">Subjects performance above<br>National Mean (Passes)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">Additional Mathematics<br>Art<br>Chinese Language<br>Design &amp; Technology<br>English Language<br>Food &amp; Nutrition<br>Literature<br>Malay Language<br>Mathematics<br>Science (C, B)<br>Science (P,C)</td>
-    <td class="tg-0lax">·        Additional Mathematics<br>·        Art<br>·        Chinese Language<br>·        Design &amp; Technology<br>·        English Language<br>·        Food &amp; Nutrition<br>·        Humanities (S,G)<br>·        Humanities (S,H)<br>·        Literature<br>·        Malay<br>·        Mathematics<br>·        Science (C, B)<br>·        Science (P, C)</td>
-  </tr>
-</tbody>
-</table>
+	<table><thead><tr><th>Subjects with<br>100% Passes</th><th>Subjects performance above<br>National Mean (Passes)</th></tr></thead><tbody><tr><td>Additional Mathematics<br>Art<br>Chinese Language<br>Design &amp; Technology<br>English Language<br>Food &amp; Nutrition<br>Literature<br>Malay Language<br>Mathematics<br>Science (C, B)<br>Science (P,C)</td><td>·        Additional Mathematics<br>·        Art<br>·        Chinese Language<br>·        Design &amp; Technology<br>·        English Language<br>·        Food &amp; Nutrition<br>·        Humanities (S,G)<br>·        Humanities (S,H)<br>·        Literature<br>·        Malay<br>·        Mathematics<br>·        Science (C, B)<br>·        Science (P, C)</td></tr></tbody></table>
 </div>
 	</li>
 	
@@ -154,16 +59,21 @@ description: ""
 <input type="checkbox" id="accordion4">
 <label for="accordion4">2018</label>
 <div>
-<strong><u>2018 GCE 'O' & 'N' Level Examination</u></strong>
+<strong><u>2018 GCE 'O' & 'N' Level Examination</u></strong>    
+	<table><thead><tr><th>Course</th><th>At least 5 NT Passes</th><th>At least 7 NT Passes</th></tr></thead><tbody><tr><td>Secondary 4 Normal(T)</td><td>87.2</td><td>66.7</td></tr></tbody></table>
 
 <strong>Eligibility for various Post-Secondary Pathways (4NA)</strong>
+	 <table><thead><tr><th>Course</th><th>PFP (%)</th><th>PFP &amp; DPP (%)</th><th> 5N (%)</th></tr></thead><tbody><tr><td>Secondary 4 Express(A)</td><td>34.6</td><td>94.9</td><td>97.4 </td></tr></tbody></table>
 
 <strong>Eligibility for various Post-Secondary Pathways (4E)</strong>
+	<table><thead><tr><th>Course</th><th>JC (%)</th><th>Polytechnic (%)</th></tr></thead><tbody><tr><td>Secondary 4 Express</td><td>86.1</td><td>100</td></tr></tbody></table>
 
 <strong>Eligibility for various Post-Secondary Pathways (5N)</strong>
+	
 
 <strong>2018 GCE O-Level Examination<br/>
 4 Express</strong>
+<table><thead><tr><th>Subjects with 100% Passes</th><th>Subjects performance above National Mean (Passes)</th></tr></thead><tbody><tr><td>Art<br>Design &amp; Technology<br>Food &amp; Nutrition<br>Higher Music<br>History<br>Malay Language<br>Music<br>Physics<br>Principles of Accounts<br>Science (C, B)<br>Tamil</td><td>Additional Mathematics<br>Art<br>Chemistry<br>Chinese Language<br>Design &amp; Technology<br>English<br>Higher Chinese<br>Food &amp; Nutrition<br>Higher Music<br>History<br>Humanities<br>Literature<br>Malay Language<br>Mathematics<br>Music<br>Physics<br>Principles of Accounts<br>Science (C, B)<br>Science (P, C)<br>Tamil</td></tr></tbody></table>
 
 <strong>5 Normal (Academic)</strong>
 
