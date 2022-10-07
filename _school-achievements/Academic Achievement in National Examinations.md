@@ -123,22 +123,28 @@ description: ""
 <div>
 	<strong><u>2016 GCE 'O' & 'N' Level Examination</u></strong>
 	<table><thead><tr><th>Course</th><th>Actual L1B4</th></tr></thead><tbody><tr><td>Secondary 5 Normal(A)</td><td>17.6</td></tr><tr><th>Course</th><th>Actual L1B5</th></tr><tr><td>Secondary 4 Express</td><td>15.9</td></tr><tr><th>Course</th><th>Actual EMB3</th></tr><tr><td>Secondary 4 Normal(A)</td><td>12.1</td></tr></tbody></table>
+	<table><thead><tr><th>Course</th><th>At least 5 NT Passes</th><th>At least 7 NT Passes</th></tr></thead><tbody><tr><td>Secondary 4 Normal(T)</td><td>97.4</td><td>71.1</td></tr></tbody></table>
 
 <strong>Eligibility for various Post-Secondary Pathways (4NA)</strong>
+	<table><thead><tr><th>Course</th><th>PFP (%)</th><th>PFP &amp; DPP (%)</th><th>5N (%)</th></tr></thead><tbody><tr><td>Secondary 4 Normal(A)</td><td>34.7</td><td>96</td><td>98.7</td></tr></tbody></table>
 
 <strong>Eligibility for various Post-Secondary Pathways (4E)</strong>
+<table><thead><tr><th>Course</th><th>JC (%)</th><th>Polytechnic (%)</th><th>Pre-U(MI) (%)</th></tr></thead><tbody><tr><td>Secondary 4 Express</td><td>87.3</td><td>100</td><td>98.1</td></tr></tbody></table>
 
-
-<strong>Eligibility for various Post-Secondary Pathways (5N)<strong>
+<strong>Eligibility for various Post-Secondary Pathways (5N)</strong>
+	<table><thead><tr><th>Course</th><th>JC (%)</th><th>Polytechnic (%)</th><th>Pre-U(MI) (%)</th></tr></thead><tbody><tr><td>Secondary 5 Normal(A)</td><td>33.3</td><td>80</td><td>60</td></tr></tbody></table>
 
 <strong>2016 GCE O-Level Examination<br/>4 Express</strong>
+	<table><thead><tr><th>Subjects performance above National Mean (Passes)</th><th>Subjects performance above National Mean (Distinctions)</th></tr></thead><tbody><tr><td><br>Additional Mathematics<br>Art<br>Biology<br>Chemistry<br>Design &amp; Technology<br>English Language<br>Food &amp; Nutrition<br>Geography<br>Higher Music<br>Higher Tamil<br>Hindi<br>Literature<br>Malay Language<br>Mathematics<br>Music <br>Physics<br>Principles of Accounts<br>Science (C, B)<br>Science (P, C)<br>Tamil<br></td><td>Additional Mathematics<br>Biology<br><br>Design &amp; Technology<br><br>Food &amp; Nutrition<br><br>Geography<br>Higher Music<br>Literature<br><br>Malay Language<br>Mathematics<br>Music <br>Physics<br>Principles of Accounts<br>Science (C, B)<br>Science (P, C)<br>Tamil</td></tr></tbody></table>
 
 <strong>5 Normal (Academic)</strong>
-
+<table><thead><tr><th>Subjects performance above National Mean (Passes)</th><th>Subjects performance above National Mean (Distinctions)</th></tr></thead><tbody><tr><td><br>Additional Mathematics<br>Art<br>Chinese Language<br>Combined Humanities<br>Design &amp; Technology<br>English Language<br>Food &amp; Nutrition<br>Literature<br>Malay Language<br>Mathematics<br>Principles of Accounts<br>Science (C, B)<br>Tamil<br></td><td>Additional Mathematics<br>Art<br>Combined Humanities<br><br>Design &amp; Technology<br>English Language<br>Food &amp; Nutrition<br>Literature<br>Mathematics<br><br>Principles of Accounts<br>Science (C, B)<br>Science (P, C)</td></tr></tbody></table>
+	
 <strong>2016 GCE N(A)-Level Examination</strong>
+	<table><thead><tr><th>Subjects performance above National Mean (Passes)</th><th>Subjects performance above National Mean (Distinctions)</th></tr></thead><tbody><tr><td><br>Additional Mathematics<br>Art<br>Combined Humanities<br>Chinese Language<br>Design &amp; Technology<br>English Language<br>Food &amp; Nutrition<br>Literature<br>Malay Language<br>Mathematics<br>Principles of Accounts<br>Science (P, C)<br>Science (C, B)<br>Tamil Language<br></td><td>Additional Mathematics<br>Art<br>Combined Humanities<br>Chinese Language<br>Design &amp; Technology<br>English Language<br>Literature<br>Malay Language<br>Mathematics<br>Principles of Accounts<br>Science (C, B)<br>Science (P, C)</td></tr></tbody></table>
 
 <strong>2016 GCE N(T)-Level Examination</strong>
-
+<table><thead><tr><th>Subjects performance above National Mean (Passes)</th><th>Subjects performance above National Mean (Distinctions)</th></tr></thead><tbody><tr><td><br>Art<br>Basic Chinese Language<br>Basic Malay Language<br>Basic Tamil Language<br>Design &amp; Technology<br>Elements of Business Skills<br>English Language<br>Food Studies<br>Mathematics<br>Science<br></td><td> <br>Art<br>Basic Malay Language<br><br>Basic Tamil Language<br>Design &amp; Technology<br>Elements of Business Skills<br>Food Studies<br><br>Mathematics<br>Science</td></tr></tbody></table>
 </div>
 	</li>
 </ul>
