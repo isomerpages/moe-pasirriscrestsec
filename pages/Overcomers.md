@@ -80,5 +80,4 @@ Yan Liang remains ambivalent about his plans for the future, though he is certai
 <label for="accordion6">ANGELA WONG</label>
 <img src="/images/Angela-Wong.jpeg" alt="Angela-Wong.jpeg">
 </li>
-
 </ul>
