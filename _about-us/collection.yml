@@ -2,15 +2,15 @@ collections:
   about-us:
     output: true
     order:
-      - Our History/2015.md
-      - Our History/2016.md
-      - Our History/2017.md
       - Our History/.keep
       - Our History/2022.md
       - Our History/2021.md
       - Our History/2020.md
       - Our History/2019.md
       - Our History/2018.md
+      - Our History/2017.md
+      - Our History/2016.md
+      - Our History/2015.md
       - Virtual Open House 2021.md
       - Principal's Message.md
       - Our Mission, Vision, Values and Motto.md
