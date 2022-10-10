@@ -2,6 +2,11 @@ collections:
   about-us:
     output: true
     order:
+      - Virtual Open House 2021.md
+      - Principal's Message.md
+      - Our Mission, Vision, Values and Motto.md
+      - Our School Song.md
+      - 360 Virtual Tour.md
       - Our History/.keep
       - Our History/2022.md
       - Our History/2021.md
@@ -13,11 +18,6 @@ collections:
       - Our History/2015.md
       - Our History/2014.md
       - Our History/2013.md
-      - Virtual Open House 2021.md
-      - Principal's Message.md
-      - Our Mission, Vision, Values and Motto.md
-      - Our School Song.md
-      - 360 Virtual Tour.md
       - Our History.md
       - Our Staff.md
       - School Advisory Committee.md
