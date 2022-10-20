@@ -17,8 +17,7 @@ What we have will last forever<br/>
 The world will be at our feet<br/>
 When you hold your hand right out to me<br/>
 I see a glowing chance<br/>
-	Spark the burning flame inside of me<br/></div>
-
+Spark the burning flame inside of me<br/></div>
 <p><strong>Chorus:</strong></p>
 <div align="justify">Show me the way, show me the signs<br/>
 Give me the wisdom to believe in me and find<br/>
@@ -37,9 +36,7 @@ Show me the way</div>
 	Stars will rise and stars will shine<br />
 	and memories will remain<br />
 	It's a seed that grows within me everyday.</div>
-	
 <p><strong>Chorus:</strong></p>
-	
 <div align="justify">Show me the way, show me the signs<br />
 	Give me the wisdom to believe in me and find<br />
 	Find within myself, capacities to excel<br />
