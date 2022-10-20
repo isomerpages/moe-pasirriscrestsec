@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Student Portal2.md
       - Student Portal.md
       - Financial Assistance.md
       - 21st Century Competencies and Development.md
