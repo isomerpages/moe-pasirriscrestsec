@@ -25,7 +25,7 @@ third_nav_title: School Achievements
 			<label for="accordion2">2020</label>
 			<div>
 			<img src="/images/2020-O-N-Results.jpeg" alt="2020-O-N-Results"><br/>
-			<img src="/images/2020 O-Results.jpeg" alt="2020 O-Results" style="width: 70%">
+			<img src="/images/2020 O-Results.jpeg" alt="2020 O-Results" style="width:50%">
 				</div>
 
 </li>
