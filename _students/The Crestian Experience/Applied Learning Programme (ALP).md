@@ -59,7 +59,7 @@ Secondary Three students look into how advertisements are produced. They learn a
 
   
 
-![Sec3ALP.JPG](https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/Sec3ALP.JPG)  
+![Sec3ALP.jpeg](https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/Sec3ALP.JPG)  
 
 **Secondary Four and Five ALP**  
 
