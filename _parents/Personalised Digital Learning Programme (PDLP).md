@@ -73,7 +73,7 @@ SERVICE CENTRE
 
 <div>
 
-[Student Device Information Kit](https://prcss.moe.edu.sg/qql/slot/u200/pdf/communication_with_parents/PDLP/Student-Device-Information-Kit.pdf)
+<a href="https://prcss.moe.edu.sg/qql/slot/u200/pdf/communication_with_parents/PDLP/Student-Device-Information-Kit.pdf">Student Device Information Kit</a><br>
 </div>
 
 <li>
