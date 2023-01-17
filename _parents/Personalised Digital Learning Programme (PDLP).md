@@ -48,7 +48,7 @@ The package includes a 3-year warranty and 3-year insurance**\*** which inclu
 			<label for="accordion3">DEVICE SUPPORT & INSURANCE CLAIMS</label>
 			<div>
 
-**Parents /Students may rely on the following platforms if they need support or insurance claims for their devices**
+<b>Parents /Students may rely on the following platforms if they need support or insurance claims for their devices</b>
 
   
 
@@ -58,18 +58,18 @@ The package includes a 3-year warranty and 3-year insurance**\*** which inclu
 
   
 
-**Lost /Damaged Device**
+<b>Lost /Damaged Device</b>
 
 • In the event that the device is lost or damaged beyond economical means to repairs, a police report or service report must be provided for the procurement of a replacement device.
 
 SERVICE CENTRE
---------------
+
 <img src="/images/Lennovo%20Service%20Centre_New.jpeg">
 	</div>
 	
 <li>
-				<input type="checkbox" id="accordion4">
-			<label for="accordion4">PDLP STUDENT DEVICE INFORMATION KIT</label>
+<input type="checkbox" id="accordion4">
+<label for="accordion4">PDLP STUDENT DEVICE INFORMATION KIT</label>
 
 <div>
 
