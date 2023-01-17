@@ -51,16 +51,16 @@ The package includes a 3-year warranty and 3-year insurance**\*** which inclu
 <b>Parents /Students may rely on the following platforms if they need support or insurance claims for their devices</b>
 
   
-
-• Contractor’s Helpdesk (Phone /email).
-
-• Contractor’s Service Centre.
-
+<ul>
+<li>Contractor’s Helpdesk (Phone /email).</li>
+<li>Contractor’s Service Centre.</li>
+</ul>
   
 
 <b>Lost /Damaged Device</b>
-
-• In the event that the device is lost or damaged beyond economical means to repairs, a police report or service report must be provided for the procurement of a replacement device.
+<ul>
+<li>In the event that the device is lost or damaged beyond economical means to repairs, a police report or service report must be provided for the procurement of a replacement device.</li>
+</ul>
 
 SERVICE CENTRE
 
