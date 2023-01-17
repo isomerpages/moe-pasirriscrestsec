@@ -26,26 +26,22 @@ The package includes a 3-year warranty and 3-year insurance**\*** which inclu
 
   
 
-| Insurance Coverage | Claimable |
-| --- | --- |
-| 
-*   Fire
-*   Lightning
-*   Power Surges
-*   Accidental e.g. water spillage, drop etc
-*   Theft due to forcible entry
-*   Robbery
+<table>
+<thead>
+  <tr>
+    <th>Insurance Coverage</th>
+    <th>Claimable</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>- Fire<br>- Lightning<br>- Power Surges<br>- Accidental e.g. water spillage, drop etc<br>- Theft due to forcible entry<br>- Robbery<br>* Accidental loss will not be covered by insurance</td>
+    <td>2 repairs or 1 replacement<br>(3-year insurance)</td>
+  </tr>
+</tbody>
+</table>
 
-**\*** _Accidental loss will not be covered by insurance_
-
- | 
-
-2 repairs or 1 replacement
-
-(3-year insurance)
-
- |
-	</div>
+</div>
 	
 <li>
 				<input type="checkbox" id="accordion3">
