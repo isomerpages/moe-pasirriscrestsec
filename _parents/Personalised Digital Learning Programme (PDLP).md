@@ -76,14 +76,14 @@ SERVICE CENTRE
 [Student Device Information Kit](https://prcss.moe.edu.sg/qql/slot/u200/pdf/communication_with_parents/PDLP/Student-Device-Information-Kit.pdf)
 </div>
 
-	<li>
-				<input type="checkbox" id="accordion5">
-			<label for="accordion5">DMA PARENT GUIDE</label>
-		<div>
-[Default Option](https://prcss.moe.edu.sg/qql/slot/u200/pdf/communication_with_parents/PDLP/DMA%20Parent%20Guide%20for%20Default%20Option.pdf)
+<li>
+<input type="checkbox" id="accordion5">
+<label for="accordion5">DMA PARENT GUIDE</label>
+<div>
+<a href="https://prcss.moe.edu.sg/qql/slot/u200/pdf/communication_with_parents/PDLP/DMA%20Parent%20Guide%20for%20Default%20Option.pdf">[Default Option]</a><br>
 
-[Option A](https://prcss.moe.edu.sg/qql/slot/u200/pdf/communication_with_parents/PDLP/DMA%20Parent%20Guide%20for%20Option%20A.pdf)
-
-[Option B](https://prcss.moe.edu.sg/qql/slot/u200/pdf/communication_with_parents/PDLP/DMA%20Parent%20Guide%20for%20Option%20B.pdf)
+<a href="https://prcss.moe.edu.sg/qql/slot/u200/pdf/communication_with_parents/PDLP/DMA%20Parent%20Guide%20for%20Option%20A.pdf">[Option A]</a><br>
+			
+<a href="https://prcss.moe.edu.sg/qql/slot/u200/pdf/communication_with_parents/PDLP/DMA%20Parent%20Guide%20for%20Option%20B.pdf">[Option B]</a>
 				
 </div>
