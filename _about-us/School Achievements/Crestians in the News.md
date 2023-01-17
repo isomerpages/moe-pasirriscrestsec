@@ -30,9 +30,9 @@ A NYAA Bronze and Silver winner, Yan Liang was an all-rounder who excelled in bo
 <label for="accordion3">LEE KUAN YEW: THRU YOUR EYES ART COMPETITION</label>
 <div>
 <p>11 of our Crestians' creative artworks have been shortlisted for the Lee Kuan Yew: Thru Your Eyes Art Competition organised by Popular Bookstore. This competition aims to inspire students to express Mr Lee Kuan Yew's legacy and his contribution to Singapore through their artworks.<br/><br/>Do support our budding artists with your votes at:</p>
-<p><a href="https://www.facebook.com/PopularBookstoreSingapore/app_234953320034875?app_data=%7B%22cat%22:2%7D" target="_blank" rel="noopener">https://www.facebook.com/PopularBookstoreSingapore/app_234953320034875?app_data={%22cat%22:2}</a></p>
+<p><a href="https://www.facebook.com/PopularBookstoreSingapore/app_234953320034875?app_data=%7B%22cat%22:2%7D" target="_blank" rel="noopener">https://www.facebook.com/PopularBookstoreSingapore/app_234953320034875</a></p>
 <p>Thank you for your support!</p>
-	
+	 
 <p>The shortlisted works are:</p>
 	
 <table border="1" cellspacing="0" cellpadding="0">
