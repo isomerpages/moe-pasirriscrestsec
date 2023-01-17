@@ -10,12 +10,10 @@ description: ""
 <input type="checkbox" id="accordion1">
 <label for="accordion1">2022 LETTER TO PARENTS (TERM 2)</label>
 <div>
-Dear Parents /Guardians,
+<p>Dear Parents /Guardians,
 
-The Term 2 Letter to Parents summarising the latest school updates for all levels and streams can be found in the attachments below. We look forward to your continued support in helping our students achieve success in their academic and co-curriculum development.
-
-  
-
+The Term 2 Letter to Parents summarising the latest school updates for all levels and streams can be found in the attachments below. We look forward to your continued support in helping our students achieve success in their academic and co-curriculum development.</p>
+<br>
 <p><strong>Letter to Parents dated 4 May 2022</strong>
 
 <a href="/files/Sec 1 Letter to Parents 4 May 2022.pdf">Sec 1 Letter to Parents 4 May 2022</a>
