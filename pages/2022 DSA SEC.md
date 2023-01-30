@@ -90,7 +90,7 @@ All applicants must have the following:
 <li>Good Academic Performance</li>
 <li>Good Conduct Grade</li>
 <li>Good Personal Qualities</li>
-		</ul>
+</ul>
 Applicants must demonstrate a passion for Music /Performing Arts and be committed to contribute to PRCS in this area for which they have been given DSA in one of the following DSA Talent Area:
 <ul>
 <li>Band - Concert (Girls/Boys) </li> 
@@ -126,7 +126,7 @@ For more details on the <strong>LLP</strong>, click <a href="/learning-for-lif
 <li>Good Academic Performance</li>
 <li>Good Conduct Grade</li>
 <li>Good Personal Qualities</li>
-		</ul>
+</ul>
 Applicants must demonstrate a passion for communication related programmes /competitions and be committed to contribute to PRCS in the area for which they have been given DSA. Shortlisted applicants will be invited to go through a selection test as well as an interview.</p>
 
   
@@ -150,11 +150,11 @@ For more details on the <strong>ALP</strong>, click <a href="applied-learning-
 <h5>A) Basic Admission Criteria</h5>
 
 All applicants must have the following:
-
-*   Good Academic Performance
-*   Good Conduct Grade
-*   Good Personal Qualities
-
+<ul>
+<li>Good Academic Performance</li>
+<li>Good Conduct Grade</li>
+<li>Good Personal Qualities</li>
+</ul>
 Applicants must demonstrate a passion for sports and be committed to contribute to PRCS in this area for which they have been given DSA. Shortlisted applicants will be invited to go through a selection test as well as an interview.  
 
   
@@ -162,8 +162,6 @@ Applicants must demonstrate a passion for sports and be committed to contribute 
 <h5>B) Specific Criteria</h5>
 
 <table class="border" width="616" cellspacing="0" border="1" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; color: rgb(16, 25, 66); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 18.2px; width: 694.555px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr valign="TOP" style="margin: 0px; outline: 0px; padding: 0px;"><td width="94" style="margin: 0px; outline: 0px; padding: 5px; background: rgb(255, 255, 255); color: rgb(68, 68, 68); width: 128px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Area</b></td><td width="492" style="margin: 0px; outline: 0px; padding: 5px; background: rgb(255, 255, 255); color: rgb(68, 68, 68); width: 594px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Criteria</b></td></tr><tr valign="TOP" style="margin: 0px; outline: 0px; padding: 0px;"><td width="94" style="margin: 0px; outline: 0px; padding: 5px; background: rgb(244, 245, 252); color: rgb(68, 68, 68);"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 18.2px; color: rgb(16, 25, 66); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 1em;"><b style="margin: 0px; outline: 0px; padding: 0px;">Fencing</b></p></td><td width="492" style="margin: 0px; outline: 0px; padding: 5px; background: rgb(244, 245, 252); color: rgb(68, 68, 68);"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px 0px 0px 10px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Good CCA Records.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Demonstrates strong interest and talent in sports beyond the ability of students in the same age group.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Good performance at the school and/ or club level in sports.</li><li style="margin: 0px; outline: 0px; padding: 0px;">Do well in the selection test. The selection test serves to assess the physical qualities of applicants.<br style="margin: 0px; outline: 0px; padding: 0px;"></li></ul></td></tr></tbody></table>
-
-  
 
 Shortlisted applicants will be notified separately on the details of the selection test.
 	</div>
@@ -176,11 +174,11 @@ Shortlisted applicants will be notified separately on the details of the selecti
 <h5>A) Basic Admission Criteria</h5>
 
 All applicants must possess and exhibit the following:
-
-*   Strengths in Mother Tongue Language (Chinese Language, Malay Language or Tamil Language)
-*   Good Conduct Grade
-*   Good Personal Qualities
-
+<ul>
+<li>Strengths in Mother Tongue Language (Chinese Language, Malay Language or Tamil Language)</li>
+<li>Good Conduct Grade</li>
+<li>Good Personal Qualities</li>
+</ul>
 Applicants must demonstrate a passion for communication related programmes /competitions and be committed to contribute to PRCS in the talent area for which they have been assigned under the DSA. Shortlisted applicants will be invited to go through a selection test as well as an interview.  
 
   
@@ -188,8 +186,6 @@ Applicants must demonstrate a passion for communication related programmes /comp
 <h5>B) Specific Criteria</h5>
 
 <table class="MsoNormalTable" width="0" cellspacing="0" cellpadding="0" border="1" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; width: 694.555px; height: 389px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="125" valign="top" style="margin: 0px; outline: 0px; padding: 2.25pt; background: rgb(255, 255, 255); color: rgb(68, 68, 68); width: 154px; border-width: 1pt; border-style: solid; border-color: rgb(136, 136, 136);"><p class="MsoNormal" style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: 13.65pt; color: rgb(16, 25, 66); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 1em;"><b style="margin: 0px; outline: 0px; padding: 0px;">Area</b></p></td><td width="536" valign="top" style="margin: 0px; outline: 0px; padding: 2.25pt; background: rgb(255, 255, 255); color: rgb(68, 68, 68); width: 568px; border-width: 1pt; border-style: solid; border-color: rgb(136, 136, 136);"><p class="MsoNormal" style="margin: 0px 0px 0.0001pt; outline: 0px; padding: 0px; line-height: 13.65pt; color: rgb(16, 25, 66); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 1em;"><b style="margin: 0px; outline: 0px; padding: 0px;">Criteria</b></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="125" valign="top" style="margin: 0px; outline: 0px; padding: 2.25pt; background: rgb(244, 245, 252); color: rgb(68, 68, 68); width: 70.5pt; border-width: 1pt; border-style: solid; border-color: rgb(136, 136, 136);"><p class="MsoNormal" style="margin: 0px 0px 12pt; outline: 0px; padding: 0px; line-height: 13.65pt; color: rgb(16, 25, 66); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 1em;"><b style="margin: 0px; outline: 0px; padding: 0px;">Effective Communication</b></p></td><td width="536" valign="top" style="margin: 0px; outline: 0px; padding: 2.25pt; background: rgb(244, 245, 252); color: rgb(68, 68, 68); width: 369pt; border-width: 1pt; border-style: solid; border-color: rgb(136, 136, 136);"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px; text-align: justify;"><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"></span>Demonstrates strong communication skills (e.g. public speaking, debates or drama).</li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"></span>Achievement in competitions and performance experience are preferred.</li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"></span>Do well in the selection test. The selection test involves an audition that serve to assess the applicant’s mastery of the following:</li></ul><ul style="margin: 0px 0px 0.5em 40px; outline: 0px; padding: 0px; list-style-type: circle;"><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"></span>Confidence</li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"></span>Vocal Projection</li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"></span>Clarity</li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"></span>Fluency</li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"></span>Stage Presence</li></ul></td></tr></tbody></table>
-
-  
 
 Shortlisted applicants will be notified separately on the details of the selection test.
 </div>
