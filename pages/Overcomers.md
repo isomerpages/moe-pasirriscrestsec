@@ -46,18 +46,18 @@ Yan Liang remains ambivalent about his plans for the future, though he is certai
 <li>
 <input type="checkbox" id="accordion4">
 <label for="accordion4">MUHAMMAD AIMAN MUSTAFA</label>
-<img src="/images/Muhammad-Aiman-Mustafa.jpeg" alt="Muhammad-Aiman-Mustafa.jpeg">
+<center><img src="/images/Muhammad-Aiman-Mustafa.jpeg" alt="Muhammad-Aiman-Mustafa.jpeg" style="width:50%"></center>
 </li>
 	
 <li>
 <input type="checkbox" id="accordion5">
 <label for="accordion5">CHARMAINE OR</label>
-<img src="/images/Charmaine-Or.jpeg" alt="Charmaine-Or.jpeg">
+<center><img src="/images/Charmaine-Or.jpeg" alt="Charmaine-Or.jpeg" style="width:50%"></center>
 </li>
 	
 <li>
 <input type="checkbox" id="accordion6">
 <label for="accordion6">ANGELA WONG</label>
-<img src="/images/Angela-Wong.jpeg" alt="Angela-Wong.jpeg">
+<center><img src="/images/Angela-Wong.jpeg" alt="Angela-Wong.jpeg" style="width:50%"></center>
 </li>
 </ul>
