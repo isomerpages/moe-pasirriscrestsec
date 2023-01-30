@@ -73,7 +73,7 @@ SLS is accessible through the latest internet browsers (minimum: Internet Explor
 <strong>Q4 : Can SLS run on mobile phones?</strong> <br/><br/>You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.</div>
 </li>
 <li><input type="checkbox" id="accordion3"><label for="accordion3">EXPECTED STUDENT BEHAVIOUR - RULES AND REGULATIONS</label>
-test
+<div>test</div>
 </li>
 <li><input type="checkbox" id="accordion4">
 <label for="accordion4">STUDENT INSURANCE</label>
