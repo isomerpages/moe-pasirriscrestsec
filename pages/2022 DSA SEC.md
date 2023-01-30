@@ -116,8 +116,8 @@ For more details on the <strong>LLP</strong>, click <a href="/learning-for-lif
 	</li>
 
 <li>
-		<input type="checkbox" id="accordion4">
-		<label for="accordion4">ADMISSION CRITERIA FOR EFFECTIVE COMMUNICATION</label>
+<input type="checkbox" id="accordion4">
+<label for="accordion4">ADMISSION CRITERIA FOR EFFECTIVE COMMUNICATION</label>
 
 <h5>A) Basic Admission Criteria</h5>
 <div>
@@ -168,9 +168,9 @@ Shortlisted applicants will be notified separately on the details of the selecti
 	</li>
 	
 <li>
-		<input type="checkbox" id="accordion6">
-		<label for="accordion6">ADMISSION CRITERIA FOR MOTHER TONGUE LANGUAGES</label>
-	<div>
+<input type="checkbox" id="accordion6">
+<label for="accordion6">ADMISSION CRITERIA FOR MOTHER TONGUE LANGUAGES</label>
+<div>
 <h5>A) Basic Admission Criteria</h5>
 
 All applicants must possess and exhibit the following:
