@@ -24,17 +24,23 @@ description: ""
 <li>
 <input type="checkbox" id="accordion2">
 <label for="accordion2">STUDENT LEARNING SPACE (SLS)</label>
-<div>The Singapore Student Learning Space is a platform that will support Teaching and Learning of our students. In particular, it will help empower them to drive their own learning according to their needs and interests. <br /><br />By spurring our students to take greater ownership of their learning and work collaboratively with their peers, the SLS aims to support them towards becoming responsible future-ready learners. <br /><br />Click <a href="https://vle.learning.moe.edu.sg/login">here</a> to access the Student Learning Space (SLS) portal. <br /><br />For Sec 1 students, click <a href="/files/SLS%20Account%20Management%20-%20Guide%20for%20Sec%201%20Students.pdf">here</a> to access the Guide to SLS Account Management. <br /><br />
+<div>
+<p>The Singapore Student Learning Space is a platform that will support Teaching and Learning of our students. In particular, it will help empower them to drive their own learning according to their needs and interests.<br><br>
+By spurring our students to take greater ownership of their learning and work collaboratively with their peers, the SLS aims to support them towards becoming responsible future-ready learners. <br><br>
+Click <a href="https://vle.learning.moe.edu.sg/login">here</a> to access the Student Learning Space (SLS) portal. <br /><br />
+For Sec 1 students, click <a href="/files/SLS%20Account%20Management%20-%20Guide%20for%20Sec%201%20Students.pdf">here</a> to access the Guide to SLS Account Management.</p>
+
 <h3>What is SLS?</h3>
-<br />Click to <a href="https://www.youtube.com/watch?v=F0FTP2FveSg&amp;feature=youtu.be">watch the video.</a><br /><br />
+<br>Click to <a href="https://www.youtube.com/watch?v=F0FTP2FveSg&amp;feature=youtu.be">watch the video.</a><br><br>
 <h3>INSTRUCTIONS FOR STUDENTS</h3>
-<br />
+<br>
 <h4>SYSTEM REQUIREMENTS</h4>
-<br /><br />The SLS is accessible through the internet browsers on either Windows PC, Mac, iPad or Android tablets (with screen size larger than 7 inches for good user experience). <br /><br />
+<br><br>The SLS is accessible through the internet browsers on either Windows PC, Mac, iPad or Android tablets (with screen size larger than 7 inches for good user experience).<br><br>
 <h4>LOGIN</h4>
-<br /><br />SLS can be accessed from <a href="https://learning.moe.edu.sg">https://learning.moe.edu.sg/.</a><br /><br /><img src="/images/SLS Login_1.png" alt="SLS Login_1.png" /><br /><br />
+<br><br>SLS can be accessed from <a href="https://learning.moe.edu.sg">https://learning.moe.edu.sg/</a>.
+<br><br><img src="/images/SLS Login_1.png" alt="SLS Login_1.png" /><br><br>
 <h4>PASSWORD</h4>
-<br /><br />Passwords must have the following requirements: <br /><br />
+<br><br>Passwords must have the following requirements: <br><br>
 <ul>
 <li>8 characters or longer; and</li>
 <li>at least 1 letter and 1 number.</li>
@@ -63,7 +69,8 @@ If you have forgotten your password, you can reset it through the following meth
 <li>iPad with iOS 8 and later;</li>
 <li>Android tablet with Android 5 and later.</li>
 </ul>
-SLS is accessible through the latest internet browsers (minimum: Internet Explorer 11, Google Chrome 51, FireFox 51 or Safari 7.1). <br/><br/><strong>Q4 : Can SLS run on mobile phones?</strong> <br/><br/>You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.</div>
+SLS is accessible through the latest internet browsers (minimum: Internet Explorer 11, Google Chrome 51, FireFox 51 or Safari 7.1). <br/><br/>
+<strong>Q4 : Can SLS run on mobile phones?</strong> <br/><br/>You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.</div>
 </li>
 <li><input type="checkbox" id="accordion3"><label for="accordion3">EXPECTED STUDENT BEHAVIOUR - RULES AND REGULATIONS</label>
 <div>To guide students in their character development and in order to achieve our desired learning outcomes especially of being a Self-Disciplined and Responsible Leader as well as an Active and Concerned Citizen with Global Awareness, the school has in place the following Expected Student Behaviours and Rules and Regulations, which are divided into five main categories. These Expected Student Behaviours and Rules and Regulations are to support the students in understanding the importance of good moral behavior, respect and care for self and others and to create a conducive environment for learning to take place. The categories are aligned to the school values of Care, Resilience, Excellence, Self-Belief, Trustworthiness (CREST).</div>
