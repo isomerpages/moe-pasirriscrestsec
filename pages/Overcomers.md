@@ -40,7 +40,7 @@ Yan Liang remains ambivalent about his plans for the future, though he is certai
 <li>
 <input type="checkbox" id="accordion3">
 <label for="accordion3">ANIRUDH MENON</label>
-<img src="/images/Anirudh-Menon.jpeg" alt="Anirudh-Menon.jpeg">
+<center><img src="/images/Anirudh-Menon.jpeg" alt="Anirudh-Menon.jpeg" style="width:50%">
 </li>
 	
 <li>
