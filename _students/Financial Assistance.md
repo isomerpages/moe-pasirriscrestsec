@@ -33,8 +33,8 @@ These students who need assistance for home broadband connectivity, can apply fo
 <li><strong>Home Access Brochure</strong></li>
 <a href="/HA 3.0 Brochure WEF Oct 2021" target="_blank" rel="noopener">HA Brochure (w.e.f. Oct 2021)</a><br />
 <li><strong>Home Access</strong></li>
-<a href="/files/ha30-application-form_Version%203%20Oct%202021.pdf" target="_blank" rel="noopener">HA Application Form Version 3.0</a></div>
-</ul>
+<a href="/files/ha30-application-form_Version%203%20Oct%202021.pdf" target="_blank" rel="noopener">HA Application Form Version 3.0</a>
+</ul></div>
 </li>
 		
 <li>
