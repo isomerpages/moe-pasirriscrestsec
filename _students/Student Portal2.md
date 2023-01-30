@@ -73,7 +73,7 @@ SLS is accessible through the latest internet browsers (minimum: Internet Explor
 <strong>Q4 : Can SLS run on mobile phones?</strong> <br/><br/>You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.</div>
 </li>
 <li><input type="checkbox" id="accordion3"><label for="accordion3">EXPECTED STUDENT BEHAVIOUR - RULES AND REGULATIONS</label>
-<div>To guide students in their character development and in order to achieve our desired learning outcomes especially of being a Self-Disciplined and Responsible Leader as well as an Active and Concerned Citizen with Global Awareness, the school has in place the following Expected Student Behaviours and Rules and Regulations, which are divided into five main categories. These Expected Student Behaviours and Rules and Regulations are to support the students in understanding the importance of good moral behavior, respect and care for self and others and to create a conducive environment for learning to take place. The categories are aligned to the school values of Care, Resilience, Excellence, Self-Belief, Trustworthiness (CREST).</div>
+<p>To guide students in their character development and in order to achieve our desired learning outcomes especially of being a Self-Disciplined and Responsible Leader as well as an Active and Concerned Citizen with Global Awareness, the school has in place the following Expected Student Behaviours and Rules and Regulations, which are divided into five main categories. These Expected Student Behaviours and Rules and Regulations are to support the students in understanding the importance of good moral behavior, respect and care for self and others and to create a conducive environment for learning to take place. The categories are aligned to the school values of Care, Resilience, Excellence, Self-Belief, Trustworthiness (CREST).</p>
 <h3>1) ATTIRE / APPEARANCE</h3>
 <h4>Expected Student Behaviour</h4>
 Students are the school&rsquo;s representatives in the community and are expected to be always prim and proper in their school attire at all times. Taking pride in wearing the school uniform will help students to be self-disciplined and self-motivated.
@@ -90,6 +90,7 @@ The following rules and regulations are to be adhered to:
 <li>Fingernails must be kept short and clean.</li>
 </ul>
 <h4>PROPER SCHOOL ATTIRE FOR BOYS</h4>
+<div>
 <table>
 <tbody>
 <tr>
@@ -129,8 +130,9 @@ The following rules and regulations are to be adhered to:
 </td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <h4>PROPER SCHOOL ATTIRE FOR GIRLS</h4>
+<div>
 <table>
 <tbody>
 <tr>
@@ -156,7 +158,7 @@ The following rules and regulations are to be adhered to:
 </td>
 </tr>
 </tbody>
-</table>
+</table></div>
 <h3>2) Expected Student Behaviour</h3>
 Students are expected to be respectful to all in school at all times. They are to follow the school rules and regulations and to respect the authority of the Councillors, student leaders and class committee members. They are to be caring towards their schoolmates and avoid any activity that may cause harm or injury to others. <br/><br/><strong>At the Assembly Area during Flag Raising Ceremony /At Assembly in the Hall</strong>
 <ul>
