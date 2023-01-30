@@ -6,7 +6,6 @@ description: ""
 <h1>OVERCOMERS</h1>
 
 <ul class="jekyllcodex_accordion">
-
 <li>
 <input type="checkbox" id="accordion1">
 <label for="accordion1">T. SREEDHARAN</label>
@@ -24,28 +23,17 @@ Eventually, Sree was nominated to serve as Vice-President of the MCC from 2018 t
 <li>
 <input type="checkbox" id="accordion2">
 <label for="accordion2">LAU YAN LIANG</label>
-<p align="justify">“My fondest memory of school isn’t pleasant,” recalls Lau Yan Liang with a laugh. This comes as a surprise to many, as the confident and affable 18-year-old is known by peers and teachers for achieving excellent ‘O’ level examination results and showing strength of character throughout his five years in Pasir Ris Crest Secondary School.  He was also a recipient of the prestigious Lee Kuan Yew Award for Outstanding Normal Course Students in 2019.  
-
-The booming loud voice and enraged look on his teacher’s face left vivid impressions on Yan Liang, but she had a good reason for her reaction.  It harkened back to a Mathematics class that took place after recess.  Yan Liang recalls he was immersed in playing an online multiplayer battle game with his friends during recess and their chance of winning was dashed by the bell that went off.
-
-“As we were so close in achieving victory, we decided to camp out in the washroom cubicles to finish up the game in the hopes that we may avoid a scolding if we all claimed to have a bad stomach ache,” he explains.
-
-Little did Yan Liang expect his Mathematics teacher to call out their names one by one, upon returning to class 15 minutes late.  The mood was one of raw anger and seething frustration as his teacher lectured them on the importance of time and the value of taking responsibility for one’s action.  Yan Liang feels regretful, till this day, for the momentary happiness of winning a game over the painstaking efforts his teacher took to prepare for their lesson.
-
-“I really learnt a very valuable lesson that even though we were scolded … our teachers meant the best for us in every aspect of life.”
-
-Yan Liang credits the caring teachers in PRCS in helping him prepare for the challenges he encountered.  With the intense pressure coming from all sides coupled with uncertain thoughts about his future plans, he considers the Secondary 5 year as the most gruelling time in his life.
-
-“I was burnt out and had to question myself: Why study? Why do I need to excel in my studies?” he reminisces.
-
-Yet, the presence of his trustworthy teachers reassured him whenever he encountered a problem.
-
-“Having frequent one-on-one talks with my teachers really led me to believe more in myself and to very much relieve the stress of studying.  They are more than teachers. They become friends, to support our emotional needs, and wise counsels, to offer advice.  They also help us get to the root of our problems and suggest viable steps to overcome the obstacles in our way.  They are truly amazing.”
-
-Despite the numerous accolades he has received, Yan Liang does not think he is a perfect student.  Instead he believes in being a better version of himself by practising gratitude and discipline for every moment in school.
-
-“I would have never dreamt of getting to where I am today without the support of my PRCS teachers and peers.”
-
+<p align="justify">“My fondest memory of school isn’t pleasant,” recalls Lau Yan Liang with a laugh. This comes as a surprise to many, as the confident and affable 18-year-old is known by peers and teachers for achieving excellent ‘O’ level examination results and showing strength of character throughout his five years in Pasir Ris Crest Secondary School.  He was also a recipient of the prestigious Lee Kuan Yew Award for Outstanding Normal Course Students in 2019. <br><br>
+The booming loud voice and enraged look on his teacher’s face left vivid impressions on Yan Liang, but she had a good reason for her reaction.  It harkened back to a Mathematics class that took place after recess.  Yan Liang recalls he was immersed in playing an online multiplayer battle game with his friends during recess and their chance of winning was dashed by the bell that went off.<br><br>
+“As we were so close in achieving victory, we decided to camp out in the washroom cubicles to finish up the game in the hopes that we may avoid a scolding if we all claimed to have a bad stomach ache,” he explains.<br><br>
+Little did Yan Liang expect his Mathematics teacher to call out their names one by one, upon returning to class 15 minutes late.  The mood was one of raw anger and seething frustration as his teacher lectured them on the importance of time and the value of taking responsibility for one’s action.  Yan Liang feels regretful, till this day, for the momentary happiness of winning a game over the painstaking efforts his teacher took to prepare for their lesson.<br><br>
+“I really learnt a very valuable lesson that even though we were scolded … our teachers meant the best for us in every aspect of life.”<br><br>
+Yan Liang credits the caring teachers in PRCS in helping him prepare for the challenges he encountered.  With the intense pressure coming from all sides coupled with uncertain thoughts about his future plans, he considers the Secondary 5 year as the most gruelling time in his life.<br><br>
+“I was burnt out and had to question myself: Why study? Why do I need to excel in my studies?” he reminisces.<br><br>
+Yet, the presence of his trustworthy teachers reassured him whenever he encountered a problem.<br><br>
+“Having frequent one-on-one talks with my teachers really led me to believe more in myself and to very much relieve the stress of studying.  They are more than teachers. They become friends, to support our emotional needs, and wise counsels, to offer advice.  They also help us get to the root of our problems and suggest viable steps to overcome the obstacles in our way.  They are truly amazing.”<br><br>
+Despite the numerous accolades he has received, Yan Liang does not think he is a perfect student.  Instead he believes in being a better version of himself by practising gratitude and discipline for every moment in school.<br><br>
+“I would have never dreamt of getting to where I am today without the support of my PRCS teachers and peers.”<br><br>
 Yan Liang remains ambivalent about his plans for the future, though he is certain about his love for the Humanities and is currently studying in the Arts course at Nanyang Junior College.  Since entering junior college in 2019, he is struck by the stiff competition among peers, yet he remains undeterred and wants to prove that a Normal Academic student can achieve great things!</p>
 </li>
 
