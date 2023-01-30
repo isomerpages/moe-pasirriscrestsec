@@ -72,7 +72,8 @@ If you have forgotten your password, you can reset it through the following meth
 SLS is accessible through the latest internet browsers (minimum: Internet Explorer 11, Google Chrome 51, FireFox 51 or Safari 7.1). <br/><br/>
 <strong>Q4 : Can SLS run on mobile phones?</strong> <br/><br/>You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.</div>
 </li>
-<li><input type="checkbox" id="accordion3"><label for="accordion3">EXPECTED STUDENT BEHAVIOUR - RULES AND REGULATIONS</label>
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">EXPECTED STUDENT BEHAVIOUR - RULES AND REGULATIONS</label>
 <div>test</div>
 </li>
 <li><input type="checkbox" id="accordion4">
