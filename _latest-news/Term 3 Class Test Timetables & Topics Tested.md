@@ -6,8 +6,8 @@ description: ""
 Please click on the respective links below to access the Term 3 Class Test timetables.
 
 **Term 3 Class Test** **Timetables:**<br>
-[Lower Secondary Term 3 Class Test Timetable](https://drive.google.com/file/d/13T3KcODkQueWy4u-O_Z-tRbw_sa83Puz/view?usp=sharing)<br>
-[Upper Secondary Term 3 Class Test Time Table](https://drive.google.com/file/d/1mPfqBh5vTmsNGA3iysPycVwi9VKaYFvS/view?usp=sharing)
+[**Lower Secondary** Term 3 Class Test Timetable](https://drive.google.com/file/d/13T3KcODkQueWy4u-O_Z-tRbw_sa83Puz/view?usp=sharing)<br>
+[**Upper Secondary** Term 3 Class Test Time Table](https://drive.google.com/file/d/1mPfqBh5vTmsNGA3iysPycVwi9VKaYFvS/view?usp=sharing)
 
 **Term 3 Class Test Topics Tested:**<br>
 [Secondary 1 Topics Tested](https://drive.google.com/file/d/1on5EWu8b7-ASopR5saJH_rBV8BpEHheM/view?usp=sharing)<br>
