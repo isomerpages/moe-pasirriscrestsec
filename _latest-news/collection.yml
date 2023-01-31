@@ -2,6 +2,7 @@ collections:
   latest-news:
     output: true
     order:
+      - 2022 End of Year Examinations Timetable & Topics Tested.md
       - 6th July Level Letter.md
       - Term 3 Class Test Timetables & Topics Tested.md
       - N & O Prelim Exam Timetables & Topics Tested.md
