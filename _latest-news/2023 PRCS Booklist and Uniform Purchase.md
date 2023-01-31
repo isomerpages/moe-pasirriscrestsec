@@ -20,3 +20,9 @@ The following are the Booklist forms for the respective levels:
 11\. [Secondary 4 (NA)](/files/2023booklist11.pdf)<br>
 12\. [Secondary 4 (EXP)](/files/2023booklist12.pdf)<br>
 13\. [Secondary 5 (NA)](/files/2023booklist13.pdf)
+
+ \*Only Male Students are to purchase the Tie from the Bookshop
+ 
+ **[Asencio](https://asencio.com.sg/)**: Uniform Vendor<br>
+ [Online Purchase Guide - PRCSS - Uniform](/files/ascencioonline.pdf)<br>
+ \*\*All students are **NOT REQUIRED** to purchase Name Tags with the Uniform
