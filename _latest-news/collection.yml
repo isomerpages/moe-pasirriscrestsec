@@ -2,6 +2,7 @@ collections:
   latest-news:
     output: true
     order:
+      - Latest News Overview.md
       - 2023 The Straits Times School Pocket Money Fund.md
       - 2023 Term 1 Class Test Timetables & Topics Tested.md
       - 2023 Sec 1 Parent Teacher Meeting & CCA Carnival (14 Jan).md
@@ -17,4 +18,3 @@ collections:
       - 2022 June Structured Program (JSP).md
       - School Graduation Certificate for Sec 4NA, 4E and 5N (2021 cohort).md
       - 2022 Letter to Parents (Term 2).md
-      - Latest News Overview.md
