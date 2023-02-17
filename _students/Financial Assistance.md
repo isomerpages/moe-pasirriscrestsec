@@ -39,13 +39,19 @@ These students who need assistance for home broadband connectivity, can apply fo
 		
 <li>
 <input type="checkbox" id="accordion4">
-<label for="accordion4">MOE FINANCIAL ASSISTANCE SCHEME 2022</label>
-<div><p align="justify">Dear Crestians and Parents /Guardians,<br/>
-the MOE FAS Application Form for 2022 is available now. Needy Singaporean students who wish to apply for financial help may collect the application form from the school's <strong>General Office</strong> or download the form from the school website.</p>
+<label for="accordion4">MOE FINANCIAL ASSISTANCE SCHEME</label>
+<div>
+<!--<p align="justify">Dear Crestians and Parents /Guardians,<br/>
+the MOE FAS Application Form for 2023 is available now. Needy Singaporean students who wish to apply for financial help may collect the application form from the school's <strong>General Office</strong> or download the form from the school website.</p> -->
+	
+The MOE FAS Application Form for 2023 is available now.  Needy Singaporean students who wish to apply for financial help may submit your application online via this website: [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas) or submit the completed application form to the school.  
+  
+For more information, visit [www.moe.gov.sg/financial-matters/financial-assistance/](http://www.moe.gov.sg/financial-matters/financial-assistance/) </p>
 <ul>
-<li><strong>MOE FAS Pamphlet 2022</strong><br/>
-<a href="/files/MOE%20FAS%20Pamphlet%202022.pdf" target="_blank" rel="noopener">MOE FAS Pamphlet 2022</a></li>
-<li><strong>MOE FAS Application Form 2022</strong><br/>
-<a href="/files/MOE%20FAS%20Application%20Form%202022.pdf" target="_blank" rel="noopener">MOE FAS Application Form 2022</a></li></ul>
+<!--<li><strong>MOE FAS Pamphlet 2022</strong><br/>
+<a href="/files/MOE%20FAS%20Pamphlet%202022.pdf" target="_blank" rel="noopener">MOE FAS Pamphlet 2022</a></li>-->
+<li><strong>MOE FAS Application Form 2023</strong><br/>
+<a href="/files/MOE%20FAS%20Form/MOE%20FAS%20Application%20Form%202023.pd" target="_blank" rel="noopener">MOE FAS Application Form 2023</a></li></ul>
+
 </div></li>
 </ul>
