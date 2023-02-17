@@ -47,11 +47,10 @@ the MOE FAS Application Form for 2023 is available now. Needy Singaporean studen
 The MOE FAS Application Form for 2023 is available now.  Needy Singaporean students who wish to apply for financial help may submit your application online via this website: [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas) or submit the completed application form to the school.  
   
 For more information, visit [www.moe.gov.sg/financial-matters/financial-assistance/](http://www.moe.gov.sg/financial-matters/financial-assistance/) </p>
-<ul>
+
 <!--<li><strong>MOE FAS Pamphlet 2022</strong><br/>
 <a href="/files/MOE%20FAS%20Pamphlet%202022.pdf" target="_blank" rel="noopener">MOE FAS Pamphlet 2022</a></li>-->
-<li><strong>MOE FAS Application Form 2023</strong><br/>
-<a href="/files/MOE%20FAS%20Form/MOE%20FAS%20Application%20Form%202023.pd" target="_blank" rel="noopener">MOE FAS Application Form 2023</a></li></ul>
+<strong>MOE FAS Application Form 2023</strong><br/>
+[2023 MOE FAS Application Form](/files/MOE%20FAS%20Form/MOE%20FAS%20Application%20Form%202023.pdf)
 
-</div></li>
-</ul>
+</div>
