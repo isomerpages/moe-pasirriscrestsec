@@ -8,13 +8,22 @@ description: ""
 <ul class="jekyllcodex_accordion">
 <li>
 <input type="checkbox" id="accordion1">
-<label for="accordion1">2022 LETTER TO PARENTS (TERM 2)</label>
+<label for="accordion1">2023 SECONDARY 2 SUBJECT COMBINATION ON 9 FEB
+</label>
 <div>
-<p>Dear Parents /Guardians,
+<p>The following is the briefing for Secondary 2 Subject combination by each hometutors for the respective class:
 
-The Term 2 Letter to Parents summarising the latest school updates for all levels and streams can be found in the attachments below. We look forward to your continued support in helping our students achieve success in their academic and co-curriculum development.</p>
+1.  Hometutors briefing slides for [Sec 2NT](/files/2023%20Sec%202%20Sub%20Combi/Sec%202NT%20Subj%20Combi%20briefing%20by%20HTs%20for%20website.pdf)
+2.  Hometutors briefing slides for [Sec 2NA](/files/2023%20Sec%202%20Sub%20Combi/Sec%202NA%20Subj%20Combi%20Briefing%20by%20HTs%20for%20website.pdf)
+3.  Hometutors briefing slides for [Sec 2EX](/files/2023%20Sec%202%20Sub%20Combi/Sec%202E%20Subj%20Combi%20Briefing%20by%20HTs%20for%20website.pdf)
+4.  Main briefing slides for [2023 Sec 2 Subject Combination](/files/2023%20Sec%202%20Sub%20Combi/Sec%202%20Subj%20combi_2023%20for%20website.pdf)
+
+We look forward to your continued support in helping our students achieve success in their academic and co-curriculum development.</p>
 <br>
-<p><strong>Letter to Parents dated 4 May 2022</strong>
+	
+<!--<li>
+<input type="checkbox" id="accordion2">
+<label for="accordion2">2023 Termly Letter to Parents</label>
 
 <a href="/files/Sec 1 Letter to Parents 4 May 2022.pdf">Sec 1 Letter to Parents 4 May 2022</a>
 <br>
@@ -43,4 +52,4 @@ These are the slides for the Sec 1 Parent PLD Briefing conducted virtually on Fr
 Thank you.
 </div>
 </li>
-</ul>
+</ul> -->
