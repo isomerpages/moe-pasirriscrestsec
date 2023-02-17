@@ -3,7 +3,6 @@ title: Student Portal
 permalink: /students/studentportal/
 description: ""
 ---
-
 <h1>Student Portal</h1>
 <ul class="jekyllcodex_accordion">
 <li>
@@ -39,7 +38,7 @@ For Sec 1 students, click <a href="/files/SLS%20Account%20Management%20-%20Guide
 <br><br>The SLS is accessible through the internet browsers on either Windows PC, Mac, iPad or Android tablets (with screen size larger than 7 inches for good user experience).<br><br>
 <h4>LOGIN</h4>
 <br><br>SLS can be accessed from <a href="https://learning.moe.edu.sg">https://learning.moe.edu.sg/</a>.
-<br><br><img src="/images/SLSLogin_1.png"><br><br>
+<br><br><img src="/images/Our Staff/SLS_Student_Login.png"><br><br>
 <h4>PASSWORD</h4>
 <br><br>Passwords must have the following requirements: <br><br>
 <ul>
