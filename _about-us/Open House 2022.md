@@ -3,7 +3,6 @@ title: Open House 2022
 permalink: /about-us/OpenHouse2022/
 description: ""
 ---
-
 <h1>Open House 2022</h1>
  
 <ul class="jekyllcodex_accordion">
@@ -34,7 +33,7 @@ description: ""
 <div><img src="/images/TransTasks.jpeg" alt="TransTasks.jpeg" width="100%" /></div>
 <h3>Secondary Three ALP</h3>
 <div>Secondary Three students look into how advertisements are produced. They learn about the message and purpose found in an advertisement. They will understand how sound, moving images and text can come together to persuade consumers and in doing so, become discerning viewers of advertisement themselves. Below are two samples of the projects which were scripted, performed and filmed by our students.<br /><br /></div>
-<div><img src="/images/Sec3ALP.JPG" alt="Sec3ALP.jpeg" width="100%" /></div>
+<div><img src="/images/Sec3ALP.jpeg" alt="Sec3ALP.jpeg" width="100%" /></div>
 <br />
 <h3>Secondary Four and Five ALP</h3>
 <div>Our Secondary Four and Five students take the lead in inspiring juniors through their impassioned speeches delivered during our morning Advocacy Programme. Topics delivered thus far include the refugee crisis in war-torn countries, showing kindness to all in the community, casual racism and cultivating a healthy self-esteem by loving ourselves.</div>
@@ -45,7 +44,7 @@ description: ""
 <div>1) <u><strong>ALP Talent Management Programme (Secondary 1 to 2)</strong></u></div>
 <br />
 <div>Selected students go through a robust 2-year programme where they are given exposure to authentic settings where communications skills are key. For example, they become tour guides for their peers when embarking on the Civic District Trail. They are also given the opportunity to interact with parents and P6 pupils, and guide them during the school's Open House. The students are sent for various competitions such as the UNSW Writing Competition. The school also seeks opportunities in the neighbourhood to showcase the students&rsquo; talent such as having a photojournalism exhibition in the Pasir Ris East Community Centre.<br /><br /></div>
-<div><img src="/images/Tier2.JPG" alt="Tier2.JPG" width="100%" /></div>
+<div><img src="/images/Tier2.jpeg" alt="Tier2.jpeg" width="100%" /></div>
 <div>2) <strong><u>The Media Communications Club (CCA)</u></strong></div>
 <br />
 <div>Students who join this CCA engage in activities that will further develop their skills in speaking. Students who enjoy debating are coached to prepare them for the Secondary Schools Debating Championship. Those who prefer to simply improve speaking skills are given weekly Toastmasters sessions where they work on mini projects to improve their oratorical skills. The students are also responsible for creating weekly podcasts that share with the school their concerns with school and life in general.<br /><br /></div>
@@ -63,8 +62,8 @@ description: ""
 <div><strong>ENHANCED ALP (MOTHER TONGUE LANGUAGES)</strong></div>
 <div>Since 2018, the school has also embarked on the Enhanced ALP in Mother Tongue Languages. The MTL department has worked with the EL department to help students to be effectively bilingual in speaking and writing. Below are the activities the department offers to the student.</div>
 <div><img src="/images/eALP.jpeg" alt="eALP.jpeg" width="100%" /></div>
-<div>See what our students have to say about ALP. To upload video to Youtube</div>
-</div>
+	<div><a href="http://gg.gg/prcss-alp" target="_blank" rel="noopener">See</a> what our students have to say about ALP.</div>
+</div> 
 </li>
 
 <li><input type="checkbox" id="accordion3"><label for="accordion3">LEARNING FOR LIFE PROGRAMME (LLP)</label>
@@ -111,7 +110,7 @@ description: ""
 <tbody>
 <tr>
 <td><br /><img src="/images/LLP-Pic7.jpeg" alt="LLP-Pic7.jpeg" /></td>
- <td><br />Watch the <a href="http://gg.gg/prcss-llp-cgt" target="_blank" rel="noopener">video</a> to view a magic show by a Crestians Got Talent Competition finalist. To upload to Youtube</td>
+ <td><br />Watch the <a href="http://gg.gg/prcss-llp-cgt" target="_blank" rel="noopener">video</a> to view a magic show by a Crestians Got Talent Competition finalist.</td>
     </tr>
     </tbody>
     </table>
@@ -128,8 +127,8 @@ description: ""
     <div>One distinctive PRCS experience for the students would be the co-curricular activity, Fencing. PRCS Fencing Club was established as early as 2001 with 20 members. Our fencers have been a force to be reckoned with at national and international competitions. Some of our school fencers have gone on to join Singapore's National Fencing Team.</div>
 <div><img src="/images/Fencing1.png" alt="Fencing1.png" width="80%" /></div>
 <div>The Club aims to <strong>nurture respectful</strong>, <strong>responsible</strong> and <strong>disciplined</strong> young men and women. Supported by a team of dedicated coaches, the training regime at PRCS Fencing Club goes beyond the blade to help our fencers discover what they are gifted at. While the development of skills, agility and coordination are important, PRCS Fencing Club also firmly believes <strong>character building</strong> will help realize the full potential of all PRCS fencers.</div>
-<div><img src="/images/Fencing2.jpeg" alt="Fencing2.jpeg" width="100%" /></div>
-<div>Watch the videos below to see our fencers in action:To upload to Youtube.</div>
+<div><img src="/images/Fencing2.jpg" alt="Fencing2.jpg" width="100%" /></div>
+<div>Watch the videos below to see our fencers in action:</div>
 <div>1) <a href="http://gg.gg/prcss-fencing" target="_blank" rel="noopener">Video 1</a></div>
 <div>2) <a href="http://gg.gg/prcss-sabre" target="_blank" rel="noopener">Video 2</a></div>
 </li>
