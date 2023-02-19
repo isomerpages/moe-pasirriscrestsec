@@ -3,8 +3,7 @@ title: Virtual Open House 2022
 permalink: /about-us/VirtualOpenHouse2022/
 description: ""
 ---
-
-<h1>Virtual Open House 2022</h1>
+<h1>Open House 2022</h1>
  
 <ul class="jekyllcodex_accordion">
 <li>
