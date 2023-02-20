@@ -20,6 +20,16 @@ description: ""
 
 We look forward to your continued support in helping our students achieve success in their academic and co-curriculum development.</p></div></li>
 <br>
+<li>	
+<input type="checkbox" id="accordion2">
+<label for="accordion2">2023 Termly Letter to Parents</label>
+	<p>
+		Please access the following links to view the termly letters to parents that have been sent in Parents Gateway
+		
+		
+	
+	
+	
 	
 <!--<li>
 <input type="checkbox" id="accordion2">
