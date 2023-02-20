@@ -29,14 +29,11 @@ We look forward to your continued support in helping our students achieve succes
 <li>	
 <input type="checkbox" id="accordion2">
 <label for="accordion2">2023 Termly Letter to Parents</label>
-	<p>
-		Please access the following links to view the termly letters to parents that have been sent in Parents Gateway
-	</p></li>
-
-<!--<li>
-<input type="checkbox" id="accordion2">
-<label for="accordion2">2023 Termly Letter to Parents</label>
-
+<br />
+<div>Dear Parents /Guardians,</div>
+<div>The Termly Letters to Parents summarising the latest school updates for all levels and streams can be found in the links below. We look forward to your continued support in helping our students achieve success in their academic and co-curriculum development.<br /><br /></div>
+<div>**Term 1**<br />
+1. Letters to Parents dated 30 Dec 2022<br>
 <a href="/files/Sec 1 Letter to Parents 4 May 2022.pdf">Sec 1 Letter to Parents 4 May 2022</a>
 <br>
 <a href="/files/Sec 2NAEXP Letter to Parents 4 May 2022.pdf">Sec 2NAEXP Letter to Parents 4 May 2022</a>
@@ -52,7 +49,7 @@ We look forward to your continued support in helping our students achieve succes
 	
 <li>
 <input type="checkbox" id="accordion3">
-<label for="accordion2">2022 SEC 1 PARENT PLD BRIEFING</label>
+<label for="accordion3">2022 SEC 1 PARENT PLD BRIEFING</label>
 
 <div>
 Dear Parents /Guardians,
