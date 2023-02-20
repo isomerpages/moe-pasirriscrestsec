@@ -12,6 +12,8 @@ description: ""
 </label>
 <div>
 <p>The following is the briefing for Secondary 2 Subject combination by each hometutors for the respective class:
+	
+<br>
 
 1.  Hometutors briefing slides for [Sec 2NT](/files/2023%20Sec%202%20Sub%20Combi/Sec%202NT%20Subj%20Combi%20briefing%20by%20HTs%20for%20website.pdf) 
 <br>
