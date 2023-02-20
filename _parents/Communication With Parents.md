@@ -13,10 +13,10 @@ description: ""
 <div>
 <p>The following is the briefing for Secondary 2 Subject combination by each hometutors for the respective class:
 
-1.  Hometutors briefing slides for [Sec 2NT](/files/2023%20Sec%202%20Sub%20Combi/Sec%202NT%20Subj%20Combi%20briefing%20by%20HTs%20for%20website.pdf)
-2.  Hometutors briefing slides for [Sec 2NA](/files/2023%20Sec%202%20Sub%20Combi/Sec%202NA%20Subj%20Combi%20Briefing%20by%20HTs%20for%20website.pdf)
-3.  Hometutors briefing slides for [Sec 2EX](/files/2023%20Sec%202%20Sub%20Combi/Sec%202E%20Subj%20Combi%20Briefing%20by%20HTs%20for%20website.pdf)
-4.  Main briefing slides for [2023 Sec 2 Subject Combination](/files/2023%20Sec%202%20Sub%20Combi/Sec%202%20Subj%20combi_2023%20for%20website.pdf)
+1.  Hometutors briefing slides for [Sec 2NT](/files/2023%20Sec%202%20Sub%20Combi/Sec%202NT%20Subj%20Combi%20briefing%20by%20HTs%20for%20website.pdf)<br>
+2.  Hometutors briefing slides for [Sec 2NA](/files/2023%20Sec%202%20Sub%20Combi/Sec%202NA%20Subj%20Combi%20Briefing%20by%20HTs%20for%20website.pdf)<br>
+3.  Hometutors briefing slides for [Sec 2EX](/files/2023%20Sec%202%20Sub%20Combi/Sec%202E%20Subj%20Combi%20Briefing%20by%20HTs%20for%20website.pdf)<br>
+4.  Main briefing slides for [2023 Sec 2 Subject Combination](/files/2023%20Sec%202%20Sub%20Combi/Sec%202%20Subj%20combi_2023%20for%20website.pdf)<br>
 
 We look forward to your continued support in helping our students achieve success in their academic and co-curriculum development.</p></div></li>
 <br>
@@ -25,12 +25,8 @@ We look forward to your continued support in helping our students achieve succes
 <label for="accordion2">2023 Termly Letter to Parents</label>
 	<p>
 		Please access the following links to view the termly letters to parents that have been sent in Parents Gateway
-		
 	</p></li>
-	
-	
-	
-	
+
 <!--<li>
 <input type="checkbox" id="accordion2">
 <label for="accordion2">2023 Termly Letter to Parents</label>
@@ -49,7 +45,7 @@ We look forward to your continued support in helping our students achieve succes
 </li>
 	
 <li>
-<input type="checkbox" id="accordion2">
+<input type="checkbox" id="accordion3">
 <label for="accordion2">2022 SEC 1 PARENT PLD BRIEFING</label>
 
 <div>
