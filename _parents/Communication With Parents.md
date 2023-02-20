@@ -8,7 +8,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
 <li>
 <input type="checkbox" id="accordion1">
-<label for="accordion1">2023 SECONDARY 2 SUBJECT COMBINATION ON 9 FEB
+<label for="accordion1">**2023 SECONDARY 2 SUBJECT COMBINATION ON 9 FEB**
 </label>
 <div>
 <p>The following is the briefing for Secondary 2 Subject combination by each hometutors for the respective class:
@@ -25,10 +25,10 @@ We look forward to your continued support in helping our students achieve succes
 <br>
 <li>	
 <input type="checkbox" id="accordion2">
-<label for="accordion2">2023 Termly Letter to Parents</label>
+<label for="accordion2">**2023 Termly Letter to Parents**</label>
 <br />
 <div>Dear Parents /Guardians,</div>
-<div>The Termly Letters to Parents summarising the latest school updates for all levels and streams can be found in the links below. We look forward to your continued support in helping our students achieve success in their academic and co-curriculum development.<br /><br /></div>
+<p><div>The Termly Letters to Parents summarising the latest school updates for all levels and streams can be found in the links below. We look forward to your continued support in helping our students achieve success in their academic and co-curriculum development.<br /><br /></div>
 
 <div>**Term 1**<br />
 1. Letters to Parents dated 30 Dec 2022<br>
@@ -49,11 +49,12 @@ We look forward to your continued support in helping our students achieve succes
 <a href="/files/2023%20Termly%20Letter%20to%20Parents/17%20Jan%20Level%20letter%20Sec%204%20NA%202023">17 Jan Level letter (Sec 4NA) 2023</a><br>
 <a href="/files/2023%20Termly%20Letter%20to%20Parents/17%20Jan%20Level%20letter%20Sec%204%20E%202023">17 Jan Level letter (Sec 4E) 2023</a><br>
 <a href="/files/2023%20Termly%20Letter%20to%20Parents/17%20Jan%20Level%20letter%20Sec%205%20N%202023.pdf">17 Jan Level letter (Sec 5N) 2023</a></div><br>
-</p></div></li>
+</div>
+</li>
 	
 <li>
 <input type="checkbox" id="accordion3">
-<label for="accordion3">2022 SEC 1 PARENT PLD BRIEFING</label>
+<label for="accordion3">**2022 SEC 1 PARENT PLD BRIEFING**</label>
 
 <div>
 Dear Parents /Guardians,<br>
