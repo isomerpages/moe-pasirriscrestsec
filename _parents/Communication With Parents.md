@@ -26,7 +26,7 @@ We look forward to your continued support in helping our students achieve succes
 	<p>
 		Please access the following links to view the termly letters to parents that have been sent in Parents Gateway
 		
-		
+	</p></li>
 	
 	
 	
