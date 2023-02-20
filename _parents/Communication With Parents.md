@@ -54,7 +54,8 @@ We look forward to your continued support in helping our students achieve succes
 	
 <li>
 <input type="checkbox" id="accordion3">
-<label for="accordion3">**2022 SEC 1 PARENT PLD BRIEFING**</label>
+<label for="accordion3">
+	<b>2022 SEC 1 PARENT PLD BRIEFING</b></label>
 
 <div>
 Dear Parents /Guardians,<br>
