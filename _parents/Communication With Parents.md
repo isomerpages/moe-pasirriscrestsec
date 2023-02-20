@@ -52,9 +52,7 @@ We look forward to your continued support in helping our students achieve succes
 <a href="/files/2023%20Termly%20Letter%20to%20Parents/17%20Jan%20Level%20letter%20Sec%204%20NA%202023">17 Jan Level letter (Sec 4NA) 2023</a><br>
 <a href="/files/2023%20Termly%20Letter%20to%20Parents/17%20Jan%20Level%20letter%20Sec%204%20E%202023">17 Jan Level letter (Sec 4E) 2023</a><br>
 <a href="/files/2023%20Termly%20Letter%20to%20Parents/17%20Jan%20Level%20letter%20Sec%205%20N%202023.pdf">17 Jan Level letter (Sec 5N) 2023</a></div><br>
-</p>
-</div>
-</li>
+</p></div></li>
 	
 <li>
 <input type="checkbox" id="accordion3">
