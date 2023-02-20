@@ -30,7 +30,9 @@ We look forward to your continued support in helping our students achieve succes
 <div>Dear Parents /Guardians,</div>
 <p><div>The Termly Letters to Parents summarising the latest school updates for all levels and streams can be found in the links below. We look forward to your continued support in helping our students achieve success in their academic and co-curriculum development.<br /><br /></div>
 
-<div>**Term 1**<br />
+<div>
+	<b>Term 1</b>
+	<br>
 1. Letters to Parents dated 30 Dec 2022<br>
 <a href="/files/Sec 1 Letter to Parents 4 May 2022.pdf">Sec 1 Letter to Parents 4 May 2022</a><br>
 <a href="/files/Sec 2NAEXP Letter to Parents 4 May 2022.pdf">Sec 2NAEXP Letter to Parents 4 May 2022</a><br>
