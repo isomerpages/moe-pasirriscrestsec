@@ -1,0 +1,12 @@
+collections:
+  parents:
+    output: true
+    order:
+      - Communication With Parents.md
+      - Personalised Digital Learning Programme (PDLP).md
+      - Parent Support Group.md
+      - Parents Gateway.md
+      - Sexuality Education.md
+      - Traffic Management Plan.md
+      - LEAPS 2.md
+      - Useful Links.md

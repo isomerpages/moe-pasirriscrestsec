@@ -1,15 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: Students
+    collection: students
+  - title: Departments
+    collection: departments
+  - title: CCA
+    collection: cca
+  - title: Parents
+    collection: parents
+  - title: Overcomers
+    url: /Overcomers/
+  - title: 2022 DSA-SEC
+    url: /2022-dsa-sec/

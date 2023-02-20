@@ -1,0 +1,13 @@
+collections:
+  departments:
+    output: true
+    order:
+      - Aesthetics, Craft & Technology.md
+      - English & Literature.md
+      - Humanities.md
+      - Mathematics.md
+      - Mother Tongue Languages.md
+      - Physical Education.md
+      - Science.md
+      - ICT.md
+      - Useful Links.md
