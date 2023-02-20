@@ -85,7 +85,7 @@ description: ""
 <div><strong>Part 1: Learning of Music for Growth (Lower Secondary)</strong></div>
     <div>All Crestians will be taught 3 musical instruments; Keyboard and Guitar/Ukulele (individual musical instrument) at Secondary One and Xylophone (ensemble performance) at Secondary Two. The learning of each musical instrument spans across a semester and comprises at least 15 hours of music lessons taught by our own Music Teachers.</div>
 <div><img src="/images/LLP-Pic1.jpeg" alt="LLP-Pic1.jpeg" style="width:50%">
-<div>Watch the <a href="http://gg.gg/prcss-llp" target="_blank" rel="noopener">video</a> to see an example of a Secondary One xylophone ensemble performance. To upload to Youtube.</div>
+<div>Watch the <a href="http://gg.gg/prcss-llp" target="_blank" rel="noopener">video</a> to see an example of a Secondary One xylophone ensemble performance.</div>
 
 <div><img src="/images/LLP-Pic2.jpeg" alt="LLP-Pic2.jpeg" width="70%"></div>
 
