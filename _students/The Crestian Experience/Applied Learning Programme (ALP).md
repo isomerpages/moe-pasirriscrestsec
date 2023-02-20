@@ -5,22 +5,16 @@ description: ""
 third_nav_title: The Crestian Experience
 ---
 Applied Learning Programme (ALP)
-================================
+==============================
+One of the programmes which will make the Crestian student distinctive from his or her peers in other schools would be the Applied Learning Programme (ALP), which focuses on effective communication. Named ‘Effective Communicators of the 21st Century’, this programme envisions our students to be effective communicators who impact with the heart and mind, putting their language competencies to good use at the workplace and in the society, hence our ALP Vision:  
 
-  
-
-One of the programmes which will make the Crestian student distinctive from his or her peers in other schools would be the Applied Learning Programme (ALP), which focuses on effective communication. Named ‘Effective Communicators of the 21st Century’, this programme envisions our students to be effective communicators who impact with the heart and mind, putting their language competencies to good use at the workplace and in the society, hence our ALP Vision: _**Effective communicators who impact with the heart and mind**_.
-
-  
+_**Effective communicators who impact with the heart and mind**_
 
 The ALP is run by the English Language department and the skills of effective communication are woven into classroom teaching. Additionally, the department has designed and implemented performance tasks at all levels to hone students’ communicative ability. The detailed plans drawn up by the ALP team are in alignment to the learning outcomes of the EL Syllabus 2020 and the intent of ALP.  The school has a two-tiered approach in delivering the programme:
 
   
 
 **Tier 1** is for the whole student population and all students will be taught the skills in class:
-
-  
-
 ![Tier1.JPG](https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/Tier1.JPG)
 
   
@@ -42,13 +36,9 @@ For Secondary One students, the EL Department has designed lessons that would al
 **Feature News**
 
 To enhance the students’ skills in writing and speaking in the news genre, students engage in a performance task where they research, write a short feature story of a landmark, then present it as part of a feature story broadcasting project. They will also use the school’s multimedia room – The Black Box.
-
-  
-
 ![Sec2ALP.JPG](https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/Sec2ALP.JPG)
 
 **Transmediation Tasks**  
-
 ![TransTasks.JPG](https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/TransTasks.JPG)
 
   
