@@ -25,7 +25,7 @@ We look forward to your continued support in helping our students achieve succes
 	
 <li>	
 <input type="checkbox" id="accordion2">
-<label for="accordion2">**2023 Termly Letter to Parents**</label>
+	<label for="accordion2"><b>2023 Termly Letter to Parents</b></label>
 <br />
 <div>Dear Parents /Guardians,</div>
 <p><div>The Termly Letters to Parents summarising the latest school updates for all levels and streams can be found in the links below. We look forward to your continued support in helping our students achieve success in their academic and co-curriculum development.<br /><br /></div>
