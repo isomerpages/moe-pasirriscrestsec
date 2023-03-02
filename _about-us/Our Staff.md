@@ -9,14 +9,14 @@ description: ""
 		<input type="checkbox" id="accordion1">
 		<label for="accordion1">SCHOOL LEADERS</label>
 		<div>
-			<img src="/images/Our Staff/SLs.png">
+			<img src="/images/Our Staff/SLs.jpg">
 			</div>
 			</li>
 		<li>
 			<input type="checkbox" id="accordion2">
 			<label for="accordion2">KEY PERSONNEL</label>
 			<div>
-				<img src="/images/Our Staff/Heads.png">
+				<img src="/images/Our Staff/Heads.jpg">
 				</div>
 		</li>
 		<li>
