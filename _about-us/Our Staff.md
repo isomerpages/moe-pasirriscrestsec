@@ -13,7 +13,7 @@ description: ""
 			</div>
 			</li>
 		<li>
-			<input type="checkbox" id="accordion2">
+			<input type="checkbox" id="accordion2" class="hidecontent">
 			<label for="accordion2">KEY PERSONNEL</label>
 			<div>
 				<img src="/images/Our Staff/Heads.jpg">
@@ -23,8 +23,9 @@ description: ""
 			<input type="checkbox" id="accordion3">
 			<label for="accordion3">HOME TUTORS</label>
 			<div>
-				<img src="/images/Our Staff/HTs.png">
-				<img src="/images/Our Staff/HTs2.png">
+				<img src="/images/Our Staff/HTs.jpg">
+				<br>
+				<img src="/images/Our Staff/HTs2.jpg">
 				</div>
 				</li>
 	
