@@ -24,7 +24,6 @@ description: ""
 			<label for="accordion3">HOME TUTORS</label>
 			<div>
 				<img src="/images/Our Staff/HTs.jpg">
-				<br>
 				<img src="/images/Our Staff/HTs2.jpg">
 				</div>
 				</li>
