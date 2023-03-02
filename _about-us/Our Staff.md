@@ -9,22 +9,22 @@ description: ""
 		<input type="checkbox" id="accordion1">
 		<label for="accordion1">SCHOOL LEADERS</label>
 		<div>
-			<img src="/images/Our Staff/SLs.jpg">
+			<img src="/images/Our Staff/SLs_v1.jpg">
 			</div>
 			</li>
 		<li>
 			<input type="checkbox" id="accordion2" class="hidecontent">
 			<label for="accordion2">KEY PERSONNEL</label>
 			<div>
-				<img src="/images/Our Staff/Heads.jpg">
+				<img src="/images/Our Staff/Heads_v1.jpg">
 				</div>
 		</li>
 		<li>
 			<input type="checkbox" id="accordion3">
 			<label for="accordion3">HOME TUTORS</label>
 			<div>
-				<img src="/images/Our Staff/HTs.jpg">
-				<img src="/images/Our Staff/HTs2.jpg">
+				<img src="/images/Our Staff/HTs1_v1.jpg">
+				<img src="/images/Our Staff/HTs2_v1.jpg">
 				</div>
 				</li>
 	
