@@ -13,6 +13,6 @@ sections:
           description: ""
           url: /latest-news/
   - resources:
-      title: Announcements
-      button: MORE ANNOUNCEMENTS
+      title: LATEST NEWS
+      button: PREVIOUS LATEST NEWS
 ---
