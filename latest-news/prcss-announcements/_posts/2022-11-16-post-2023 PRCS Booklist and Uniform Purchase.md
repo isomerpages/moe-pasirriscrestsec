@@ -6,6 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
+Dear Crestians/Parents/Guardians,
+
+The following for your information.
+
 **[Pacific Bookstores](https://www.pacificbookstores.com/): Booklist and Bookshop\* Vendor**<br>
 [Online Purchase Guide - PRCSS - Bookshop](/files/prcssbookshop.pdf)
 
