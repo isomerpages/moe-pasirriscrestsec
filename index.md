@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: ""
           description: ""
-          url: Resources/latest-news/
+          url: Resourceroom/latest-news/
   - resources:
       title: LATEST NEWS
       button: PREVIOUS LATEST NEWS
