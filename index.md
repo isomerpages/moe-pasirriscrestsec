@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Latest News
           description: ""
-          url: /latest-news/
+          url: Resources/latest-news/
   - resources:
       title: LATEST NEWS
       button: PREVIOUS LATEST NEWS
