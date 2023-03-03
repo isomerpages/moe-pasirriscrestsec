@@ -8,6 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/crestianherohomepage1200x400.gif
+      url: /latest-news/prcss-announcements/permalink
   - resources:
       title: LATEST NEWS
       button: PREVIOUS LATEST NEWS
