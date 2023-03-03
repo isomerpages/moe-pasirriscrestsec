@@ -1,5 +1,5 @@
 collections:
-  latest-news:
+  latest-newsa:
     output: true
     order:
       - Latest News Overview.md
