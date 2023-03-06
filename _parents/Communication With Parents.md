@@ -10,7 +10,7 @@ description: ""
 <input type="checkbox" id="accordion1">
 	<label for="accordion1"><b>2023 SECONDARY 2 SUBJECT COMBINATION ON 9 FEB</b>
 </label>
-<div>
+<div><br>
 <p>The following is the briefing for Secondary 2 Subject combination by each hometutors for the respective class:
 	
 <br>
