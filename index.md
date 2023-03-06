@@ -9,10 +9,6 @@ sections:
   - hero:
       background: /images/crestianherohomepage1200x400.gif
       url: /latest-news/announcements/
-      key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: /latest-news/announcements/
   - resources:
       title: LATEST ANNOUNCEMENTS
       button: PREVIOUS ANNOUNCEMENTS
