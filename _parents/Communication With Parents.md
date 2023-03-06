@@ -60,11 +60,11 @@ We look forward to your continued support in helping our students achieve succes
 
 <div>
 Dear Parents /Guardians,<br>
-
+<br>
 These are the slides for the Sec 1 Parent PLD Briefing conducted virtually on Friday, 4 March 2022.<br>
-
+<br>
 <a href="/files/Sec 1 Parent PLD Briefing.pdf">Sec 1 Parent PLD Briefing</a><br>
-
+<br>
 Thank you.
 </div>
 </li>
