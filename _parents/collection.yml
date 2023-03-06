@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Example Title.md
       - Communication With Parents.md
       - Personalised Digital Learning Programme (PDLP).md
       - Parent Support Group.md
