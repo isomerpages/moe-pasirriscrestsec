@@ -2,19 +2,19 @@ title: Pasir Ris Crest Secondary School
 url: https://prcss.moe.edu.sg
 favicon: /images/logo.png
 colors:
-  primary-color: "#101942"
+  primary-color: "#008dff"
   secondary-color: "#101942"
   media-colors:
     - title: media-color-one
       color: "#49759a"
     - title: media-color-two
-      color: "#23f3f5"
+      color: "#233cf5"
     - title: media-color-three
-      color: "#00838f"
+      color: "#50e3c2"
     - title: media-color-four
-      color: "#00838f"
+      color: "#7ed321"
     - title: media-color-five
-      color: "#00838f"
+      color: "#417505"
 description: Pasir Ris Crest Secondary School
 permalink: none
 baseurl: ""
