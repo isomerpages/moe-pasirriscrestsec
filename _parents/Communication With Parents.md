@@ -34,12 +34,11 @@ We look forward to your continued support in helping our students achieve succes
 	<b>Term 1</b>
 	<br>
 1. Letters to Parents dated 30 Dec 2022<br>
-<a href="/files/Sec 1 Letter to Parents 4 May 2022.pdf">Sec 1 Letter to Parents 4 May 2022</a><br>
-<a href="/files/Sec 2NAEXP Letter to Parents 4 May 2022.pdf">Sec 2NAEXP Letter to Parents 4 May 2022</a><br>
-<a href="/files/Sec 2NT Letter to Parents 4 May 2022.pdf">Sec 2NT Letter to Parents 4 May 2022</a><br>
-<a href="/files/Sec 3 Letter to Parents 4 May 2022.pdf">Sec 3 Letter to Parents 4 May 2022</a><br>
-<a href="/files/Sec 4 and 5 Letter to Parents 4 May 2022.pdf">Sec 4 and 5 Letter to Parents 4 May 2022</a></div><br>
-
+<a href="/files/2023%20Termly%20Letter%20to%20Parents/Sec%201_Letter%20to%20Parents_6%20Jan%202023.pdf">Sec 1_Letter to Parents_6 Jan 2023</a><br>
+<a href="/files/2023%20Termly%20Letter%20to%20Parents/Sec%202_Letter%20to%20Parents_30%20Dec%202022.pdf">Sec 2_Letter to Parents_30 Dec 2022</a><br>
+<a href="/files/2023%20Termly%20Letter%20to%20Parents/Sec%203_Letter%20to%20Parents_30%20Dec%202022.pdf">Sec 3_Letter to Parents_30 Dec 2022</a><br>
+<a href="/files/2023%20Termly%20Letter%20to%20Parents/Sec%204%20and%205_Letter%20to%20Parents_30%20Dec%202022.pdf">Sec 4 and 5_Letter to Parents_30 Dec 2022</a><br>
+<br>
 <div>2. Letters to Parents dated 17 Jan 2023<br>
 <a href="">17 Jan Level letter (Sec 1) 2023</a><br>
 <a href="/files/2023%20Termly%20Letter%20to%20Parents/17%20Jan%20Level%20letter%20Sec%201%202023.pdf">17 Jan Level letter (2NT) 2023</a><br>
