@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Key Highlight Title
           description: Key Highlight description
-          url: ""
+          url: /latest-news/announcements/
   - resources:
       title: LATEST ANNOUNCEMENTS
       button: PREVIOUS ANNOUNCEMENTS
