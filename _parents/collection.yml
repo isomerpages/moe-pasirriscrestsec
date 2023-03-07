@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - CWP/Communication With Parents.md
       - CWP/.keep
       - Personalised Digital Learning Programme (PDLP).md
       - Parent Support Group.md
