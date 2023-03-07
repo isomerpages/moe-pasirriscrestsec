@@ -1,8 +1,10 @@
 ---
 title: Latest News Overview
-permalink: /latest-news/
+permalink: /test/
 description: ""
 ---
+
+
 **2023 The Straits Times School Pocket Money Fund**<br>
 Read More [here](https://staging.d36c9s2800gq6y.amplifyapp.com/latest-news/15/)
 

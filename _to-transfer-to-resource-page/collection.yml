@@ -1,5 +1,5 @@
 collections:
-  latest-news:
+  to-transfer-to-resource-page:
     output: true
     order:
       - Latest News Overview.md
