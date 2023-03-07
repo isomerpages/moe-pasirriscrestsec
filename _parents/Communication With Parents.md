@@ -7,13 +7,10 @@ description: ""
 
 <ul class="jekyllcodex_accordion">
 <li>
-<input type="checkbox" id="accordion1">
-<label for="accordion1"><b>2023 SECONDARY 2 SUBJECT COMBINATION ON 9 FEB</b>
-</label>
-<div><br>
-<p>The following is the briefing for Secondary 2 Subject combination by each hometutors for the respective class:
+<input type="checkbox" id="accordion1"><label for="accordion1"><b>2023 SECONDARY 2 SUBJECT COMBINATION ON 9 FEB</b></label>
+<div>
 	
-<br>
+The following is the briefing for Secondary 2 Subject combination by each hometutors for the respective class:
 1.  Hometutors briefing slides for <a href="/files/2023%20Sec%202%20Sub%20Combi/Sec%202NT%20Subj%20Combi%20briefing%20by%20HTs%20for%20website.pdf">Sec 2NT</a><br>
 2.  Hometutors briefing slides for <a href="/files/2023%20Sec%202%20Sub%20Combi/Sec%202NA%20Subj%20Combi%20Briefing%20by%20HTs%20for%20website.pdf">Sec 2NA</a><br>
 3.  Hometutors briefing slides for <a href="/files/2023%20Sec%202%20Sub%20Combi/Sec%202E%20Subj%20Combi%20Briefing%20by%20HTs%20for%20website.pdf">Sec 2EX</a><br>
@@ -64,4 +61,3 @@ These are the slides for the Sec 1 Parent PLD Briefing conducted virtually on Fr
 Thank you.
 </div>
 </li>
-</ul>
