@@ -3,8 +3,6 @@ title: Communication With Parents
 permalink: /parents/CommunicationWithParents/
 description: ""
 ---
-
-
 <h1>Communication With Parents</h1>
 
 <ul class="jekyllcodex_accordion">
