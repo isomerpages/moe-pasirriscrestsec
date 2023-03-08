@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Communication With Parents.md
-      - CWP/Example Title.md
-      - CWP/2023 Secondary 1 Parent PLD Briefing.md
-      - CWP/2023 Termly Letter to Parents.md
-      - CWP/2023 Secondary 2 Subject Combination on 9 February.md
       - CWP/.keep
+      - CWP/Example Title.md
+      - CWP/2023 Secondary 2 Subject Combination on 9 February.md
+      - CWP/2023 Termly Letter to Parents.md
+      - CWP/2023 Secondary 1 Parent PLD Briefing.md
       - Personalised Digital Learning Programme (PDLP).md
       - Parent Support Group.md
       - Parents Gateway.md
