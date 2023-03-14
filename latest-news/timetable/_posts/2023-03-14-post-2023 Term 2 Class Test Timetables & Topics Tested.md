@@ -6,17 +6,15 @@ layout: post
 description: ""
 image: ""
 ---
-
-
 Dear Crestians/Parents/Guardians,
 
 Please click on the respective links below to access the Term 2 Class Test timetables.
 
-Term 1 Class Test Timetables:<br>
-[Lower Secondary Term 1 Class Test Timetable](/files/2023classtesttimetable1.pdf)<br>
-[Upper Secondary Term 1 Class Test Timetable](/files/2023classtesttimetable2.pdf) (Revised on 19/1/2023)
+Term 2 Class Test Timetables:<br>
+[Lower Secondary Term 2 Class Test Timetable](/files/T2%20Class%20Test%20TT%20Topics%20Tested/Term%202%20Class%20Test%20Timetable%202023_Lower%20Sec.pdf)<br>
+[Upper Secondary Term 2 Class Test Timetable](/files/T2%20Class%20Test%20TT%20Topics%20Tested/Term%202%20Class%20Test%20Timetable%202023_Upper%20Sec.pdf)<br>
 
-Term 1 Class Test Topics Tested:<br>
+Term 2 Class Test Topics Tested:<br>
 [Secondary 1 Topics Tested](/files/2023classtesttimetable3.pdf)<br>
 [Secondary 2 Topics Tested](/files/2023classtesttimetable4.pdf)<br>
 [Secondary 3 Topics Tested](/files/2023classtesttimetable5.pdf)<br>
