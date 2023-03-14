@@ -2,6 +2,7 @@ collections:
   to-transfer-to-resource-page:
     output: true
     order:
+      - ICT.md
       - Latest News Overview.md
       - 2023 Secondary 2 Subject Combination on 9th February (Term 1).md
       - 2023 The Straits Times School Pocket Money Fund.md
