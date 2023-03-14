@@ -6,11 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-
-
 Dear Crestians/Parents/Guardians,
 
-Please click on the respective links below to access the Term 3 Class Test timetables.
+Please click on the respective links below to access the Term 1 Class Test timetables.
 
 Term 1 Class Test Timetables:<br>
 [Lower Secondary Term 1 Class Test Timetable](/files/2023classtesttimetable1.pdf)<br>
