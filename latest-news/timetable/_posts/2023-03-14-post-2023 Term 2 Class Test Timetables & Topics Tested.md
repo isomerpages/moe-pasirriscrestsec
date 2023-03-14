@@ -15,7 +15,7 @@ Term 2 Class Test Timetables:<br>
 [Upper Secondary Term 2 Class Test Timetable](/files/T2%20Class%20Test%20TT%20Topics%20Tested/Term%202%20Class%20Test%20Timetable%202023_Upper%20Sec.pdf)<br>
 
 Term 2 Class Test Topics Tested:<br>
-[Secondary 1 Topics Tested](/files/2023classtesttimetable3.pdf)<br>
-[Secondary 2 Topics Tested](/files/2023classtesttimetable4.pdf)<br>
-[Secondary 3 Topics Tested](/files/2023classtesttimetable5.pdf)<br>
-[Secondary 4 & 5 Topics Tested](/files/2023classtesttimetable6.pdf)
+[Secondary 1 Topics Tested](/files/T2%20Class%20Test%20TT%20Topics%20Tested/Sec1_2023%20Topics_Skills%20to%20be%20tested%20(Term%202%20Class%20Test)%20.pdf)<br>
+[Secondary 2 Topics Tested](/files/T2%20Class%20Test%20TT%20Topics%20Tested/Sec2_2023%20Topics_Skills%20to%20be%20tested%20(Term%202%20Class%20Test)%20.pdf)<br>
+[Secondary 3 Topics Tested](/files/T2%20Class%20Test%20TT%20Topics%20Tested/Sec1_2023%20Topics_Skills%20to%20be%20tested%20(Term%202%20Class%20Test)%20.pdf)<br>
+[Secondary 4 & 5 Topics Tested](/files/T2%20Class%20Test%20TT%20Topics%20Tested/Sec4&5_2023%20Topics_Skills%20to%20be%20tested%20(Term%202%20Class%20Test).pdf)<br>
