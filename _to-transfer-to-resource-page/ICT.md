@@ -3,6 +3,7 @@ title: ICT
 permalink: /departments/ICT/
 description: ""
 ---
+
 <h1>ICT</h1>
 <ul class="jekyllcodex_accordion">
 <li>

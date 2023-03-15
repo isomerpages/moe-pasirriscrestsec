@@ -1,11 +1,12 @@
 ---
 title: 2023 The Straits Times School Pocket Money Fund
-permalink: /latest-news/announcements/6/
+permalink: /latest-news/announcements/4/
 date: 2023-01-19
 layout: post
 description: ""
 image: ""
 ---
+
 
 
 

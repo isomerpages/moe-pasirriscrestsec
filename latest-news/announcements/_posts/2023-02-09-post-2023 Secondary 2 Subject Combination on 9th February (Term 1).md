@@ -1,11 +1,12 @@
 ---
 title: 2023 Secondary 2 Subject Combination on 9th February (Term 1)
-permalink: /latest-news/announcements/7/
+permalink: /latest-news/announcements/5/
 date: 2023-02-09
 layout: post
 description: ""
 image: ""
 ---
+
 
 
 
