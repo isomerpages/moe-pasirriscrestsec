@@ -19,3 +19,5 @@ links:
     sublinks:
       - title: Google
         url: https://www.google.com/
+      - title: Google Test 2
+        url: /https://www.google.com/
