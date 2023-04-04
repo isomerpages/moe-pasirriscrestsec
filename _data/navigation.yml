@@ -14,3 +14,8 @@ links:
     url: /Overcomers/
   - title: 2022 DSA-SEC
     url: /2022-dsa-sec/
+  - title: Example
+    url: /permalink
+    sublinks:
+      - title: Google
+        url: /https://www.google.com/
