@@ -68,7 +68,7 @@ Applicants must demonstrate a passion for Music /Performing Arts and be committe
 <li>Modern Dance (Girls/Boys)</li>  
 <li>Drama English (Girls/Boys)</li>  
 <li>Ensemble - Guzheng (Girls/Boys)</li>  
-<li>Orchestra - Chinese (Girls/Boys)</li></ul>
+</ul>
 Shortlisted applicants will be invited to go through a selection test as well as an interview. 
 <h5>B) Specific Criteria</h5>
 
