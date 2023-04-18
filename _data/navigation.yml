@@ -13,12 +13,16 @@ links:
         url: /about-us/OurSchoolSong/
       - title: 360 Virtual Tour
         url: /about-us/360VirtualTour/
-      - title: Our History
+      - title: Our History (Link X)
         url: /permalink
       - title: Our Staff
         url: /about-us/OurStaff/
-      - title: Submenu Title
+      - title: School Advisory Committee
+        url: /about-us/SchoolAdvisoryCommittee/
+      - title: School Achievements (Link X)
         url: /permalink
+      - title: Contact Us
+        url: /about-us/ContactUs/
   - title: Students
     collection: students
   - title: Departments
