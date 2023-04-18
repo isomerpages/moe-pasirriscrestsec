@@ -2,6 +2,15 @@ logo: /images/logo.png
 links:
   - title: About Us
     collection: about-us
+  - title: About Us
+    url: /about-us
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/PrincipalsMessage/
+      - title: Mission,Vision,Values & Motto
+        url: /about-us/OurMissionVisionValuesandMotto/
+      - title: Our School Song
+        url: /about-us/OurSchoolSong/
   - title: Students
     collection: students
   - title: Departments
