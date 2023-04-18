@@ -3,6 +3,7 @@ title: Open House 2022
 permalink: /about-us/OpenHouse2022/
 description: ""
 ---
+
 <h1>Open House 2022</h1>
  
 <ul class="jekyllcodex_accordion">

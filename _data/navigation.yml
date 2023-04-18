@@ -2,6 +2,27 @@ logo: /images/logo.png
 links:
   - title: About Us
     collection: about-us
+  - title: About Us
+    url: /about-us
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/PrincipalsMessage/
+      - title: Mission,Vision,Values & Motto
+        url: /about-us/OurMissionVisionValuesandMotto/
+      - title: Our School Song
+        url: /about-us/OurSchoolSong/
+      - title: 360 Virtual Tour
+        url: /about-us/360VirtualTour/
+      - title: Our History (Link X)
+        url: /permalink
+      - title: Our Staff
+        url: /about-us/OurStaff/
+      - title: School Advisory Committee
+        url: /about-us/SchoolAdvisoryCommittee/
+      - title: School Achievements (Link X)
+        url: /permalink
+      - title: Contact Us
+        url: /about-us/ContactUs/
   - title: Students
     collection: students
   - title: Departments
@@ -12,5 +33,5 @@ links:
     collection: parents
   - title: Overcomers
     url: /Overcomers/
-  - title: 2022 DSA-SEC
-    url: /2022-dsa-sec/
+  - title: 2023 DSA-SEC
+    url: /2023-dsa-sec/
