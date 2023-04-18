@@ -58,46 +58,18 @@ Selected students go through a robust 2-year programme where they are given expo
 2)    **The Media Communications Club (CCA)**
 
 Students who join this CCA engage in activities that will further develop their skills in speaking. Students who enjoy debating are coached to prepare them for the Secondary Schools Debating Championship. Those who prefer to simply improve speaking skills are given weekly Toastmasters sessions where they work on mini projects to improve their oratorical skills. The students are also responsible for creating weekly podcasts that share with the school their concerns with school and life in general.
-
-  
-
-![MCC.JPG](https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/MCC.JPG)  
+![MCC.JPG](/images/ALP/8%20mcc%20pic.jpg)  
 
 Click on this link if you wish to listen to some of the The Peak podcast episodes:
-
-  
-
-![ThePeak.jpg](https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/ThePeak.jpg)
+![ThePeak.jpg](/images/ALP/9%20thepeak.jpg)
 
 [The Peak Podcast](http://gg.gg/thepeak)
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
 **ENHANCED ALP (MOTHER TONGUE LANGUAGES)**  
-
-  
 
 Since 2018, the school has also embarked on the Enhanced ALP in Mother Tongue Languages. The MTL department has worked with the EL department to help students to be effectively bilingual in speaking and writing. Below are the activities the department offers to the student.
 
-  
-
-![eALP.JPG](https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/eALP.JPG)
+![eALP.JPG](/images/ALP/10%20ealp.jpg)
 
   
 
