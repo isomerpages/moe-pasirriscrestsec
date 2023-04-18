@@ -52,13 +52,10 @@ Our Secondary Four and Five students take the lead in inspiring juniors through 
 1)    **ALP Talent Management Programme (Secondary 1 to 2)**
 
 Selected students go through a robust 2-year programme where they are given exposure to authentic settings where communications skills are key. For example, they become tour guides for their peers when embarking on the Civic District Trail. They are also given the opportunity to interact with parents and P6 pupils, and guide them during the school’s Open House. The students are sent for various competitions such as the UNSW Writing Competition. The school also seeks opportunities in the neighbourhood to showcase the students’ talent such as having a photojournalism exhibition in the Pasir Ris East Community Centre.
-![Tier2.JPG](https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/Tier2.JPG)
-![]()
-  
+![Tier2.JPG](/images/ALP/7%20tier2.jpg)
+
 
 2)    **The Media Communications Club (CCA)**
-
-  
 
 Students who join this CCA engage in activities that will further develop their skills in speaking. Students who enjoy debating are coached to prepare them for the Secondary Schools Debating Championship. Those who prefer to simply improve speaking skills are given weekly Toastmasters sessions where they work on mini projects to improve their oratorical skills. The students are also responsible for creating weekly podcasts that share with the school their concerns with school and life in general.
 
