@@ -11,6 +11,14 @@ links:
         url: /about-us/OurMissionVisionValuesandMotto/
       - title: Our School Song
         url: /about-us/OurSchoolSong/
+      - title: 360 Virtual Tour
+        url: /about-us/360VirtualTour/
+      - title: Our History
+        url: /permalink
+      - title: Our Staff
+        url: /about-us/OurStaff/
+      - title: Submenu Title
+        url: /permalink
   - title: Students
     collection: students
   - title: Departments
