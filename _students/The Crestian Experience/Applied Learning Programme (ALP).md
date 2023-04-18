@@ -6,16 +6,14 @@ third_nav_title: The Crestian Experience
 ---
 Applied Learning Programme (ALP)
 ==============================
-One of the programmes which will make the Crestian student distinctive from his or her peers in other schools would be the Applied Learning Programme (ALP), which focuses on effective communication. Named ‘Effective Communicators of the 21st Century’, this programme envisions our students to be effective communicators who impact with the heart and mind, putting their language competencies to good use at the workplace and in the society, hence our ALP Vision:&nbsp; 
+One of the programmes which will make the Crestian student distinctive from his or her peers in other schools would be the Applied Learning Programme (ALP), which focuses on effective communication. Named ‘Effective Communicators of the 21st Century’, this programme envisions our students to be effective communicators who impact with the heart and mind, putting their language competencies to good use at the workplace and in the society, hence our ALP Vision:  
 
 _**Effective communicators who impact with the heart and mind**_
 
-The ALP is run by the English Language department and the skills of effective communication are woven into classroom teaching. Additionally, the department has designed and implemented performance tasks at all levels to hone students’ communicative ability. The detailed plans drawn up by the ALP team are in alignment to the learning outcomes of the EL Syllabus 2020 and the intent of ALP.&nbsp; The school has a two-tiered approach in delivering the programme:
+The ALP is run by the English Language department and the skills of effective communication are woven into classroom teaching. Additionally, the department has designed and implemented performance tasks at all levels to hone students’ communicative ability. The detailed plans drawn up by the ALP team are in alignment to the learning outcomes of the EL Syllabus 2020 and the intent of ALP.  The school has a two-tiered approach in delivering the programme:
 
-  
-
-**Tier 1**&nbsp;is for the whole student population and all students will be taught the skills in class:
-![Tier1.JPG](https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/Tier1.JPG)
+**Tier 1** is for the whole student population and all students will be taught the skills in class:
+![Tier1.JPG](/images/ALP/1%20tier1.jpg)
 
   
 
@@ -25,58 +23,40 @@ The ALP is run by the English Language department and the skills of effective co
 
 For Secondary One students, the EL Department has designed lessons that would allow students to be creative in the narrative genre. The culmination of the lessons will be a digital story-telling project where students weave a narrative, marrying their understanding of visuals and text which they will then present to their peers. This project also presents them with a platform to express themselves and to learn how to entertain an audience.
 
-<div>
-<img style="width:50%; float:left;" src="/images/ALP/1%20tier1.jpg">
-
-  
+![Sec1ALP.JPG](/images/ALP/2%20sec1alp.jpg)
 
 **Secondary Two ALP**
 
 **Feature News**
 
 To enhance the students’ skills in writing and speaking in the news genre, students engage in a performance task where they research, write a short feature story of a landmark, then present it as part of a feature story broadcasting project. They will also use the school’s multimedia room – The Black Box.
-![Sec2ALP.JPG](https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/Sec2ALP.JPG)
+![Sec2ALP.JPG](/images/ALP/3%20sec2alp.jpg)
 
 **Transmediation Tasks**  
-![TransTasks.JPG](https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/TransTasks.JPG)
-
-  
+![TransTasks.JPG](/images/ALP/4%20transtasks.jpg)
 
 **Secondary Three ALP**
 
 Secondary Three students look into how advertisements are produced. They learn about the message and purpose found in an advertisement. They will understand how sound, moving images and text can come together to persuade consumers and in doing so, become discerning viewers of advertisement themselves. Below are two samples of the projects which were scripted, performed and filmed by our students.
-
-  
-
-![Sec3ALP.jpeg](https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/Sec3ALP.JPG)  
+![Sec3ALP.jpeg](/images/ALP/5%20sec3alp.jpg)
 
 **Secondary Four and Five ALP**  
 
 Our Secondary Four and Five students take the lead in inspiring juniors through their impassioned speeches delivered during our morning Advocacy Programme. Topics delivered thus far include the refugee crisis in war-torn countries, showing kindness to all in the community, casual racism and cultivating a healthy self-esteem by loving ourselves.
-
-  
-
-![Sec4&amp;5ALP.JPG](https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/Sec4&amp;5ALP.JPG)
+![Sec4&5ALP.JPG](/images/ALP/6%20sec4&5alp.jpg)
 
 **Tier 2 Programmes (Selected students)**
 
-**Tier 2**&nbsp;programmes are for a selected group of students who show a keen interest in developing their communication skills. Some of the activities are as follows:  
+**Tier 2** programmes are for a selected group of students who show a keen interest in developing their communication skills. Some of the activities are as follows:  
 
-  
-
-1)&nbsp;&nbsp; &nbsp;**ALP Talent Management Programme (Secondary 1 to 2)**
-
-  
+1)    **ALP Talent Management Programme (Secondary 1 to 2)**
 
 Selected students go through a robust 2-year programme where they are given exposure to authentic settings where communications skills are key. For example, they become tour guides for their peers when embarking on the Civic District Trail. They are also given the opportunity to interact with parents and P6 pupils, and guide them during the school’s Open House. The students are sent for various competitions such as the UNSW Writing Competition. The school also seeks opportunities in the neighbourhood to showcase the students’ talent such as having a photojournalism exhibition in the Pasir Ris East Community Centre.
-
-  
-
 ![Tier2.JPG](https://prcss.moe.edu.sg/qql/slot/u200/e-OpenHouse%202020/Tier2.JPG)
-
+![]()
   
 
-2)&nbsp;&nbsp; &nbsp;**The Media Communications Club (CCA)**
+2)    **The Media Communications Club (CCA)**
 
   
 
@@ -124,4 +104,4 @@ Since 2018, the school has also embarked on the Enhanced ALP in Mother Tongue La
 
   
 
-[See](http://gg.gg/prcss-alp)&nbsp;what our students have to say about ALP.</div>
+[See](http://gg.gg/prcss-alp) what our students have to say about ALP.
