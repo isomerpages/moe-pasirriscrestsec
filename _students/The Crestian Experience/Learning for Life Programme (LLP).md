@@ -17,12 +17,15 @@ third_nav_title: The Crestian Experience
 </ul>
 </div>
 <div><strong><u>Outline</u></strong></div>
-<div>The LLP comprises broad-based programmes to equip all students with basic skills in music and performance and appreciation for the performing arts (Tier 1). Students who demonstrate aptitude and passion for music and the performing arts also have various opportunities to further pursue and deepen their skills through a wide range of activities and interest groups/ performing arts CCAs (Tier 2).</div>
-<div><img alt="LLP-Tiers.JPG" src="/images/LLP-Tiers.JPG"></div>
+<div>The LLP comprises broad-based programmes to equip all students with basic skills in music and performance and appreciation for the performing arts (Tier 1). Students who demonstrate aptitude and passion for music and the performing arts also have various opportunities to further pursue and deepen their skills through a wide range of activities and interest groups/ performing arts CCAs (Tier 2).</div><br>
+<div><img alt="LLP-Tiers.JPG" src="/images/LLP/1_llp-tiers.jpg"></div><br>
 <div>A key component of the LLP is the music programme, which is delivered as level programmes for Secondary 1, 2 and 3. It consists of 3 main parts:</div>
 <div><strong>Part 1: Learning of Music for Growth (Lower Secondary)</strong></div>
 <div>All Crestians will be taught 3 musical instruments; Keyboard and Guitar/Ukulele (individual musical instrument) at Secondary One and Xylophone (ensemble performance) at Secondary Two. The learning of each musical instrument spans across a semester and comprises at least 15 hours of music lessons taught by our own Music Teachers.</div>
-<div><img src="LLP-Pic1.JPG" alt="/images/LLP-Pic1.JPG"><br>
+<div>
+	![](/images/LLP/2_llp-pic1.jpg)
+	<!--<img alt="/images/LLP/2_llp-pic1.jpeg" src="LLP-Pic1.JPeG"> -->
+	<br>
 <div>Watch the&nbsp;<a rel="noopener" target="_blank" href="http://gg.gg/prcss-llp">video</a>&nbsp;to see an example of a Secondary One xylophone ensemble performance.</div>
 </div>
 <div><img src="/images/LLP-Pic2.JPG" alt="LLP-Pic2.JPG"></div>
@@ -55,5 +58,5 @@ third_nav_title: The Crestian Experience
 <div><img alt="LLP-Pic9.JPG" src="/images/LLP-Pic9.JPG"></div>
 <div><strong>Performing Arts CCAs</strong></div>
 <div>The school’s Performing Arts CCAs include the Symphonic Band, Chinese Instrumental Orchestra, Choir, Guzheng, Drama and Modern Dance which enable students with musical talents/ interest to pursue their talents/ interests and further develop their musical abilities. Specialised training will be provided for the various Performing Arts CCAs. Opportunities are also provided for students to participate in competitions or public performances. More information about the various Performing Arts CCA activities can be found on their respective CCA webpages.</div>
-<div><img src="/images/LLP-Pic10.jpg" width="100%" alt="LLP-Pic10.JPG" ></div>
+<div><img src="/images/LLP-Pic10.jpg" width="100%" alt="LLP-Pic10.JPG"></div>
 </div>
