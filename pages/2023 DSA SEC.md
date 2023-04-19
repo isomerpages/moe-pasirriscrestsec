@@ -32,7 +32,7 @@ Primary school students who are interested to participate in this DSA exercise m
 <li>Applicants are required to login to the MOE Centralised DSA-SEC Portal to apply for the school’s identified talent area/s.</li>
 <li>Applicants&nbsp;NOT&nbsp;studying in MOE mainstream primary schools would need to obtain a Registration Number at MOE DSA-Sec website:&nbsp;<a href="https://go.gov.sg/nmsdsa-sec-application">https://go.gov.sg/nmsdsa-sec-application</a></li>
 </ul>
-Applicants shortlisted for interview and selection test would receive a notification from Pasir Ris Crest Secondary School.&nbsp; The selection interview dates are either on&nbsp;Thu, 13 July&nbsp;or&nbsp;Thu, 20 July 2022. <br><br>
+Applicants shortlisted for interview and selection test would receive a notification from Pasir Ris Crest Secondary School.&nbsp; The selection interview dates are either on&nbsp;Thu, 13 July&nbsp;or&nbsp;Thu, 20 July 2023. <br><br>
 Shortlisted applicants may wish to submit certified true copies of certificates /documentary proof for non-school based activities and achievements in support of the DSA application on the day of the selection /interview.<br><br>
 Applicants will be notified of the selection outcome through email or hardcopy letters&nbsp;<strong>by 4 September (Mon) 2023.</strong><br><br>
 The decision of the school is final.
@@ -76,8 +76,8 @@ Shortlisted applicants will be invited to go through a selection test as well as
 
 Shortlisted applicants will be notified separately on the details of the selection test
 
-For more details on the&nbsp;<strong>LLP</strong>, click&nbsp;<a href="/learning-for-life-programme-llp">here</a>.</div></li>
-
+For more details on the&nbsp;<strong>LLP</strong>, click&nbsp;<a href="/students/LearningforLifeProgramme/">here</a>.</div></li>
+	
 <li>
 <input type="checkbox" id="accordion4">
 <label for="accordion4">ADMISSION CRITERIA FOR EFFECTIVE COMMUNICATION</label>
@@ -97,7 +97,7 @@ Applicants must demonstrate a passion for communication related programmes /comp
 
 Shortlisted applicants will be notified separately on the details of the selection test
 
-For more details on the&nbsp;<strong>ALP</strong>, click&nbsp;<a href="applied-learning-programme-alp">here</a>.
+For more details on the&nbsp;<strong>ALP</strong>, click&nbsp;<a href="/students/appliedlearningprogramme/">here</a>.
 </div>
 </li>
 	
