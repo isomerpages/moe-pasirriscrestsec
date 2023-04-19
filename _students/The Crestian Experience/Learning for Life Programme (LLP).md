@@ -7,16 +7,16 @@ third_nav_title: The Crestian Experience
 <h1>Learning for Life Programme (LLP)</h1>
 <div><br>
 	<div><h4><strong><u>Objectives</u></strong></h4></div>
-<div>As the Music Satellite to the East Zone Centre of Excellence for Creative Arts, PRCS believes in providing a quality music education for Crestians to nurture their interest and talent in the performing arts. The exploration of music and other forms of the performing arts supports the holistic development of students, allowing them to discover and express themselves as well as to strengthen their character, giving rise to the focus of PRCS’ Learning for Life Programme (LLP),&nbsp;<strong>Nurturing Crestian Learners of Tomorrow through Music and the Performing Arts</strong>.</div>
+<div>As the Music Satellite to the East Zone Centre of Excellence for Creative Arts, PRCS believes in providing a quality music education for Crestians to nurture their interest and talent in the performing arts. The exploration of music and other forms of the performing arts supports the holistic development of students, allowing them to discover and express themselves as well as to strengthen their character, giving rise to the focus of PRCS’ Learning for Life Programme (LLP),&nbsp;<strong>Nurturing Crestian Learners of Tomorrow through Music and the Performing Arts</strong>.</div><br>
 <div>The LLP brings together the school’s music programme and performing arts CCAs to help develop Crestians in the following areas:</div>
 <div>
 <ul>
-<li><strong>Learning of musical knowledge and skills</strong>, to equip all students with a range of music skills to encourage them to pursue music as an interest beyond their school days.</li>
-<li><strong>Learning of values and life skills through learning music and performance</strong>, to develop core life skills and competencies anchored in values to enable students to be self-disciplined persons and leaders.</li>
-<li><strong>Using music to serve and help others</strong>, to inspire students’ spirit of volunteerism and empathy; to be conscious of one self’s potential and be empowered to contribute to the betterment of others.</li>
+<li><strong>Learning of musical knowledge and skills</strong>, to equip all students with a range of music skills to encourage them to pursue music as an interest beyond their school days.
+</li><li><strong>Learning of values and life skills through learning music and performance</strong>, to develop core life skills and competencies anchored in values to enable students to be self-disciplined persons and leaders.
+</li><li><strong>Using music to serve and help others</strong>, to inspire students’ spirit of volunteerism and empathy; to be conscious of one self’s potential and be empowered to contribute to the betterment of others.</li>
 </ul>
 </div>
-<div><strong><u>Outline</u></strong></div>
+	<div><strong></strong><h4><strong><u>Outline</u></strong></h4></div>
 <div>The LLP comprises broad-based programmes to equip all students with basic skills in music and performance and appreciation for the performing arts (Tier 1). Students who demonstrate aptitude and passion for music and the performing arts also have various opportunities to further pursue and deepen their skills through a wide range of activities and interest groups/ performing arts CCAs (Tier 2).</div><br>
 <div><img alt="LLP-Tiers.JPG" src="/images/LLP/1_llp-tiers.jpg"></div><br>
 <div>A key component of the LLP is the music programme, which is delivered as level programmes for Secondary 1, 2 and 3. It consists of 3 main parts:</div><br>
