@@ -18,8 +18,8 @@ Direct School Admission (DSA) - Secondary Exercise for admission to Secondary On
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from Sec 1 till Sec 4/5.<br><br>
 The DSA - Sec Exercise is conducted in 3 main stages as follows:  
 <ul>
-<li>Selection Stage (27 June - 12 Sep 2023)</li>
-<li>School Preference Submission Stage (31 Oct to 4 Nov 2023)</li>
+<li>Selection Stage (June to September 2023)</li>
+<li>School Preference Submission Stage (Late October 2023)</li>
 <li>Results Release Stage (Late November 2023)</li></ul>
 <br>
 The selection criteria and process for the talent areas will be updated from early May.  For more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a><br><br>
