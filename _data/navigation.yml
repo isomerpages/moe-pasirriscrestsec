@@ -15,7 +15,7 @@ links:
   - title: 2023 DSA-SEC
     url: /2023-dsa-sec/
   - title: About Us (Sub Menu)
-    url: /about-us/
+    url: /about-us/PrincipalsMessage/
     sublinks:
       - title: Principal's Message
         url: /about-us/PrincipalsMessage/
