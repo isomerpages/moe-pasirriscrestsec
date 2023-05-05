@@ -23,8 +23,6 @@ links:
         url: /about-us/ContactUs/
       - title: LinkToStudentPortal
         url: /students/studentportal/
-  - title: About Us
-    collection: about-us
   - title: Students
     collection: students
   - title: Departments
