@@ -1,7 +1,7 @@
 logo: /images/school logo pdf.jpg
 links:
   - title: About Us
-    url: /about-us
+    url: /about-us/
     sublinks:
       - title: Principal's Message
         url: /about-us/PrincipalsMessage/
@@ -11,7 +11,7 @@ links:
         url: /about-us/OurSchoolSong/
       - title: 360 Virtual Tour
         url: /about-us/360VirtualTour/
-      - title: Our History (X)
+      - title: Our History
         url: /permalink
       - title: Our Staff
         url: /about-us/OurStaff/
