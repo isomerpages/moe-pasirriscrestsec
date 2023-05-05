@@ -1,6 +1,29 @@
 logo: /images/school logo pdf.jpg
 links:
   - title: About Us
+    url: /about-us/PrincipalsMessage/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/PrincipalsMessage/
+      - title: Mission,Vision,Values & Motto
+        url: /about-us/OurMissionVisionValuesandMotto/
+      - title: Our School Song
+        url: /about-us/OurSchoolSong/
+      - title: 360 Virtual Tour
+        url: /about-us/360VirtualTour/
+      - title: Our History
+        url: /about-us/Our-History/Our-Heritage/
+      - title: Our Staff
+        url: /about-us/OurStaff/
+      - title: School Advisory Committee
+        url: /about-us/SchoolAdvisoryCommittee/
+      - title: School Achievements
+        url: /about-us/School-Achievements/AcademicAchievementinNationalExaminations/
+      - title: Contact Us
+        url: /about-us/ContactUs/
+      - title: LinkToStudentPortal
+        url: /students/studentportal/
+  - title: About Us
     collection: about-us
   - title: Students
     collection: students
@@ -14,26 +37,3 @@ links:
     url: /Overcomers/
   - title: 2023 DSA-SEC
     url: /2023-dsa-sec/
-  - title: About Us (Sub Menu)
-    url: /about-us/PrincipalsMessage/
-    sublinks:
-      - title: Principal's Message
-        url: /about-us/PrincipalsMessage/
-      - title: Mission,Vision,Values & Motto
-        url: /about-us/OurMissionVisionValuesandMotto/
-      - title: Our School Song
-        url: /about-us/OurSchoolSong/
-      - title: 360 Virtual Tour
-        url: /about-us/360VirtualTour/
-      - title: Our History
-        url: /permalink
-      - title: Our Staff
-        url: /about-us/OurStaff/
-      - title: School Advisory Committee
-        url: /about-us/SchoolAdvisoryCommittee/
-      - title: School Achievements (X)
-        url: /permalink
-      - title: Contact Us
-        url: /about-us/ContactUs/
-      - title: LinkToStudentPortal
-        url: /students/studentportal/
