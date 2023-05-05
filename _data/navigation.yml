@@ -1,6 +1,20 @@
 logo: /images/school logo pdf.jpg
 links:
-  - title: About Us
+  - title: "About Us "
+    collection: about-us
+  - title: Students
+    collection: students
+  - title: Departments
+    collection: departments
+  - title: CCA
+    collection: cca
+  - title: Parents
+    collection: parents
+  - title: Overcomers
+    url: /Overcomers/
+  - title: 2023 DSA-SEC
+    url: /2023-dsa-sec/
+  - title: About Us (Sub Menu)
     url: /about-us/
     sublinks:
       - title: Principal's Message
@@ -21,15 +35,3 @@ links:
         url: /permalink
       - title: Contact Us
         url: /about-us/ContactUs/
-  - title: Students
-    collection: students
-  - title: Departments
-    collection: departments
-  - title: CCA
-    collection: cca
-  - title: Parents
-    collection: parents
-  - title: Overcomers
-    url: /Overcomers/
-  - title: 2023 DSA-SEC
-    url: /2023-dsa-sec/
