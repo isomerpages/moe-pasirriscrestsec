@@ -255,10 +255,12 @@ Active and Concerned Citizen with Global Awareness</div>
 <p>Since 2006, PRCS has been sending a team of teachers and students to Cambodia for a 10-day VIA project. Following a review of the OVIA programme, the school currently focuses on supporting communities in Vietnam. Through this programme, students will develop a sense of global awareness as they provide assistance to improve the education and living infrastructure of the local schools and villages. Students also participate in the crafting of learning materials and experiences for the children in the villages. OVIA experiences will include customised learning journeys for our students to help deepen their understanding and appreciation of the culture and history of another member country in ASEAN.</p>
 	
 </div></li>
+
 <input type="checkbox" id="accordion5">
 <label for="accordion5">NATIONAL EDUCATION</label><div>
-<div>
+
 <h3>National Education (NE)</h3>
+
 <p>National Education (NE) aims to develop national cohesion, cultivate the instinct for survival as a nation and instil in our students, confidence in our nation's future. Students will develop an awareness of facts, circumstances and opportunities facing Singapore, so that they will be able to make decisions for their future with conviction and realism. It also emphasises the importance of cultivating a sense of belonging to Singapore.</p>
 <p>NE is infused into the different aspects of the school’s total curriculum. Through the school’s CCE curriculum, we aim to develop in students skills related to citizenship competencies in the domain of civic literacy, global awareness and cross-cultural (CGC) skills. Key components of the curriculum include VIA, commemoration of the four NE days, CCE lessons and the use of current affairs in developing students’ citizenship competencies. These are some of the significant programmes held annually:</p>
 <h3>National Day</h3>
@@ -316,7 +318,7 @@ Active and Concerned Citizen with Global Awareness</div>
 <div>Based on research, the use of current affairs can shape attitudes that lead to an informed and engaged citizenship and develop cultural intelligence. It allows students to develop an awareness of the self, the community, the nation and the world.</div>
 <div>The school believes that the use of current affairs allows the curriculum content to be connected to students’ lives, which increases student engagement and develops students’ social and global awareness. It can also build students’ autonomy and desire to take action to contribute towards the betterment of the society.&nbsp;</div>
 <div>Students who wish to advocate for causes they feel strongly for, or express their opinions on current affairs, are also given the platform to do so through the weekly Advocacy Programme. Through these experiences, students will be able to develop their critical thinking and analytical skills, and build their confidence in public speaking.</div>
-</div>
+
 </div>
 
 
@@ -348,6 +350,5 @@ During my elections, I campaigned along with the other nominees to contest for t
 <input type="checkbox" id="accordion7">
 <label for="accordion7">THE CCA EXPERIENCE</label><div>
 <p><img src="https://prcss.moe.edu.sg/qql/slot/u200/images/crestian_experience/cce1.jpg" alt="CCA Experience - Image 01"><br><br>I am Hilmey from class 3/2. I was selected to represent Singapore and my School for ICEP United Kingdom held at Sussex, Nesscliff. I really learnt a lot of values that have inspired me. I was amazed by their culture and how different it is from that of Singapore. The people there were friendly and extremely polite. There were so many activities that I enjoyed. For example I learnt how to use and fire 2 UK assault rifles, the L98A2 rifle and the one slot bullet rifle called the .22 Calibre rifle. It was a once-in- a lifetime experience to handle and shoot what the British army soldiers are using! This was a great opportunity given to me. In another activity, I learnt how to attack the enemy with different types of useful strategies. I could use these strategies in my National Service in the future and also to teach my fellow NCC cadets. One of the most exciting experiences was the Field Training Exercise where we went through real-war scenario. We had to do patrol just like real soldiers, use hands signals, set up a basha to sleep in, carry out sentry duties at night, eat a 24-hours combat ration pack and finally carry out the Final Assault where we fired blank rounds at the enemy during the ambush. During the cultural visits, we went to the National Museum Arboretum, Snowden, Shrewburry in the city and England’s biggest theme park, Alton Towers. On the last day, we took pictures with all the cadets and officers in Sussex. It was really depressing for me as time flew too quickly. I miss my bunk bed and all the adventures I had with my friends in Sussex. The memories I have with them are unforgettable. Fortunately, we are still in contact through Facebook. As the Unit Sergeant Major in NCC (Boys), I will share my experience with my unit and lead the unit to maintain its high standard.</p>
-	</div>
-</li>
+</div></li>
 </div></div></ul>
