@@ -75,7 +75,7 @@ Active and Concerned Citizen with Global Awareness</div>
 	
 <li>
 <input type="checkbox" id="accordion3">
-<label for="accordion3">LEVEL CAMPS</label>
+<label for="accordion3">LEVEL CAMPS</label><div>
 	
 <h4 style="color: orange;">Level Camps: An Overview</h4>
 <p>Level Camps serve the larger purpose of a holistic education, inculcating school values, SEL competencies and important lifeskills through outdoor activities. At PRCS, every student participates in the Level Camps during the last three days of Term 1.</p>
@@ -210,11 +210,11 @@ Active and Concerned Citizen with Global Awareness</div>
 </tbody>
 </table>
 </div>
+</div></li>
 
-</li>
 <li>
 <input type="checkbox" id="accordion4">
-<label for="accordion4">VALUES IN ACTION PROGRAMME</label>
+<label for="accordion4">VALUES IN ACTION PROGRAMME</label><div>
 	<h4 style="color: orange;">Overview</h4>
 <p>Values in Action (VIA) is an integral part of Character and Citizenship Education (CCE), aligned to the school’s desired learning outcome of nurturing student to become&nbsp;<strong><em>Active and Concerned Citizens with Global Awareness</em></strong>. VIA are learning experiences that support our students’ development as&nbsp;<strong>socially responsible citizens who contribute meaningfully to the community</strong>, through the learning and application of school values, knowledge and skills.</p>
 <h4 style="color: orange;">Objectives</h4>
@@ -254,9 +254,9 @@ Active and Concerned Citizen with Global Awareness</div>
 <p>Overseas Values-in-Action (OVIA): Vietnam</p>
 <p>Since 2006, PRCS has been sending a team of teachers and students to Cambodia for a 10-day VIA project. Following a review of the OVIA programme, the school currently focuses on supporting communities in Vietnam. Through this programme, students will develop a sense of global awareness as they provide assistance to improve the education and living infrastructure of the local schools and villages. Students also participate in the crafting of learning materials and experiences for the children in the villages. OVIA experiences will include customised learning journeys for our students to help deepen their understanding and appreciation of the culture and history of another member country in ASEAN.</p>
 	
-</li>
+</div></li>
 <input type="checkbox" id="accordion5">
-<label for="accordion5">NATIONAL EDUCATION</label>
+<label for="accordion5">NATIONAL EDUCATION</label><div>
 <div>
 <h3>National Education (NE)</h3>
 <p>National Education (NE) aims to develop national cohesion, cultivate the instinct for survival as a nation and instil in our students, confidence in our nation's future. Students will develop an awareness of facts, circumstances and opportunities facing Singapore, so that they will be able to make decisions for their future with conviction and realism. It also emphasises the importance of cultivating a sense of belonging to Singapore.</p>
@@ -318,12 +318,22 @@ Active and Concerned Citizen with Global Awareness</div>
 <div>Students who wish to advocate for causes they feel strongly for, or express their opinions on current affairs, are also given the platform to do so through the weekly Advocacy Programme. Through these experiences, students will be able to develop their critical thinking and analytical skills, and build their confidence in public speaking.</div>
 </div>
 </div>
-</div>
+
 
 <li>
 <input type="checkbox" id="accordion6">
-<label for="accordion6">LEADERSHIP DEVELOPMENT</label>
-<div>##### Leadership Development Programme: An Overview The PRCS approach stems from the belief that all students can be trained to be leaders, hence ‘Every Crestian A Leader’. The ‘Crestian Leader’ is defined as one who embodies the school values and the 21st Century Competencies as outlined in the school’s desired student learning outcomes. The student would also have been developed in the areas of self, peer and service leadership competencies, as well as the SEL competencies. The school has a two-tier approach to student leadership development. The first tier is for the student cohort population, and the second for the selected student leaders. First, every Crestian goes through the three developmental stages of the leadership training programme for the cohort, from Self Leadership (Sec 1) to Peer Leadership (Sec 2) and finally to Service Leadership (upper Sec). At each stage, key leadership competencies are developed through explicit teaching in training workshops, and providing opportunities for practice during school programmes. The leadership programme is planned and delivered based on the CCE 4A framework – Awareness, Attitude, Action and Autonomy. Students are first trained through explicit teaching of the relevant leadership competencies and attitude at each stage through Leadership Training Workshops. Every student is given the opportunity to put such leadership competencies into action through participating in the school programmes. FOREWORD BY NEWLY ELECTED PRESIDENT OF STUDENT COUNCIL BOARD: AHMED FARIHIN, 3/5 -------------------------------------------------------------------------------- #### “A hero can be anyone. Even a man doing something as simple and reassuring as putting a coat over a little boys shoulder to let him know the world hadn't ended.” ~Batman ![President of Student Council Board: Ahmed Farihin](https://prcss.moe.edu.sg/qql/slot/u200/images/crestian_experience/ld1.jpg) Greetings to Mrs. Woo, Mr. Ng, Mrs. Toh, teachers and fellow Crestians! I am Ahmed Farihin from class 3/5 and I am the newly elected President of the Student Council Board. When I was in Secondary one, I never thought that I would become the President of the Council Board one day. Getting to this point was indeed a tough journey. I had to undergo interviews, elections, not to mention, the scrutiny of teachers and peers.
+<label for="accordion6">LEADERSHIP DEVELOPMENT</label><div>
+
+<h5> Leadership Development Programme: </h5>
+
+An Overview The PRCS approach stems from the belief that all students can be trained to be leaders, hence ‘Every Crestian A Leader’. The ‘Crestian Leader’ is defined as one who embodies the school values and the 21st Century Competencies as outlined in the school’s desired student learning outcomes. The student would also have been developed in the areas of self, peer and service leadership competencies, as well as the SEL competencies. The school has a two-tier approach to student leadership development. The first tier is for the student cohort population, and the second for the selected student leaders. First, every Crestian goes through the three developmental stages of the leadership training programme for the cohort, from Self Leadership (Sec 1) to Peer Leadership (Sec 2) and finally to Service Leadership (upper Sec). At each stage, key leadership competencies are developed through explicit teaching in training workshops, and providing opportunities for practice during school programmes. The leadership programme is planned and delivered based on the CCE 4A framework – Awareness, Attitude, Action and Autonomy. Students are first trained through explicit teaching of the relevant leadership competencies and attitude at each stage through Leadership Training Workshops. Every student is given the opportunity to put such leadership competencies into action through participating in the school programmes. 
+
+<h4> “A hero can be anyone. Even a man doing something as simple and reassuring as putting a coat over a little boys shoulder to let him know the world hadn't ended.” ~Batman </h4>
+
+Greetings to Mrs. Woo, Mr. Ng, Mrs. Toh, teachers and fellow Crestians! I am Ahmed Farihin from class 3/5 and I am the newly elected President of the Student Council Board. When I was in Secondary one, I never thought that I would become the President of the Council Board one day. Getting to this point was indeed a tough journey. I had to undergo interviews, elections, not to mention, the scrutiny of teachers and peers. 
+
+FOREWORD BY NEWLY ELECTED PRESIDENT OF STUDENT COUNCIL BOARD: AHMED FARIHIN, 3/5 
+
 <table>
 <tbody>
 <tr>
@@ -336,8 +346,8 @@ During my elections, I campaigned along with the other nominees to contest for t
 </li>
 <li>
 <input type="checkbox" id="accordion7">
-<label for="accordion7">THE CCA EXPERIENCE</label>
+<label for="accordion7">THE CCA EXPERIENCE</label><div>
 <p><img src="https://prcss.moe.edu.sg/qql/slot/u200/images/crestian_experience/cce1.jpg" alt="CCA Experience - Image 01"><br><br>I am Hilmey from class 3/2. I was selected to represent Singapore and my School for ICEP United Kingdom held at Sussex, Nesscliff. I really learnt a lot of values that have inspired me. I was amazed by their culture and how different it is from that of Singapore. The people there were friendly and extremely polite. There were so many activities that I enjoyed. For example I learnt how to use and fire 2 UK assault rifles, the L98A2 rifle and the one slot bullet rifle called the .22 Calibre rifle. It was a once-in- a lifetime experience to handle and shoot what the British army soldiers are using! This was a great opportunity given to me. In another activity, I learnt how to attack the enemy with different types of useful strategies. I could use these strategies in my National Service in the future and also to teach my fellow NCC cadets. One of the most exciting experiences was the Field Training Exercise where we went through real-war scenario. We had to do patrol just like real soldiers, use hands signals, set up a basha to sleep in, carry out sentry duties at night, eat a 24-hours combat ration pack and finally carry out the Final Assault where we fired blank rounds at the enemy during the ambush. During the cultural visits, we went to the National Museum Arboretum, Snowden, Shrewburry in the city and England’s biggest theme park, Alton Towers. On the last day, we took pictures with all the cadets and officers in Sussex. It was really depressing for me as time flew too quickly. I miss my bunk bed and all the adventures I had with my friends in Sussex. The memories I have with them are unforgettable. Fortunately, we are still in contact through Facebook. As the Unit Sergeant Major in NCC (Boys), I will share my experience with my unit and lead the unit to maintain its high standard.</p>
-	
+	</div>
 </li>
-</ul>
+</div></div></ul>
