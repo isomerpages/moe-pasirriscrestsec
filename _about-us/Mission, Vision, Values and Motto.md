@@ -1,6 +1,6 @@
 ---
-title: Our Mission, Vision, Values and Motto
-permalink: /about-us/OurMissionVisionValuesandMotto/
+title: Mission, Vision, Values and Motto
+permalink: /about-us/missionvisionvaluesandmotto/
 description: ""
 ---
 <h3>MISSION:</h3>

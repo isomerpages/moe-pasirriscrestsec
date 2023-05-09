@@ -2,7 +2,7 @@
 layout: homepage
 title: Pasir Ris Crest Secondary School
 description: Pasir Ris Crest Secondary School
-image: /images/logo.png
+image: /images/prcs school logo.png
 permalink: /
 notification: ""
 sections:

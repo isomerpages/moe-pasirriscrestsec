@@ -1,6 +1,6 @@
 ---
-title: Our Staff
-permalink: /about-us/OurStaff/
+title: School Staff
+permalink: /about-us/schoolstaff/
 description: ""
 ---
 <h1>Our Staff</h1>
@@ -12,7 +12,7 @@ description: ""
 		<div>
 			<img src="/images/Our Staff/SLs_v1.jpg">
 			</div>
-			</li>
+			</div></li>
 		<li>
 			<input type="checkbox" id="accordion2" class="hidecontent">
 			<label for="accordion2">KEY PERSONNEL</label>
@@ -20,7 +20,7 @@ description: ""
 			<div>
 				<img src="/images/Our Staff/Heads_v1.jpg">
 				</div>
-		</li>
+		</div></li>
 		<li>
 			<input type="checkbox" id="accordion3" class="hidecontent">
 			<label for="accordion3">HOME TUTORS</label>
@@ -29,6 +29,6 @@ description: ""
 				<img src="/images/Our Staff/HTs1_v1.jpg">
 				<img src="/images/Our Staff/HTs2_v1.jpg">
 				</div>
-				</li>
+				</div></li>
 	
 </ul>

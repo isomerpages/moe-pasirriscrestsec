@@ -1,24 +1,24 @@
-logo: /images/logo.png
+logo: /images/school logo pdf.jpg
 links:
   - title: About Us
-    url: /about-us
+    url: /about-us/PrincipalsMessage/
     sublinks:
       - title: Principal's Message
         url: /about-us/PrincipalsMessage/
       - title: Mission,Vision,Values & Motto
-        url: /about-us/OurMissionVisionValuesandMotto/
-      - title: Our School Song
-        url: /about-us/OurSchoolSong/
+        url: /about-us/missionvisionvaluesandmotto/
+      - title: School Song
+        url: /about-us/schoolsong/
       - title: 360 Virtual Tour
         url: /about-us/360VirtualTour/
-      - title: Our History (X)
-        url: /permalink
+      - title: Our History
+        url: /about-us/Our-History/Our-Heritage/
       - title: Our Staff
         url: /about-us/OurStaff/
       - title: School Advisory Committee
         url: /about-us/SchoolAdvisoryCommittee/
-      - title: School Achievements (X)
-        url: /permalink
+      - title: School Achievements
+        url: /about-us/School-Achievements/AcademicAchievementinNationalExaminations/
       - title: Contact Us
         url: /about-us/ContactUs/
   - title: Students
