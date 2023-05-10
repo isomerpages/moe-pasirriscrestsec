@@ -2,7 +2,7 @@ collections:
   parents:
     output: true
     order:
-      - Communication With Parents.md
+      - Communication With Parents (to be removed).md
       - CWP/.keep
       - CWP/2023 Secondary 1 Registration.md
       - "CWP/S1 Registration: Welcome Address by Principal.md"
