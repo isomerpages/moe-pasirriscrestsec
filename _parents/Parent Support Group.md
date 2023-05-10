@@ -3,8 +3,6 @@ title: Parent Support Group
 permalink: /parents/parentsupportgroup/
 description: ""
 ---
-Dear Crestians/Parents/Guardians,
+![](/images/psg%20group.jpeg)
 
-Please visit https://sites.google.com/moe.edu.sg/psg for more information on PRCS Parent Support Group.
-
-Thank you
+Click [here](https://sites.google.com/moe.edu.sg/psg) to find out more about the Parent Support Group
