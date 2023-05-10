@@ -28,13 +28,15 @@ links:
   - title: CCA
     collection: cca
   - title: Parents
-    collection: parents
+    url: /parents/communication-with-parents/2023-secondary-1-registration/
+    sublinks:
+      - title: Communication With Parents
+        url: /parents/communication-with-parents/2023-secondary-1-registration/
+      - title: PDL Programme
+        url: /parents/PersonalisedDigitalLearningProgramme/
+      - title: Parent Support Group
+        url: https://sites.google.com/moe.edu.sg/psg
   - title: Overcomers
     url: /Overcomers/
   - title: 2023 DSA-SEC
     url: /2023-dsa-sec/
-  - title: Parents
-    url: /parents/communication-with-parents/2023-secondary-1-registration/
-    sublinks:
-      - title: Submenu Title
-        url: /permalink
