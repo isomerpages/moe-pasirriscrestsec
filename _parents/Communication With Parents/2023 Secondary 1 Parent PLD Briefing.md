@@ -4,7 +4,7 @@ permalink: /parents/CWP/permalink/4/
 description: ""
 third_nav_title: Communication With Parents
 ---
-<h3>2022 SEC 1 PARENT PLD BRIEFING</h3>
+<h3>2023 SEC 1 PARENT PLD BRIEFING</h3>
 
 <div>
 Dear Parents /Guardians,<br>
