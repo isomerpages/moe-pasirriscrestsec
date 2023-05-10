@@ -2,14 +2,15 @@ collections:
   parents:
     output: true
     order:
-      - Communication With Parents.md
-      - CWP/.keep
-      - CWP/2023 Secondary 1 Registration.md
-      - "CWP/S1 Registration: Welcome Address by Principal.md"
-      - "CWP/S1 Registration: SBB Briefing.md"
-      - CWP/2023 Secondary 2 Subject Combination on 9 February.md
-      - CWP/2023 Termly Letter to Parents.md
-      - CWP/2023 Secondary 1 Parent PLD Briefing.md
+      - Communication With Parents/.keep
+      - Communication With Parents/2023 Secondary 1 Registration.md
+      - "Communication With Parents/S1 Registration: Welcome Address by
+        Principal.md"
+      - "Communication With Parents/S1 Registration: SBB Briefing.md"
+      - Communication With Parents/2023 Secondary 2 Subject Combination on 9
+        February.md
+      - Communication With Parents/2023 Termly Letter to Parents.md
+      - Communication With Parents/2023 Secondary 1 Parent PLD Briefing.md
       - Personalised Digital Learning Programme (PDLP).md
       - Parent Support Group.md
       - Parents Gateway.md

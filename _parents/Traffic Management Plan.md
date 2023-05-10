@@ -1,6 +1,6 @@
 ---
 title: Traffic Management Plan
-permalink: /parents/TrafficManagementPlan/
+permalink: /parents/trafficmanagementplan/
 description: ""
 ---
 Traffic Management Plan

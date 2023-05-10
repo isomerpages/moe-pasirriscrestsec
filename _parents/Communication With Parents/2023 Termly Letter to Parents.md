@@ -2,10 +2,8 @@
 title: 2023 Termly Letter to Parents
 permalink: /parents/CWP/permalink/3/
 description: ""
-third_nav_title: CWP
+third_nav_title: Communication With Parents
 ---
-
-
 <h3>2023 Termly Letter to Parents</h3>
 
 Dear Parents /Guardians,
@@ -29,5 +27,4 @@ The Termly Letters to Parents summarising the latest school updates for all leve
 <a href="/files/2023%20Termly%20Letter%20to%20Parents/17%20Jan%20Level%20letter%20Sec%204NT%202023.pdf">17 Jan Level letter (Sec 4NT) 2023</a><br>
 <a href="/files/2023%20Termly%20Letter%20to%20Parents/17%20Jan%20Level%20letter%20Sec%203NA%202023.pdf">17 Jan Level letter (Sec 4NA) 2023</a><br>
 <a href="/files/2023%20Termly%20Letter%20to%20Parents/17%20Jan%20Level%20letter%20Sec%204E%202023.pdf">17 Jan Level letter (Sec 4E) 2023</a><br>
-<a href="/files/2023%20Termly%20Letter%20to%20Parents/17%20Jan%20Level%20letter%20Sec%205N%202023.pdf">17 Jan Level letter (Sec 5N) 2023</a></div>
-</li>
+<a href="/files/2023%20Termly%20Letter%20to%20Parents/17%20Jan%20Level%20letter%20Sec%205N%202023.pdf">17 Jan Level letter (Sec 5N) 2023</a>

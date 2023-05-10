@@ -1,6 +1,6 @@
 ---
-title: Our Heritage
-permalink: /about-us/Our-History/Our-Heritage/
+title: School Heritage
+permalink: /about-us/school-history/school-heritage/
 description: ""
 third_nav_title: School History
 ---

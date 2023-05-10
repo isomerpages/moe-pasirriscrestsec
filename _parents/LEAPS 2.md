@@ -1,6 +1,6 @@
 ---
 title: LEAPS 2
-permalink: /parents/LEAPS2/
+permalink: /parents/leaps2/
 description: ""
 ---
 LEAPS 2.0
