@@ -9,7 +9,7 @@ third_nav_title: Communication With Parents
 <div>
 Dear Parents /Guardians,<br>
 <br>
-These are the slides for the Sec 1 Parent PLD Briefing conducted virtually on Friday, 4&nbsp;March&nbsp;2022.<br>
+These are the slides for the Sec 1 Parent PLD Briefing conducted virtually on Friday, 4&nbsp;March&nbsp;2023.<br>
 <br>
 <a href="/files/2023%20Sec%201%20Parent%20PLD%20Briefing%20-%20Parents.pdf">Sec 1 Parent PLD Briefing</a><br>
 <br>
