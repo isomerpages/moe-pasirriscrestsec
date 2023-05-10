@@ -33,3 +33,8 @@ links:
     url: /Overcomers/
   - title: 2023 DSA-SEC
     url: /2023-dsa-sec/
+  - title: Parents
+    url: /parents/CWP/permalink/1/
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
