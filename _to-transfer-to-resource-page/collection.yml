@@ -2,6 +2,7 @@ collections:
   to-transfer-to-resource-page:
     output: true
     order:
+      - Communication With Parents (to be removed).md
       - Open House 2022.md
       - ICT.md
       - Latest News Overview.md
