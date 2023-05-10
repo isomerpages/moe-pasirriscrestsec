@@ -6,12 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-
-
-
-
 Dear Crestians/Parents/Guardians,
 
 Please click on the link below to view the details for Sec 2 Subject combination:
 
-[**Click Here**](https://staging.d36c9s2800gq6y.amplifyapp.com/parents/CommunicationWithParents/)
+[**Click Here**](/parents/CWP/permalink/2/)
