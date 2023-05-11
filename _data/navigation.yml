@@ -25,8 +25,8 @@ links:
     collection: students
   - title: Departments
     collection: departments
-  - title: CCA
-    collection: cca
+  - title: CCAs
+    url: https://sites.google.com/moe.edu.sg/ccas
   - title: Parents
     url: /parents/communication-with-parents/2023-secondary-1-registration/
     sublinks:
@@ -50,5 +50,3 @@ links:
     url: /Overcomers/
   - title: 2023 DSA-SEC
     url: /2023-dsa-sec/
-  - title: CCAs
-    url: https://sites.google.com/moe.edu.sg/ccas
