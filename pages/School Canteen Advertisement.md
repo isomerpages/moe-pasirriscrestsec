@@ -12,10 +12,15 @@ description: ""
 | Western Food Stall | 15 Jul 2023 | NIL|
 | Japanese Stall (halal/non-halal) and Western Food Stall (halal/non-halal) | 20 Jul 2023 | Schools may include any other requirements for stall applicants, if required, or this column may also be removed if desired.| 
 
+**- (TO DELETE) AM TO PROVIDE ABOVE DETAILS **
+
+
 **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-* [Application Form](/files/)
+* [Application Form](/files/School%20Canteen%20Advertisement/formbf7%20(2018).pdf)
+
+**- (TO DELETE) AM TO PROVIDE ATTACHMENT **
 
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
@@ -27,7 +32,9 @@ description: ""
 * Address: 11 Pasir Ris Street 41 Singapore 518934
 * Contact No: 6581 1655
 * Email: [prcss@moe.edu.sg](mailto:prcss@moe.edu.sg)
-* Contact Person: Mdm ???
+* Contact Person: Mdm Charmaine? /  Mdm Irene? / Mdm Susan? / Ms Sarah? / Mdm Tang?
+
+**- (TO DELETE) AM TO PROVIDE ABOVE DETAILS **
 
 **How to get there?**
 * Nearest MRT: Pasir Ris MRT
@@ -40,11 +47,13 @@ description: ""
 * Able to maintain high standard of food safety and personal hygiene.
 * Healthy and fit to operate the stall.
 
+**- (TO DELETE) AM TO PROVIDE ABOVE DETAILS **
 
 **Applicants should preferably fulfil the following criteria:**
 * Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
 * Possess catering experience or experience operating in a school environment.
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA). 
 
+**- (TO DELETE) AM TO PROVIDE ABOVE DETAILS **
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
