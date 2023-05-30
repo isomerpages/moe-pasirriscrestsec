@@ -97,12 +97,13 @@ description: ""
 
   
 
-11. Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp; [here](/files/Sexuality%20Education/gy%20parent%20consent%20form_2023.pdf). The completed form is to be submitted by 28/02/2022.
-
+11. Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Sexuality%20Education/gy%20parent%20consent%20form_2023.pdf">here</a>. The completed form is to be submitted by 28/02/2022.
   
 
-12. Parents who wish to opt their children out of the&nbsp;**_eTeens_**&nbsp;**programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](/files/Sexuality%20Education/eteens%20opt%20out%20form_2023.pdf). The completed form is to be submitted by 28/02/2022.
-  
+12. Parents who wish to opt their children out of the&nbsp;**_eTeens_**&nbsp;**programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a href="/files/Sexuality%20Education/eteens%20opt%20out%20form_2023.pdf">here</a>
+
+	
+The completed form is to be submitted by 28/02/2022.
 
 13. Parents can contact Ms Conceicao Daphnie Colette \[SH/Citizenship Education\] at&nbsp;[conceicao\_daphnie\_colette@schools.gov.sg](mailto:conceicao_daphnie_colette@schools.gov.sg)&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
 
