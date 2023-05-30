@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Sexuality Education (2023).md
       - Communication With Parents/.keep
       - Communication With Parents/2023 Secondary 1 Registration.md
       - "Communication With Parents/S1 Registration: Welcome Address by
@@ -15,6 +14,7 @@ collections:
       - Personalised Digital Learning Programme (PDLP).md
       - Parent Support Group.md
       - Parents Gateway.md
+      - Sexuality Education (2023).md
       - Sexuality Education (2022).md
       - Traffic Management Plan.md
       - LEAPS 2.md
