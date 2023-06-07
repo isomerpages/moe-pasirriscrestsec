@@ -24,7 +24,8 @@ links:
   - title: Students
     collection: students
   - title: Departments
-    collection: departments
+    url: https://sites.google.com/moe.edu.sg/prcss-departments/
+    sublinks: []
   - title: CCAs
     url: https://sites.google.com/moe.edu.sg/ccas
   - title: Parents
