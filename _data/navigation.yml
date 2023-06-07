@@ -46,6 +46,15 @@ links:
         url: https://sites.google.com/moe.edu.sg/prcss-departments/cce
   - title: CCAs
     url: https://sites.google.com/moe.edu.sg/ccas
+    sublinks:
+      - title: Sports
+        url: https://sites.google.com/moe.edu.sg/ccas/sports
+      - title: Uniformed Groups
+        url: https://sites.google.com/moe.edu.sg/ccas/uniformed-groups
+      - title: Performing Arts
+        url: https://sites.google.com/moe.edu.sg/ccas/performing-arts
+      - title: Clubs and Societies
+        url: https://sites.google.com/moe.edu.sg/ccas/clubs-and-societies
   - title: Parents
     url: /parents/communication-with-parents/2023-secondary-1-registration/
     sublinks:
