@@ -25,6 +25,9 @@ links:
     collection: students
   - title: Departments
     url: https://sites.google.com/moe.edu.sg/prcss-departments/
+    sublinks:
+      - title: Aesthetics, Craft & Technology
+        url: https://sites.google.com/moe.edu.sg/prcss-departments/act
   - title: CCAs
     url: https://sites.google.com/moe.edu.sg/ccas
   - title: Parents
