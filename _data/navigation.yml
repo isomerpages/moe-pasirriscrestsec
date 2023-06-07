@@ -28,6 +28,12 @@ links:
     sublinks:
       - title: Aesthetics, Craft & Technology
         url: https://sites.google.com/moe.edu.sg/prcss-departments/act
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
   - title: CCAs
     url: https://sites.google.com/moe.edu.sg/ccas
   - title: Parents
