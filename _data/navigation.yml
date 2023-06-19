@@ -47,60 +47,27 @@ links:
         url: https://sites.google.com/moe.edu.sg/ccas
       - title: Full Subject Based Banding
         url: /fullsubjectbasedbanding2023/
-  - title: Students
-    collection: students
-  - title: Departments
-    url: https://sites.google.com/moe.edu.sg/prcss-departments/
+  - title: Support
+    url: /support/pdlp/
     sublinks:
-      - title: Aesthetics, Craft & Technology
-        url: https://sites.google.com/moe.edu.sg/prcss-departments/act
-      - title: English & Literature
-        url: https://sites.google.com/moe.edu.sg/prcss-departments/e-l
-      - title: Humanities
-        url: https://sites.google.com/moe.edu.sg/prcss-departments/hum
-      - title: Mathematics
-        url: https://sites.google.com/moe.edu.sg/prcss-departments/math
-      - title: Mother Tongue Languages
-        url: https://sites.google.com/moe.edu.sg/prcss-departments/mtl
-      - title: Physical Education
-        url: https://sites.google.com/moe.edu.sg/prcss-departments/pe
-      - title: Science
-        url: https://sites.google.com/moe.edu.sg/prcss-departments/sci
-      - title: ICT
-        url: https://sites.google.com/moe.edu.sg/prcss-departments/ict
-      - title: Character & Citizenship Edu.
-        url: https://sites.google.com/moe.edu.sg/prcss-departments/cce
+      - title: Personalised Digital Learning
+        url: /support/pdlp/
+      - title: Parents Gateway
+        url: /support/parentsgateway/
+      - title: Financial Assistance
+        url: /support/financial-assistance/
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
       - title: Useful Links
-        url: /departments/UsefulLinks/
-  - title: CCAs
-    url: https://sites.google.com/moe.edu.sg/ccas
-    sublinks:
-      - title: Sports
-        url: https://sites.google.com/moe.edu.sg/ccas/sports
-      - title: Uniformed Groups
-        url: https://sites.google.com/moe.edu.sg/ccas/uniformed-groups
-      - title: Performing Arts
-        url: https://sites.google.com/moe.edu.sg/ccas/performing-arts
-      - title: Clubs and Societies
-        url: https://sites.google.com/moe.edu.sg/ccas/clubs-and-societies
+        url: https://sites.google.com/moe.edu.sg/prcss-useful-links/
   - title: Parents
-    url: /parents/communication-with-parents/2023-secondary-1-registration/
+    url: /parents/parentsupportgroup/
     sublinks:
-      - title: Communication With Parents
-        url: /parents/communication-with-parents/2023-secondary-1-registration/
-      - title: PDL Programme
-        url: /parents/PersonalisedDigitalLearningProgramme/
       - title: Parent Support Group
         url: https://sites.google.com/moe.edu.sg/psg
-      - title: Parents Gateway
-        url: /parents/parentsgateway/
-      - title: Sexuality Education
-        url: https://sites.google.com/moe.edu.sg/sexuality-education/
-      - title: Traffic Management Plan
-        url: /parents/trafficmanagementplan/
-      - title: LEAPS 2
-        url: /parents/leaps2/
-      - title: Useful Links
-        url: /parents/usefullinks/
+      - title: Alumni (Coming Soon)
+        url: /parents/alumni
   - title: 2023 DSA-SEC
     url: /2023-dsa-sec/
