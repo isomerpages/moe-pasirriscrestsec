@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School History (New).md
       - School History.md
       - Principal's Message.md
       - Vision, Mission, Value and Motto.md
