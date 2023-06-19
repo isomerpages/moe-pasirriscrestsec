@@ -2,7 +2,12 @@ collections:
   parents:
     output: true
     order:
+      - Parent Support Group.md
       - Alumni.md
+      - Sexuality Education.md
+      - Traffic Management Plan.md
+      - LEAPS 2.md
+      - Useful Links.md
       - Communication With Parents/.keep
       - Communication With Parents/2023 Secondary 1 Registration.md
       - "Communication With Parents/S1 Registration: Welcome Address by
@@ -12,8 +17,3 @@ collections:
         February.md
       - Communication With Parents/2023 Termly Letter to Parents.md
       - Communication With Parents/2023 Secondary 1 Parent PLD Briefing.md
-      - Parent Support Group.md
-      - Sexuality Education.md
-      - Traffic Management Plan.md
-      - LEAPS 2.md
-      - Useful Links.md
