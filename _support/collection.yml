@@ -2,5 +2,6 @@ collections:
   support:
     output: true
     order:
+      - Parents Gateway.md
       - Student Portal.md
       - Personalised Digital Learning Programme (PDLP).md
