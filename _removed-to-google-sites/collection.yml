@@ -2,6 +2,7 @@ collections:
   removed-to-google-sites:
     output: true
     order:
+      - CWP/2023 Secondary 2 Subject Combination on 9 February.md
       - "CWP/S1 Registration: SBB Briefing.md"
       - "CWP/S1 Registration: Welcome Address by Principal.md"
       - CWP/2023 Secondary 1 Registration.md
