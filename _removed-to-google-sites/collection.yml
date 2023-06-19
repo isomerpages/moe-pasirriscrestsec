@@ -2,6 +2,7 @@ collections:
   removed-to-google-sites:
     output: true
     order:
+      - Overcomers.md
       - Crestians in the News.md
       - CCA.md
       - Academic Achievement in National Examinations.md
