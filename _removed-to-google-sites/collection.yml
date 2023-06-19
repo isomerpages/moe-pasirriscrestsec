@@ -2,6 +2,7 @@ collections:
   removed-to-google-sites:
     output: true
     order:
+      - LEAPS 2.md
       - Sexuality Education.md
       - Overcomers.md
       - Crestians in the News.md
