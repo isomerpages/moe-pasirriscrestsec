@@ -9,18 +9,18 @@ links:
         url: /about-us/vision-mission-value-motto/
       - title: School Song
         url: /about-us/schoolsong/
-      - title: 360 Virtual Tour
-        url: /about-us/360VirtualTour/
       - title: School History
         url: https://sites.google.com/moe.edu.sg/prcss-school-history/
       - title: School Staff
         url: /about-us/schoolstaff/
       - title: School Advisory Committee
         url: /about-us/SchoolAdvisoryCommittee/
-      - title: School Achievements
-        url: /about-us/School-Achievements/AcademicAchievementinNationalExaminations/
-      - title: Contact Us
+      - title: Contact Us (x)
         url: /about-us/ContactUs/
+      - title: 360 Virtual Tour (X)
+        url: /about-us/360VirtualTour/
+      - title: School Achievements (X)
+        url: /about-us/School-Achievements/AcademicAchievementinNationalExaminations/
   - title: Students
     collection: students
   - title: Departments
