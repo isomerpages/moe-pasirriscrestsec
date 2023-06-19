@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Contact Us (from about us).md
-      - 360 Virtual Tour.md
+      - 360 Virtual Tour(from about us).md
       - Sexuality Education (2022).md
       - Parent Support Group (isomer migrate from Parent).md
