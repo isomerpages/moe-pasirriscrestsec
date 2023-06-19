@@ -15,12 +15,17 @@ links:
         url: /about-us/schoolstaff/
       - title: School Advisory Committee
         url: /about-us/SchoolAdvisoryCommittee/
-      - title: Contact Us (x)
-        url: /about-us/ContactUs/
-      - title: 360 Virtual Tour (X)
-        url: /about-us/360VirtualTour/
-      - title: School Achievements (X)
-        url: /about-us/School-Achievements/AcademicAchievementinNationalExaminations/
+  - title: Overcomers
+    url: https://sites.google.com/moe.edu.sg/prcss-overcomers/
+    sublinks:
+      - title: Character Awards
+        url: https://sites.google.com/moe.edu.sg/prcss-overcomers/character-awards
+      - title: CCA Achievements
+        url: https://sites.google.com/moe.edu.sg/prcss-overcomers/cca
+      - title: Academic Achievements
+        url: https://sites.google.com/moe.edu.sg/prcss-overcomers/academics
+      - title: Crestians in the News
+        url: https://sites.google.com/moe.edu.sg/prcss-overcomers/news
   - title: Students
     collection: students
   - title: Departments
@@ -76,7 +81,5 @@ links:
         url: /parents/leaps2/
       - title: Useful Links
         url: /parents/usefullinks/
-  - title: Overcomers
-    url: https://sites.google.com/moe.edu.sg/prcss-overcomers/
   - title: 2023 DSA-SEC
     url: /2023-dsa-sec/
