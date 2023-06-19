@@ -2,5 +2,6 @@ collections:
   removed-to-google-sites:
     output: true
     order:
+      - 360 Virtual Tour.md
       - Sexuality Education (2022).md
       - Parent Support Group (isomer migrate from Parent).md
