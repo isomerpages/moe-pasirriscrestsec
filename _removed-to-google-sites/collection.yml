@@ -2,6 +2,7 @@ collections:
   removed-to-google-sites:
     output: true
     order:
+      - 2002.md
       - 2003.md
       - 2004.md
       - 2005.md
