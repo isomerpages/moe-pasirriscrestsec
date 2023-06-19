@@ -2,6 +2,7 @@ collections:
   removed-to-google-sites:
     output: true
     order:
+      - Crestians in the News.md
       - CCA.md
       - Academic Achievement in National Examinations.md
       - 2000.md
