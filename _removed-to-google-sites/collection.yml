@@ -2,6 +2,7 @@ collections:
   removed-to-google-sites:
     output: true
     order:
+      - School History (from about us)/2021.md
       - School History (from about us)/2022.md
       - School History (from about us)/School Heritage.md
       - School History (from about us)/.keep
