@@ -2,6 +2,7 @@ collections:
   removed-to-google-sites:
     output: true
     order:
+      - CWP/2023 Secondary 1 Registration.md
       - CWP/.keep
       - Useful Links from parents.md
       - LEAPS 2.md
