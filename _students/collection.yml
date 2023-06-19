@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Financial Assistance.md
       - Education and Career Advice.md
       - Guidance and Counselling Support.md
       - The Crestian Experience/.keep
