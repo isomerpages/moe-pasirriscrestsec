@@ -2,6 +2,7 @@ collections:
   support:
     output: true
     order:
+      - Expected Student Behaviour (Rules And Regulations).md
       - Personalised Digital Learning Programme (PDLP).md
       - SLS Support & Student Learning Spaces (SLS).md
       - Parents Gateway.md
