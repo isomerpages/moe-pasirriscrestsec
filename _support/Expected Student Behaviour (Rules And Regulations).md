@@ -38,10 +38,10 @@ The following rules and regulations are to be adhered to:
 </tr>
 <tr>
 <td rowspan="2" width="142">
-<p><img src="https://prcss.moe.edu.sg/qql/slot/u200/images/students/boy%201.jpg" alt="Proper Attire - Boy 1"></p>
+<p><img src="/images/Support/EXPECTED%20STUDENT%20BEHAVIOUR/boy_1_.jpg" alt="Proper Attire - Boy 1"></p>
 </td>
 <td width="142">
-<p><img src="https://prcss.moe.edu.sg/qql/slot/u200/images/students/boy%202.jpg" alt="Proper Attire - Boy 2"></p>
+<p><img src="/images/Support/EXPECTED%20STUDENT%20BEHAVIOUR/boy_2_.jpg" alt="Proper Attire - Boy 2"></p>
 </td>
 <td rowspan="2" width="284">
 <ul type="disc">
@@ -56,7 +56,7 @@ The following rules and regulations are to be adhered to:
 </tr>
 <tr>
 <td width="142">
-<p><img src="https://prcss.moe.edu.sg/qql/slot/u200/images/students/boy%203.jpg" alt="Proper Attire - Boy 3"></p>
+<p><img src="/images/Support/EXPECTED%20STUDENT%20BEHAVIOUR/boy_3_.jpg" alt="Proper Attire - Boy 3"></p>
 </td>
 </tr>
 </tbody>
@@ -66,10 +66,10 @@ The following rules and regulations are to be adhered to:
 <tbody>
 <tr>
 <td rowspan="2" width="142">
-<p><img src="https://prcss.moe.edu.sg/qql/slot/u200/images/students/girl%201.jpg" alt="Proper Attire - Girl 1">&nbsp;</p>
+<p><img src="/images/Support/EXPECTED%20STUDENT%20BEHAVIOUR/girl%201.jpg" alt="Proper Attire - Girl 1">&nbsp;</p>
 </td>
 <td width="145">
-<p><img src="https://prcss.moe.edu.sg/qql/slot/u200/images/students/girl%202.jpg" alt="Proper Attire - Girl 2"></p>
+<p><img src="/images/Support/EXPECTED%20STUDENT%20BEHAVIOUR/girl%202.jpg" alt="Proper Attire - Girl 2"></p>
 </td>
 <td rowspan="2" width="281">
 <ul type="disc">
@@ -83,7 +83,7 @@ The following rules and regulations are to be adhered to:
 </tr>
 <tr>
 <td width="145">
-<p><img src="https://prcss.moe.edu.sg/qql/slot/u200/images/students/girl%203.jpg" alt="Proper Attire - Girl 3"></p>
+<p><img src="/images/Support/EXPECTED%20STUDENT%20BEHAVIOUR/girl%203.jpg" alt="Proper Attire - Girl 3"></p>
 </td>
 </tr>
 </tbody>
