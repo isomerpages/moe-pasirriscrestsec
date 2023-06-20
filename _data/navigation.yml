@@ -52,14 +52,16 @@ links:
     sublinks:
       - title: Personalised Digital Learning
         url: /support/pdlp/
+      - title: Student Learning Spaces
+        url: /support/sls/
       - title: Parents Gateway
         url: /support/parentsgateway/
       - title: Financial Assistance
         url: /support/financial-assistance/
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
+      - title: Expected Student Behaviour
+        url: /support/expected-student-behaviour/
+      - title: Traffic Management Plan
+        url: /parents/trafficmanagementplan/
       - title: Useful Links
         url: https://sites.google.com/moe.edu.sg/prcss-useful-links/
   - title: Parents
