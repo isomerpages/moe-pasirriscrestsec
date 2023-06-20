@@ -5,78 +5,71 @@ links:
     sublinks:
       - title: Principal's Message
         url: /about-us/PrincipalsMessage/
-      - title: Mission, Vision, Value & Motto
-        url: /about-us/missionvisionvaluesandmotto/
+      - title: Vision, Mission, Value & Motto
+        url: /about-us/vision-mission-value-motto/
       - title: School Song
         url: /about-us/schoolsong/
-      - title: 360 Virtual Tour
-        url: /about-us/360VirtualTour/
       - title: School History
         url: https://sites.google.com/moe.edu.sg/prcss-school-history/
       - title: School Staff
         url: /about-us/schoolstaff/
       - title: School Advisory Committee
         url: /about-us/SchoolAdvisoryCommittee/
-      - title: School Achievements
-        url: /about-us/School-Achievements/AcademicAchievementinNationalExaminations/
-      - title: Contact Us
-        url: /about-us/ContactUs/
-  - title: Students
-    collection: students
-  - title: Departments
-    url: https://sites.google.com/moe.edu.sg/prcss-departments/
+  - title: Overcomers
+    url: https://sites.google.com/moe.edu.sg/prcss-overcomers/
     sublinks:
-      - title: Aesthetics, Craft & Technology
-        url: https://sites.google.com/moe.edu.sg/prcss-departments/act
-      - title: English & Literature
-        url: https://sites.google.com/moe.edu.sg/prcss-departments/e-l
-      - title: Humanities
-        url: https://sites.google.com/moe.edu.sg/prcss-departments/hum
-      - title: Mathematics
-        url: https://sites.google.com/moe.edu.sg/prcss-departments/math
-      - title: Mother Tongue Languages
-        url: https://sites.google.com/moe.edu.sg/prcss-departments/mtl
-      - title: Physical Education
-        url: https://sites.google.com/moe.edu.sg/prcss-departments/pe
-      - title: Science
-        url: https://sites.google.com/moe.edu.sg/prcss-departments/sci
-      - title: ICT
-        url: https://sites.google.com/moe.edu.sg/prcss-departments/ict
-      - title: Character & Citizenship Edu.
-        url: https://sites.google.com/moe.edu.sg/prcss-departments/cce
-      - title: Useful Links
-        url: /departments/UsefulLinks/
-  - title: CCAs
-    url: https://sites.google.com/moe.edu.sg/ccas
+      - title: Character Awards
+        url: https://sites.google.com/moe.edu.sg/prcss-overcomers/character-awards
+      - title: CCA Achievements
+        url: https://sites.google.com/moe.edu.sg/prcss-overcomers/cca
+      - title: Academic Achievements
+        url: https://sites.google.com/moe.edu.sg/prcss-overcomers/academics
+      - title: Crestians in the News
+        url: https://sites.google.com/moe.edu.sg/prcss-overcomers/news
+  - title: The Crestian Experience
+    url: /21st-competencies-and-development/
     sublinks:
-      - title: Sports
-        url: https://sites.google.com/moe.edu.sg/ccas/sports
-      - title: Uniformed Groups
-        url: https://sites.google.com/moe.edu.sg/ccas/uniformed-groups
-      - title: Performing Arts
-        url: https://sites.google.com/moe.edu.sg/ccas/performing-arts
-      - title: Clubs and Societies
-        url: https://sites.google.com/moe.edu.sg/ccas/clubs-and-societies
-  - title: Parents
-    url: /parents/communication-with-parents/2023-secondary-1-registration/
+      - title: 21st Century Competencies  Dev
+        url: /21st-competencies-and-development/
+      - title: Applied Learning Prog.
+        url: https://sites.google.com/moe.edu.sg/prcss-alp
+      - title: Learning for Life Prog.
+        url: https://sites.google.com/moe.edu.sg/prcss-llp
+      - title: Experiential Learning Prog.
+        url: https://sites.google.com/moe.edu.sg/prcss-elp
+      - title: Leadership Development
+        url: https://sites.google.com/moe.edu.sg/prcss-leadership
+      - title: Level Camps
+        url: https://sites.google.com/moe.edu.sg/prcss-levelcamp
+      - title: Departments
+        url: https://sites.google.com/moe.edu.sg/prcss-departments/
+      - title: CCA Experience
+        url: https://sites.google.com/moe.edu.sg/ccas
+      - title: Full Subject Based Banding
+        url: /fullsubjectbasedbanding2023/
+  - title: Support
+    url: /support/pdlp/
     sublinks:
-      - title: Communication With Parents
-        url: /parents/communication-with-parents/2023-secondary-1-registration/
-      - title: PDL Programme
-        url: /parents/PersonalisedDigitalLearningProgramme/
-      - title: Parent Support Group
-        url: https://sites.google.com/moe.edu.sg/psg
+      - title: Personalised Digital Learning
+        url: /support/pdlp/
+      - title: Student Learning Spaces
+        url: /support/sls/
       - title: Parents Gateway
-        url: /parents/parentsgateway/
-      - title: Sexuality Education
-        url: https://sites.google.com/moe.edu.sg/sexuality-education/
+        url: /support/parentsgateway/
+      - title: Financial Assistance
+        url: /support/financial-assistance/
+      - title: Expected Student Behaviour
+        url: /support/expected-student-behaviour/
       - title: Traffic Management Plan
         url: /parents/trafficmanagementplan/
-      - title: LEAPS 2
-        url: /parents/leaps2/
       - title: Useful Links
-        url: /parents/usefullinks/
-  - title: Overcomers
-    url: /overcomers/
+        url: https://sites.google.com/moe.edu.sg/prcss-useful-links/
+  - title: Parents
+    url: /parents/parentsupportgroup/
+    sublinks:
+      - title: Parent Support Group
+        url: https://sites.google.com/moe.edu.sg/psg
+      - title: Alumni (Coming Soon)
+        url: /parents/alumni
   - title: 2023 DSA-SEC
     url: /2023-dsa-sec/

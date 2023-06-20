@@ -5,7 +5,7 @@ description: ""
 ---
 <div>
 <h1>School Advisory Committee</h1>
-	<br/>
+	<br>
 <div>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -55,8 +55,8 @@ description: ""
 </tbody>
 </table>
 </div>
-<br/>
+<br>
 <div>
 <h2>PRCSS SAC (2022)</h2>
-<div><img alt="SAC.png" src="https://prcss.moe.edu.sg/qql/slot/u200/images/parents_support_group/SAC.png" style="width:80%"><br>From Left:<br>School Principal Mrs Koh Caiyu, SAC Chairman Mr Law Heng Dean, SAC Member Mr Christopher Yong, SAC Member Mr Mooi Kim Thiam, SAC Member Mr Alex Tan, SAC Vice Chairman Ms Agnes Eu, SAC Member Ms Kristine Chua<br><br>Absent: SAC Member Mr Koh Yat Chung.</div>
-</div>
+<div><img alt="SAC.png" src="/images/School%20Achievement%20Comittee/sac_2022.png" style="width:80%"><br>From Left:<br>School Principal Mrs Koh Caiyu, SAC Chairman Mr Law Heng Dean, SAC Member Mr Christopher Yong, SAC Member Mr Mooi Kim Thiam, SAC Member Mr Alex Tan, SAC Vice Chairman Ms Agnes Eu, SAC Member Ms Kristine Chua<br><br>Absent: SAC Member Mr Koh Yat Chung.</div>
+</div></div>
