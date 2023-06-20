@@ -3,7 +3,7 @@ title: Student Learning Spaces (SLS)
 permalink: /support/sls/
 description: ""
 ---
-<label for="accordion2">STUDENT LEARNING SPACE (SLS)</label>
+<h1>STUDENT LEARNING SPACE (SLS)</h1>
 <div>
 <p>The Singapore Student Learning Space is a platform that will support Teaching and Learning of our students. In particular, it will help empower them to drive their own learning according to their needs and interests.<br><br>
 By spurring our students to take greater ownership of their learning and work collaboratively with their peers, the SLS aims to support them towards becoming responsible future-ready learners. <br>
