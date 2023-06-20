@@ -2,12 +2,12 @@ collections:
   support:
     output: true
     order:
-      - SLS Support.md
-      - Guidance and Counselling Support.md
       - Personalised Digital Learning Programme (PDLP).md
       - Student Learning Spaces (SLS).md
+      - SLS Support.md
       - Parents Gateway.md
       - Financial Assistance.md
+      - Guidance and Counselling Support.md
       - Expected Student Behaviour (Rules And Regulations).md
       - Traffic Management Plan.md
       - Useful Links.md
