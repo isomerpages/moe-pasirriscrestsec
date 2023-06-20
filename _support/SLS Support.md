@@ -3,7 +3,7 @@ title: SLS Support
 permalink: /support/sls-support/
 description: ""
 ---
-<h3>SLS SUPPORT</h3>
+<h1>SLS SUPPORT</h1>
 <div>
 <h4>School Operating Hours</h4>
 During school operating hours, students should contact the <strong><u>School-based Helpline</u></strong> for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
