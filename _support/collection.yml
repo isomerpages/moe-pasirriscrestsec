@@ -2,8 +2,8 @@ collections:
   support:
     output: true
     order:
-      - Traffic Management Plan.md
       - Personalised Digital Learning Programme (PDLP).md
       - Parents Gateway.md
       - Financial Assistance.md
       - Student Portal.md
+      - Traffic Management Plan.md
