@@ -1,5 +1,5 @@
 collections:
-  students:
+  x-trasnfer-to-microsite-studts:
     output: true
     order:
       - Education and Career Advice.md
