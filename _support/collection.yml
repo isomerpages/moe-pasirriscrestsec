@@ -2,6 +2,7 @@ collections:
   support:
     output: true
     order:
+      - Guidance and Counselling Support.md
       - Personalised Digital Learning Programme (PDLP).md
       - Student Learning Spaces (SLS).md
       - Parents Gateway.md
