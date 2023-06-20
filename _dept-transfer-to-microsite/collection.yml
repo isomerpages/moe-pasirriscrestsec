@@ -1,5 +1,5 @@
 collections:
-  departments:
+  dept-transfer-to-microsite:
     output: true
     order:
       - Aesthetics, Craft & Technology.md
