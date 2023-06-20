@@ -1,5 +1,5 @@
 collections:
-  to-transfer-to-resource-page:
+  x-transfer-to-resource-page:
     output: true
     order:
       - Communication With Parents (to be removed).md
