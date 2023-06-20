@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Education and Career Advice.md
-      - Guidance and Counselling Support.md
       - The Crestian Experience/.keep
       - The Crestian Experience/Applied Learning Programme (ALP).md
       - The Crestian Experience/Character and Citizenship Education (CCE).md
