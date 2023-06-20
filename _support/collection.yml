@@ -2,8 +2,6 @@ collections:
   support:
     output: true
     order:
-      - Pedestrian and Vehicle Route.md
-      - Student Insurance.md
       - Personalised Digital Learning Programme (PDLP).md
       - Student Learning Spaces (SLS).md
       - SLS Support.md
@@ -12,4 +10,6 @@ collections:
       - Guidance and Counselling Support.md
       - Expected Student Behaviour (Rules And Regulations).md
       - Traffic Management Plan.md
+      - Pedestrian and Vehicle Route.md
+      - Student Insurance.md
       - Useful Links.md
