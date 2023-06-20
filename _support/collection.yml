@@ -2,8 +2,8 @@ collections:
   support:
     output: true
     order:
-      - SLS Support & Student Learning Spaces (SLS).md
       - Personalised Digital Learning Programme (PDLP).md
+      - SLS Support & Student Learning Spaces (SLS).md
       - Parents Gateway.md
       - Financial Assistance.md
       - Student Portal.md
