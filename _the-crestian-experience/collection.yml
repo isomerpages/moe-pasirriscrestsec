@@ -2,6 +2,7 @@ collections:
   the-crestian-experience:
     output: true
     order:
+      - Learning for Life Programme.md
       - Applied Learning Programme.md
       - 21st Century Competencies and Development.md
       - Full Subject Based Banding (FSBB) 2023.md
