@@ -2,6 +2,7 @@ collections:
   the-crestian-experience:
     output: true
     order:
+      - CCAs Experience.md
       - Curriculum.md
       - Level Camps.md
       - Leadership Development.md
