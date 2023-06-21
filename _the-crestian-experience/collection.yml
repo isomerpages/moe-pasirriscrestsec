@@ -2,12 +2,12 @@ collections:
   the-crestian-experience:
     output: true
     order:
-      - CCAs Experience.md
-      - Curriculum.md
-      - Level Camps.md
-      - Leadership Development.md
-      - Experiential Learning Programme.md
-      - Learning for Life Programme.md
-      - Applied Learning Programme.md
       - 21st Century Competencies and Development.md
+      - Applied Learning Programme.md
+      - Learning for Life Programme.md
+      - Experiential Learning Programme.md
+      - Leadership Development.md
+      - Level Camps.md
+      - Curriculum.md
+      - CCAs Experience.md
       - Full Subject Based Banding (FSBB) 2023.md
