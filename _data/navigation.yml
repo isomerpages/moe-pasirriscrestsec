@@ -27,10 +27,10 @@ links:
       - title: Crestians in the News
         url: https://sites.google.com/moe.edu.sg/prcss-overcomers/news
   - title: The Crestian Experience
-    url: /21st-competencies-and-development/
+    url: /the-crestian-experience/21st-competencies-and-development/
     sublinks:
       - title: 21st Century Competencies  Dev
-        url: /21st-competencies-and-development/
+        url: /the-crestian-experience/21st-competencies-and-development/
       - title: Applied Learning Prog.
         url: https://sites.google.com/moe.edu.sg/prcss-alp
       - title: Learning for Life Prog.
@@ -41,27 +41,35 @@ links:
         url: https://sites.google.com/moe.edu.sg/prcss-leadership
       - title: Level Camps
         url: https://sites.google.com/moe.edu.sg/prcss-levelcamp
-      - title: Departments
-        url: https://sites.google.com/moe.edu.sg/prcss-departments/
+      - title: Curriculum
+        url: https://sites.google.com/moe.edu.sg/prcss-curriculum/
       - title: CCA Experience
-        url: https://sites.google.com/moe.edu.sg/ccas
+        url: https://sites.google.com/moe.edu.sg/prcss-ccas/
       - title: Full Subject Based Banding
-        url: /fullsubjectbasedbanding2023/
+        url: /the-crestian-experience/fullsubjectbasedbanding2023/
   - title: Support
     url: /support/pdlp/
     sublinks:
       - title: Personalised Digital Learning
         url: /support/pdlp/
-      - title: Student Learning Spaces
+      - title: Student Learning Spaces (SLS)
         url: /support/sls/
+      - title: SLS Support
+        url: /support/sls-support/
       - title: Parents Gateway
         url: /support/parentsgateway/
       - title: Financial Assistance
         url: /support/financial-assistance/
+      - title: Guidance & Counselling Support
+        url: /support/guidance-and-counselling-support/
       - title: Expected Student Behaviour
         url: /support/expected-student-behaviour/
       - title: Traffic Management Plan
-        url: /parents/trafficmanagementplan/
+        url: /support/traffic-management-plan/
+      - title: Pedestrian and Vehicle Route
+        url: /support/pedestrian-and-vehicle-route/
+      - title: Student Insurance
+        url: /support/student-insurance/
       - title: Useful Links
         url: https://sites.google.com/moe.edu.sg/prcss-useful-links/
   - title: Parents

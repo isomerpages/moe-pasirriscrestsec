@@ -1,5 +1,5 @@
 collections:
-  removed-to-google-sites:
+  x-removed-to-google-sites:
     output: true
     order:
       - Student Portal.md

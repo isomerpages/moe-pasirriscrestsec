@@ -1,5 +1,5 @@
 collections:
-  school-achievements:
+  x-transfer-to-microsite-sc-ach:
     output: true
     order:
       - Academic Achievement in National Examinations.md

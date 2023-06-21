@@ -10,7 +10,7 @@ description: ""
 		<label for="accordion1">SCHOOL LEADERS</label>
 		<div class="content hidecontent">
 		<div>
-			<img src="/images/Our Staff/SLs_v1.jpg">
+			<img src="/images/Our%20Staff/June%2023/1%20school%20staff.jpg">
 			</div>
 			</div></li>
 		<li>
@@ -18,7 +18,7 @@ description: ""
 			<label for="accordion2">KEY PERSONNEL</label>
 			<div class="content hidecontent">
 			<div>
-				<img src="/images/Our Staff/Heads_v1.jpg">
+				<img src="/images/Our%20Staff/June%2023/2%20school%20staff.jpg">
 				</div>
 		</div></li>
 		<li>
@@ -26,9 +26,13 @@ description: ""
 			<label for="accordion3">HOME TUTORS</label>
 			<div class="content hidecontent">
 			<div>
-				<img src="/images/Our Staff/HTs1_v1.jpg">
-				<img src="/images/Our Staff/HTs2_v1.jpg">
+				<img src="/images/Our%20Staff/June%2023/3%20school%20staff.jpg">
+				<img src="/images/Our%20Staff/June%2023/4%20school%20staff.jpg">
+				<img src="/images/Our%20Staff/June%2023/5%20school%20staff.jpg">
 				</div>
 				</div></li>
 	
 </ul>
+
+
+![](/images/Our%20Staff/June%2023/1%20school%20staff.jpg)

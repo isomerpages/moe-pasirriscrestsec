@@ -1,25 +1,9 @@
 ---
-title: SLS Support & Student Learning Spaces (SLS)
+title: Student Learning Spaces (SLS)
 permalink: /support/sls/
 description: ""
 ---
-<ul class="jekyllcodex_accordion">
-<li>
-<input type="checkbox" id="accordion1">
-	<label for="accordion1"><h3>SLS SUPPORT</h3></label>
-<div>
-<h4>School Operating Hours</h4>
-<p>During school operating hours, students should contact the <strong><u>School-based Helpline</u></strong> for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.</p>
-<p><strong>School-based Helpline: 6581 1655 (ext. 104 or 105) <br>
-Mondays - Fridays: 8:00 am - 4:00 pm </strong></p><br>
-For other matters, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
-<h4>Non-School Operating Hours</h4>
-Students can only contact the <u><strong>SLS Helpdesk</strong></u> outside the school operating hours. <br>SLS Helpdesk: 6702 6513 <br><br>Mondays - Fridays: 4:00 pm - 9:00 pm <br>Saturdays: 9:00 am - 9:00 pm <br><sub>*Closed on Sundays &amp; Public Holidays</sub><br><br>Alternatively, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.</div><br>
-</li>
-
-<li>
-<input type="checkbox" id="accordion2">
-<label for="accordion2">STUDENT LEARNING SPACE (SLS)</label>
+<h1>STUDENT LEARNING SPACE (SLS)</h1>
 <div>
 <p>The Singapore Student Learning Space is a platform that will support Teaching and Learning of our students. In particular, it will help empower them to drive their own learning according to their needs and interests.<br><br>
 By spurring our students to take greater ownership of their learning and work collaboratively with their peers, the SLS aims to support them towards becoming responsible future-ready learners. <br>
@@ -66,4 +50,3 @@ Mondays to Fridays: 9:00 am - 9:00 pm
 </ul>
 SLS is accessible through the latest internet browsers (minimum: Internet Explorer 11, Google Chrome 51, FireFox 51 or Safari 7.1). <br><br>
 <strong>Q4 : Can SLS run on mobile phones?</strong> <br>You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.</div>
-</li></ul>

@@ -1,5 +1,5 @@
 collections:
-  cca:
+  x-transfer-to-microsite-cca:
     output: true
     order:
       - Sports/.keep
