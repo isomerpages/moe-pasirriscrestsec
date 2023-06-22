@@ -33,6 +33,3 @@ description: ""
 				</div></li>
 	
 </ul>
-
-
-![](/images/Our%20Staff/June%2023/1%20school%20staff.jpg)
