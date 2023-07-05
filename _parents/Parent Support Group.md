@@ -5,4 +5,4 @@ description: ""
 ---
 ![](/images/psg%20group.jpeg)
 
-Click [here](https://sites.google.com/moe.edu.sg/prcss-psg) to find out more about the Parent Support Group
+Click [here](https://sites.google.com/moe.edu.sg/prcss-psg/psg-home) to find out more about the Parent Support Group
