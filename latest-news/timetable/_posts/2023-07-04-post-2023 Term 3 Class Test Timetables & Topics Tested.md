@@ -21,10 +21,12 @@ Please click on the respective links below to access the Term 3 Class Test timet
 <br>
 Coming soon.
 <br>
+<!---
 [Secondary 1 Topics Tested]<br>
 [Secondary 2 Topics Tested]<br>
 [Secondary 3 Topics Tested]<br>
 [Secondary 4 &amp; 5 Topics Tested]<br>
+--->
 
 **Preliminary Time Tables:**
 <br>
