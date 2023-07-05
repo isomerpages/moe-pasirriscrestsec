@@ -6,3 +6,14 @@ layout: post
 description: ""
 image: ""
 ---
+Dear Crestians/Parents/Guardians,
+
+
+Please take note of the following for the coming preliminary in this term:
+<br>
+
+**Preliminary Time Tables:**
+<br>
+[N-Levels](/files/Timetable_Announcement/2023/T3/2023%20n%20prelim%20timetable.pdf)
+<br>
+[O-Levels](/files/Timetable_Announcement/2023/T3/2023%20o%20prelim%20timetable.pdf)
