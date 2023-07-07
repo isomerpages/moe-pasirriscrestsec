@@ -23,6 +23,28 @@ Letters to Parents dated 4 July 2023
 
 **TERM 2**
 
+Letters to Parents dated 4 April 2023<br>
+[Secondary 1_Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%202/4%20apr%20level%20letter%20(sec%201).pdf)<br>
+[Secondary 2_Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%202/4%20apr%20level%20letter%20(sec%202).pdf)<br>
+[Secondary 3_Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%202/4%20apr%20level%20letter%20(sec%203).pdf)<br>
+[Secondary 4E and 5N_Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%202/4%20apr%20level%20letter%20(sec%204e5n).pdf)<br>
+[Secondary 4N_Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%202/4%20apr%20level%20letter%20(sec%204n).pdf)<br>
+
+Letters to Parents dated 20 April 2023<br>
+[Secondary 4-1](/files/2023%20Termly%20Letter%20to%20Parents/Term%202/20%20apr%20level%20letter%20(sec%2041).pdf)<br>
+[Secondary 4-2 &amp; Secondary 4-3](/files/2023%20Termly%20Letter%20to%20Parents/Term%202/20%20apr%20level%20letter%20(sec%2042%20and%2043).pdf)<br>
+[Secondary 4-4 &amp; Secondary 4-5](/files/2023%20Termly%20Letter%20to%20Parents/Term%202/20%20apr%20level%20letter%20(sec%2044%20and%2045).pdf)<br>
+[Secondary 4-6 &amp; Secondary 4-7](/files/2023%20Termly%20Letter%20to%20Parents/Term%202/20%20apr%20level%20letter%20(sec%2046%20and%2047).pdf)<br>
+[Secondary 5-1](/files/2023%20Termly%20Letter%20to%20Parents/Term%202/20%20apr%20level%20letter%20(sec%2051).pdf)<br>
+
+Letters to Parents dated 2 May 2023<br>
+[Secondary 1_Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%202/2%20may%20level%20letter%20(sec%201).pdf)<br>
+[Secondary 2_Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%202/2%20may%20level%20letter%20(sec%202).pdf)<br>
+[Secondary 3NA_Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%202/2%20may%20level%20letter%20(sec%203na).pdf)<br>
+[Secondary 3NT &amp; 3 E_Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%202/2%20may%20level%20letter%20(sec%203nt,%20exp).pdf)<br>
+[Secondary 4E &amp; 5N_Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%202/2%20may%20level%20letter%20(sec%204e5n).pdf)<br>
+[Secondary 4N_Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%202/2%20may%20level%20letter%20(sec%204n).pdf)<br>
+
 
 **TERM 1**
 
