@@ -5,8 +5,8 @@ links:
     sublinks:
       - title: Principal's Message
         url: /about-us/PrincipalsMessage/
-      - title: Vision, Mission, Value & Motto
-        url: /about-us/vision-mission-value-motto/
+      - title: Vision, Mission, Values, Motto
+        url: /about-us/vision-mission-values-motto/
       - title: School Song
         url: /about-us/schoolsong/
       - title: School History
@@ -71,12 +71,12 @@ links:
       - title: Student Insurance
         url: /support/student-insurance/
       - title: Useful Links
-        url: https://sites.google.com/moe.edu.sg/prcss-useful-links/
+        url: /support/useful-links/
   - title: Parents
     url: /parents/parentsupportgroup/
     sublinks:
       - title: Parent Support Group
-        url: https://sites.google.com/moe.edu.sg/psg
+        url: https://sites.google.com/moe.edu.sg/prcss-psg/psg-home
       - title: Alumni (Coming Soon)
         url: /parents/alumni
   - title: 2023 DSA-SEC
