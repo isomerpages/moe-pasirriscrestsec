@@ -26,14 +26,13 @@ Letters to Parents dated 4 July 2023
 
 **TERM 1**
 
-Letters to Parents dated 30 Dec 2022
-1. Letters to Parents dated 30 Dec 2022<br>
+Letters to Parents dated 30 Dec 2022<br>
 <a href="/files/2023%20Termly%20Letter%20to%20Parents/Sec%201_Letter%20to%20Parents_6%20Jan%202023.pdf">Secondary 1_Letter to Parents_6 Jan 2023</a><br>
 <a href="/files/2023%20Termly%20Letter%20to%20Parents/Sec%202_Letter%20to%20Parents_30%20Dec%202022.pdf">Secondary 2_Letter to Parents_30 Dec 2022</a><br>
 <a href="/files/2023%20Termly%20Letter%20to%20Parents/Sec%203_Letter%20to%20Parents_30%20Dec%202022.pdf">Secondary 3_Letter to Parents_30 Dec 2022</a><br>
 <a href="/files/2023%20Termly%20Letter%20to%20Parents/Sec%204%20and%205_Letter%20to%20Parents_30%20Dec%202022.pdf">Secondary 4 and 5_Letter to Parents_30 Dec 2022</a><br>
 <br>
-2. Letters to Parents dated 17 Jan 2023<br>
+Letters to Parents dated 17 Jan 2023<br>
 <a href="/files/2023%20Termly%20Letter%20to%20Parents/17%20Jan%20Level%20letter%20Sec%201%202023.pdf">Secondary 1_Letter to Parents_17 Jan</a><br>
 <a href="/files/2023%20Termly%20Letter%20to%20Parents/17%20Jan%20Level%20letter%202NT%202023.pdf">Secondary 2NT_Letter to Parents_17 Jan</a><br>
 <a href="/files/2023%20Termly%20Letter%20to%20Parents/17%20Jan%20Level%20letter%202NA%20and%20E%202023.pdf">Secondary 2NA and E_Letter to Parents_17 Jan</a><br>
