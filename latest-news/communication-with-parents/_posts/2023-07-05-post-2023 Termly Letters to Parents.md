@@ -1,6 +1,6 @@
 ---
 title: 2023 Termly Letters to Parents
-permalink: /latest-news/announcements/8/
+permalink: /latest-news/cwp/8/
 date: 2023-07-05
 layout: post
 description: ""

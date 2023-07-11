@@ -1,13 +1,11 @@
 ---
 title: 2023 PRCS Booklist and Uniform Purchase
-permalink: /latest-news/announcements/1/
+permalink: /latest-news/cwp/1/
 date: 2022-11-16
 layout: post
 description: ""
 image: ""
 ---
-
-
 Dear Crestians/Parents/Guardians,
 
 The following for your information.
@@ -16,8 +14,8 @@ The following for your information.
 [Online Purchase Guide - PRCSS - Bookshop](/files/prcssbookshop.pdf)
 
 The following are the Booklist forms for the respective levels:
-1\. [Secondary 1 (NT & SBB)](/files/2023booklist1.pdf)<br>
-2\. [Secondary 1 (NA & SBB)](/files/2023booklist2.pdf)<br>
+1\. [Secondary 1 (NT &amp; SBB)](/files/2023booklist1.pdf)<br>
+2\. [Secondary 1 (NA &amp; SBB)](/files/2023booklist2.pdf)<br>
 3\. [Secondary 1 (EXP)](/files/2023booklist3.pdf)<br>
 4\. [Secondary 2 (NT)](/files/2023booklist4.pdf)<br>
 5\. [Secondary 2 (NA)](/files/2023booklist5.pdf)<br>
@@ -30,8 +28,8 @@ The following are the Booklist forms for the respective levels:
 12\. [Secondary 4 (EXP)](/files/2023booklist12.pdf)<br>
 13\. [Secondary 5 (NA)](/files/2023booklist13.pdf)
 
- \*Only Male Students are to purchase the Tie from the Bookshop
+&nbsp;\*Only Male Students are to purchase the Tie from the Bookshop
  
  **[Asencio](https://asencio.com.sg/)**: Uniform Vendor<br>
  [Online Purchase Guide - PRCSS - Uniform](/files/ascencioonline.pdf)<br>
- \*\*All students are **NOT REQUIRED** to purchase Name Tags with the Uniform
+ \*\*All students are&nbsp;**NOT REQUIRED**&nbsp;to purchase Name Tags with the Uniform
