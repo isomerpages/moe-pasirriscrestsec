@@ -13,9 +13,9 @@ description: ""
 <!--<p align="justify">When you enter our campus, you will see the phrase &lsquo;Home of the Overcomers&rsquo;, shining beautifully under the warm rays. Indeed, this is our home, our PRCS, where we want all of you to be able to find your place, your growth, and strength to take on and overcome any challenge in life</p> -->
 	<p align="justify"> If you have ever heard us share about PRCS, you would remember our emphasis on our school culture of Care, Excellence and Positive Self-Belief. In PRCS, we believe that only with the desired culture, staff and students can find their place, learn and lead themselves towards the school's vision and mission. </p>
 	
-<p align="justify">Hence, every year, we have a school theme to galvanise our efforts and guide our focus in this process of culture building.</p><br/>
+<p align="justify">Hence, every year, we have a school theme to galvanise our efforts and guide our focus in this process of culture building.</p><br>
 	
-<p align="justify">The school theme for 2022 was OUR PRCS, highlighting the singular and collective identity to be owned by all staff and students.</strong>.</p>
+<p align="justify">The school theme for 2022 was OUR PRCS, highlighting the singular and collective identity to be owned by all staff and students.</p>
 
 <p align="justify">For 2023, our school theme is OUR CREST.
 
@@ -31,6 +31,6 @@ The determiner ‘OUR’ is retained to continue the emphasis on collective owne
 
 PRCS seeks to inculcate these values in our staff and students, and I invite you, to join us on this journey in building OUR caring home, and be our CRESTian leaders!</p>
 
-<p><strong>Mrs. Koh Caiyu<br/>
-Principal<br/>
-Pasir Ris Crest Secondary School</strong></p>
+<p><strong>Mrs. Koh Caiyu<br>
+Principal<br>
+Pasir Ris Crest Secondary School</strong></p></div></div>
