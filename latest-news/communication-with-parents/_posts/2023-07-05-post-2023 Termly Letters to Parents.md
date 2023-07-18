@@ -14,12 +14,12 @@ The Termly Letters to Parents summarising the latest school updates for all leve
 
 Letters to Parents dated 4 July 2023
 <br>
-[Secondary 1 Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%203/sec%201%20level%20letter4%20july.pdf)<br>
-[Secondary 2 Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%203/sec%202%20level%20letter4%20july.pdf)<br>
-[Secondary 3NAE Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%203/sec%203nae%20level%20letter4%20july.pdf)<br>
-[Secondary 3NT Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%203/sec%203nt%20level%20letter4%20july.pdf)<br>
-[Secondary 4E5N Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%203/sec%204e5n%20level%20letter4%20july.pdf)<br>
-[Secondary 4N Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%203/sec%204n%20level%20letter4%20july.pdf)<br>
+[Secondary 1 Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%203/sec%201%20level%20letter_4%20july.pdf)<br>
+[Secondary 2 Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%203/sec%202%20level%20letter_4%20july.pdf)<br>
+[Secondary 3NAE Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%203/sec%203nae%20level%20letter_4%20july.pdf)<br>
+[Secondary 3NT Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%203/sec%203nt%20level%20letter_4%20july.pdf)<br>
+[Secondary 4E5N Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%203/sec%204e5n%20level%20letter_4%20july.pdf)<br>
+[Secondary 4N Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%203/sec%204n%20level%20letter_4%20july.pdf)<br>
 
 **TERM 2**
 
