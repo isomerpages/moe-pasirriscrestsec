@@ -3,7 +3,7 @@ title: School Staff
 permalink: /about-us/schoolstaff/
 description: ""
 ---
-<h1>Our Staff</h1>
+<h1>School Staff</h1>
 <ul class="jekyllcodex_accordion">
 	<li>
 		<input type="checkbox" id="accordion1" class="hidecontent">
