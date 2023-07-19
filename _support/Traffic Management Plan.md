@@ -6,4 +6,4 @@ description: ""
 Traffic Management Plan
 =======================
 
-Click [here](/files/Traffic%20Management%20Plan%2013112020.pdf) for Traffic Management Plan.
+![](/images/traffic%20management%20plan%2013112020.JPG)
