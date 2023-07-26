@@ -24,7 +24,7 @@ description: ""
 <div>Click <a href="/files/Registering%20for%20SingPass.pdf" target="_blank" rel="noopener"><u>here</u></a> to register for SingPass.</div>
 </div>
 --->
-option 2
+
 <h1>Parents Gateway</h1>
 <p align="justify">Parents Gateway (PG) is a one-stop mobile app for parents and schools to better support their children’s educational journey through improved communications. PG is available on IOS and Android and allows parents to receive updates on school programmes and activities. It also allows parents to perform administrative functions such as providing consent for their children to participate in school activities.</p>
     <p><strong>Parents Gateway App</strong></p>
