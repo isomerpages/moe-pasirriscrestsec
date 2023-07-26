@@ -43,9 +43,3 @@ description: ""
     </div>
     <div><img alt="parents_qrcode_2.png" src="/images/parents_qrcode_2.png" style="width:400px; padding:10px;">
     </div>
-    <div><strong>For more information:</strong></div>
-    <div>
-        <div align="justify">Click <a rel="noopener" target="_blank" href="/files/Parents%20Gateway%20Presentation%20Slides%20for%2019%20Jan.pptx"><u>here</u></a> for PG.</div>
-        <div align="justify">Click <a rel="noopener" target="_blank" href="/files/Registering%20for%20SingPass.pdf"><u>here</u></a> to
-            register for SingPass.</div>
-    </div>
