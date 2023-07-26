@@ -3,7 +3,8 @@ title: Parents Gateway
 permalink: /support/parentsgateway/
 description: ""
 ---
-<!--- <h1>Parents Gateway</h1>
+<!---
+<h1>Parents Gateway</h1>
 <p>Parents Gateway (PG) is a one-stop mobile app for parents and schools to better support their children’s educational journey through improved communications. PG is available on IOS and Android and allows parents to receive updates on school programmes and activities. It also allows parents to perform administrative functions such as providing consent for their children to participate in school activities.
 </p><p><strong>Parents Gateway App</strong></p>
 <p>Open the Apple App Store or Google Play Store app on your mobile phone to download.</p>
@@ -23,6 +24,7 @@ description: ""
 <div>Click <a href="/files/Registering%20for%20SingPass.pdf" target="_blank" rel="noopener"><u>here</u></a> to register for SingPass.</div>
 </div>
 --->
+option 2
 <h1>Parents Gateway</h1>
 <p align="justify">Parents Gateway (PG) is a one-stop mobile app for parents and schools to better support their children’s educational journey through improved communications. PG is available on IOS and Android and allows parents to receive updates on school programmes and activities. It also allows parents to perform administrative functions such as providing consent for their children to participate in school activities.</p>
     <p><strong>Parents Gateway App</strong></p>
@@ -31,7 +33,7 @@ description: ""
     <div><img alt="parents_qrcode.png" src="/images/parents_qrcode.png" style="width:400px; padding:10px"></div>
     <br>
     <div class="center">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/tW9jwyuovOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+        <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/tW9jwyuovOo" height="315" width="560"></iframe>
     </div>
     <p align="justify"><em>Note: Supported OS Versions - Android 6.0 or later &amp; iOS 9.1 or later<br></em></p>
     <div>
