@@ -30,10 +30,9 @@ These students who need assistance for home broadband connectivity, can apply fo
 <label for="accordion3">HOME ACCESS PROGRAMME</label><div>
 <p align="justify">For more information about the Home Access programme, please visit <a href="http://www.digitalaccess.gov.sg/" target="_blank" rel="noopener">www.digitalaccess.gov.sg</a>. <br>Or call <strong>6377 3800</strong>.</p>
 <ul>
-<li><strong>Home Access Brochure</strong></li>
-<a href="/HA 3.0 Brochure WEF Oct 2021" target="_blank" rel="noopener">HA Brochure (w.e.f. Oct 2021)</a><br>
-<li><strong>Home Access</strong></li>
-<a href="/files/ha30-application-form_Version%203%20Oct%202021.pdf" target="_blank" rel="noopener">HA Application Form Version 3.0</a>
+<li><strong><a href="/files/ha%203-0%20brochure%20wef%20oct%202021_p1.pdf" target="_blank" rel="noopener">Home Access Brochure (w.e.f. Oct 2021) Part 1</a></strong></li>
+<li><strong><a href="/files/ha30-application-form_version%203-0%20oct%202021.pdf" target="_blank" rel="noopener">Home Access Brochure (w.e.f. Oct 2021) Part 2</a></strong></li>
+<li><strong><a href="/files/ha30-application-form_Version%203%20Oct%202021.pdf" target="_blank" rel="noopener">Home Access Application Form Version 3.0</a></strong></li>
 </ul></div>
 </li>
 		
@@ -55,10 +54,8 @@ For more information, visit&nbsp;[www.moe.gov.sg/financial-matters/financial-ass
 
 
 	
-	<h1>Option 2: Financial Assistance</h1>
-
-    <ul class="jekyllcodex_accordion">
-
+<h1>Option 2: Financial Assistance</h1>
+<ul class="jekyllcodex_accordion">
         <li>
             <input type="checkbox" id="accordion1">
             <label for="accordion1">NORTH EAST CDC ASSISTANCE SCHEME 2022</label>
@@ -69,7 +66,6 @@ For more information, visit&nbsp;[www.moe.gov.sg/financial-matters/financial-ass
                     Thank you.</p>
             </div>
         </li>
-
         <li>
             <input type="checkbox" id="accordion2">
             <label for="accordion2">NEU PC PLUS (NPP)</label>
@@ -80,7 +76,6 @@ For more information, visit&nbsp;[www.moe.gov.sg/financial-matters/financial-ass
                     assistance for home broadband connectivity, can apply for the Home Access programme at <a target="_blank" href="http://www.digitalaccess.gov.sg/">www.digitalaccess.gov.sg</a>.</p>
             </div>
         </li>
-
         <li>
             <input type="checkbox" id="accordion3">
             <label for="accordion3">HOME ACCESS PROGRAMME</label>
@@ -96,7 +91,6 @@ For more information, visit&nbsp;[www.moe.gov.sg/financial-matters/financial-ass
                 </ul>
             </div>
         </li>
-
         <li>
             <input type="checkbox" id="accordion4">
             <label for="accordion4">MOE FINANCIAL ASSISTANCE SCHEME</label>
