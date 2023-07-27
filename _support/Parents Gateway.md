@@ -16,5 +16,3 @@ description: ""
 </div>
 <div><img style="width:600px; padding:10px;" src="/images/parents_qrcode_2.png" alt="parents_qrcode_2.png">
 </div>
-
-
