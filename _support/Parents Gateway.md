@@ -9,9 +9,9 @@ description: ""
 <p>Open the Apple App Store or Google Play Store app on your mobile phone to download or scan the QR code below.</p>
 <div class="center"><img style="width:500px; padding:10px" src="/images/parents_qrcode.png" alt="parents_qrcode.png"></div>
 
-<div class="center">
-  <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/tW9jwyuovOo" height="315" width="560"></iframe>
-</div>
+  <div align="center">
+    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/tW9jwyuovOo" height="315" width="560"></iframe>
+  </div>
 
 <p>Note: Supported OS Versions - Android 6.0 or later &amp; iOS 9.1 or later</p>
 
