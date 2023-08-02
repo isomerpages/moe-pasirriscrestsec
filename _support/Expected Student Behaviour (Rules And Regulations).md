@@ -3,7 +3,7 @@ title: Expected Student Behaviour (Rules And Regulations)
 permalink: /support/expected-student-behaviour/
 description: ""
 ---
-<!---
+
 Expected Student Behaviours - Rules and Regulations
 =======================
 <div><p>To guide students in their character development and in order to achieve our desired learning outcomes especially of being a Self-Disciplined and Responsible Leader as well as an Active and Concerned Citizen with Global Awareness, the school has in place the following Expected Student Behaviours and Rules and Regulations, which are divided into five main categories. These Expected Student Behaviours and Rules and Regulations are to support the students in understanding the importance of good moral behavior, respect and care for self and others and to create a conducive environment for learning to take place. The categories are aligned to the school values of Care, Resilience, Excellence, Self-Belief, Trustworthiness (CREST).</p>
@@ -26,7 +26,7 @@ The following rules and regulations are to be adhered to:
 <table>
 <tbody>
 <tr>
-<td width="284" colspan="2">
+<td colspan="2" width="284">
 <ul type="disc">
 <li>Boys are to put on the school tie daily.</li>
 <li>Boy's shirts should always be tucked in with unfolded sleeves.</li>
@@ -39,13 +39,13 @@ The following rules and regulations are to be adhered to:
 </td>
 </tr>
 <tr>
-<td width="142" rowspan="2">
-<p><img alt="Proper Attire - Boy 1" src="/images/Support/EXPECTED%20STUDENT%20BEHAVIOUR/boy_1_.jpg"></p>
+<td rowspan="2" width="142">
+<p><img src="/images/Support/EXPECTED%20STUDENT%20BEHAVIOUR/boy_1_.jpg" alt="Proper Attire - Boy 1"></p>
 </td>
 <td width="142">
-<p><img alt="Proper Attire - Boy 2" src="/images/Support/EXPECTED%20STUDENT%20BEHAVIOUR/boy_2_.jpg"></p>
+<p><img src="/images/Support/EXPECTED%20STUDENT%20BEHAVIOUR/boy_2_.jpg" alt="Proper Attire - Boy 2"></p>
 </td>
-<td width="284" rowspan="2">
+<td rowspan="2" width="284">
 <ul type="disc">
 <li>Hair must be short and neat. Hair should be sloped and when combed down should not touch the eye brows, the ears and the collar. The sideburn should not be lower than the half ear mark. The length of the hair should be consistent throughout and the differences in length should not exceed more than 4 cm.</li>
 <li>Boys must maintain a clean-shaven appearance at all times in school.</li>
@@ -58,7 +58,7 @@ The following rules and regulations are to be adhered to:
 </tr>
 <tr>
 <td width="142">
-<p><img alt="Proper Attire - Boy 3" src="/images/Support/EXPECTED%20STUDENT%20BEHAVIOUR/boy_3_.jpg"></p>
+<p><img src="/images/Support/EXPECTED%20STUDENT%20BEHAVIOUR/boy_3_.jpg" alt="Proper Attire - Boy 3"></p>
 </td>
 </tr>
 </tbody>
@@ -67,13 +67,13 @@ The following rules and regulations are to be adhered to:
 <table>
 <tbody>
 <tr>
-<td width="142" rowspan="2">
-<p><img alt="Proper Attire - Girl 1" src="/images/Support/EXPECTED%20STUDENT%20BEHAVIOUR/girl%201.jpg">&nbsp;</p>
+<td rowspan="2" width="142">
+<p><img src="/images/Support/EXPECTED%20STUDENT%20BEHAVIOUR/girl%201.jpg" alt="Proper Attire - Girl 1">&nbsp;</p>
 </td>
 <td width="145">
-<p><img alt="Proper Attire - Girl 2" src="/images/Support/EXPECTED%20STUDENT%20BEHAVIOUR/girl%202.jpg"></p>
+<p><img src="/images/Support/EXPECTED%20STUDENT%20BEHAVIOUR/girl%202.jpg" alt="Proper Attire - Girl 2"></p>
 </td>
-<td width="281" rowspan="2">
+<td rowspan="2" width="281">
 <ul type="disc">
 <li>Hair must be neat and tidy. The fringe must not touch the eyebrows. There must not be any hair covering the face. If necessary, only black hair bands/clips can be worn. Girls who have hair touching their shoulders must be kept tied up&nbsp;<strong><u>at all times</u></strong>.</li>
 <li>Girls are allowed one pair of black/dark blue, plain, simple ear studs of the same design or one pair of translucent ear sticks on each earlobe.</li>
@@ -85,7 +85,7 @@ The following rules and regulations are to be adhered to:
 </tr>
 <tr>
 <td width="145">
-<p><img alt="Proper Attire - Girl 3" src="/images/Support/EXPECTED%20STUDENT%20BEHAVIOUR/girl%203.jpg"></p>
+<p><img src="/images/Support/EXPECTED%20STUDENT%20BEHAVIOUR/girl%203.jpg" alt="Proper Attire - Girl 3"></p>
 </td>
 </tr>
 </tbody>
@@ -230,7 +230,7 @@ The Speak English Policy is to promote communication among the different races. 
 <li>Students must be truthful and honest to staff, teachers and schoolmates.</li>
 <li>Students are to dispose of their litter appropriately.</li>
 </ul></div>
---->
+
 
 
 <h1>Expected Student Behaviours - Rules and Regulations</h1>
