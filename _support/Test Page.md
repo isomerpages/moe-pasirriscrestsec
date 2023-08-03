@@ -3,7 +3,7 @@ title: Test Page
 permalink: /support/test/
 description: ""
 ---
-<h1>Expected Student Behaviours - Rules and Regulations</h1>
+<h1>Test - Expected Student Behaviours - Rules and Regulations</h1>
     <div>
         <p>To guide students in their character development and in order to achieve our desired learning outcomes especially of being a Self-Disciplined and Responsible Leader as well as an Active and Concerned Citizen with Global Awareness, the school has in place the following Expected Student Behaviours and Rules and Regulations, which are divided into five main categories. These Expected Student Behaviours and Rules and Regulations are to support the students in understanding the importance of good moral behavior, respect and care for self and others and to create a conducive environment for learning to take place. The categories are aligned to the school values of Care, Resilience, Excellence, Self-Belief, Trustworthiness (CREST).</p>
         <h3>1) ATTIRE / APPEARANCE</h3>
