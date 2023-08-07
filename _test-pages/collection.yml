@@ -1,4 +1,4 @@
 collections:
-  o-test-pages:
+  test-pages:
     output: true
     order: []
