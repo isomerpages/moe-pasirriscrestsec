@@ -1,0 +1,4 @@
+collections:
+  test-pages:
+    output: true
+    order: []
