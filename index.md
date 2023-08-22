@@ -12,4 +12,8 @@ sections:
   - resources:
       title: LATEST ANNOUNCEMENTS
       button: PREVIOUS ANNOUNCEMENTS
+  - infobar:
+      title: School Canteen Advertisement
+      button: Click for more information
+      url: /school-canteen-advertisement/
 ---
