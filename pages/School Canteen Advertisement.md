@@ -7,7 +7,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Malay Food Stall | 05 Jun 2023 | Rice or noodle stalls are acceptable.|
+| Malay Food Stall | 05 September 2023 | Rice or noodle stalls are acceptable.|
 
 
 **Application Procedure**
