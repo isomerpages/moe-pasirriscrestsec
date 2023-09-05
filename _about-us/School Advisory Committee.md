@@ -50,5 +50,6 @@ description: ""
 <br>
 <div>
 <h2>PRCSS SAC (2022)</h2>
-<div><img alt="SAC.png" src="/images/School%20Achievement%20Comittee/sac_2022.png" style="width:80%"><br>From Left:<br>School Principal Mrs Koh Caiyu, SAC Chairman Mr Law Heng Dean, SAC Member Mr Christopher Yong, SAC Member Mr Mooi Kim Thiam, SAC Member Mr Alex Tan, SAC Vice Chairman Ms Agnes Eu, SAC Member Ms Kristine Chua<br><br>Absent: SAC Member Mr Koh Yat Chung.</div>
+<div><img alt="SAC.png" src="/images/SAC/sac%202023.jpeg" style="width:80%"><br>From Left:<br>SAC Member Ms Kristine Chua, SAC Member Mr Koh Yat Chung, SAC Chairman, Mr Law Hean Dean, SAC Vice Chairman Ms Agnes Eu, School Principal Mrs Koh Caiyu<br><br>Absent: SAC Member Mr Mooi Kim Thiam	
+	</div>
 </div></div>
