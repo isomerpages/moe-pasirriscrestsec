@@ -12,6 +12,15 @@ The Termly Letters to Parents summarising the latest school updates for all leve
 
 **TERM 3**
 
+Letters to Parents dated 22 August 2023
+<br>
+[Secondary 1 Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%203/sec%201_level%20letter_22%20august%202023.pdf)<br>
+[Secondary 2 Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%203/sec%202_level%20letter_22%20august%202023.pdf)<br>
+[Secondary 3 Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%203/sec%203_level%20letter_22%20august%202023.pdf)<br>
+[Secondary 4E5N Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%203/sec%204e5n_level%20letter_22%20august%202023.pdf)<br>
+[Secondary 4NA Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%203/sec%204n(a)_level%20letter_22%20august%202023.pdf)<br>
+[Secondary 4NT Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%203/sec%204n(t)_level%20letter_22%20august%202023.pdf)<br>
+
 Letters to Parents dated 4 July 2023
 <br>
 [Secondary 1 Letter to Parents](/files/2023%20Termly%20Letter%20to%20Parents/Term%203/sec%201%20level%20letter_4%20july.pdf)<br>
