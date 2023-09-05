@@ -37,19 +37,11 @@ description: ""
     <td class="tg-acva">Member</td>
   </tr>
   <tr>
-    <td class="tg-l7na">Mr. Christopher Yong</td>
+    <td class="tg-l7na">Mr. Koh Yat Chung</td>
     <td class="tg-l7na">Member</td>
   </tr>
   <tr>
-    <td class="tg-acva">Mr. Koh Yat Chung</td>
-    <td class="tg-acva">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-l7na">Mr. Mooi Kim Thiam </td>
-    <td class="tg-l7na">Member</td>
-  </tr>
-  <tr>
-    <td class="tg-acva">Mr. Alex Tan</td>
+    <td class="tg-acva">Mr. Mooi Kim Thiam</td>
     <td class="tg-acva">Member</td>
   </tr>
 </tbody>
