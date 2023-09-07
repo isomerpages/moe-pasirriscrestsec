@@ -10,7 +10,7 @@ Expected Student Behaviours - Rules and Regulations
 <h4>Expected Student Behaviour</h4>
 <p>Students are the school’s representatives in the community and are expected to be always prim and proper in their school attire at all times. Taking pride in wearing the school uniform will help students to be self-disciplined and self-motivated.</p>
 <h4>Rules and Regulations</h4>
-The following rules and regulations are to be adhered to:
+	<p>The following rules and regulations are to be adhered to:</p>
 <ul>
 <li>Students must be in proper school attire whenever they come to school, including school holidays. Students are to wear the prescribed school attire without any improper modification.</li>
 <li>Hair must be kept neatly in its natural colour. Outlandish, spiky/ punkish or dyed/ coloured/ highlighted hair is not allowed.</li>
