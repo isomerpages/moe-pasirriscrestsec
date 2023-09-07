@@ -31,11 +31,11 @@ These students who need assistance for home broadband connectivity, can apply fo
 <p align="justify">For more information about the Home Access programme, please visit <a href="http://www.digitalaccess.gov.sg/" target="_blank" rel="noopener">www.digitalaccess.gov.sg</a>. <br>Or call <strong>6377 3800</strong>.</p>
 <ul>
 <li><strong><a href="/files/ha%203-0%20brochure%20wef%20oct%202021_p1.pdf" target="_blank" rel="noopener">Home Access Brochure (w.e.f. Oct 2021) Part 1</a></strong></li>
-<li><strong><a href="/files/ha30-application-form_version%203-0%20oct%202021.pdf" target="_blank" rel="noopener">Home Access Brochure (w.e.f. Oct 2021) Part 2</a></strong></li>
-<li><strong><a href="/files/ha30-application-form_Version%203%20Oct%202021.pdf" target="_blank" rel="noopener">Home Access Application Form Version 3.0</a></strong></li>
+<li><strong><a href="/files/ha%203-0%20brochure%20wef%20oct%202021_p2.pdf" target="_blank" rel="noopener">Home Access Brochure (w.e.f. Oct 2021) Part 2</a></strong></li>
+<li><strong><a href="/files/ha30-application-form_version%203-0%20oct%202021.pdf" target="_blank" rel="noopener">Home Access Application Form Version 3.0</a></strong></li>
 </ul></div>
 </li>
-		
+
 <li>
 <input type="checkbox" id="accordion4">
 <label for="accordion4">MOE FINANCIAL ASSISTANCE SCHEME</label>
