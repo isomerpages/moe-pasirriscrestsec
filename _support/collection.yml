@@ -2,7 +2,6 @@ collections:
   support:
     output: true
     order:
-      - Test Page.md
       - Personalised Digital Learning Programme (PDLP).md
       - Student Learning Spaces (SLS).md
       - SLS Support.md
