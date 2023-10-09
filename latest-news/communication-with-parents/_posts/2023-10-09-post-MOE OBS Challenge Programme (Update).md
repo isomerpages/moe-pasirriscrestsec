@@ -18,10 +18,8 @@ Through the course, our students will learn to:
 
 Enclosed below are the pdf copies of the presentation that were shared with the parents and students as well as the packing list for the course. You may refer to the document for more details.
 
-MOE-OBS Briefing for Parents _(Use the one that is currently on the school website)_
-
+[**MOE-OBS Briefing for Parents**](/files/5d4n%202023%20moe-obs%20parent%20briefing%20slides%20(prcss).pdf)
 MOE-OBS Briefing for Students _(Refer to attachment)_
-
 MOE-OBS Challenge Packing List _(Refer to attachment)_
 
 Thank you!
