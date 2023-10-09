@@ -9,11 +9,12 @@ description: ""
 
 <li>
 <input type="checkbox" id="accordion1">
-<label for="accordion1">NORTH EAST CDC ASSISTANCE SCHEME 2022</label>
+<label for="accordion1">NORTH EAST CDC ASSISTANCE SCHEME</label>
 <div>
 <p align="justify">Dear Crestians and Parents /Guardians,<br><br>
-Application for the North East CDC Assistance Scheme 2022 is open for application.
-Needy students may obtain the application forms from the school's <strong>General Office</strong> or apply online <a href="https://go.gov.sg/supportatne" target="_blank" rel="noopener">https://go.gov.sg/supportatne</a><br><br>
+Support for Financial and Social Assistance provide by North East CDC.<br>
+For application and criteria details, please refer to <a href="https://go.gov.sg/supportatne" target="_blank" rel="noopener">https://go.gov.sg/supportatne</a>.<br>
+
 Thank you.</p>
 </div>
 </li>
