@@ -10,6 +10,16 @@ Dear Parents /Guardians,
 
 The Termly Letters to Parents summarising the latest school updates for all levels and streams can be found in the links below. We look forward to your continued support in helping our students achieve success in their academic and co-curriculum development.
 
+**TERM 4**
+
+Letters to Parents dated 10 October 2023
+<br>
+[Secondary 1 Level Letter](/files/2023%20Termly%20Letter%20to%20Parents/Term%204/sec%201%20level%20letter_10%20oct%20(kcy).pdf)<br>
+[Secondary 2NT Level Letter](/files/2023%20Termly%20Letter%20to%20Parents/Term%204/sec%202nt%20level%20letter_10%20oct%20(kcy).pdf)<br>
+[Secondary 2NA Level Letter](/files/2023%20Termly%20Letter%20to%20Parents/Term%204/sec%202%20na%20level%20letter_10%20oct%20(kcy).pdf)<br>
+[Secondary 2E Level Letter](/files/2023%20Termly%20Letter%20to%20Parents/Term%204/sec%202e%20level%20letter_10%20oct%20(kcy).pdf)<br>
+[Secondary 3 Level Letter](/files/2023%20Termly%20Letter%20to%20Parents/Term%204/sec%203%20level%20letter_10%20oct%20(kcy).pdf)<br>
+
 **TERM 3**
 
 Letters to Parents dated 22 August 2023
