@@ -1,5 +1,5 @@
 ---
-title: MOE OBS Challenge Programme (Update)
+title: MOE OBS Challenge Programme (Updated)
 permalink: /latest-news/cwp/10/
 date: 2023-10-09
 layout: post
