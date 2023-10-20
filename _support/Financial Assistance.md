@@ -49,7 +49,8 @@ For more information, visit <a href="www.moe.gov.sg/financial-matters/financial-
 <strong>MOE FAS Application Form</strong><br>
 <a href="/files/MOE%20FAS%20Form/document1_2024%20moe%20fas%20application%20form.pdf" target="_blank" rel="noopener">Download Here</a><br>
 
+	
 <strong>MOE FAS QR Code</strong><br>
-<a href="https://go.gov.sg/moe-efas" target="_blank" rel="noopener">https://go.gov.sg/moe-efas</a></div><br>
+<a href="https://go.gov.sg/moe-efas" target="_blank" rel="noopener">https://go.gov.sg/moe-efas</a></div>
 	
 ![](/images/fas%20qr%20code.jpg)</li></ul>
