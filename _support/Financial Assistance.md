@@ -45,12 +45,12 @@ These students who need assistance for home broadband connectivity, can apply fo
 The MOE FAS Application Form for 2024 is available now. Needy Singaporean students who wish to apply for financial help may submit your application online via this website: <a href="https://go.gov.sg/moe-efas" target="_blank" rel="noopener">https://go.gov.sg/moe-efas</a> or submit the completed application form to the school.  </p>
   
 For more information, visit <a href="www.moe.gov.sg/financial-matters/financial-assistance/" target="_blank" rel="noopener">http://www.moe.gov.sg/financial-matters/financial-assistance/</a>
-
-<strong>MOE FAS Application Form</strong><br>
+<ul>
+<li><strong>MOE FAS Application Form</strong><br>
 <a href="/files/MOE%20FAS%20Form/document1_2024%20moe%20fas%20application%20form.pdf" target="_blank" rel="noopener">Download Here</a><br>
 
+</li><li><strong>MOE FAS QR Code</strong><br>
+<a href="https://go.gov.sg/moe-efas" target="_blank" rel="noopener">https://go.gov.sg/moe-efas</a></li></ul></div><br>
 	
-<strong>MOE FAS QR Code</strong><br>
-<a href="https://go.gov.sg/moe-efas" target="_blank" rel="noopener">https://go.gov.sg/moe-efas</a></div>
-	
-![](/images/fas%20qr%20code.jpg)</li></ul>
+![](/images/fas%20qr%20code.jpg)
+</li></ul>
