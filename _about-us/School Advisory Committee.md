@@ -6,6 +6,27 @@ description: ""
 <div>
 <h1>School Advisory Committee</h1>
 	<br>
+
+|Name|Designation|
+| --- | --- |
+| Mr. Law Heng Dean|Chairman|
+|Ms. Agnes Eu|Vice-Chairman|
+| Mrs. Koh Caiyu | Honorary Secretary (Principal) |
+| Ms. Kristine Chua | Member |
+| Mr. Koh Yat Chung | Member |
+| Mr. Mooi Kim Thiam | Member |
+| Dr. Stephen Lee | Member |
+| Ms. Gracie Lee | Member |
+| Mr. Andy Tan | Member |
+	
+	
+<div>
+<h2>PRCSS SAC (2023)</h2>
+<div><img alt="SAC.png" src="/images/SAC/sac%202023.jpeg" style="width:100%"><br>From Left:<br>SAC Member Ms Kristine Chua, SAC Member Mr Koh Yat Chung, SAC Chairman, Mr Law Hean Dean, SAC Vice Chairman Ms Agnes Eu, School Principal Mrs Koh Caiyu<br><br>Not in picture: SAC Members Mr Mooi Kim Thiam, Dr Stephen Lee, Ms Gracie Lee, Mr Andy Tan
+	</div>
+</div></div>
+
+
 <!--- <div>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -49,22 +70,3 @@ description: ""
 </div>
 <br>
 	--->
-
-|Name|Designation|
-| --- | --- |
-| Mr. Law Heng Dean|Chairman|
-|Ms. Agnes Eu|Vice-Chairman|
-| Mrs. Koh Caiyu | Honorary Secretary (Principal) |
-| Ms. Kristine Chua | Member |
-| Mr. Koh Yat Chung | Member |
-| Mr. Mooi Kim Thiam | Member |
-| Dr. Stephen Lee | Member |
-| Ms. Gracie Lee | Member |
-| Mr. Andy Tan | Member |
-	
-	
-<div>
-<h2>PRCSS SAC (2023)</h2>
-<div><img alt="SAC.png" src="/images/SAC/sac%202023.jpeg" style="width:100%"><br>From Left:<br>SAC Member Ms Kristine Chua, SAC Member Mr Koh Yat Chung, SAC Chairman, Mr Law Hean Dean, SAC Vice Chairman Ms Agnes Eu, School Principal Mrs Koh Caiyu<br><br>Not in picture: SAC Members Mr Mooi Kim Thiam, Dr Stephen Lee, Ms Gracie Lee, Mr Andy Tan
-	</div>
-</div></div>
