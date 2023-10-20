@@ -50,8 +50,9 @@ description: ""
 <br>
 	--->
 
-| Mr. Law Heng Dean|Chairman|
+|Name|Designation|
 | --- | --- |
+| Mr. Law Heng Dean|Chairman|
 |Ms. Agnes Eu|Vice-Chairman|
 | Mrs. Koh Caiyu | Honorary Secretary (Principal) |
 | Ms. Kristine Chua | Member |
@@ -64,6 +65,6 @@ description: ""
 	
 <div>
 <h2>PRCSS SAC (2023)</h2>
-<div><img alt="SAC.png" src="/images/SAC/sac%202023.jpeg" style="width:100%"><br>From Left:<br>SAC Member Ms Kristine Chua, SAC Member Mr Koh Yat Chung, SAC Chairman, Mr Law Hean Dean, SAC Vice Chairman Ms Agnes Eu, School Principal Mrs Koh Caiyu<br><br>Absent: SAC Member Mr Mooi Kim Thiam	
+<div><img alt="SAC.png" src="/images/SAC/sac%202023.jpeg" style="width:100%"><br>From Left:<br>SAC Member Ms Kristine Chua, SAC Member Mr Koh Yat Chung, SAC Chairman, Mr Law Hean Dean, SAC Vice Chairman Ms Agnes Eu, School Principal Mrs Koh Caiyu<br><br>Not in picture: SAC Members Mr Mooi Kim Thiam, Dr Stephen Lee, Ms Gracie Lee, Mr Andy Tan
 	</div>
 </div></div>
