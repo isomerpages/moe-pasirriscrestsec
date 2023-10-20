@@ -6,10 +6,10 @@ description: ""
 <div>
 <h1>School Advisory Committee</h1><br>
 
-|Name|Designation|
-| --- | --- |
-| Mr. Law Heng Dean|Chairman|
-|Ms. Agnes Eu|Vice-Chairman|
+| Name | Designation |
+| -------- | -------- |
+| Mr. Law Heng Dean | Chairman |
+| Ms. Agnes Eu | Vice-Chairman |
 | Mrs. Koh Caiyu | Honorary Secretary (Principal) |
 | Ms. Kristine Chua | Member |
 | Mr. Koh Yat Chung | Member |
@@ -18,7 +18,6 @@ description: ""
 | Ms. Gracie Lee | Member |
 | Mr. Andy Tan | Member |
 <br>
-	
 <div>
 <h1>PRCSS SAC (2023)</h1><br>
 <div><img alt="SAC.png" src="/images/SAC/sac%202023.jpeg" style="width:100%"><br>
