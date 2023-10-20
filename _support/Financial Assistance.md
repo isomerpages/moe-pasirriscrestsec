@@ -47,9 +47,9 @@ The MOE FAS Application Form for 2024 is available now. Needy Singaporean studen
 For more information, visit <a href="www.moe.gov.sg/financial-matters/financial-assistance/" target="_blank" rel="noopener">http://www.moe.gov.sg/financial-matters/financial-assistance/</a>
 
 <strong>MOE FAS Application Form</strong><br>
-<a href="/files/MOE%20FAS%20Form/document1_2024%20moe%20fas%20application%20form.pdf" target="_blank" rel="noopener">Download Here</a>
+<a href="/files/MOE%20FAS%20Form/document1_2024%20moe%20fas%20application%20form.pdf" target="_blank" rel="noopener">Download Here</a><br>
 
 <strong>MOE FAS QR Code</strong><br>
-<a href="https://go.gov.sg/moe-efas" target="_blank" rel="noopener">https://go.gov.sg/moe-efas</a></div></li></ul>
+<a href="https://go.gov.sg/moe-efas" target="_blank" rel="noopener">https://go.gov.sg/moe-efas</a></div><br>
 	
-![](/images/fas%20qr%20code.jpg)
+![](/images/fas%20qr%20code.jpg)</li></ul>
