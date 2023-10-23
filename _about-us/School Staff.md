@@ -18,7 +18,7 @@ description: ""
 			<label for="accordion2">KEY PERSONNEL</label>
 			<div class="content hidecontent">
 			<div>
-				<img src="/images/Our%20Staff/June%2023/2%20school%20staff.jpg">
+				<img src="/images/Our%20Staff/Oct/hod%20update.png">
 				</div>
 		</div></li>
 		<li>
