@@ -12,13 +12,11 @@ sections:
   - infopic:
       title: PRCSS Open House 2023
       id: infopic
-      description: |+
-        Saturday, 9am to 12pm
-
+      description: Saturday, 9am to 12pm
       button: CLICK HERE TO FIND OUT MORE
       image: /images/Open House Banner/small banner.jpg
       alt: Image alt text
-      url: https://sites.google.com/moe.edu.sg/ prcss-open-house
+      url: https://sites.google.com/moe.edu.sg/prcss-open-house
       subtitle: 25th November 2023
   - resources:
       title: LATEST ANNOUNCEMENTS
