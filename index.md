@@ -12,12 +12,10 @@ sections:
   - infopic:
       title: PRCSS Open House 2023
       id: infopic
-      description: |-
-        24th November 2023, Saturday 
-        8 am - 1 pm
-      button: Button Text
+      button: CLICK HERE TO FIND OUT MORE
       image: /images/Open House Banner/open house banner 2023.PNG
       alt: Image alt text
+      url: https://sites.google.com/moe.edu.sg/ prcss-open-house
   - resources:
       title: LATEST ANNOUNCEMENTS
       button: PREVIOUS ANNOUNCEMENTS
