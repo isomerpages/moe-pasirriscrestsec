@@ -12,7 +12,7 @@ sections:
   - infopic:
       title: PRCSS Open House 2023
       id: infopic
-      description: Saturday, 9am to 12pm
+      description: Saturday, 8:00 am to 1:00 pm
       button: CLICK HERE TO FIND OUT MORE
       image: /images/Open House Banner/small banner.jpg
       alt: Image alt text
