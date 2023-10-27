@@ -8,7 +8,7 @@ image: ""
 ---
 Dear Crestians/Parents/Guardians,
 
-The following for your information.
+The following for your information:
 
 **Booklist and Bookshop Vendor**<br>
 Vendor Name: [Pacific Bookstores](https://www.pacificbookstores.com/)<br>
