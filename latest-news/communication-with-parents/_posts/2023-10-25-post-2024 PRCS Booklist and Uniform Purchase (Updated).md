@@ -24,6 +24,7 @@ The following are the Booklist forms for the respective levels:<br>
 
 *Only Male Students are to purchase the Tie from the Bookshop
  
+ **Updated on 20th November 2023**<br>
  **[Asencio](https://asencio.com.sg/)**: Uniform Vendor<br>
  [Online Purchase Guide - PRCSS - Uniform](/files/ascencioonline.pdf)<br>
  \*\*All students are&nbsp;**NOT REQUIRED**&nbsp;to purchase Name Tags with the Uniform
