@@ -2,6 +2,7 @@
 title: Personalised Digital Learning Programme (PDLP)
 permalink: /support/pdlp/
 description: ""
+variant: markdown
 ---
 <h1>Personalised Digital Learning Programme (PDLP)</h1>
 <ul class="jekyllcodex_accordion">
@@ -69,7 +70,7 @@ SERVICE CENTRE
 	
 </li><li>
 <input type="checkbox" id="accordion4">
-<label for="accordion4">PDLP STUDENT DEVICE INFORMATION KIT</label>
+<label for="accordion4">DEFECTS FAULT REPORTING FOR SCHOOL</label>
 
 <div>
 
