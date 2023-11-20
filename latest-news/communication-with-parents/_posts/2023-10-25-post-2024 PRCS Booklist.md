@@ -5,7 +5,7 @@ date: 2023-10-25
 layout: post
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 ---
 Dear Crestians/Parents/Guardians,
 
@@ -21,3 +21,9 @@ The following are the Booklist forms for the respective levels:<br>
 3\. [Secondary 3](/files/Booklist/2024/secondary%203.pdf)<br>
 4\. [Secondary 4](/files/Booklist/2024/secondary%204.pdf)<br>
 5\. [Secondary 5](/files/Booklist/2024/secondary%205.pdf)<br>
+
+*Only Male Students are to purchase the Tie from the Bookshop
+ 
+ **[Asencio](https://asencio.com.sg/)**: Uniform Vendor<br>
+ [Online Purchase Guide - PRCSS - Uniform](/files/ascencioonline.pdf)<br>
+ \*\*All students are&nbsp;**NOT REQUIRED**&nbsp;to purchase Name Tags with the Uniform
