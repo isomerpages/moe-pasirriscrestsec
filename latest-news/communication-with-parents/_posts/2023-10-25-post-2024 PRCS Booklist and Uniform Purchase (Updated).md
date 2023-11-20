@@ -1,10 +1,11 @@
 ---
-title: 2024 PRCS Booklist
-permalink: /latest-news/cwp/9/
+title: 2024 PRCS Booklist and Uniform Purchase (Updated)
+permalink: /latest-news/cwp/11/
 date: 2023-10-25
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 Dear Crestians/Parents/Guardians,
 
@@ -20,3 +21,10 @@ The following are the Booklist forms for the respective levels:<br>
 3\. [Secondary 3](/files/Booklist/2024/secondary%203.pdf)<br>
 4\. [Secondary 4](/files/Booklist/2024/secondary%204.pdf)<br>
 5\. [Secondary 5](/files/Booklist/2024/secondary%205.pdf)<br>
+
+*Only Male Students are to purchase the Tie from the Bookshop
+ 
+ **Updated on 20th November 2023**<br>
+ **[Asencio](https://asencio.com.sg/)**: Uniform Vendor<br>
+ [Online Purchase Guide - PRCSS - Uniform](/files/ascencioonline.pdf)<br>
+ \*\*All students are&nbsp;**NOT REQUIRED**&nbsp;to purchase Name Tags with the Uniform

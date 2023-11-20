@@ -1,10 +1,11 @@
 ---
 title: MOE OBS Challenge Programme (Updated)
-permalink: /latest-news/cwp/10/
+permalink: /latest-news/cwp/9/
 date: 2023-10-09
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 Dear Parents/Guardians and Secondary 3 Crestians,
 

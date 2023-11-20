@@ -5,6 +5,7 @@ date: 2022-11-16
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 Dear Crestians/Parents/Guardians,
 

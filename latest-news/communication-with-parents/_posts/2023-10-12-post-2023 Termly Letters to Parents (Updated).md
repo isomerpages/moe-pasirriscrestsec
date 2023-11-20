@@ -1,10 +1,11 @@
 ---
 title: 2023 Termly Letters to Parents (Updated)
-permalink: /latest-news/cwp/9/
+permalink: /latest-news/cwp/10/
 date: 2023-10-12
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 Dear Parents /Guardians,
 
