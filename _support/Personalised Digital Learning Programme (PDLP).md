@@ -87,8 +87,42 @@ Link for QR Code: [https://go.gov.sg/lvosaz](https://go.gov.sg/lvosaz)
 
 </li><li>
 <input type="checkbox" id="accordion5">
-<label for="accordion5">DMA PARENT GUIDE</label>
+<label for="accordion5">AV / ICT REQUEST FORM</label>
 <div>
+<p>
+This fault reporting form allows you to make a report for two main categories of faults:
+</p><ul>
+<li>[FOR STUDENTS and STAFF] Facilities management (FM) faults.</li>
+<li>[FOR STUDENTS and STAFF] Account Enable / Password Reset*.</li>
+<li>[FOR STAFF ONLY] AV Support/Equipment (Ad-hoc Microphone Request, Portable Projector &amp; Others).</li>
+<li>[FOR STAFF ONLY] ICT Support/Equipment (Software Installation** &amp; Ipad/Laptop Loan).</li>
+<li>[FOR STAFF ONLY] Livestream</li>
+</ul>
+*Password shall be reset to the following: 	
+<h1>Prcss3613!!!</h1>
+(P Capital letter and include the !!!)
 
-				
+**If Desktop Engineer is not at ICT office staff to use the QR Code
+
+<b>New password Requirements</b><br>
+<ul>
+<li>At least 12 characters long but 14 or more is better. </li>
+<li>A combination of uppercase letters, lowercase letters, numbers, and symbols. </li>
+<li>Not a word/number that can be found in your I/C and birthday (includes your own name). </li>
+<li>Significantly different from your previous passwords.</li>
+</ul>
+	
+Student PLD Information
+Kindly bring your PLD to ICT department at Level 2 Staffroom for assessment.
+<ul>
+<li>If Hardware issues, students are to contact the Service Center directly.</li>
+</ul>
+Lenovo Service Center Information (Device are under 3 years warranty from year of purchase.)
+<ul>
+<li>Address: #01-17 Tai Seng Centre 3 Irving Road 369522</li>
+<li>Contact number: +65 6871 4838</li>
+<li>Email: lenovo@smartcares.com</li>
+</ul><br>
+<h5>Note: In 2024, Students will be able to perform self reset after registering their self reset password in MIMS portals at <a href="https://idp.mims.moe.gov.sg/nidp/app/login">HERE</a></h5>
+<p></p>		
 </div></li></ul>
