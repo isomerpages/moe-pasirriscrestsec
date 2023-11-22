@@ -101,9 +101,9 @@ This fault reporting form allows you to make a report for two main categories of
 </ul>
 *Password shall be reset to the following: 	
 <h1>Prcss3613!!!</h1>
-(P Capital letter and include the !!!)
+(P Capital letter and include the !!!)<br>
 
-**If Desktop Engineer is not at ICT office staff to use the QR Code
+**If Desktop Engineer is not at ICT office staff to use the QR Code<br>
 
 <b>New password Requirements</b><br>
 <ul>
