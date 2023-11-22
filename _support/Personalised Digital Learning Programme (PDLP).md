@@ -74,17 +74,21 @@ SERVICE CENTRE
 
 <div>
 
-<a href="https://prcss.moe.edu.sg/qql/slot/u200/pdf/communication_with_parents/PDLP/Student-Device-Information-Kit.pdf">Student Device Information Kit</a><br>
+<img src="/images/Support/QR%20CODE/FAS_QR_CODE.jpg">
+
+<p>This fault reporting form allows you to make a report for two main categories of faults:
+</p><ul>
+<li>[FOR STUDENTS and STAFF] Facilities management (FM) faults;</li>
+<li>[FOR STUDENTS and STAFF] ICT - equipment related faults.</li>
+</ul>
+Link for QR Code: [https://go.gov.sg/lvosaz](https://go.gov.sg/lvosaz)
+<p></p>
 </div>
 
 </li><li>
 <input type="checkbox" id="accordion5">
 <label for="accordion5">DMA PARENT GUIDE</label>
 <div>
-<a href="https://prcss.moe.edu.sg/qql/slot/u200/pdf/communication_with_parents/PDLP/DMA%20Parent%20Guide%20for%20Default%20Option.pdf">[Default Option]</a><br>
 
-<a href="https://prcss.moe.edu.sg/qql/slot/u200/pdf/communication_with_parents/PDLP/DMA%20Parent%20Guide%20for%20Option%20A.pdf">[Option A]</a><br>
-			
-<a href="https://prcss.moe.edu.sg/qql/slot/u200/pdf/communication_with_parents/PDLP/DMA%20Parent%20Guide%20for%20Option%20B.pdf">[Option B]</a>
 				
 </div></li></ul>
