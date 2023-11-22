@@ -1,7 +1,8 @@
 ---
-title: 21st Century Competencies and Development
+title: 21st Century Competencies Development
 permalink: /the-crestian-experience/21st-competencies-and-development/
 description: ""
+variant: tiptap
 ---
 <!--- 
 2022 Archive

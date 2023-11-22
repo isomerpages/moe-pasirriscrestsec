@@ -2,8 +2,9 @@
 title: School Song
 permalink: /about-us/schoolsong/
 description: ""
+variant: markdown
 ---
-<h1>Our School Song</h1>
+<h1>School Song</h1>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fwVODfq0tI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 

@@ -2,6 +2,7 @@
 title: School Staff
 permalink: /about-us/schoolstaff/
 description: ""
+variant: markdown
 ---
 <h1>School Staff</h1>
 <ul class="jekyllcodex_accordion">
@@ -31,5 +32,4 @@ description: ""
 				<img src="/images/Our%20Staff/June%2023/5%20school%20staff.jpg">
 				</div>
 				</div></li>
-	
 </ul>

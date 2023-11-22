@@ -2,6 +2,7 @@
 title: Student Learning Space (SLS)
 permalink: /support/sls/
 description: ""
+variant: markdown
 ---
 <h1>STUDENT LEARNING SPACE (SLS)</h1>
 <div>
