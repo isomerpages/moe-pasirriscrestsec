@@ -2,6 +2,7 @@
 title: Principal's Message
 permalink: /about-us/PrincipalsMessage/
 description: ""
+variant: markdown
 ---
 <h1>Principal's Message</h1>
 <div>
@@ -21,15 +22,15 @@ description: ""
 
 The determiner ‘OUR’ is retained to continue the emphasis on collective ownership, in line with the school vision. The school values represented by CREST are brought to the foreground, because we believe that values guide behaviours, and behaviours shape culture.</p>
 
-<p align="justify">But what are our CREST values, and how do we want our staff and students to demonstrate them?
-
-*   Care: To Care is to demonstrate kindness, respect and empathy for others.
-*   Resilience: To be Resilient is to persevere through adversities with a positive mindset, and recover with mental and emotional strength.
-*   Excellence: To pursue Excellence is to put in one’s best effort in all endeavours and to seek constant betterment of oneself.
-*   Self-belief: To have Self-belief is to have confidence in one’s ability while having the humility to learn continuously
-*   Trustworthiness: To be Trustworthy necessitates one to be a person of integrity and honesty, and thus, having the quality to be reliable and dependable when working and interacting with others
-
-PRCS seeks to inculcate these values in our staff and students, and I invite you, to join us on this journey in building OUR caring home, and be our CRESTian leaders!</p>
+<p align="justify">But what are our CREST values, and how do we want our staff and students to demonstrate them?</p>
+<ul>
+Care: To Care is to demonstrate kindness, respect and empathy for others.
+Resilience: To be Resilient is to persevere through adversities with a positive mindset, and recover with mental and emotional strength.
+Excellence: To pursue Excellence is to put in one’s best effort in all endeavours and to seek constant betterment of oneself.
+Self-belief: To have Self-belief is to have confidence in one’s ability while having the humility to learn continuously.
+Trustworthiness: To be Trustworthy necessitates one to be a person of integrity and honesty, and thus, having the quality to be reliable and dependable when working and interacting with others.
+</ul>
+<p>PRCS seeks to inculcate these values in our staff and students, and I invite you, to join us on this journey in building OUR caring home, and be our CRESTian leaders!</p>
 
 <p><strong>Mrs. Koh Caiyu<br>
 Principal<br>
