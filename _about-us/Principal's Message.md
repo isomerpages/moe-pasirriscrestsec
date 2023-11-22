@@ -24,14 +24,20 @@ The determiner ‘OUR’ is retained to continue the emphasis on collective owne
 
 <p align="justify">But what are our CREST values, and how do we want our staff and students to demonstrate them?</p>
 <ul>
-Care: To Care is to demonstrate kindness, respect and empathy for others.
-Resilience: To be Resilient is to persevere through adversities with a positive mindset, and recover with mental and emotional strength.
-Excellence: To pursue Excellence is to put in one’s best effort in all endeavours and to seek constant betterment of oneself.
-Self-belief: To have Self-belief is to have confidence in one’s ability while having the humility to learn continuously.
-Trustworthiness: To be Trustworthy necessitates one to be a person of integrity and honesty, and thus, having the quality to be reliable and dependable when working and interacting with others.
+<li>Care: To Care is to demonstrate kindness, respect and empathy for others.</li>
+<li>Resilience: To be Resilient is to persevere through adversities with a positive mindset, and recover with mental and emotional strength.</li>
+<li>Excellence: To pursue Excellence is to put in one’s best effort in all endeavours and to seek constant betterment of oneself.</li>
+<li>Self-belief: To have Self-belief is to have confidence in one’s ability while having the humility to learn continuously.</li>
+<li>Trustworthiness: To be Trustworthy necessitates one to be a person of integrity and honesty, and thus, having the quality to be reliable and dependable when working and interacting with others.</li>
 </ul>
 <p>PRCS seeks to inculcate these values in our staff and students, and I invite you, to join us on this journey in building OUR caring home, and be our CRESTian leaders!</p>
 
 <p><strong>Mrs. Koh Caiyu<br>
 Principal<br>
 Pasir Ris Crest Secondary School</strong></p></div></div>
+
+
+<ul>
+<li>8 characters or longer; and</li>
+<li>at least 1 letter and 1 number.</li>
+</ul>
