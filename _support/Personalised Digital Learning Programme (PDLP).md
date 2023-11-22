@@ -74,7 +74,7 @@ SERVICE CENTRE
 
 <div>
 
-<img src="/images/Support/QR%20CODE/FAS_QR_CODE.jpg">
+<img style="width: 50%; height: 50%" src="/images/Support/QR%20CODE/FAS_QR_CODE.jpg">
 
 <p>This fault reporting form allows you to make a report for two main categories of faults:
 </p><ul>
@@ -89,7 +89,7 @@ SERVICE CENTRE
 <input type="checkbox" id="accordion5">
 <label for="accordion5">AV / ICT REQUEST FORM</label>
 <div>
-<img src="/images/Support/QR%20CODE/Request_Form.png">
+<img style="width: 50%; height: 50%" src="/images/Support/QR%20CODE/Request_Form.png">
 <p>
 This fault reporting form allows you to make a report for two main categories of faults:
 </p><ul>
@@ -102,10 +102,10 @@ This fault reporting form allows you to make a report for two main categories of
 *Password shall be reset to the following: 	
 <h1>Prcss3613!!!</h1>
 (P Capital letter and include the !!!)<br>
-
+<br>
 **If Desktop Engineer is not at ICT office staff to use the QR Code<br>
 
-<b>New password Requirements</b><br>
+<b>New password Requirements</b>
 <ul>
 <li>At least 12 characters long but 14 or more is better. </li>
 <li>A combination of uppercase letters, lowercase letters, numbers, and symbols. </li>
