@@ -14,7 +14,7 @@ variant: markdown
 <!--<p align="justify">When you enter our campus, you will see the phrase &lsquo;Home of the Overcomers&rsquo;, shining beautifully under the warm rays. Indeed, this is our home, our PRCS, where we want all of you to be able to find your place, your growth, and strength to take on and overcome any challenge in life</p> -->
 	<p align="justify"> If you have ever heard us share about PRCS, you would remember our emphasis on our school culture of Care, Excellence and Positive Self-Belief. In PRCS, we believe that only with the desired culture, staff and students can find their place, learn and lead themselves towards the school's vision and mission.
 	
-Hence, every year, we have a school theme to galvanise our efforts and guide our focus in this process of culture building.<br>
+Hence, every year, we have a school theme to galvanise our efforts and guide our focus in this process of culture building.
 	
 The school theme for 2022 was OUR PRCS, highlighting the singular and collective identity to be owned by all staff and students.
 
