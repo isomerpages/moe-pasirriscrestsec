@@ -25,11 +25,11 @@ The determiner ‘OUR’ is retained to continue the emphasis on collective owne
 But what are our CREST values, and how do we want our staff and students to demonstrate them?
 </p>
 <ul>
-<li><u>C</u>are: To Care is to demonstrate kindness, respect and empathy for others.</li>
-<li><u>R</u>esilience: To be Resilient is to persevere through adversities with a positive mindset, and recover with mental and emotional strength.</li>
-<li><u>E</u>xcellence: To pursue Excellence is to put in one’s best effort in all endeavours and to seek constant betterment of oneself.</li>
-<li><u>S</u>elf-belief: To have Self-belief is to have confidence in one’s ability while having the humility to learn continuously.</li>
-<li><u>T</u>rustworthiness: To be Trustworthy necessitates one to be a person of integrity and honesty, and thus, having the quality to be reliable and dependable when working and interacting with others.</li>
+<li><u><b>C</b></u>are: To Care is to demonstrate kindness, respect and empathy for others.</li>
+<li><u><b>R</b></u>esilience: To be Resilient is to persevere through adversities with a positive mindset, and recover with mental and emotional strength.</li>
+<li><u><b>E</b></u>xcellence: To pursue Excellence is to put in one’s best effort in all endeavours and to seek constant betterment of oneself.</li>
+<li><u><b>S</b></u>elf-belief: To have Self-belief is to have confidence in one’s ability while having the humility to learn continuously.</li>
+<li><u><b>T</b></u>rustworthiness: To be Trustworthy necessitates one to be a person of integrity and honesty, and thus, having the quality to be reliable and dependable when working and interacting with others.</li>
 </ul>
 <p align="justify">PRCS seeks to inculcate these values in our staff and students, and I invite you, to join us on this journey in building OUR caring home, and be our CRESTian leaders!</p>
 
