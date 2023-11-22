@@ -123,7 +123,7 @@ Lenovo Service Center Information (Device are under 3 years warranty from year o
 <li>Address: #01-17 Tai Seng Centre 3 Irving Road 369522</li>
 <li>Contact number: +65 6871 4838</li>
 <li>Email: lenovo@smartcares.com</li>
-</ul><br>
+</ul>
 <h5>Note: In 2024, Students will be able to perform self reset after registering their self reset password in MIMS portals at <a href="https://idp.mims.moe.gov.sg/nidp/app/login">HERE</a></h5>
 <p></p>		
 </div></li></ul>
