@@ -81,7 +81,7 @@ SERVICE CENTRE
 <li>[FOR STUDENTS and STAFF] Facilities management (FM) faults;</li>
 <li>[FOR STUDENTS and STAFF] ICT - equipment related faults.</li>
 </ul>
-Link for QR Code: [https://go.gov.sg/lvosaz](https://go.gov.sg/lvosaz)
+	Link for QR Code: <a href="https://go.gov.sg/lvosaz">https://go.gov.sg/lvosaz</a>
 <p></p>
 </div>
 
@@ -89,6 +89,7 @@ Link for QR Code: [https://go.gov.sg/lvosaz](https://go.gov.sg/lvosaz)
 <input type="checkbox" id="accordion5">
 <label for="accordion5">AV / ICT REQUEST FORM</label>
 <div>
+<img src="/images/Support/QR%20CODE/Request_Form.png">
 <p>
 This fault reporting form allows you to make a report for two main categories of faults:
 </p><ul>
