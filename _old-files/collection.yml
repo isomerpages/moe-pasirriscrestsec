@@ -1,0 +1,4 @@
+collections:
+  old-files:
+    output: true
+    order: []
