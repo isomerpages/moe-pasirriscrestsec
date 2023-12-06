@@ -1,5 +1,5 @@
 collections:
-  old-files:
+  1-old-files:
     output: true
     order:
       - Student Portal.md
