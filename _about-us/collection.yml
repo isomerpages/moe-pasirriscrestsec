@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - School Staff 2024.md
       - Principal's Message.md
       - Vision, Mission, Values and Motto.md
       - School Song.md
       - School History.md
       - School Staff.md
+      - School Staff 2024.md
       - School Advisory Committee.md
