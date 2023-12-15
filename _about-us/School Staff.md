@@ -11,7 +11,7 @@ variant: markdown
 		<label for="accordion1">SCHOOL LEADERS</label>
 		<div class="content hidecontent">
 		<div>
-			<img src="/images/Our%20Staff/June%2023/1%20school%20staff.jpg">
+			<img src="/images/Our%20Staff/2024_SL.png">
 			</div>
 			</div></li>
 		<li>
@@ -19,6 +19,8 @@ variant: markdown
 			<label for="accordion2">KEY PERSONNEL</label>
 			<div class="content hidecontent">
 			<div>
+				<img src="/images/Our%20Staff/2024_HOD.png">
+				<img src="/images/Our%20Staff/Oct/hod%20update.png">
 				<img src="/images/Our%20Staff/Oct/hod%20update.png">
 				</div>
 		</div></li>
@@ -29,6 +31,15 @@ variant: markdown
 			<div>
 				<img src="/images/Our%20Staff/June%2023/3%20school%20staff.jpg">
 				<img src="/images/Our%20Staff/June%2023/4%20school%20staff.jpg">
+				<img src="/images/Our%20Staff/June%2023/5%20school%20staff.jpg">
+				<img src="/images/Our%20Staff/June%2023/5%20school%20staff.jpg">
+				<img src="/images/Our%20Staff/June%2023/5%20school%20staff.jpg">
+				<img src="/images/Our%20Staff/June%2023/5%20school%20staff.jpg">
+				<img src="/images/Our%20Staff/June%2023/5%20school%20staff.jpg">
+				<img src="/images/Our%20Staff/June%2023/5%20school%20staff.jpg">
+				<img src="/images/Our%20Staff/June%2023/5%20school%20staff.jpg">
+				<img src="/images/Our%20Staff/June%2023/5%20school%20staff.jpg">
+				<img src="/images/Our%20Staff/June%2023/5%20school%20staff.jpg">
 				<img src="/images/Our%20Staff/June%2023/5%20school%20staff.jpg">
 				</div>
 				</div></li>
