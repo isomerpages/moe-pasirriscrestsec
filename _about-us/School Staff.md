@@ -43,4 +43,12 @@ variant: markdown
 				<img src="/images/Our%20Staff/June%2023/5%20school%20staff.jpg">
 				</div>
 				</div></li>
+  <li>
+			<input type="checkbox" id="accordion4" class="hidecontent">
+			<label for="accordion4">EXECUTIVE AND ADMINSTRATIVE STAFF</label>
+			<div class="content hidecontent">
+			<div>
+				<img src="/images/Our%20Staff/2024_EAS.png">
+				</div>
+				</div></li>
 </ul>
