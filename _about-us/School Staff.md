@@ -20,8 +20,8 @@ variant: markdown
 			<div class="content hidecontent">
 			<div>
 				<img src="/images/Our%20Staff/2024_HOD.png">
-				<img src="/images/Our%20Staff/Oct/hod%20update.png">
-				<img src="/images/Our%20Staff/Oct/hod%20update.png">
+				<img src="/images/Our%20Staff/2024_YH.png">
+				<img src="/images/Our%20Staff/2024_SH.png">
 				</div>
 		</div></li>
 		<li>
