@@ -19,28 +19,17 @@ variant: markdown
 			<label for="accordion2">KEY PERSONNEL</label>
 			<div class="content hidecontent">
 			<div>
-				<img src="/images/Our%20Staff/2024_HOD.png">
-				<img src="/images/Our%20Staff/2024_YH.png">
-				<img src="/images/Our%20Staff/2024_SH.png">
+				<img src="/images/Our%20Staff/2024_HOD.png"><br>
+				<img src="/images/Our%20Staff/2024_YH.png"><br>
+				<img src="/images/Our%20Staff/2024_SH.png"><br>
 				</div>
 		</div></li>
 		<li>
 			<input type="checkbox" id="accordion3" class="hidecontent">
-			<label for="accordion3">HOME TUTORS</label>
+			<label for="accordion3">HOME TUTORS (2023)</label>
 			<div class="content hidecontent">
 			<div>
 				<img src="/images/Our%20Staff/June%2023/3%20school%20staff.jpg">
-				<img src="/images/Our%20Staff/June%2023/4%20school%20staff.jpg">
-				<img src="/images/Our%20Staff/June%2023/5%20school%20staff.jpg">
-				<img src="/images/Our%20Staff/June%2023/5%20school%20staff.jpg">
-				<img src="/images/Our%20Staff/June%2023/5%20school%20staff.jpg">
-				<img src="/images/Our%20Staff/June%2023/5%20school%20staff.jpg">
-				<img src="/images/Our%20Staff/June%2023/5%20school%20staff.jpg">
-				<img src="/images/Our%20Staff/June%2023/5%20school%20staff.jpg">
-				<img src="/images/Our%20Staff/June%2023/5%20school%20staff.jpg">
-				<img src="/images/Our%20Staff/June%2023/5%20school%20staff.jpg">
-				<img src="/images/Our%20Staff/June%2023/5%20school%20staff.jpg">
-				<img src="/images/Our%20Staff/June%2023/5%20school%20staff.jpg">
 				</div>
 				</div></li>
   <li>
