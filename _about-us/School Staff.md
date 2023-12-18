@@ -11,7 +11,7 @@ variant: markdown
 		<label for="accordion1">SCHOOL LEADERS</label>
 		<div class="content hidecontent">
 		<div>
-			<img src="/images/Our%20Staff/June%2023/1%20school%20staff.jpg">
+			<img src="/images/Our%20Staff/2024_SL.png">
 			</div>
 			</div></li>
 		<li>
@@ -19,7 +19,9 @@ variant: markdown
 			<label for="accordion2">KEY PERSONNEL</label>
 			<div class="content hidecontent">
 			<div>
-				<img src="/images/Our%20Staff/Oct/hod%20update.png">
+				<img src="/images/Our%20Staff/2024_HOD.png"><br>
+				<img src="/images/Our%20Staff/2024_YH.png"><br>
+				<img src="/images/Our%20Staff/2024_SH.png"><br>
 				</div>
 		</div></li>
 		<li>
@@ -27,9 +29,23 @@ variant: markdown
 			<label for="accordion3">HOME TUTORS</label>
 			<div class="content hidecontent">
 			<div>
-				<img src="/images/Our%20Staff/June%2023/3%20school%20staff.jpg">
-				<img src="/images/Our%20Staff/June%2023/4%20school%20staff.jpg">
-				<img src="/images/Our%20Staff/June%2023/5%20school%20staff.jpg">
+				<img src="/images/Our%20Staff/2024_SEC1HT.png"><br>
+				<img src="/images/Our%20Staff/2024_SEC2HT.png"><br>
+				<img src="/images/Our%20Staff/2024_SEC3HT.png"><br>
+				<img src="/images/Our%20Staff/2024_SEC4HT.png"><br>
+				<img src="/images/Our%20Staff/2024_NONHT.png"><br>
+				<img src="/images/Our%20Staff/2024_AED.png"><br>
+				<img src="/images/Our%20Staff/2024_OST.png"><br>
+				<img src="/images/Our%20Staff/2024_ST.png"><br>
+				<img src="/images/Our%20Staff/2024_LT.png"><br>
+				</div>
+				</div></li>
+  <li>
+			<input type="checkbox" id="accordion4" class="hidecontent">
+			<label for="accordion4">EXECUTIVE AND ADMINSTRATIVE STAFF</label>
+			<div class="content hidecontent">
+			<div>
+				<img src="/images/Our%20Staff/2024_EAS.png">
 				</div>
 				</div></li>
 </ul>

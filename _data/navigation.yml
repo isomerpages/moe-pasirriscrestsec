@@ -1,10 +1,10 @@
 logo: /images/school logo pdf.jpg
 links:
   - title: About Us
-    url: /about-us/PrincipalsMessage/
+    url: /about-us/principalsmessage/
     sublinks:
       - title: Principal's Message
-        url: /about-us/PrincipalsMessage/
+        url: /about-us/principalsmessage/
       - title: Vision, Mission, Values, Motto
         url: /about-us/vision-mission-values-motto/
       - title: School Song
@@ -14,7 +14,7 @@ links:
       - title: School Staff
         url: /about-us/schoolstaff/
       - title: School Advisory Committee
-        url: /about-us/SchoolAdvisoryCommittee/
+        url: /about-us/schooladvisorycommittee/
   - title: Overcomers
     url: https://sites.google.com/moe.edu.sg/prcss-overcomers/
     sublinks:
