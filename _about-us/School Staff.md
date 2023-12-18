@@ -26,10 +26,18 @@ variant: markdown
 		</div></li>
 		<li>
 			<input type="checkbox" id="accordion3" class="hidecontent">
-			<label for="accordion3">HOME TUTORS (2023)</label>
+			<label for="accordion3">HOME TUTORS</label>
 			<div class="content hidecontent">
 			<div>
-				<img src="/images/Our%20Staff/June%2023/3%20school%20staff.jpg">
+				<img src="/images/Our%20Staff/2024_SEC1HT.png"><br>
+				<img src="/images/Our%20Staff/2024_SEC2HT.png"><br>
+				<img src="/images/Our%20Staff/2024_SEC3HT.png"><br>
+				<img src="/images/Our%20Staff/2024_SEC4HT.png"><br>
+				<img src="/images/Our%20Staff/2024_NONHT.png"><br>
+				<img src="/images/Our%20Staff/2024_AED.png"><br>
+				<img src="/images/Our%20Staff/2024_OST.png"><br>
+				<img src="/images/Our%20Staff/2024_ST.png"><br>
+				<img src="/images/Our%20Staff/2024_LT.png"><br>
 				</div>
 				</div></li>
   <li>
