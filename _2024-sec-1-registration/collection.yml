@@ -2,4 +2,5 @@ collections:
   2024-sec-1-registration:
     output: true
     order:
+      - Registration 2024 Sec 1 PRCS/.keep
       - Registration for 2024 Secondary 1 at PRCSS.md
