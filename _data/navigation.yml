@@ -70,7 +70,7 @@ links:
         url: /support/student-insurance/
       - title: Useful Links
         url: /support/useful-links/
-  - title: Parents
+  - title: Parents/Alumni
     url: /parents/parentsupportgroup/
     sublinks:
       - title: Parent Support Group
@@ -79,3 +79,5 @@ links:
         url: /parents/alumni
   - title: 2023 DSA-SEC
     url: /2023-dsa-sec/
+  - title: Secondary 1 Registration
+    collection: 2024-sec-1-registration
