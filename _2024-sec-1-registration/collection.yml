@@ -2,6 +2,6 @@ collections:
   2024-sec-1-registration:
     output: true
     order:
-      - SBB Briefing for S1 Registration.md
-      - Welcome Address by Principal for S1 Reg.md
       - Registration for 2024 Secondary 1 at PRCSS.md
+      - Welcome Address by Principal for S1 Reg.md
+      - SBB Briefing for S1 Registration.md
