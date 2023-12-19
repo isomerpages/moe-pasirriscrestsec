@@ -1,8 +1,0 @@
----
-title: (A) Zoom Briefing details for Secondary 1 students and parents
-permalink: /2024-sec-1-registration/registration-2024-sec-1-prcs/a/
-variant: tiptap
-description: ""
-third_nav_title: Registration 2024 Sec 1 PRCS
----
-<h4><strong>Zoom Briefing details for Secondary 1 Students and Parents</strong></h4><ol data-tight="true" class="tight"><li><p>Parents are encouraged to join us via Zoom for a welcome address by Principal, Year Head, and Subject-Based Banding briefing by the teacher in-charge.<br></p><table><tbody><tr><th rowspan="1" colspan="1"><p>Date:</p></th><th rowspan="1" colspan="1"><p><strong>Thursday, 21 December 2023</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Time:</strong></p></td><td rowspan="1" colspan="1"><p><strong>9.00 am to 11.00 am</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Login Username*:</strong></p></td><td rowspan="1" colspan="1"><p><strong>&lt;Child’s class/Child’s name&gt;</strong></p></td></tr></tbody></table><p><strong>*For security reasons, please use this format for your login username.</strong><br><br></p></li><li><p>Information about the Zoom Room ID and password will be given to all parents via Parents’ Gateway (PG).</p></li><li><p>For parents who do not use PG, you may reach out to us to obtain the Zoom information via email <a rel="noopener noreferrer nofollow" target="_blank">prcss@moe.edu.sg</a> or call the school at 65811655.</p></li><li><p>The Principal’s slides will also be uploaded on the school website after the session.</p></li></ol><p></p>
