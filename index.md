@@ -10,12 +10,10 @@ sections:
       background: /images/crestianherohomepage1200x400.gif
       url: /latest-news/announcements/
   - infobar:
-      title: Registration for 2024 Secondary 1 at PRCS
-      subtitle: Add informational text
+      title: REGISTRATION FOR 2024 SECONDARY 1
       id: infobar
-      description: Infobar description
-      button: Button Text
-      url: /fol
+      button: Click Here to find out more
+      url: /2024-sec-1-registration/registration/
   - resources:
       title: LATEST ANNOUNCEMENTS
       button: PREVIOUS ANNOUNCEMENTS
