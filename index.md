@@ -13,8 +13,8 @@ sections:
       title: IMPORTANT NOTE 2024 Sec 1 Registration
       id: infobar
       description: Dear parents, as PG is having issues, please access the link below
-        for the Sec 1 registration and to obtain the details for the Sec 1 ZOOM
-        briefing.
+        for the Sec 1 online registration and to obtain the details for the Sec
+        1 ZOOM briefing.
       button: Click Here
       url: /2024-sec-1-registration/registration/
   - resources:
