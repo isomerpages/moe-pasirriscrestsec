@@ -12,15 +12,10 @@ sections:
   - infobar:
       title: IMPORTANT NOTE 2024 Sec 1 Registration
       id: infobar
-      description: Dear parents, please access the link below to complete the Sec 1
-        registration for your child and to get the details for the Sec 1 ZOOM
+      description: Dear parents, as PG is having issues, please access the link below
+        for the Sec 1 registration and to obtain the details for the Sec 1 ZOOM
         briefing.
       button: Click Here
-      url: /2024-sec-1-registration/registration/
-  - infobar:
-      title: REGISTRATION FOR 2024 SECONDARY 1
-      id: infobar
-      button: Click Here to find out more
       url: /2024-sec-1-registration/registration/
   - resources:
       title: LATEST ANNOUNCEMENTS
