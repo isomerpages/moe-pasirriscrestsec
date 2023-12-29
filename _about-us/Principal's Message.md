@@ -4,11 +4,10 @@ permalink: /about-us/principalsmessage/
 description: ""
 variant: markdown
 ---
-<!--
 <h1>Principal's Message</h1>
 <div><br>
 <div style="float: left">
-<img style="width:250px; margin-right:10px;" alt="Principal_PRCS.jpeg" src="/images/Our%20Staff/Principal_Message_2024.jpg">
+<img src="/images/Our%20Staff/Principal_Message_2024.jpg" alt="Principal_PRCS.jpeg" style="width:250px; margin-right:10px;">
 </div><div>
 
 <p align="justify">The school theme for 2024 showcases the continuity in our journey toward achieving our school vision: ‘Our Caring Home, Our CRESTian Leaders’. </p>
@@ -30,17 +29,17 @@ variant: markdown
 <p><strong>Mrs. Koh Caiyu<br>
 Principal<br>
 Pasir Ris Crest Secondary School</strong></p></div></div>
--->
 
 
+<!--
 <h1>Principal's Message</h1>
 <div>
 <div style="float: left">
-<img src="/images/Principal_PRCS.jpeg" alt="Principal_PRCS.jpeg" style="width:250px; margin-right:10px;">
+<img style="width:250px; margin-right:10px;" alt="Principal_PRCS.jpeg" src="/images/Principal_PRCS.jpeg">
 </div><div>
 
 <p align="justify">A warm welcome to Pasir Ris Crest Secondary!</p>
-<!--<p align="justify">When you enter our campus, you will see the phrase &lsquo;Home of the Overcomers&rsquo;, shining beautifully under the warm rays. Indeed, this is our home, our PRCS, where we want all of you to be able to find your place, your growth, and strength to take on and overcome any challenge in life</p> -->
+<p align="justify">When you enter our campus, you will see the phrase &lsquo;Home of the Overcomers&rsquo;, shining beautifully under the warm rays. Indeed, this is our home, our PRCS, where we want all of you to be able to find your place, your growth, and strength to take on and overcome any challenge in life</p>
 <p align="justify"> If you have ever heard us share about PRCS, you would remember our emphasis on our school culture of Care, Excellence and Positive Self-Belief. In PRCS, we believe that only with the desired culture, staff and students can find their place, learn and lead themselves towards the school's vision and mission.</p>
 	
 <p align="justify">Hence, every year, we have a school theme to galvanise our efforts and guide our focus in this process of culture building.</p>
@@ -64,4 +63,4 @@ Pasir Ris Crest Secondary School</strong></p></div></div>
 
 <p><strong>Mrs. Koh Caiyu<br>
 Principal<br>
-Pasir Ris Crest Secondary School</strong></p></div></div> 
+Pasir Ris Crest Secondary School</strong></p></div></div>	-->
