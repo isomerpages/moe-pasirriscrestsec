@@ -22,6 +22,8 @@ variant: markdown
 				<img src="/images/Our%20Staff/2024_HOD.png"><br>
 				<img src="/images/Our%20Staff/2024_YH.png"><br>
 				<img src="/images/Our%20Staff/2024_SH.png"><br>
+				<img src="/images/Our%20Staff/2024_ST.png"><br>
+				<img src="/images/Our%20Staff/2024_LT.png"><br>
 				</div>
 		</div></li>
 		<li>
@@ -36,8 +38,6 @@ variant: markdown
 				<img src="/images/Our%20Staff/2024_NONHT.png"><br>
 				<img src="/images/Our%20Staff/2024_AED.png"><br>
 				<img src="/images/Our%20Staff/2024_OST.png"><br>
-				<img src="/images/Our%20Staff/2024_ST.png"><br>
-				<img src="/images/Our%20Staff/2024_LT.png"><br>
 				</div>
 				</div></li>
   <li>
