@@ -7,3 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Dear Crestians/Parents/Guardians,</p><p>Please click on the respective links below to access the Term 1 Weighted Assessment Schedule &amp; Topics Tested:</p><p></p>
