@@ -1,0 +1,13 @@
+collections:
+  the-crestian-experience:
+    output: true
+    order:
+      - 21st Century Competencies Development.md
+      - Applied Learning Programme.md
+      - Learning for Life Programme.md
+      - Leadership Development.md
+      - Experiential Learning Programme.md
+      - Level Camps.md
+      - Curriculum.md
+      - CCA Experience.md
+      - Full Subject Based Banding (FSBB) 2023.md

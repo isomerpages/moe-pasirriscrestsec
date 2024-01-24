@@ -1,0 +1,83 @@
+logo: /images/school logo pdf.jpg
+links:
+  - title: About Us
+    url: /about-us/principalsmessage/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principalsmessage/
+      - title: Vision, Mission, Values, Motto
+        url: /about-us/vision-mission-values-motto/
+      - title: School Song
+        url: /about-us/schoolsong/
+      - title: School History
+        url: /about-us/schoolhistory/
+      - title: School Staff
+        url: /about-us/schoolstaff/
+      - title: School Advisory Committee
+        url: /about-us/schooladvisorycommittee/
+  - title: Overcomers
+    url: https://sites.google.com/moe.edu.sg/prcss-overcomers/
+    sublinks:
+      - title: Character Awards
+        url: https://sites.google.com/moe.edu.sg/prcss-overcomers/character-awards
+      - title: CCA Achievements
+        url: https://sites.google.com/moe.edu.sg/prcss-overcomers/cca
+      - title: Academic Achievements
+        url: https://sites.google.com/moe.edu.sg/prcss-overcomers/academics
+  - title: The Crestian Experience
+    url: /the-crestian-experience/21st-competencies-and-development/
+    sublinks:
+      - title: 21st Century Competencies  Dev
+        url: /the-crestian-experience/21st-competencies-and-development/
+      - title: Applied Learning Prog.
+        url: https://sites.google.com/moe.edu.sg/prcss-alp
+      - title: Learning for Life Prog.
+        url: https://sites.google.com/moe.edu.sg/prcss-llp
+      - title: Leadership Development
+        url: https://sites.google.com/moe.edu.sg/prcss-leadership
+      - title: Experiential Learning Prog.
+        url: https://sites.google.com/moe.edu.sg/prcss-elp
+      - title: Level Camps
+        url: https://sites.google.com/moe.edu.sg/prcss-levelcamp
+      - title: Curriculum
+        url: https://sites.google.com/moe.edu.sg/prcss-curriculum/
+      - title: CCA Experience
+        url: https://sites.google.com/moe.edu.sg/prcss-ccas/
+      - title: Full Subject Based Banding
+        url: /the-crestian-experience/fullsubjectbasedbanding2023/
+  - title: Support
+    url: /support/pdlp/
+    sublinks:
+      - title: Personalised Digital Learning
+        url: /support/pdlp/
+      - title: Student Learning Spaces (SLS)
+        url: /support/sls/
+      - title: SLS Support
+        url: /support/sls-support/
+      - title: Parents Gateway
+        url: /support/parentsgateway/
+      - title: Financial Assistance
+        url: /support/financial-assistance/
+      - title: Guidance & Counselling Support
+        url: /support/guidance-and-counselling-support/
+      - title: Expected Student Behaviour
+        url: /support/expected-student-behaviour/
+      - title: Traffic Management Plan
+        url: /support/traffic-management-plan/
+      - title: Pedestrian and Vehicle Route
+        url: /support/pedestrian-and-vehicle-route/
+      - title: Student Insurance
+        url: /support/student-insurance/
+      - title: Useful Links
+        url: /support/useful-links/
+  - title: Parents/Alumni
+    url: /parents/parentsupportgroup/
+    sublinks:
+      - title: Parent Support Group
+        url: https://sites.google.com/moe.edu.sg/prcss-psg/psg-home
+      - title: Alumni (Coming Soon)
+        url: /parents/alumni
+  - title: 2023 DSA-SEC
+    url: /2023-dsa-sec/
+  - title: Secondary 1 Registration
+    collection: 2024-sec-1-registration

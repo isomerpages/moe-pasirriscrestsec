@@ -1,0 +1,10 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Vision, Mission, Values and Motto.md
+      - School Song.md
+      - School History.md
+      - School Staff.md
+      - School Advisory Committee.md
