@@ -10,10 +10,10 @@ sections:
       background: /images/crestianherohomepage1200x400.gif
       url: /latest-news/announcements/
   - infobar:
-      title: Personal Learning Device (PLD) Parent Briefing
+      title: 2024 Term 2 Weighted Assessment Schedule & Topics Tested
       id: infobar
       button: MORE INFORMATION
-      url: /pldpb/
+      url: https://go.gov.sg/2024prcswa2
   - resources:
       title: LATEST ANNOUNCEMENTS
       button: PREVIOUS ANNOUNCEMENTS
