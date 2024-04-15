@@ -34,7 +34,7 @@ related to the talent they are selected for from Sec 1 till Sec 4/5.
 <p>
 <br>The selection criteria and process for the talent areas will be updated
 from early May. For more information on DSA-Sec, please refer to the MOE
-website at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+website at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a> 
 <br>
 <br>Primary school students who are interested to participate in this DSA
 exercise may refer to the instructions and the deadlines given below.</p>
@@ -69,7 +69,7 @@ interview dates are either on&nbsp;Thu, 13 July&nbsp;or&nbsp;Thu, 20 July
 support of the DSA application on the day of the selection /interview.
 <br>
 <br>Applicants will be notified of the selection outcome through email or
-hardcopy letters&nbsp;<strong>by 4 September (Mon) 2023.</strong>
+hardcopy letters&nbsp;<strong>by 4 September (Mon) 2023.</strong> 
 <br>
 <br>The decision of the school is final.</p>
 </li>
