@@ -1,42 +1,43 @@
 ---
-title: 2023 DSA SEC
-permalink: /2023-dsa-sec/
-description: ""
+title: 2024 DSA SEC
+permalink: /2024-dsa-sec/
 variant: markdown
+description: ""
 ---
-<h1>2023 DSA-Sec</h1>
+<h1>2024 DSA-Sec</h1>
 
 <ul class="jekyllcodex_accordion">
 <li>
 		<input type="checkbox" id="accordion1">
-		<label for="accordion1">2023 DIRECT SCHOOL ADMISSION (DSA) EXERCISE</label>
+		<label for="accordion1">2024 DIRECT SCHOOL ADMISSION (DSA) EXERCISE</label>
 		<div>
 <h4>Pasir Ris Crest Secondary School<br>
-2023 Direct School Admission Exercise<br>
-For admission to Secondary One in 2024</h4>
-
-Direct School Admission (DSA) - Secondary Exercise for admission to Secondary One in 2024 takes place from May to September 2023. &nbsp;Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’s academic and non-academic requirements, and the programmes available to develop and nurture the area of talent.<br><br>
+2024 Direct School Admission Exercise</h4>
+The DSA-SEC exercise is an initiative by the Ministry of Education (MOE) that allows students to seek admission to a secondary school based on a diverse range of specific academic and non-academic talents and achievements.
+<h4>For admission to Secondary One in 2025</h4>
+Direct School Admission (DSA) - Secondary Exercise for admission to Secondary One in 2025 takes place from May to September 2024. Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’s academic and non-academic requirements, and the programmes available to develop and nurture the area of talent.<br><br>
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from Sec 1 till Sec 4/5.<br><br>
 The DSA - Sec Exercise is conducted in 3 main stages as follows:  
 <ul>
-<li>Selection Stage (June to September 2023)</li>
-<li>School Preference Submission Stage (Late October 2023)</li>
-<li>Results Release Stage (Late November 2023)</li></ul>
+<li>Selection Stage (June to September 2024)</li>
+<li>School Preference Submission Stage (Late October 2024)</li>
+<li>Results Release Stage (Late November 2024)</li></ul>
 <br>
-The selection criteria and process for the talent areas will be updated from early May.  For more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a><br><br>
+The selection criteria and process for the talent areas will be updated from early May 2024.  For more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a><br><br>
 Primary school students who are interested to participate in this DSA exercise may refer to the instructions and the deadlines given below.
 
 <h4>Application</h4>
 <ul>
-<li>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.  The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm.</li>
+<li>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.  The application is free-of-charge and will be open from 6 May 2024, 11am to 31 May 2024, 3pm.</li>
 <li>For more details, please refer to MOE Website:&nbsp;<a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a></li>
 <li>Applicants are required to login to the MOE Centralised DSA-SEC Portal to apply for the school’s identified talent area/s.</li>
 <li>Applicants&nbsp;NOT&nbsp;studying in MOE mainstream primary schools would need to obtain a Registration Number at MOE DSA-Sec website:&nbsp;<a href="https://go.gov.sg/nmsdsa-sec-application">https://go.gov.sg/nmsdsa-sec-application</a></li>
 </ul>
-Applicants shortlisted for interview and selection test would receive a notification from Pasir Ris Crest Secondary School.&nbsp; The selection interview dates are either on&nbsp;Thu, 13 July&nbsp;or&nbsp;Thu, 20 July 2023. <br><br>
+Applicants shortlisted for interview and selection test would receive a notification from Pasir Ris Crest Secondary School.&nbsp; The selection interview dates are either on Thursday, 11 July or Thursday, 18 July 2024. <br><br>
 Shortlisted applicants may wish to submit certified true copies of certificates /documentary proof for non-school based activities and achievements in support of the DSA application on the day of the selection /interview.<br><br>
-Applicants will be notified of the selection outcome through email or hardcopy letters&nbsp;<strong>by 4 September (Mon) 2023.</strong><br><br>
-The decision of the school is final.
+Applicants will be notified of the selection outcome through email or hardcopy letters&nbsp;<strong>by Monday, 9 September 2024.</strong><br>
+<p>All communication will be made via email to the email address that is indicated in the online DSA-Sec Portal. Please ensure that the email address provided is accurate and that the email address is accessed actively during this period.</p>
+<br>The decision of the school is final.
 	</div></li>
 
 <li>
