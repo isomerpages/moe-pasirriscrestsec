@@ -37,7 +37,7 @@ Applicants shortlisted for interview and selection test would receive a notifica
 Shortlisted applicants may wish to submit certified true copies of certificates /documentary proof for non-school based activities and achievements in support of the DSA application on the day of the selection /interview.<br><br>
 Applicants will be notified of the selection outcome through email or hardcopy letters&nbsp;<strong>by Monday, 9 September 2024.</strong><br>
 <p>All communication will be made via email to the email address that is indicated in the online DSA-Sec Portal. Please ensure that the email address provided is accurate and that the email address is accessed actively during this period.</p>
-The decision of the school is final.
+<br>The decision of the school is final.
 	</div></li>
 
 <li>
