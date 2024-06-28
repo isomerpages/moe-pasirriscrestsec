@@ -7,3 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Dear Crestians/Parents/Guardians,</p>
+<p>Please click on the link below to access the Term 2 Weighted Assessment
+Schedule and Topics tested:</p>
+<p><a href="https://go.gov.sg/2024prcswa2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024prcswa2</a>
+</p>
+<p></p>
+<p>Thank you</p>
