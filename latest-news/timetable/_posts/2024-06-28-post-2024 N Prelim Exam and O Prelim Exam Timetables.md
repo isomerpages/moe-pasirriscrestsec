@@ -13,6 +13,10 @@ variant: tiptap
 <br><a href="/files/Timetable_Announcement/2024/2024_N_Prelim_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">N-Levels</a> 
 <br><a href="/files/Timetable_Announcement/2024/2024_O_Prelim_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">O-Levels</a>
 </p>
+<p><strong>Preliminary Topics Tested:|</strong>
+<br>N-Levels - <strong><a href="https://go.gov.sg/prcss2024nlevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/prcss2024nlevel</a></strong>
+<br>O-Levels - <strong><a href="https://go.gov.sg/prcss2024olevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/prcss2024olevel</a></strong>
+</p>
 <p></p>
 <p>Thank you</p>
 <p></p>
