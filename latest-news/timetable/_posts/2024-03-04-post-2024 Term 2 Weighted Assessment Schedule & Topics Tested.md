@@ -1,6 +1,6 @@
 ---
 title: 2024 Term 2 Weighted Assessment Schedule & Topics Tested
-permalink: /latest-news/timetable/9/
+permalink: /latest-news/timetable/10/
 date: 2024-03-04
 layout: post
 description: ""

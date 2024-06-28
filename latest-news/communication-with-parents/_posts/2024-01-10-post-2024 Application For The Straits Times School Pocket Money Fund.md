@@ -1,6 +1,6 @@
 ---
 title: 2024 Application For The Straits Times School Pocket Money Fund
-permalink: /latest-news/cwp/13/
+permalink: /latest-news/cwp/12/
 date: 2024-01-10
 layout: post
 description: ""

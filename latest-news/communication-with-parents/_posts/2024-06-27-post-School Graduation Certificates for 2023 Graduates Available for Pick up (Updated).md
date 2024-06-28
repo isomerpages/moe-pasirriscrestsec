@@ -1,8 +1,8 @@
 ---
 title: School Graduation Certificates for 2023 Graduates Available for Pick up
   (Updated)
-permalink: /school-graduation-certificates-for-2023-graduates-available-for-pick-up/
-date: 2024-05-28
+permalink: /latest-news/cwp/16/
+date: 2024-06-27
 layout: post
 description: ""
 image: ""

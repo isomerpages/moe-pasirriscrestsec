@@ -1,6 +1,6 @@
 ---
 title: 2024 Secondary 3 MOE OBS Briefing Slides
-permalink: /latest-news/cwp/16/
+permalink: /latest-news/cwp/15/
 date: 2024-04-01
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: 2024 Semester 2 Student Timetable
-permalink: /2024-semester-2-student-timetable/
+permalink: /latest-news/timetable/11/
 date: 2024-06-21
 layout: post
 description: ""
