@@ -8,9 +8,9 @@ image: ""
 variant: tiptap
 ---
 <p>Dear Crestians/Parents/Guardians,</p>
-<p>Please click on the link below to access the Term 2 Weighted Assessment
+<p>Please click on the link below to access the Term 3 Weighted Assessment
 Schedule and Topics tested:</p>
-<p><a href="https://go.gov.sg/2024prcswa2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024prcswa2</a>
+<p><strong><a href="https://go.gov.sg/prcss2024wa3" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/prcss2024wa3</a></strong>
 </p>
 <p></p>
 <p>Thank you</p>
