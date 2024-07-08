@@ -25,7 +25,7 @@ variant: tiptap
 <summary><sub>Changelog:</sub>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><sub>28 June - First Announcement </sub>
+<p><sub>28 June - First Announcement</sub>
 </p>
 <p><sub>5 July - O- Levels Timetable updated</sub>
 </p>
