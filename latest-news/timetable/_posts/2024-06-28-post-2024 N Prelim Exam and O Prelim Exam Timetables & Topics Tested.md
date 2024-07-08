@@ -11,7 +11,7 @@ variant: tiptap
 <p>Please take note of the following for the coming preliminary in this term:</p>
 <p><strong>Preliminary Time Tables:</strong>
 <br><a href="/files/Timetable_Announcement/2024/2024_N_Prelim_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">N-Levels</a> 
-<br><a href="/files/Timetable_Announcement/2024/2024_O_Prelim_Timetable_updated_5_July.pdf" rel="noopener noreferrer nofollow" target="_blank">O-Levels</a>(Updated
+<br><a href="/files/Timetable_Announcement/2024/2024_O_Prelim_Timetable_updated_5_July.pdf" rel="noopener noreferrer nofollow" target="_blank">O-Levels</a> (Updated
 5th July 2024)</p>
 <p><strong>Preliminary Topics Tested:|</strong>
 <br>N-Levels - <strong><a href="https://go.gov.sg/prcss2024nlevel" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/prcss2024nlevel</a></strong>
