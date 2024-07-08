@@ -20,4 +20,16 @@ variant: tiptap
 <p></p>
 <p>Thank you</p>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><sub>Changelog:</sub>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><sub>28 June - First Announcement </sub>
+</p>
+<p><sub>5 July - O- Levels Timetable updated</sub>
+</p>
+</div>
+</details>
+</div>
 <p></p>
