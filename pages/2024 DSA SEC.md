@@ -33,7 +33,7 @@ Primary school students who are interested to participate in this DSA exercise m
 <li>Applicants are required to login to the MOE Centralised DSA-SEC Portal to apply for the school’s identified talent area/s.</li>
 <li>Applicants&nbsp;NOT&nbsp;studying in MOE mainstream primary schools would need to obtain a Registration Number at MOE DSA-Sec website:&nbsp;<a href="https://go.gov.sg/nmsdsa-sec-application">https://go.gov.sg/nmsdsa-sec-application</a></li>
 </ul>
-Applicants shortlisted for interview and selection test would receive a notification from Pasir Ris Crest Secondary School.&nbsp; The selection interview dates are either on Thursday, 16 July or Thursday, 18 July 2024. <br><br>
+Applicants shortlisted for interview and selection test would receive a notification from Pasir Ris Crest Secondary School.&nbsp; The selection interview dates are either on Tuesday, 16 July or Thursday, 18 July 2024. <br><br>
 Shortlisted applicants may wish to submit certified true copies of certificates /documentary proof for non-school based activities and achievements in support of the DSA application on the day of the selection /interview.<br><br>
 Applicants will be notified of the selection outcome through email or hardcopy letters&nbsp;<strong>by Monday, 9 September 2024.</strong><br>
 <p>All communication will be made via email to the email address that is indicated in the online DSA-Sec Portal. Please ensure that the email address provided is accurate and that the email address is accessed actively during this period.</p>
