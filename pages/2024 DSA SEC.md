@@ -99,7 +99,7 @@ Applicants must demonstrate a passion for communication related programmes /comp
 
 Shortlisted applicants will be notified separately on the details of the selection test
 
-For more details on the&nbsp;<strong>ALP</strong>, click&nbsp;<a href="/students/appliedlearningprogramme/">here</a>.
+For more details on the&nbsp;<strong>ALP</strong>, click&nbsp;<a href="https://sites.google.com/moe.edu.sg/prcss-alp">here</a>.
 </div>
 </li>
 	
