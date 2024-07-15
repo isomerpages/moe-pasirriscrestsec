@@ -78,7 +78,7 @@ Shortlisted applicants will be invited to go through a selection test as well as
 
 Shortlisted applicants will be notified separately on the details of the selection test
 
-For more details on the&nbsp;<strong>LLP</strong>, click&nbsp;<a href="/students/LearningforLifeProgramme/">here</a>.</div></li>
+For more details on the&nbsp;<strong>LLP</strong>, click&nbsp;<a href="https://sites.google.com/moe.edu.sg/prcss-llp">here</a>.</div></li>
 	
 <li>
 <input type="checkbox" id="accordion4">
