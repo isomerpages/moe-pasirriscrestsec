@@ -37,14 +37,14 @@ Shortlisted applicants may wish to submit certified true copies of certificates 
 Applicants will be notified of the selection outcome through email or hardcopy letters&nbsp;<strong>by Monday, 9 September 2024.</strong><br>
 <p>All communication will be made via email to the email address that is indicated in the online DSA-Sec Portal. Please ensure that the email address provided is accurate and that the email address is accessed actively during this period.</p>
 			<br><b>Essential Information</b><br>
-			<ul>
+			<ol>
 				<li>Parents may refer to the selection guidelines stated below in the DSA application. However, meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</li>
 				<li>The school’s decision of the DSA-Sec application is final.</li>
 				<li>The school reserves the right not to disclose the reasons for the non-selection of applicants.</li>
 				<li>Successful DSA-Sec candidates who took PSLE are&nbsp;<b>NOT</b>&nbsp;allowed to participate in the annual Secondary One (S1) Posting Exercise. However, if they are eligible for third language and/or course options, they may enter these options during the S1 Option Submission period.</li>
-				<ul>
-	</ul></ul></div>
-	</li>
+				<ol>
+	</ol></ol></div></li></ul>
+	
 
 <li>
 		<input type="checkbox" id="accordion2">
@@ -154,4 +154,3 @@ Applicants must demonstrate a passion for communication related programmes /comp
 Shortlisted applicants will be notified separately on the details of the selection test.
 </div>
 </li>
-</ul>
