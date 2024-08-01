@@ -16,13 +16,12 @@ description: ""
 The DSA-SEC exercise is an initiative by the Ministry of Education (MOE) that allows students to seek admission to a secondary school based on a diverse range of specific academic and non-academic talents and achievements.
 <h4>For admission to Secondary One in 2025</h4>
 Direct School Admission (DSA) - Secondary Exercise for admission to Secondary One in 2025 takes place from May to September 2024. Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’s academic and non-academic requirements, and the programmes available to develop and nurture the area of talent.<br><br>
-Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from Sec 1 till Sec 4/5.<br><br>
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for throughout their course of study in PRCS.<br><br>
 The DSA - Sec Exercise is conducted in 3 main stages as follows:  
 <ul>
 <li>Selection Stage (June to September 2024)</li>
 <li>School Preference Submission Stage (Late October 2024)</li>
 <li>Results Release Stage (Late November 2024)</li></ul>
-<br>
 The selection criteria and process for the talent areas will be updated from early May 2024.  For more information on DSA-Sec, please refer to the MOE website at <a href="https://www.moe.gov.sg/dsa-sec">https://www.moe.gov.sg/dsa-sec</a><br><br>
 Primary school students who are interested to participate in this DSA exercise may refer to the instructions and the deadlines given below.
 
@@ -37,8 +36,15 @@ Applicants shortlisted for interview and selection test would receive a notifica
 Shortlisted applicants may wish to submit certified true copies of certificates /documentary proof for non-school based activities and achievements in support of the DSA application on the day of the selection /interview.<br><br>
 Applicants will be notified of the selection outcome through email or hardcopy letters&nbsp;<strong>by Monday, 9 September 2024.</strong><br>
 <p>All communication will be made via email to the email address that is indicated in the online DSA-Sec Portal. Please ensure that the email address provided is accurate and that the email address is accessed actively during this period.</p>
-<br>The decision of the school is final.
-	</div></li>
+			<br><b>Essential Information</b><br>
+			<ul>
+				<li>Parents may refer to the selection guidelines stated below in the DSA application. However, meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</li>
+				<li>The school’s decision of the DSA-Sec application is final.</li>
+				<li>The school reserves the right not to disclose the reasons for the non-selection of applicants.</li>
+				<li>Successful DSA-Sec candidates who took PSLE are&nbsp;<b>NOT</b>&nbsp;allowed to participate in the annual Secondary One (S1) Posting Exercise. However, if they are eligible for third language and/or course options, they may enter these options during the S1 Option Submission period.</li>
+				<ul>
+	</ul></ul></div>
+	</li>
 
 <li>
 		<input type="checkbox" id="accordion2">
@@ -59,9 +65,9 @@ Applicants will be notified of the selection outcome through email or hardcopy l
 <h5>A) Basic Admission Criteria</h5>
 All applicants must have the following:
 <ul>
-<li>Good Academic Performance</li>
 <li>Good Conduct Grade</li>
 <li>Good Personal Qualities</li>
+<li>Good Academic Performance</li>
 </ul>
 Applicants must demonstrate a passion for Music /Performing Arts and be committed to contribute to PRCS in this area for which they have been given DSA in one of the following DSA Talent Area:
 <ul>
@@ -87,9 +93,9 @@ For more details on the&nbsp;<strong>LLP</strong>, click&nbsp;<a href="https://s
 <h5>A) Basic Admission Criteria</h5>
 <p>All applicants must have the following:
 </p><ul>
-<li>Good Academic Performance</li>
 <li>Good Conduct Grade</li>
 <li>Good Personal Qualities</li>
+<li>Good Academic Performance</li>
 </ul>
 Applicants must demonstrate a passion for communication related programmes /competitions and be committed to contribute to PRCS in the area for which they have been given DSA. Shortlisted applicants will be invited to go through a selection test as well as an interview.<p></p>
 
@@ -111,9 +117,9 @@ For more details on the&nbsp;<strong>ALP</strong>, click&nbsp;<a href="https://s
 
 All applicants must have the following:
 <ul>
-<li>Good Academic Performance</li>
 <li>Good Conduct Grade</li>
 <li>Good Personal Qualities</li>
+<li>Good Academic Performance</li>
 </ul>
 Applicants must demonstrate a passion for sports and be committed to contribute to PRCS in this area for which they have been given DSA. Shortlisted applicants will be invited to go through a selection test as well as an interview.  
 
