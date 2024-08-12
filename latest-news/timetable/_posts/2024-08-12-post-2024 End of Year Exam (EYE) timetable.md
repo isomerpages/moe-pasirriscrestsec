@@ -9,10 +9,15 @@ variant: tiptap
 ---
 <p>Dear Crestians/Parents/Guardians,</p>
 <p>Please click on the respective links below to access the EYE information.&lt;br&gt;</p>
-<p>[EYE Timetables](/files/Exam/2023/2023%20eoy%20exam%20timetable.pdf)&lt;br&gt;</p>
-<p>[Secondary 1 Topics Tested](/files/Exam/2023/2023%20eoy%20exam_sec%201_topics_skills%20to%20be%20tested%20updated%2024%20aug.pdf)
-- Updated 24 August 2023&lt;br&gt;</p>
-<p>[Secondary 2 Topics Tested](/files/Exam/2023/2023%20eoy%20exam_sec%202_topics_skills%20to%20be%20tested.pdf)
-- Updated 16 August 2023&lt;br&gt;</p>
-<p>[Secondary 3 Topics Tested](/files/Exam/2023/2023%20eoy%20exam_sec%203_topics_skills%20to%20be%20tested.pdf)
-- Updated 16 August 2023&lt;br&gt;</p>
+<p><strong>Time Tables:</strong>
+<br><a href="/files/Timetable_Announcement/2024/2024_EOY_Exam_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">End of Year Exam Timetable</a>
+<br>
+</p>
+<p><strong>Topics Tested:</strong>
+</p>
+<p><strong>Secondary 1, 2 and 3: </strong><a href="https://drive.google.com/drive/folders/12lL5m_pxe47QMEhWtlp2hhXADUwbzh0f?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+<br>
+</p>
+<p>Thank you</p>
+<p></p>
+<p></p>
