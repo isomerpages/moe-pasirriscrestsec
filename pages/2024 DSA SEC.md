@@ -67,7 +67,6 @@ All applicants must have the following:
 <ul>
 <li>Good Conduct Grade</li>
 <li>Good Personal Qualities</li>
-<li>Good Academic Performance</li>
 </ul>
 Applicants must demonstrate a passion for Music /Performing Arts and be committed to contribute to PRCS in this area for which they have been given DSA in one of the following DSA Talent Area:
 <ul>
@@ -95,7 +94,6 @@ For more details on the&nbsp;<strong>LLP</strong>, click&nbsp;<a href="https://s
 </p><ul>
 <li>Good Conduct Grade</li>
 <li>Good Personal Qualities</li>
-<li>Good Academic Performance</li>
 </ul>
 Applicants must demonstrate a passion for communication related programmes /competitions and be committed to contribute to PRCS in the area for which they have been given DSA. Shortlisted applicants will be invited to go through a selection test as well as an interview.<p></p>
 
@@ -119,7 +117,6 @@ All applicants must have the following:
 <ul>
 <li>Good Conduct Grade</li>
 <li>Good Personal Qualities</li>
-<li>Good Academic Performance</li>
 </ul>
 Applicants must demonstrate a passion for sports and be committed to contribute to PRCS in this area for which they have been given DSA. Shortlisted applicants will be invited to go through a selection test as well as an interview.  
 
