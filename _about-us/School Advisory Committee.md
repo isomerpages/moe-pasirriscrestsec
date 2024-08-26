@@ -61,7 +61,7 @@ variant: markdown
 </div>
 <br>
 <div>
-<h1>PRCSS SAC (2023)</h1>
+
 <div><img alt="SAC.png" src="/images/SAC/sac%202023.jpeg" style="width:100%"><br>
 From Left:<br>
 SAC Member Ms Kristine Chua, SAC Member Mr Koh Yat Chung, SAC Chairman, Mr Law Hean Dean, SAC Vice Chairman Ms Agnes Eu, School Principal Mrs Koh Caiyu<br><br>
