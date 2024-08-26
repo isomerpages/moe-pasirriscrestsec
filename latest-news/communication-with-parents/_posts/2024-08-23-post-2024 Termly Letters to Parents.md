@@ -8,10 +8,9 @@ image: ""
 variant: tiptap
 ---
 <p>Dear Parents /Guardians,</p>
-<p>The Termly Letters to Parents summarising the latest school updates for
-all levels and streams can be found in the links below. We look forward
-to your continued support in helping our students achieve success in their
-academic and co-curriculum development.</p>
+<p>The Termly Letters to Parents for August can be found in the links below.
+We look forward to your continued support in helping our students achieve
+success in their academic and co-curriculum development.</p>
 <p><strong><u>TERM 3</u></strong>
 <br>Letters to Parents dated 23 August 2023
 <br><a href="/files/CWP/2024/Sec_1_Level_Letter_23_August_2024__kcy_.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Letter to Parents</a>
