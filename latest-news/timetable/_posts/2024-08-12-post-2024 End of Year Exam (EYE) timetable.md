@@ -10,9 +10,8 @@ variant: tiptap
 <p>Dear Crestians/Parents/Guardians,</p>
 <p>Please click on the respective links below to access the EYE information.&lt;br&gt;</p>
 <p><strong>Time Tables:</strong>
-<br><a href="/files/Timetable_Announcement/2024/2024_EOY_Exam_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">End of Year Exam Timetable</a>
-<br>
-</p>
+<br><a href="/files/Timetable_Announcement/2024/2024_EOY_Exam_Timetable_Update.pdf" rel="noopener noreferrer nofollow" target="_blank">End of Year Exam Timetable</a> -
+(Updated 26th August 2024)</p>
 <p><strong>Topics Tested:</strong>
 </p>
 <p><strong>Secondary 1, 2 and 3: </strong><a href="https://drive.google.com/drive/folders/12lL5m_pxe47QMEhWtlp2hhXADUwbzh0f?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
