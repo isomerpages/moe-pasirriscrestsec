@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/crestianherohomepage1200x400.gif
       url: /latest-news/announcements/
+  - infobar:
+      title: Secondary 2 Subject Combination Briefing Slides
+      subtitle: CWP - 28th August 2024
+      id: infobar
+      description: The Secondary 2 Subject Combination Briefing slides are available
+        now for parents' reference.
+      button: Go to the announcement
+      url: /secondary-2-subject-combination-briefing-slides-28th-august-2024/
   - resources:
       title: LATEST ANNOUNCEMENTS
       button: PREVIOUS ANNOUNCEMENTS
