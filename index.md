@@ -17,16 +17,6 @@ sections:
         now for parents' reference.
       button: Go to the announcement
       url: /secondary-2-subject-combination-briefing-slides-28th-august-2024/
-  - announcements:
-      title: LATEST ANNOUNCEMENTS
-      id: announcements
-      announcement_items:
-        - title: Secondary 2 Subject Combination Briefing Slides (28th August 2024)
-          date: 29 August 2024
-          announcement: The Secondary 2 Subject Combination Briefing slides are available
-            now for parents' reference.
-          link_text: Communication with Parents
-          link_url: /secondary-2-subject-combination-briefing-slides-28th-august-2024/
   - resources:
       title: LATEST ANNOUNCEMENTS
       button: PREVIOUS ANNOUNCEMENTS
