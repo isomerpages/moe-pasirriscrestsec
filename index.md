@@ -17,9 +17,6 @@ sections:
         now for parents' reference.
       button: Go to the announcement
       url: /secondary-2-subject-combination-briefing-slides-28th-august-2024/
-  - resources:
-      title: LATEST ANNOUNCEMENTS
-      button: PREVIOUS ANNOUNCEMENTS
   - announcements:
       title: LATEST ANNOUNCEMENTS
       id: announcements
@@ -30,46 +27,7 @@ sections:
             now for parents' reference.
           link_text: Communication with Parents
           link_url: /secondary-2-subject-combination-briefing-slides-28th-august-2024/
-        - title: New Announcement
-          date: 29 August 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
-        - title: New Announcement
-          date: 29 August 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
-        - title: New Announcement
-          date: 29 August 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
-        - title: New Announcement
-          date: 29 August 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
-  - textcards:
-      title: Text Cards
-      subtitle: Add informational text
-      id: textcards
-      description: Text card description
-      cards:
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+  - resources:
+      title: LATEST ANNOUNCEMENTS
+      button: PREVIOUS ANNOUNCEMENTS
 ---
