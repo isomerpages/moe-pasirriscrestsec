@@ -2,6 +2,7 @@
 title: Useful Links
 permalink: /support/useful-links/
 description: ""
+variant: markdown
 ---
 **STUDENTS**
 
@@ -29,7 +30,7 @@ description: ""
 
 *   [All Ears Form Builder](https://forms.moe.edu.sg/)
     
-*   [HR Online](https://intranet.moe.gov.sg/hronline/)
+*   [HR Online](https://intranet.moe.gov.sg/hronline/) (Requires VPN/SSOE2 Network)
     
 *   [HRP Portal](https://www.hrp.gov.sg/)
     
@@ -37,7 +38,7 @@ description: ""
     
 *   [MOE Identity Management System (MIMS)](http://portal.mims.moe.gov.sg/)
     
-*   [MOE Intranet](https://intranet.moe.gov.sg/)
+*   [MOE Intranet](https://intranet.moe.gov.sg/) (Requires VPN/SSOE2 Network)
     
 *   [OPAL2.0](https://www.opal2.moe.edu.sg/app/learner)
     
