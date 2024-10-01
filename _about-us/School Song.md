@@ -8,7 +8,8 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fwVODfq0tI8"></iframe>
 </div>
-<h4>Lyrics by Ken Low<br>Music arranged by Iskandar Ismail</h4>
+<p>Lyrics by Ken Low
+<br>Music arranged by Iskandar Ismail</p>
 <p><strong>Verse 1:</strong>
 <br>What we have is something special here
 <br>Something so unique
@@ -41,3 +42,4 @@ variant: tiptap
 <br>Teach us to pass it on and always lead the way
 <br>Stand together, with the love we'll always share
 <br>Show me the way</p>
+<p></p>
