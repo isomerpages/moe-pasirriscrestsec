@@ -18,7 +18,6 @@ For application and criteria details, please refer to <a href="https://go.gov.sg
 
 Thank you.</p>
 </div></li>
-<hr>
 <hr>		
 <li>
 <input type="checkbox" id="accordion2">
