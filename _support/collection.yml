@@ -2,7 +2,6 @@ collections:
   support:
     output: true
     order:
-      - PRCS Calendar.md
       - Personalised Digital Learning Programme (PDLP).md
       - Student Learning Space (SLS).md
       - SLS Support.md
@@ -13,4 +12,5 @@ collections:
       - Traffic Management Plan.md
       - Pedestrian and Vehicle Route.md
       - Student Insurance.md
+      - PRCS Calendar.md
       - Useful Links.md
