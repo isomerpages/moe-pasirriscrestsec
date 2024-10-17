@@ -18,7 +18,7 @@ sections:
       button: View videos here
       url: https://sites.google.com/moe.edu.sg/2024sec2subcombbriefingvideos
   - infopic:
-      title: Overseas Values in Action to Vietnam
+      title: Overseas Values in Action Trip to Vietnam
       id: infopic
       description: Gather updates about our trip here.
       button: VISIT THE OVIA 2024 SITE
