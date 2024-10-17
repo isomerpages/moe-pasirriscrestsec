@@ -10,13 +10,21 @@ sections:
       background: /images/crestianherohomepage1200x400.gif
       url: /latest-news/announcements/
   - infobar:
-      title: Secondary 2 Subject Combination Briefing Slides
-      subtitle: CWP - 28th August 2024
+      title: Secondary 2 Subject Combination Briefing Viddeos
+      subtitle: CWP - 17th October 2024
       id: infobar
-      description: The Secondary 2 Subject Combination Briefing slides are available
+      description: The Secondary 2 Subject Combination Briefing videos are available
         now for parents' reference.
       button: Go to the announcement
       url: /secondary-2-subject-combination-briefing-slides-28th-august-2024/
+  - infopic:
+      title: Overseas Values in Action to Vietnam
+      id: infopic
+      description: Gather updates about our trip here.
+      button: VISIT THE OVIA 2024 SITE
+      url: https://sites.google.com/moe.edu.sg/prcss-curriculum/curriculum-home/cce/via/ovia-2024
+      image: /images/OVIA_trip_banner_2.png
+      alt: Image alt text
   - resources:
       title: LATEST ANNOUNCEMENTS
       button: PREVIOUS ANNOUNCEMENTS
