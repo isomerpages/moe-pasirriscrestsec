@@ -7,3 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Dear Parents/Guardians,</p>
+<p>The Secondary 2 Subject Combination Briefing Videos are available now
+for parents' reference.</p>
+<p></p>
+<p><a href="https://sites.google.com/moe.edu.sg/2024sec2subcombbriefingvideos" rel="noopener nofollow" target="_blank">View here</a>
+</p>
+<p></p>
+<p>Thank you.</p>
