@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/MOTD_Prcs_Open_House_2024.jpg
+      background: /images/MOTD_Prcs_Open_House_2024_1028x720.jpg
       url: /latest-news/announcements/
   - infobar:
       title: Secondary 2 Subject Combination Briefing Videos
