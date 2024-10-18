@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/crestianherohomepage1200x400.gif
+      background: /images/MOTD_Prcs_Open_House_2024.jpg
       url: /latest-news/announcements/
   - infobar:
       title: Secondary 2 Subject Combination Briefing Videos
