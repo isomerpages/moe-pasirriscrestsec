@@ -9,6 +9,7 @@ sections:
   - hero:
       background: /images/crestianherohomepage1200x400.gif
       url: /latest-news/announcements/
+      variant: center
   - infobar:
       title: Secondary 2 Subject Combination Briefing Videos
       subtitle: CWP - 17th October 2024
