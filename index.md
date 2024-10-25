@@ -7,8 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/MOTD_Prcs_Open_House_2024_1028x720.jpg
+      background: /images/crestianherohomepage1200x400.gif
       url: /latest-news/announcements/
+      variant: center
   - infobar:
       title: Secondary 2 Subject Combination Briefing Videos
       subtitle: CWP - 17th October 2024
