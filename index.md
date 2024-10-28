@@ -26,6 +26,11 @@ sections:
       url: https://sites.google.com/moe.edu.sg/prcss-curriculum/curriculum-home/cce/via/ovia-2024
       image: /images/OVIA_trip_banner_2.png
       alt: Image alt text
+  - infobar:
+      title: School Canteen Advertisement
+      id: infobar
+      button: Click for more information
+      url: /school-canteen-advertisement/
   - resources:
       title: LATEST ANNOUNCEMENTS
       button: PREVIOUS ANNOUNCEMENTS
