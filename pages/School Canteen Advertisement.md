@@ -2,12 +2,14 @@
 title: School Canteen Advertisement
 permalink: /school-canteen-advertisement/
 description: ""
+variant: markdown
 ---
 #### School Canteen Advertisement
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Malay Food Stall | 05 September 2023 | Rice or noodle stalls are acceptable.|
+| Chinese Cuisine | 12 November 2024 | Rice or noodle stalls are acceptable.|
+| Asia Cuisine (Non-Halal Japanese/Korean etc) | 12 November 2024 | |
 
 
 **Application Procedure**
