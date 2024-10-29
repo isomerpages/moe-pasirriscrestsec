@@ -2,18 +2,20 @@
 title: School Canteen Advertisement
 permalink: /school-canteen-advertisement/
 description: ""
+variant: markdown
 ---
 #### School Canteen Advertisement
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Malay Food Stall | 05 September 2023 | Rice or noodle stalls are acceptable.|
+| Chinese Food Stall | 12 Nov 2024 | Rice or noodle stalls are acceptable.|
+|Asia Cuisine (Non-Halal) | 12 Nov 2024 | Japanese or Korean etc|
 
 
 **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-* [Application Form](/files/School%20Canteen%20Advertisement/formbf7%20(2018).pdf)
+* [Application Form](/files/School%20Canteen%20Advertisement/School_Canteen_Application_Form_Sept_2023.pdf)
 
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
@@ -42,6 +44,5 @@ description: ""
 * Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
 * Possess catering experience or experience operating in a school environment.
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA). 
-
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
