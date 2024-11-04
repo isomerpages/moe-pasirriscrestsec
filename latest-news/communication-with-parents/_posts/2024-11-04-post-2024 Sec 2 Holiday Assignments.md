@@ -7,15 +7,18 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Good morning Aizat. Could you please help to upload the Sec 2 Holiday
-Assignments to the school website under the title "Sec 2 Holiday Assignments"
-followed by the folders 2NT, 2NA and 2EX? The assignments may be found
-in the folders shown.</p>
+<p>Dear Parents/Guardians,</p>
+<p>The Secondary 2 Holiday Assignments are now available for your reference
+and for students to download. Please use the appropriate link below:</p>
+<p>- Secondary 2 Express: <strong><a href="https://go.gov.sg/2024sec2holiday2na" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024sec2holiday2ex</a></strong>
+<br>- Secondary 2 Normal (Academic): <strong><a href="https://go.gov.sg/2024sec2holiday2na" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024sec2holiday2na</a></strong>
+<br>- Secondary 2 Normal (Technical): <strong><a href="https://go.gov.sg/2024sec2holiday2na" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024sec2holiday2nt</a></strong>
+<br>
+<br>We appreciate your support in ensuring students complete these assignments
+during the holiday period.
+<br>
+<br>Thank you for your attention to this matter.</p>
 <p></p>
 <p></p>
-<p><strong><a href="https://go.gov.sg/2024sec2holiday2na" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024sec2holiday2ex</a></strong>
-</p>
-<p><strong><a href="https://go.gov.sg/2024sec2holiday2na" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024sec2holiday2na</a></strong>
-</p>
-<p><strong><a href="https://go.gov.sg/2024sec2holiday2na" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024sec2holiday2nt</a></strong>
-</p>
+<p></p>
+<p></p>
