@@ -18,7 +18,3 @@ and for students to download. Please use the appropriate link below:</p>
 during the holiday period.
 <br>
 <br>Thank you for your attention to this matter.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
