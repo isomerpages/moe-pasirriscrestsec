@@ -7,3 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Good morning Aizat. Could you please help to upload the Sec 2 Holiday
+Assignments to the school website under the title "Sec 2 Holiday Assignments"
+followed by the folders 2NT, 2NA and 2EX? The assignments may be found
+in the folders shown.</p>
