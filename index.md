@@ -7,17 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/crestianherohomepage1200x400.gif
+      background: /images/Header Picture Google Sites/2024_Website_Banner.gif
       url: /latest-news/announcements/
       variant: center
-  - infobar:
-      title: Secondary 2 Subject Combination Briefing Videos
-      subtitle: CWP - 17th October 2024
-      id: infobar
-      description: The Secondary 2 Subject Combination Briefing videos are available
-        now for parents' reference.
-      button: View videos here
-      url: https://sites.google.com/moe.edu.sg/2024sec2subcombbriefingvideos
   - infopic:
       title: Overseas Values in Action Trip to Vietnam
       id: infopic
