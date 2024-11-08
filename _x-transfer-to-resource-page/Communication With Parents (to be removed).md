@@ -1,7 +1,8 @@
 ---
 title: Communication With Parents (to be removed)
-permalink: /parents/communicationwithparents/
+permalink: /remove/1/
 description: ""
+variant: tiptap
 ---
 <h1>Communication With Parents</h1>
 
