@@ -60,9 +60,20 @@ The package includes a&nbsp;3-year warranty&nbsp;and 3-year insurance**\***&nbsp
 <li>In the event that the device is lost or damaged beyond economical means to repairs, a police report or service report must be provided for the procurement of a replacement device.</li>
 </ul>
 
-SERVICE CENTRE
+<b>SERVICE CENTRE</b>
 
-<img src="/images/Lennovo%20Service%20Centre_New.jpeg">
+<b></b><p><b>New Service Centre Location:<br></b>
+Servlink Technologies – Lenovo Authorised Service Centre<br>
+Address: 2 Kallang Avenue #09-01, CTHub 1, Singapore 339407<br>
+Hotline: +65 6817 1435<br>
+Email: [Svcctr@servlink.com.sg](mailto:Svcctr@servlink.com.sg)<br>
+
+Operating hours:<br>
+Monday to Friday: 9:00 AM – 6:00 PM<br>
+Saturday: 9:00 AM – 1:00 PM<br>
+Closed on Sundays and Public Holidays<br>
+Enclosed is the [FAQs](/files/CWP/Change_in_Lenovo_Authorised_Service_Centre___FAQs.pdf) for your reference.	
+	</p>
 	</div>
 	
 </li><li>
