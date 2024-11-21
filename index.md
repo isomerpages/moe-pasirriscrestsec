@@ -17,12 +17,6 @@ sections:
       url: https://sites.google.com/moe.edu.sg/prcss-open-house/
       image: /images/MOTD_Prcs_Open_House_2024_571x400.jpg
       alt: Image alt text
-  - infobar:
-      title: PASIR RIS CREST OPEN HOUSE
-      id: infobar
-      description: 23 Nov 2024, 8 am – 1pm
-      button: find out more
-      url: https://sites.google.com/moe.edu.sg/prcss-open-house/
   - resources:
       title: LATEST ANNOUNCEMENTS
       button: PREVIOUS ANNOUNCEMENTS
