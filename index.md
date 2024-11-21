@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/crestianherohomepage1200x400.gif
+      background: /images/2024_Website_Banner_Draf1.gif
       url: /latest-news/announcements/
       variant: center
   - infopic:
