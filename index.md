@@ -7,16 +7,15 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/crestianherohomepage1200x400.gif
+      background: /images/2024_Website_Banner_Draf5.gif
       url: /latest-news/announcements/
       variant: center
   - infopic:
-      title: Overseas Values in Action Trip to Vietnam
+      title: PASIR RIS CREST OPEN HOUSE
       id: infopic
-      description: Gather updates about our trip here.
-      button: VISIT THE OVIA 2024 SITE
-      url: https://sites.google.com/moe.edu.sg/prcss-curriculum/curriculum-home/cce/via/ovia-2024
-      image: /images/OVIA_trip_banner_2.png
+      button: find out more
+      url: https://sites.google.com/moe.edu.sg/prcss-open-house/
+      image: /images/MOTD_Prcs_Open_House_2024_571x400.jpg
       alt: Image alt text
   - resources:
       title: LATEST ANNOUNCEMENTS
