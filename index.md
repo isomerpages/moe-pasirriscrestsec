@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024_Website_Banner_Draf1.gif
+      background: /images/2024_Website_Banner_Draf5.gif
       url: /latest-news/announcements/
       variant: center
   - infopic:
