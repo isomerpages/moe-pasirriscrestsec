@@ -4,6 +4,8 @@ permalink: /talent-development-programme/
 variant: tiptap
 description: ""
 ---
+<h1>Talent Development Programme</h1>
+<p></p>
 <p>At PRCS, we believe that every child is unique and recognise that they
 can and will demonstrate talents in different domains and at different
 stages throughout their secondary school years.</p>
