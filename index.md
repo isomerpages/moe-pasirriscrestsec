@@ -13,9 +13,12 @@ sections:
   - infopic:
       title: Secondary 1 Registration Info
       id: infopic
-      button: click here for more information
+      button: more information
       url: a
       alt: Image alt text
+      subtitle: aa
+      description: aa
+      image: /images/Zoom_Background__coloured_.jpg
   - resources:
       title: LATEST ANNOUNCEMENTS
       button: PREVIOUS ANNOUNCEMENTS
