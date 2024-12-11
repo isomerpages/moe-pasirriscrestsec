@@ -10,6 +10,12 @@ sections:
       background: /images/2024_Website_Banner_Draf5.gif
       url: /latest-news/announcements/
       variant: center
+  - infopic:
+      title: Secondary 1 Registration Info
+      id: infopic
+      button: click here for more information
+      url: a
+      alt: Image alt text
   - resources:
       title: LATEST ANNOUNCEMENTS
       button: PREVIOUS ANNOUNCEMENTS
