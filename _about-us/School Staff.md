@@ -11,7 +11,7 @@ variant: markdown
 		<label for="accordion1">SCHOOL LEADERS</label>
 		<div class="content hidecontent">
 		<div>
-			<img src="/images/Our%20Staff/2024_SL.png">
+			<img src="/images/Our%20Staff/2025_SL.png">
 			</div>
 			</div></li>
 		<li>
