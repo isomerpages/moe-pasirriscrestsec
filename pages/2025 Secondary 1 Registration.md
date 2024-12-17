@@ -10,14 +10,91 @@ description: ""
 <summary><strong>(A) Zoom Briefing details for Secondary 1 students and parents</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h2></h2>
+<ol>
+<li>
+<p>Parents are encouraged to join us via Zoom for a welcome address by Principal,
+Year Head, and Subject-Based Banding briefing by the teacher in-charge.&nbsp;</p>
+<p><strong>Date: </strong>Thursday, 19 December 2024&nbsp;</p>
+<p><strong>Time: </strong>9.00 a.m. to 11.00 a.m.&nbsp;</p>
+<p></p>
+<p>Click on the following to join Zoom Meeting&nbsp;</p>
+<p><strong><a href="https://moe-singapore.zoom.us/j/87084632025" rel="noopener noreferrer nofollow" target="_blank"><u>https://moe-singapore.zoom.us/j/87084632025</u></a></strong>&nbsp;</p>
+<p></p>
+<p><strong>Meeting ID: 870 8463 2025</strong>&nbsp;</p>
+<p><strong>Passcode: 927179</strong>&nbsp;</p>
+<p></p>
+<p>For security reasons, please use this format for your login username.<strong>&nbsp;</strong>&nbsp;</p>
+<p><strong>Login username: PRCS/ Child’s name</strong>&nbsp;</p>
+<p>(<em>Only participants with the suggested format for the login username will be admitted into the briefing</em>)&nbsp;</p>
+<p></p>
+</li>
+<li>
+<p>The Principal’s slides will also be uploaded on the school website after
+the session.&nbsp;</p>
+</li>
+</ol>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>(B) Online Registration</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h2></h2>
+<p>Please ensure that you have your Parents Gateway (PG) mobile app ready
+to complete the Sec 1 online registration.&nbsp; Please note that Parent
+Gateway may be down between 12pm to 5pm on 18 December to facilitate the
+secondary 1 posting. Pasir Ris Crest Secondary School will be automatically
+reflected and assigned to your PG once the transition has been completed
+by the next working day.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<ol>
+<li>
+<p><strong>E-Registration</strong>.&nbsp;&nbsp;</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Please complete the <strong><a href="https://go.gov.sg/s1registration2025" class="Hyperlink SCXW84047514 BCX8" rel="noreferrer noopener" target="_blank"><u>Online Registration Form</u></a></strong>.&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>The registration takes about 10 minutes. Please complete all fields.&nbsp;</p>
+</li>
+<li>
+<p>It is <strong>compulsory</strong> for parents/guardians to complete the
+registration. Please complete the registration latest by<strong> Wednesday, 18 December 2024, 11:59 p.m.</strong>&nbsp;</p>
+</li>
+</ol>
+</li>
+</ol>
+<p>&nbsp;</p>
+<ol start="2">
+<li>
+<p>Log in to PG mobile app (if you have not downloaded the app, please refer
+to the link, <a href="https://go.gov.sg/s1registration2025" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.prcss.moe.edu.sg/support/parentsgateway/</u></a> ).&nbsp;</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<ol start="3">
+<li>
+<p>You may also receive a message via PG to inform if your child is eligible
+for Higher Mother Tongue Language, 3<sup>rd</sup> Language or is eligible
+to offer subject(s) at a More Demanding Level.&nbsp;</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Higher Mother Tongue Language eligibility, or&nbsp;</p>
+</li>
+<li>
+<p>3<sup>rd</sup> Language eligibility or&nbsp;</p>
+</li>
+<li>
+<p>Offer for Subject(s) at a More Demanding level.&nbsp;&nbsp;</p>
+</li>
+</ol>
+</li>
+</ol>
+<p>&nbsp;</p>
+<ol start="4">
+<li>
+<p>For parents who do not have access to PG app, please contact the school.&nbsp;</p>
+</li>
+</ol>
 </div>
 </details>
 <details class="isomer-details">
