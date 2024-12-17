@@ -11,7 +11,7 @@ sections:
       url: /latest-news/announcements/
       variant: center
   - infopic:
-      title: Secondary 1 Registration Information
+      title: Secondary 1 Registration Info
       id: infopic
       button: more information
       url: /2025-secondary-1-registration/
