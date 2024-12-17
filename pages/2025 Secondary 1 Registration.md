@@ -5,6 +5,63 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>Registration for 2025 Secondary 1 at Pasir Ris Crest Secondary School</strong>&nbsp;</h1>
+<p>Congratulations on your posting to Pasir Ris Crest Secondary School (PRCS)
+to commence your journey in secondary school education. Our school’s vision
+is “Our Caring Home, Our CRESTian Leaders” and we are happy to support
+you on a new phase of your development as we officially welcome you into
+the Crestian family!&nbsp;</p>
+<p></p>
+<p>You <strong>do not need</strong> to report physically to PRCS following
+the release of your posting results as the Secondary 1 Registration will
+be conducted virtually.&nbsp;&nbsp;</p>
+<p></p>
+<p>Parents will receive the following PG message(s) from the school:&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Date&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PG Message&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 December 2024&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Information on Zoom briefing and Sec 1 Registration&nbsp;</p>
+<p>(Information is also available in&nbsp; section (A) and (B))&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 December 2024&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eligibility offer for Higher Mother Tongue Language, 3<sup>rd</sup> Language<strong> or</strong> subject(s)
+at a More Demanding Level (Subjected to students who met criteria)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>By 27 December 2024&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Your child’s/ward’s home class allocation&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>The following six steps will provide you with more information as we bring
+you through the Secondary 1 Registration process:&nbsp;&nbsp;</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>(A) Zoom Briefing details for Secondary 1 students and parents</strong>
