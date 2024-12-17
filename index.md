@@ -10,13 +10,17 @@ sections:
       background: /images/2024_Website_Banner_Draf5.gif
       url: /latest-news/announcements/
       variant: center
+      key_highlights:
+        - title: School Calendar
+          description: ""
+          url: /prcs-calendar/
   - infopic:
-      title: PASIR RIS CREST OPEN HOUSE
+      title: Secondary 1 Registration Info
       id: infopic
-      button: find out more
-      url: https://sites.google.com/moe.edu.sg/prcss-open-house/
-      image: /images/MOTD_Prcs_Open_House_2024_571x400.jpg
+      button: more information
+      url: /2025-secondary-1-registration/
       alt: Image alt text
+      image: /images/Zoom_Background__coloured_.jpg
   - resources:
       title: LATEST ANNOUNCEMENTS
       button: PREVIOUS ANNOUNCEMENTS
