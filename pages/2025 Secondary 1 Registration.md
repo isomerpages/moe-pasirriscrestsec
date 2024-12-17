@@ -33,11 +33,9 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <ol>
 <li>
-<p>Refer to the table for</p>
-<p>the reporting time and attire on the first day.&nbsp;&nbsp;&nbsp;</p>
+<p>Refer to the table for the reporting time and attire on the first day.&nbsp;&nbsp;&nbsp;</p>
 </li>
 </ol>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
