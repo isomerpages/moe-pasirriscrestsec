@@ -10,6 +10,16 @@ sections:
       background: /images/2024_Website_Banner_Draf5.gif
       url: /latest-news/announcements/
       variant: center
+      key_highlights:
+        - title: School Calendar
+          description: ""
+          url: /prcs-calendar/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infopic:
       title: Secondary 1 Registration Info
       id: infopic
