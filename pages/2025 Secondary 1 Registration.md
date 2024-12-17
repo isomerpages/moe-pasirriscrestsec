@@ -28,10 +28,108 @@ description: ""
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>(D)</strong>  <strong>The first day of School</strong>
+<summary><strong>(D)</strong>  <strong>The First Day of School</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h2></h2>
+<ol>
+<li>
+<p>Refer to the table for</p>
+<p>the reporting time and attire on the first day.&nbsp;&nbsp;&nbsp;</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Reporting time&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.25 a.m. (In their allocated classroom at level four)&nbsp;</p>
+<p>The classroom location will be placed on the noticeboard at the Tower
+Block.&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Attire:&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PRCS PE T-shirt (see image B) and PE shorts <strong>or</strong> Primary
+School PE attire&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shoes:&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Predominantly white shoes with lace&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Socks:&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>White with no logo&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_b.png">
+</div>
+<p><strong>Image B</strong>&nbsp;</p>
+<ol start="2">
+<li>
+<p>Students can refer to the noticeboard at the Tower Block which will contain
+more information on their classroom location.&nbsp;</p>
+</li>
+<li>
+<p>Items to bring:&nbsp;</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>An English story book for Reading Period&nbsp;</p>
+</li>
+<li>
+<p>Stationery&nbsp;</p>
+</li>
+<li>
+<p>Primary School Report Book&nbsp;</p>
+</li>
+<li>
+<p>Payment for Crestian’s handbook <strong>($5.20)</strong>&nbsp;</p>
+</li>
+</ol>
+</li>
+</ol>
+<p>&nbsp;</p>
+<ol start="4">
+<li>
+<p>Bring a <strong>photocopy</strong> of the following documents for the Pupil
+Confidential File:&nbsp;</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Passport/Student Pass (for foreign student)&nbsp;</p>
+</li>
+<li>
+<p>PSLE results slip&nbsp;</p>
+</li>
+<li>
+<p>Mother Tongue Language exemption letter (if applicable)&nbsp;</p>
+</li>
+<li>
+<p>Any documents deemed useful by parents/guardians (e.g. Medical Report)&nbsp;</p>
+</li>
+</ol>
+</li>
+</ol>
 </div>
 </details>
 <details class="isomer-details">
@@ -134,8 +232,6 @@ signifying the new beginning in his/her secondary school life.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
