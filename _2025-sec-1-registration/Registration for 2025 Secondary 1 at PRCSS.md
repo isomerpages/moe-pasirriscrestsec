@@ -70,6 +70,8 @@ at a More Demanding Level (Subjected to students who met criteria)&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<hr>
+<p></p>
 <p>The following six steps will provide you with more information as we bring
 you through the Secondary 1 Registration process:&nbsp;&nbsp;</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -988,5 +990,6 @@ DSA school for further advice if there are valid reasons for a transfer.&nbsp;</
 </div>
 </details>
 </div>
+<hr>
 <h2></h2>
 <p></p>
