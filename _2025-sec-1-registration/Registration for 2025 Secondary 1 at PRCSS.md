@@ -10,11 +10,9 @@ to commence your journey in secondary school education. Our school’s vision
 is “Our Caring Home, Our CRESTian Leaders” and we are happy to support
 you on a new phase of your development as we officially welcome you into
 the Crestian family!&nbsp;</p>
-<p></p>
 <p>You <strong>do not need</strong> to report physically to PRCS following
 the release of your posting results as the Secondary 1 Registration will
 be conducted virtually.&nbsp;&nbsp;</p>
-<p></p>
 <p>Parents will receive the following PG message(s) from the school:&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -35,9 +33,14 @@ be conducted virtually.&nbsp;&nbsp;</p>
 <p>18 December 2024&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Information on Zoom briefing and Sec 1 Registration&nbsp;</p>
+</li>
+<li>
 <p>(Information is also available in&nbsp; section (A) and (B))&nbsp;</p>
-<p>&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -45,8 +48,12 @@ be conducted virtually.&nbsp;&nbsp;</p>
 <p>19 December 2024&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Eligibility offer for Higher Mother Tongue Language, 3<sup>rd</sup> Language<strong> or</strong> subject(s)
 at a More Demanding Level (Subjected to students who met criteria)&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -54,7 +61,11 @@ at a More Demanding Level (Subjected to students who met criteria)&nbsp;</p>
 <p>By 27 December 2024&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Your child’s/ward’s home class allocation&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -160,7 +171,6 @@ to offer subject(s) at a More Demanding Level.&nbsp;</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>After you have received the messages via PG/email, you may commence on
 the following (whichever applicable)</p>
-<p>&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Offer for Subject(s) at More Demanding Level</strong>
@@ -208,9 +218,14 @@ in the table to indicate your preferred option and make the necessary arrangemen
 <p>Bookshop&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Online platform: <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pacificbookstores.com</u></a>&nbsp;&nbsp;</p>
+</li>
+<li>
 <p>Contact number: 6929 8012 / 6559 2269&nbsp;</p>
-<p>&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -218,10 +233,18 @@ in the table to indicate your preferred option and make the necessary arrangemen
 <p>School uniform&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Online platform: <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://asencio.com.sg/</u></a>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Online platform: <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://asencio.com.sg/</u></a>
+</p>
+</li>
+<li>
 <p>Email: <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank"><u>prcs@asencio.com.sg</u></a><u>&nbsp;</u>&nbsp;</p>
+</li>
+<li>
 <p>Contact number: 6764 3102&nbsp;</p>
-<p>&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -241,12 +264,20 @@ access the booking link/email below to make your purchases.&nbsp;</p>
 <p>Bookshop&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>E-appointment link: <a href="https://www.pacificbookstores.com/appointment/book" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pacificbookstores.com/appointment/book</u></a>&nbsp;</p>
+</li>
+<li>
 <p>Email: <a href="https://www.pacificbookstores.com/appointment/book" rel="noopener noreferrer nofollow" target="_blank"><u>sales@pacificbookstores.com</u></a>&nbsp;</p>
+</li>
+<li>
 <p>Tel: 6929 8012<u>&nbsp;</u>&nbsp;</p>
-<p>&nbsp;</p>
+</li>
+<li>
 <p><em>NOTE: Kindly wait for school results if you have applied for FAS. Do not purchase books in advance.&nbsp;</em>&nbsp;</p>
-<p>&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -254,9 +285,14 @@ access the booking link/email below to make your purchases.&nbsp;</p>
 <p>School uniform&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Email: <a href="https://www.pacificbookstores.com/appointment/book" rel="noopener noreferrer nofollow" target="_blank"><u>prcs@asencio.com.sg</u></a><u>&nbsp;</u>&nbsp;</p>
-<p>Tel: 6764 3102&nbsp;</p>
-<p>&nbsp;</p>
+</li>
+<li>
+<p>Tel: 6764 3102&nbsp;&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -436,7 +472,11 @@ and school attire.&nbsp;&nbsp;</p>
 <p>-&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Full School Uniform only&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -453,14 +493,15 @@ and school attire.&nbsp;&nbsp;</p>
 <p>3.35 p.m. to 5.35 p.m.&nbsp;</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Full School Uniform&nbsp;</p>
-<p>OR&nbsp;</p>
-<p>PE T-shirt with school bermudas or school skirt&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Full School Uniform
+<br>OR&nbsp;</p>
+</li>
+<li>
+<p>PE T-shirt with school bermudas or school skirt</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -640,9 +681,15 @@ alertness of the traffic condition.&nbsp;</p>
 <p>Reporting time&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>7.25 a.m. (In their allocated classroom at level four)&nbsp;</p>
+</li>
+<li>
 <p>The classroom location will be placed on the noticeboard at the Tower
 Block.&nbsp;&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -650,8 +697,12 @@ Block.&nbsp;&nbsp;</p>
 <p>Attire:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>PRCS PE T-shirt (see image B) and PE shorts <strong>or</strong> Primary
 School PE attire&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -659,7 +710,11 @@ School PE attire&nbsp;</p>
 <p>Shoes:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Predominantly white shoes with lace&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -667,7 +722,11 @@ School PE attire&nbsp;</p>
 <p>Socks:&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>White with no logo&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -779,8 +838,14 @@ School PE attire.&nbsp;</p>
 <p>2.00 p.m.&nbsp;</p>
 </td>
 <td rowspan="2" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Orientation activities conducted by our Crestian Senior Leaders in school.&nbsp;&nbsp;</p>
+</li>
+<li>
 <p>Canteen is open for recess and lunch.&nbsp;&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -799,10 +864,18 @@ School PE attire.&nbsp;</p>
 <p>8.00 p.m.&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Day camp where there will be team bonding activities and campfire (in
 the evening) conducted in school.&nbsp;</p>
+</li>
+<li>
 <p>Canteen is open for recess and lunch.&nbsp;&nbsp;</p>
+</li>
+<li>
 <p>Halal packed meal will be catered during dinner for all students.&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -813,13 +886,23 @@ the evening) conducted in school.&nbsp;</p>
 <p>2.00 p.m.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Learning for Life Programme&nbsp;</p>
+</li>
+<li>
 <p>Drumming workshop at external venues.&nbsp;&nbsp;</p>
+</li>
+<li>
 <p>A bun will be provided for all students. Students are encouraged to bring
 healthy snacks to consume during their break time.&nbsp;&nbsp;&nbsp;</p>
+</li>
+<li>
 <p>Ends off with a closing ceremony where parents/guardians are invited to
 accompany the child/ward in their completion of several days of activities,
 signifying the new beginning in his/her secondary school life.&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -836,11 +919,13 @@ signifying the new beginning in his/her secondary school life.&nbsp;</p>
 <li>
 <p>An appeal to transfer out to another school due to compelling medical
 reasons must be submitted via email to Secondary 1 Year Head, Mr Jason
-Soo, <a href="mailto:soo_yee_siong_jason@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soo_yee_siong_jason@schools.gov.sg</a> by
-19 December 2024, 12.00 p.m..&nbsp;&nbsp;</p>
+Soo, <a href="mailto:soo_yee_siong_jason@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soo_yee_siong_jason@schools.gov.sg</a> by <strong>19 December 2024, 12.00 p.m..&nbsp;&nbsp;</strong>
+<br>
+</p>
 </li>
 <li>
-<p>Things to note when appealing for a transfer:&nbsp;</p>
+<p><strong>Things to note when appealing for a transfer:&nbsp;</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>All appeals must be accompanied by relevant supporting documents, such
@@ -870,9 +955,8 @@ and MOE’s approval.&nbsp;</p>
 <p>General transfer appeals&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Submissions for transfers or appeals to PRCS should be submitted online
-via this form by Thursday, 26 December 2024, 12.00&nbsp;p.m.. Application
-for transfer will be based on following factors:&nbsp;</p>
+<p>Submissions for transfers or appeals to PRCS should be submitted <a href="https://go.gov.sg/2025s1transferappeal" rel="noopener nofollow" target="_blank">online via this form</a> by <strong>Thursday, 26 December 2024, 12.00&nbsp;p.m.</strong>.
+Application for transfer will be based on following factors:&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Student must meet school’s Cut-Off Points (COP) for respective posting
