@@ -70,7 +70,6 @@ at a More Demanding Level (Subjected to students who met criteria)&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>The following six steps will provide you with more information as we bring
 you through the Secondary 1 Registration process:&nbsp;&nbsp;</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
