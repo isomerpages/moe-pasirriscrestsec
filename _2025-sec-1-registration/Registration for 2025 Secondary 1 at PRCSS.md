@@ -136,10 +136,10 @@ registration. Please complete the registration latest by<strong> Wednesday, 18
 <ol start="2">
 <li>
 <p>Log in to PG mobile app (if you have not downloaded the app, please refer
-to the link, <a href="https://go.gov.sg/s1registration2025" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.prcss.moe.edu.sg/support/parentsgateway/</u></a> ).&nbsp;</p>
+to the link, <a href="https://www.prcss.moe.edu.sg/support/parentsgateway/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.prcss.moe.edu.sg/support/parentsgateway/</u></a> ).&nbsp;</p>
 </li>
 </ol>
-<p>&nbsp;</p>
+<p></p>
 <ol start="3">
 <li>
 <p>You may also receive a message via PG to inform if your child is eligible
