@@ -755,9 +755,6 @@ more information on their classroom location.&nbsp;</p>
 <li>
 <p>Primary School Report Book&nbsp;</p>
 </li>
-<li>
-<p>Payment for Crestian’s handbook <strong>($5.20)</strong>&nbsp;</p>
-</li>
 </ol>
 </li>
 </ol>
