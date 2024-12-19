@@ -252,8 +252,8 @@ in the table to indicate your preferred option and make the necessary arrangemen
 </table>
 </li>
 <li>
-<p>For student who are under the MOE Financial Assistance Scheme, please
-access the booking link/email below to make your purchases.&nbsp;</p>
+<p><em>For student who are under the MOE Financial Assistance Scheme (FAS) or whose FAS application has been approved by their Primary School, please bring along the approval letters to the General Office before proceeding to bookshop to make the collection. You are still required to make an appointment with the following link to ensure that the bookshop could attend to your purchase.</em>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
