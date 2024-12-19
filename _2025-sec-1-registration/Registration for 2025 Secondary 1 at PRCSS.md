@@ -403,8 +403,8 @@ exceed $750 per month. &nbsp;
 </li>
 <li>
 <p>If you do not meet the eligibility criteria of the MOE FAS, but require
-financial assistance, do visit https://www.prcss.moe.edu.sg/support/financial-assistance/
-or approach the school staff at the school’s General Office for assistance.&nbsp;</p>
+financial assistance, do visit <a href="https://www.prcss.moe.edu.sg/support/financial-assistance/" rel="noopener noreferrer nofollow" target="_blank">https://www.prcss.moe.edu.sg/support/financial-assistance/</a> or
+approach the school staff at the school’s General Office for assistance.&nbsp;</p>
 </li>
 </ol>
 </li>
