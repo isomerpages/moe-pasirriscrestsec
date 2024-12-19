@@ -139,7 +139,7 @@ registration. Please complete the registration latest by<strong> Wednesday, 18
 to the link, <a href="https://www.prcss.moe.edu.sg/support/parentsgateway/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.prcss.moe.edu.sg/support/parentsgateway/</u></a> ).&nbsp;</p>
 </li>
 </ol>
-<p>&nbsp;</p>
+<p></p>
 <ol start="3">
 <li>
 <p>You may also receive a message via PG to inform if your child is eligible
