@@ -236,11 +236,11 @@ in the table to indicate your preferred option and make the necessary arrangemen
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Online platform: <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://asencio.com.sg/</u></a>
+<p>Online platform: <a href="https://asencio.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://asencio.com.sg/</u></a>
 </p>
 </li>
 <li>
-<p>Email: <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank"><u>prcs@asencio.com.sg</u></a><u>&nbsp;</u>&nbsp;</p>
+<p>Email: <a href="mailto:prcs@asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>prcs@asencio.com.sg</u></a><u>&nbsp;</u>&nbsp;</p>
 </li>
 <li>
 <p>Contact number: 6764 3102&nbsp;</p>
@@ -270,7 +270,7 @@ access the booking link/email below to make your purchases.&nbsp;</p>
 <p>E-appointment link: <a href="https://www.pacificbookstores.com/appointment/book" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pacificbookstores.com/appointment/book</u></a>&nbsp;</p>
 </li>
 <li>
-<p>Email: <a href="https://www.pacificbookstores.com/appointment/book" rel="noopener noreferrer nofollow" target="_blank"><u>sales@pacificbookstores.com</u></a>&nbsp;</p>
+<p>Email: <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank"><u>sales@pacificbookstores.com</u></a>&nbsp;</p>
 </li>
 <li>
 <p>Tel: 6929 8012<u>&nbsp;</u>&nbsp;</p>
@@ -288,7 +288,7 @@ access the booking link/email below to make your purchases.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Email: <a href="https://www.pacificbookstores.com/appointment/book" rel="noopener noreferrer nofollow" target="_blank"><u>prcs@asencio.com.sg</u></a><u>&nbsp;</u>&nbsp;</p>
+<p>Email: <a href="mailto:prcs@asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>prcs@asencio.com.sg</u></a><u>&nbsp;</u>&nbsp;</p>
 </li>
 <li>
 <p>Tel: 6764 3102&nbsp;&nbsp;</p>
@@ -754,9 +754,6 @@ more information on their classroom location.&nbsp;</p>
 </li>
 <li>
 <p>Primary School Report Book&nbsp;</p>
-</li>
-<li>
-<p>Payment for Crestian’s handbook <strong>($5.20)</strong>&nbsp;</p>
 </li>
 </ol>
 </li>
