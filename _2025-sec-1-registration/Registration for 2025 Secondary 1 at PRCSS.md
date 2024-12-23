@@ -106,16 +106,20 @@ the session.&nbsp;</p>
 <p>You may download the relevant slides:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>2025 Secondary 1 Registration-Zoom briefing slides</p>
+<p><a href="/files/Sec 1 Registration/2025_S1_Registration_Zoom_Briefing_Slides__For_website_.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Secondary 1 Registration-Zoom briefing slides</a>
+</p>
 </li>
 <li>
-<p>2025 Art and Music Elective Programmes briefing slides</p>
+<p><a href="/files/Sec 1 Registration/2025_AEP_and_MEP_Centre_Briefing_Slides__For_School_Website_.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Art and Music Elective Programmes briefing slides</a>
+</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Information Sheet for Art Elective Programme</p>
+<p><a href="/files/Sec 1 Registration/Appl_AEP_Centres_Information_Sheet_for_Applicants.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Sheet for Art Elective Programme</a>
+</p>
 </li>
 <li>
-<p>Information Sheet for Music Elective Programme</p>
+<p><a href="/files/Sec 1 Registration/Appl_MEP_Centres_Information_Sheet_for_Applicants.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Sheet for Music Elective Programme</a>
+</p>
 </li>
 </ol>
 </li>
