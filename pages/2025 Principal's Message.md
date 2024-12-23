@@ -20,14 +20,3 @@ In 2024, we amalgamated our school values with the desired behaviour for each Cr
 <p align="justify"></p>
 
 <p><strong><br></strong></p></div></div>
-
- 
-
-
-
- 
-
- 
-
-
-
