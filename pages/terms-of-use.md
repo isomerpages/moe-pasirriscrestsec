@@ -3,6 +3,7 @@ title: Terms of Use
 permalink: /terms-of-use/
 variant: tiptap
 ---
+<h1><strong>Terms of Use</strong></h1>
 <p>Thank you for visiting Pasir Ris Crest Secondary School web site. By accessing
 and using this Web Site, you shall be deemed to have accepted to be legally
 bound by these Terms of Use. If you do not agree to these Terms of Use,
