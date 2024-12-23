@@ -252,6 +252,107 @@ in the table to indicate your preferred option and make the necessary arrangemen
 </table>
 </li>
 <li>
+<p>Sizing Measurement for new school PE T-shirt (updated 20 Dec 2024)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tshirt_size.png">
+</div>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Size</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Estimated Pit-to-pit measurement (in cm)</strong>
+</p>
+<p><strong>Actual measurement may vary</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>XXS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>44</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>XS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>45</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>47</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>M</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>49</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>L</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>52</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>XL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>55</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2XL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>57</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3XL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>59</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4XL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>61</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</li>
+<li>
 <p><em>For student who are under the MOE Financial Assistance Scheme (FAS) or whose FAS application has been approved by their Primary School, please bring along the approval letters to the General Office before proceeding to bookshop to make the collection. You are still required to make an appointment with the following link to ensure that the bookshop could attend to your purchase.</em>
 </p>
 <table style="minWidth: 50px">
