@@ -100,6 +100,30 @@ Year Head, and Subject-Based Banding briefing by the teacher in-charge.&nbsp;</p
 <li>
 <p>The Principal’s slides will also be uploaded on the school website after
 the session.&nbsp;</p>
+<p></p>
+</li>
+<li>
+<p>You may download the relevant slides:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Sec 1 Registration/2025_S1_Registration_Zoom_Briefing_Slides__For_website_.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Secondary 1 Registration-Zoom briefing slides</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sec 1 Registration/2025_AEP_and_MEP_Centre_Briefing_Slides__For_School_Website_.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Art and Music Elective Programmes briefing slides</a>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Sec 1 Registration/Appl_AEP_Centres_Information_Sheet_for_Applicants.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Sheet for Art Elective Programme</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sec 1 Registration/Appl_MEP_Centres_Information_Sheet_for_Applicants.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Sheet for Music Elective Programme</a>
+</p>
+</li>
+</ol>
+</li>
+</ol>
 </li>
 </ol>
 </div>
@@ -250,6 +274,108 @@ in the table to indicate your preferred option and make the necessary arrangemen
 </tr>
 </tbody>
 </table>
+</li>
+<li>
+<p>Sizing Measurement for new school PE T-shirt <strong>(updated 20 Dec 2024)</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tshirt_size.png">
+</div>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Size</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Estimated Pit-to-pit measurement (in cm)</strong>
+</p>
+<p><strong>Actual measurement may vary</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>XXS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>44</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>XS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>45</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>47</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>M</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>49</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>L</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>52</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>XL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>55</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2XL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>57</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3XL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>59</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4XL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>61</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 </li>
 <li>
 <p><em>For student who are under the MOE Financial Assistance Scheme (FAS) or whose FAS application has been approved by their Primary School, please bring along the approval letters to the General Office before proceeding to bookshop to make the collection. You are still required to make an appointment with the following link to ensure that the bookshop could attend to your purchase.</em>

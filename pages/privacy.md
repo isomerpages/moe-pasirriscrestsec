@@ -3,8 +3,7 @@ title: Privacy Statement
 permalink: /privacy/
 variant: tiptap
 ---
-<p><strong>PASIR RIS CREST SECONDARY SCHOOL PRIVACY STATEMENT</strong>
-</p>
+<h1><strong>PASIR RIS CREST SECONDARY SCHOOL PRIVACY STATEMENT</strong></h1>
 <p>1.&nbsp; This is a Pasir Ris Crest Secondary School website. Thank you
 for examining our privacy statement.</p>
 <p>2.&nbsp;&nbsp; If you are only browsing this website, we do not capture
