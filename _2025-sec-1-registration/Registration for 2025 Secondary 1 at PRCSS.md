@@ -252,7 +252,8 @@ in the table to indicate your preferred option and make the necessary arrangemen
 </table>
 </li>
 <li>
-<p>Sizing Measurement for new school PE T-shirt (updated 20 Dec 2024)</p>
+<p>Sizing Measurement for new school PE T-shirt <strong>(updated 20 Dec 2024)</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tshirt_size.png">
