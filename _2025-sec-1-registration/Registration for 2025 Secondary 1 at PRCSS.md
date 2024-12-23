@@ -100,6 +100,26 @@ Year Head, and Subject-Based Banding briefing by the teacher in-charge.&nbsp;</p
 <li>
 <p>The Principal’s slides will also be uploaded on the school website after
 the session.&nbsp;</p>
+<p></p>
+</li>
+<li>
+<p>You may download the relevant slides:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>2025 Secondary 1 Registration-Zoom briefing slides</p>
+</li>
+<li>
+<p>2025 Art and Music Elective Programmes briefing slides</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Information Sheet for Art Elective Programme</p>
+</li>
+<li>
+<p>Information Sheet for Music Elective Programme</p>
+</li>
+</ol>
+</li>
+</ol>
 </li>
 </ol>
 </div>
