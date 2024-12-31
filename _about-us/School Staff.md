@@ -4,7 +4,7 @@ permalink: /about-us/schoolstaff/
 description: ""
 variant: markdown
 ---
-<h1>School Staff</h1>
+<h1>2025 School Staff</h1>
 <ul class="jekyllcodex_accordion">
 	<li>
 		<input type="checkbox" id="accordion1" class="hidecontent">
