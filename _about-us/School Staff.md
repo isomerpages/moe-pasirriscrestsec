@@ -4,7 +4,7 @@ permalink: /about-us/schoolstaff/
 description: ""
 variant: markdown
 ---
-<h1>School Staff</h1>
+<h1>2025 School Staff</h1>
 <ul class="jekyllcodex_accordion">
 	<li>
 		<input type="checkbox" id="accordion1" class="hidecontent">
@@ -19,11 +19,11 @@ variant: markdown
 			<label for="accordion2">KEY PERSONNEL</label>
 			<div class="content hidecontent">
 			<div>
-				<img src="/images/Our%20Staff/2024_HOD.png"><br>
-				<img src="/images/Our%20Staff/2024_YH.png"><br>
-				<img src="/images/Our%20Staff/2024_SH.png"><br>
-				<img src="/images/Our%20Staff/2024_ST.png"><br>
-				<img src="/images/Our%20Staff/2024_LT.png"><br>
+				<img src="/images/Our%20Staff/2025_HOD.png"><br>
+				<img src="/images/Our%20Staff/2025_YH.png"><br>
+				<img src="/images/Our%20Staff/2025_SH.png"><br>
+				<img src="/images/Our%20Staff/2025_ST.png"><br>
+				<img src="/images/Our%20Staff/2025_LT.png"><br>
 				</div>
 		</div></li>
 		<li>
@@ -31,13 +31,13 @@ variant: markdown
 			<label for="accordion3">HOME TUTORS</label>
 			<div class="content hidecontent">
 			<div>
-				<img src="/images/Our%20Staff/2024_SEC1HT.png"><br>
-				<img src="/images/Our%20Staff/2024_SEC2HT.png"><br>
-				<img src="/images/Our%20Staff/2024_SEC3HT.png"><br>
-				<img src="/images/Our%20Staff/2024_SEC4HT.png"><br>
-				<img src="/images/Our%20Staff/2024_NONHT.png"><br>
-				<img src="/images/Our%20Staff/2024_AED.png"><br>
-				<img src="/images/Our%20Staff/2024_OST.png"><br>
+				<img src="/images/Our%20Staff/2025_SEC1HT.png"><br>
+				<img src="/images/Our%20Staff/2025_SEC2HT.png"><br>
+				<img src="/images/Our%20Staff/2025_SEC3HT.png"><br>
+				<img src="/images/Our%20Staff/2025_SEC4HT.png"><br>
+				<img src="/images/Our%20Staff/2025_NONHT.png"><br>
+				<img src="/images/Our%20Staff/2025_AED.png"><br>
+				<img src="/images/Our%20Staff/2025_OST.png"><br>
 				</div>
 				</div></li>
   <li>
@@ -45,7 +45,7 @@ variant: markdown
 			<label for="accordion4">EXECUTIVE AND ADMINSTRATIVE STAFF</label>
 			<div class="content hidecontent">
 			<div>
-				<img src="/images/Our%20Staff/2024_EAS.png">
+				<img src="/images/Our%20Staff/2025_EAS.png">
 				</div>
 				</div></li>
 </ul>
