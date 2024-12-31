@@ -9,7 +9,6 @@ description: ""
 <div style="float: left">
 <img src="/images/Our%20Staff/Principal_Message_2024.jpg" alt="Principal_PRCS.jpeg" style="width:450px; margin-right:10px;">
 </div><div>
-
 <p align="justify">The school theme for 2025 is a continuation of our journey towards the renewed school vision ‘Our Caring Home, Our CRESTian Leaders’.</p>
 <p align="justify">In 2022, we set off, working towards a unified school identity of ‘OUR PRCS’. </p>
 <p align="justify">In 2023, we reinforced that unified identity by reminding ourselves, the school values and dispositions that we must embrace and embody and hence, our school theme ‘OUR CREST’. </p>
