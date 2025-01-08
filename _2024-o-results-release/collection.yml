@@ -1,0 +1,5 @@
+collections:
+  2024-o-results-release:
+    output: true
+    order:
+      - 2024 O Results.md

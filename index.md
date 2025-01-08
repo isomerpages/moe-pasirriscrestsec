@@ -14,13 +14,9 @@ sections:
         - title: School Calendar
           description: ""
           url: /prcs-calendar/
-  - infopic:
-      title: Secondary 1 Registration Info
-      id: infopic
-      button: more information
-      url: /2025-secondary-1-registration/
-      alt: Image alt text
-      image: /images/Zoom_Background__coloured_.jpg
+        - title: Release of 2024 GCE O-Levels
+          description: ""
+          url: /release-of-gce-o-level-results/
   - resources:
       title: LATEST ANNOUNCEMENTS
       button: PREVIOUS ANNOUNCEMENTS
