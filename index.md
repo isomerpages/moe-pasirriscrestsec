@@ -14,13 +14,9 @@ sections:
         - title: School Calendar
           description: ""
           url: /prcs-calendar/
-  - infopic:
-      title: Secondary 1 Registration Info
-      id: infopic
-      button: more information
-      url: /2025-secondary-1-registration/
-      alt: Image alt text
-      image: /images/Zoom_Background__coloured_.jpg
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - resources:
       title: LATEST ANNOUNCEMENTS
       button: PREVIOUS ANNOUNCEMENTS
