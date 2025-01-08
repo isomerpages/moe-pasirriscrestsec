@@ -39,3 +39,7 @@ verification when collecting the results.
 more tips and resources for students, parents, and guardians.
 <br>
 <br>Thank you for your continued support and partnership.</p>
+<p><a href="/files/CWP/2025/1_resource_for_students.pdf" rel="noopener nofollow" target="_blank">1_Resource_for_Students.pdf</a>
+<br><a href="/files/CWP/2025/2_2025_JAE_Information_Sheet.pdf" rel="noopener nofollow" target="_blank">2_2025_JAE_Information_Sheet.pdf</a>
+<br><a href="/files/CWP/2025/3_guide_to_coursefinder_and_schoolfinder.pdf" rel="noopener nofollow" target="_blank">3_Guide_to_Coursefinder_and_Schoolfinder.pdf</a>
+</p>
