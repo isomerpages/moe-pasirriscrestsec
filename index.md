@@ -14,9 +14,9 @@ sections:
         - title: School Calendar
           description: ""
           url: /prcs-calendar/
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+        - title: Release of 2024 GCE O-Levels
+          description: ""
+          url: /release-of-gce-o-level-results/
   - resources:
       title: LATEST ANNOUNCEMENTS
       button: PREVIOUS ANNOUNCEMENTS
