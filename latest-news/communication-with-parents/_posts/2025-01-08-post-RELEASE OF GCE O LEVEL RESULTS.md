@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Dear Parents/Guardian,</p>
+<p>Dear Students, Parents, and Guardians,</p>
 <p></p>
 <p><strong>RELEASE OF GCE O-LEVEL RESULTS ON FRIDAY, 10 JANUARY 2025</strong>&nbsp;</p>
 <p>1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The results of
@@ -19,7 +19,7 @@ support seeing them through their education journey together with us.</p>
 <p><strong>Administrative Instructions on Results Release for School Candidates</strong>
 <br>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We encourage all
 students to return to PRCS on 10 January to collect their results. You
-may also accompany your teen/ward to school to collect their results.
+may also accompany your child/ward to school to collect their results.
 <br>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reporting Time: <strong>2.15 pm</strong>
 <br>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Venue: <strong>School Hall</strong>
 <br>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attire: <strong>Full School Uniform</strong>
@@ -29,11 +29,11 @@ uniform are not allowed.</p>
 <p><strong>Proxy Collection</strong>
 <br>3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you child/ward
 is unable to return to school on 10 January to collect his/her results,
-we appreciate if your child/ward informs his/her Home Tutor on the morning
+we appreciate if your child/ward inform his/her Home Tutor on the morning
 of 10 January for assistance. The family may appoint a proxy to collect
-a physical copy of results from the school with an authorization letter.
-Proxies are required to produce the relevant documents for the school’s
-verification when collecting the results.
+a physical copy of their results from the school with an authorization
+letter. Proxies are required to produce the relevant documents for the
+school’s verification when collecting the results.
 <br>
 <br>Please refer to links below for a message and information sheet that contains
 more tips and resources for students, parents, and guardians.

@@ -19,7 +19,7 @@ variant: markdown
 			<label for="accordion2">KEY PERSONNEL</label>
 			<div class="content hidecontent">
 			<div>
-				<img src="/images/Our%20Staff/2025_HOD.png"><br>
+				<img src="/images/Our%20Staff/2025_hod.png"><br>
 				<img src="/images/Our%20Staff/2025_YH.png"><br>
 				<img src="/images/Our%20Staff/2025_SH.png"><br>
 				<img src="/images/Our%20Staff/2025_ST.png"><br>
