@@ -17,6 +17,9 @@ sections:
         - title: Release of 2024 GCE O-Levels
           description: ""
           url: /release-of-gce-o-level-results/
+        - title: PDLP Service Center
+          description: ""
+          url: /change-in-lenovo-authorised-service-centre-for-pld/
   - infobar:
       title: Information for Term 1 WA 2025
       id: infobar
