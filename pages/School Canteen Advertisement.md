@@ -8,7 +8,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-|Chinese Cuisine (Noodle/Rice)|03 March 2025|Chinese Mixed Rice|
+|Chinese Cuisine (Noodle/Rice)|05 March 2025|Chinese Mixed Rice|
 
 
 **Application Procedure**
