@@ -21,11 +21,11 @@ sections:
           description: ""
           url: /change-in-lenovo-authorised-service-centre-for-pld/
   - infobar:
-      title: Information for Term 1 WA 2025
+      title: School Canteen Advertisement
       id: infobar
-      description: Click on the link below to access the information for Term 1 WA 2025.
+      description: Chinese Cuisine (Noodle/Rice)
       button: CLICK HERE
-      url: https://docs.google.com/spreadsheets/d/1NtpNX9w6HPocnKllo-rJXPEV-1Zd9xRe/edit?usp=sharing&ouid=103364077859940630975&rtpof=true&sd=true
+      url: /school-canteen-advertisement/
   - resources:
       title: LATEST ANNOUNCEMENTS
       button: PREVIOUS ANNOUNCEMENTS
