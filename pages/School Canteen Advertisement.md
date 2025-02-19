@@ -8,8 +8,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Food Stall | 12 Nov 2024 | Rice or noodle stalls are acceptable.|
-|Asia Cuisine (Non-Halal) | 12 Nov 2024 | Japanese or Korean etc|
+|Chinese Cuisine (Noodle/Rice)|03 March 2025|Chinese Mixed Rice|
 
 
 **Application Procedure**
