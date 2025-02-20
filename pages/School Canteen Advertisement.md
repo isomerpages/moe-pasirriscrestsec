@@ -31,7 +31,7 @@ variant: tiptap
 <p>05 March 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Mixed Rice</p>
+<p>Rice or noodle stalls are acceptable</p>
 </td>
 </tr>
 </tbody>
