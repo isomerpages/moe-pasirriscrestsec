@@ -28,7 +28,7 @@ variant: tiptap
 <p>Chinese Cuisine (Noodle/Rice)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>05 March 2025</p>
+<p>19 March 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rice or noodle stalls are acceptable</p>
