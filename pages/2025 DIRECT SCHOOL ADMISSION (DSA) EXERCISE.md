@@ -7,12 +7,12 @@ description: ""
 <p><strong><u>2025 DIRECT SCHOOL ADMISSION (DSA) EXERCISE</u></strong>
 </p>
 <p>We welcome Primary 6 students with talent in the areas of music and performing
-arts, communication/public speaking/journalism, mother tongue languages
+arts, communication/public speaking/journalism, mother tongue languages,
 fencing and leadership to apply to our school under the Direct School Admission
-(DSA) Exercise.&nbsp;&nbsp; Parents and students are encouraged to choose
-schools wisely based on the student’s aptitudes and strengths, bearing
-in mind the schools’ academic and non-academic requirements, and the programmes
-available to develop the area of talent.</p>
+(DSA) Exercise. Parents and students are encouraged to choose schools wisely
+based on the student’s aptitudes and strengths, bearing in mind the schools’
+academic and non-academic requirements, and the programmes available to
+develop the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for throughout their secondary
