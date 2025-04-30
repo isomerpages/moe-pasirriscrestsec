@@ -17,8 +17,6 @@ available to develop the area of talent.</p>
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for throughout their secondary
 school years.</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
 <p><strong>DIRECT SCHOOL ADMISSION</strong>
 </p>
 <p>Primary 6 students may seek Direct School Admission to PRCS in one of
@@ -46,8 +44,6 @@ the following areas:</p>
 <p>Leadership</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>ADMISSION CRITERIA FOR TALENT AREAS:</strong>
 </p>
 <p><strong>A) Basic Admission Criteria</strong>
@@ -58,11 +54,10 @@ the following areas:</p>
 <p>Very Good Conduct Grade</p>
 </li>
 <li>
-<p>Positive Personal Qualities</p>
+<p>Positive Personal Qualities<strong>&nbsp;</strong>
+</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>SPECIFIC CRITERIA FOR <u>MUSIC AND PERFORMING ARTS</u></strong>&nbsp;</summary>
