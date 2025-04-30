@@ -48,6 +48,6 @@ variant: markdown
     
 *   [SCMobile](http://scmobile.moe.edu.sg/)
     
-*   [Student Learning Space (SLS)](http://learning.moe.edu.sg/)
+*   [Student Learning Space (SLS)](http://vle.learning.moe.edu.sg/)
 *   [go.gov.sg (Link shortener & QR generator)](https://go.gov.sg/#/)
 *   [for.edu.sg (Link shortner & QR generator)](https://for.edu.sg/#/)
