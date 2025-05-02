@@ -20,6 +20,11 @@ sections:
         - title: PDLP Service Center
           description: ""
           url: /change-in-lenovo-authorised-service-centre-for-pld/
+  - infobar:
+      title: 2025 DSA EXERCISE
+      id: infobar
+      button: More information
+      url: /2025-direct-school-admission-dsa-exercise/
   - resources:
       title: LATEST ANNOUNCEMENTS
       button: PREVIOUS ANNOUNCEMENTS
