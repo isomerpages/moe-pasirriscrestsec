@@ -8,13 +8,13 @@ description: ""
 </p>
 <p>We welcome Primary 6 students with talent in the areas of music and performing
 arts, communication/public speaking/journalism, mother tongue languages,
-fencing and leadership to apply to our school under the Direct School Admission
-(DSA) Exercise. Parents and students are encouraged to choose schools wisely
-based on the student’s aptitudes and strengths, bearing in mind the schools’
-academic and non-academic requirements, and the programmes available to
-develop the area of talent.</p>
+leadership and fencing to apply to our school under the Direct School Admission
+(DSA) Exercise.&nbsp;&nbsp; Parents and students are encouraged to choose
+schools wisely based on the student’s aptitudes and strengths, bearing
+in mind the schools’ academic and non-academic requirements, and the programmes
+available to develop the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
-to honour their commitment to the school, and participate in the activities
+to honour their commitment to the school and participate in the activities
 related to the talent they are selected for throughout their secondary
 school years.</p>
 <p><strong>DIRECT SCHOOL ADMISSION</strong>
@@ -35,27 +35,25 @@ the following areas:</p>
 <p>Journalism</p>
 </li>
 <li>
-<p>Fencing</p>
-</li>
-<li>
 <p>Mother Tongue Languages</p>
 </li>
 <li>
 <p>Leadership</p>
 </li>
+<li>
+<p>Fencing</p>
+</li>
 </ul>
 <p><strong>ADMISSION CRITERIA FOR TALENT AREAS:</strong>
 </p>
 <p><strong>A) Basic Admission Criteria</strong>
-</p>
-<p>All applicants must have the following:</p>
+<br>All applicants must have the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Very Good Conduct Grade</p>
+<p>Very Good or Excellent Conduct Grade</p>
 </li>
 <li>
-<p>Positive Personal Qualities<strong>&nbsp;</strong>
-</p>
+<p>Positive Personal Qualities</p>
 </li>
 </ul>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
@@ -64,26 +62,15 @@ the following areas:</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>SPECIFIC CRITERIA FOR <u>MUSIC AND PERFORMING ARTS</u></strong>
 </p>
-<p>Applicants must demonstrate a passion for Music /Performing Arts and be
+<p>Applicants must demonstrate a passion for Music/Performing Arts and be
 committed to contribute to PRCS in this area for which they have been given
-DSA in one of the following DSA Talent Area:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Band - Concert (Girls/Boys)</p>
-</li>
-<li>
-<p>Choir (Girls/Boys)</p>
-</li>
-<li>
-<p>Modern Dance (Girls/Boys)</p>
-</li>
-<li>
-<p>Drama English (Girls/Boys)</p>
-</li>
-<li>
-<p>Ensemble - Guzheng (Girls/Boys)</p>
-</li>
-</ul>
+DSA in one of the following DSA Talent Areas:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Band - Concert</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Choir</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modern Dance</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Drama English</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ensemble - Guzheng</p>
+<p>&nbsp;</p>
 <p>Shortlisted applicants will be invited to go through a selection test
 as well as an interview.</p>
 <table style="minWidth: 50px">
@@ -105,32 +92,20 @@ as well as an interview.</p>
 <p>Music and Performing Arts</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Demonstrates a strong interest and aptitude in the arts and aesthetics</p>
-</li>
-<li>
-<p>School based or Public Performance Experience is an advantage.</p>
-</li>
-<li>
-<p>Does well in the selection exercise. The selection test involves an audition
-that serve to assess the following:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Music Aptitude</p>
-</li>
-<li>
-<p>Proficiency of specific musical abilities or skills</p>
-</li>
-</ul>
-</li>
-</ul>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrates a strong interest and
+aptitude in the arts and aesthetics</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School based or public performance
+experience is an advantage.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Does well in the selection exercise.
+The selection exercise involves an audition that serves to assess the following:</p>
+<p>o&nbsp;&nbsp; Music Aptitude</p>
+<p>o&nbsp;&nbsp; Proficiency of specific musical abilities or skills</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>Shortlisted applicants will be notified separately of the details of the
-selection test. For more details on the&nbsp;LLP, click&nbsp;<a href="https://sites.google.com/moe.edu.sg/prcss-llp" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+selection exercise.</p>
 </div>
 </details>
 </div>
@@ -163,38 +138,23 @@ to go through a selection exercise as well as an interview.</p>
 <p>Effective Communication</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Demonstrates strong communication skills (e.g. debates or drama)</p>
-</li>
-<li>
-<p>Competitions and performance experience are preferred.</p>
-</li>
-<li>
-<p>Does well in the selection exercise. The selection test involves an audition
-that serve to assess the applicant’s mastery of the following:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Clarity of message / idea communication</p>
-</li>
-<li>
-<p>Organisation of thoughts</p>
-</li>
-<li>
-<p>Balanced perspectives</p>
-</li>
-<li>
-<p>Adaptability to audience</p>
-</li>
-</ul>
-</li>
-</ul>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrates strong communication
+skills (e.g., debates).</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Competitions and performance experience
+is an advantage.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Does well in the selection exercise.
+The selection exercise involves an audition that serves to assess the following:</p>
+<p>o&nbsp;&nbsp; Clarity of message / idea communication</p>
+<p>o&nbsp;&nbsp; Organisation of thoughts</p>
+<p>o&nbsp;&nbsp; Balanced perspectives</p>
+<p>o&nbsp;&nbsp; Adaptability to audience</p>
+<p>o&nbsp;&nbsp; Confidence of engagement</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>Shortlisted applicants will be notified separately of the details of the
-selection test. For more details on the ALP, click&nbsp;<a href="https://sites.google.com/moe.edu.sg/prcss-alp" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+selection exercise.</p>
 </div>
 </details>
 </div>
@@ -207,7 +167,7 @@ selection test. For more details on the ALP, click&nbsp;<a href="https://sites.g
 <p>Applicants must demonstrate a passion for public speaking related programmes
 /competitions and be committed to contributing to PRCS in the area for
 which they have been given DSA. Shortlisted applicants will be invited
-to go through a selection exercise<u> </u>as well as an interview.&nbsp;</p>
+to go through a selection exercise as well as an interview.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -224,44 +184,26 @@ to go through a selection exercise<u> </u>as well as an interview.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Effective Communication</p>
+<p>Public Speaking</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Demonstrates strong public speaking skills</p>
-</li>
-<li>
-<p>Competitions and performance experience are preferred.</p>
-</li>
-<li>
-<p>Does well in the selection exercise . The selection test involves an audition
-that serve to assess the applicant’s mastery of the following:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Confidence and presence</p>
-</li>
-<li>
-<p>Vocal Modulation</p>
-</li>
-<li>
-<p>Clarity</p>
-</li>
-<li>
-<p>Fluency</p>
-</li>
-<li>
-<p>Audience engagement</p>
-</li>
-</ul>
-</li>
-</ul>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrates strong public speaking
+skills.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Competitions and performance experience
+is an advantage.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Does well in the selection exercise.
+The selection test involves an audition that serve to assess the following:</p>
+<p>o&nbsp;&nbsp; Confidence and presence</p>
+<p>o&nbsp;&nbsp; Vocal Modulation</p>
+<p>o&nbsp;&nbsp; Clarity</p>
+<p>o&nbsp;&nbsp; Fluency</p>
+<p>o&nbsp;&nbsp; Audience engagement</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>Shortlisted applicants will be notified separately of the details of the
-selection test. For more details on the ALP, click&nbsp;<a href="https://sites.google.com/moe.edu.sg/prcss-alp" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+selection exercise.</p>
 </div>
 </details>
 </div>
@@ -274,72 +216,6 @@ selection test. For more details on the ALP, click&nbsp;<a href="https://sites.g
 <p>Applicants must demonstrate a passion for journalism (written/spoken)
 related programmes /competitions and be committed to contributing to PRCS
 in the area for which they have been given DSA. Shortlisted applicants
-will be invited to go through a selection exercise<u> </u>as well as an
-interview.&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Area</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Criteria</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Effective Communication</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Demonstrates strong reporting and/or writing skills</p>
-</li>
-<li>
-<p>Competitions and performance experience are preferred.</p>
-</li>
-<li>
-<p>Does well in the selection exercise. The selection test involves an audition
-that serve to assess the applicant’s mastery of the following:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Clarity of message / in communication of ideas</p>
-</li>
-<li>
-<p>Conciseness</p>
-</li>
-<li>
-<p>Balanced perspectives</p>
-</li>
-<li>
-<p>Diverse and appropriate choice of words</p>
-</li>
-</ul>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Shortlisted applicants will be notified separately of the details of the
-selection test. For more details on the &nbsp;ALP, click&nbsp;<a href="https://sites.google.com/moe.edu.sg/prcss-alp" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>SPECIFIC CRITERIA FOR <u>FENCING</u></strong>&nbsp;</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>SPECIFC CRITERIA FOR <u>FENCING</u></strong>
-</p>
-<p>Applicants must demonstrate a passion for sports and be committed to contributing
-to PRCS in this area for which they have been given DSA. Shortlisted applicants
 will be invited to go through a selection exercise as well as an interview.</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -357,28 +233,34 @@ will be invited to go through a selection exercise as well as an interview.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fencing</p>
+<p>Journalism</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Demonstrates strong interest and notable athletic ability and agility
-for their age.</p>
-</li>
-<li>
-<p>Good performance at the school and/ or club level in sports.</p>
-</li>
-<li>
-<p>Does well in the selection exercise. The selection exercise serves to
-assess the physical qualities of applicants.</p>
-</li>
-</ul>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrates strong reporting and
+writing skills.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Competitions and performance experience
+is an advantage.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Does well in the selection exercise.
+The selection exercise involves an audition that serves to assess the following:</p>
+<p>o&nbsp;&nbsp; Clarity of message / in communication of ideas</p>
+<p>o&nbsp;&nbsp; Conciseness</p>
+<p>o&nbsp;&nbsp; Balanced perspectives</p>
+<p>o&nbsp;&nbsp; Diverse and appropriate choice of words</p>
+<p>o&nbsp;&nbsp; Analytical and critical thinking</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Shortlisted applicants will be notified separately of the details of the selection test.</strong>
-</p>
+<p>Shortlisted applicants will be notified separately of the details of the
+selection exercise.</p>
 </div>
 </details>
 </div>
@@ -408,41 +290,22 @@ will be invited to go through a selection exercise as well as an interview.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Effective Communication</p>
+<p>Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Strengths in Mother Tongue Language (Chinese Language, Malay Language
-or Tamil Language)</p>
-</li>
-<li>
-<p>Demonstrates strong communication skills (e.g. public speaking, debates
-or drama).</p>
-</li>
-<li>
-<p>Competitions and performance experience are preferred.</p>
-</li>
-<li>
-<p>Does well in the selection exercise. The selection exercise involves an
-audition that serve to assess the applicant’s mastery of the following:</p>
-</li>
-<li>
-<p>Confidence and Presence</p>
-</li>
-<li>
-<p>Clarity</p>
-</li>
-<li>
-<p>Fluency</p>
-</li>
-<li>
-<p>Diverse and appropriate vocabulary</p>
-</li>
-<li>
-<p>Audience engagement</p>
-</li>
-</ul>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strengths in Mother Tongue Language
+(Chinese Language, Malay Language or Tamil Language)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrates strong communication
+skills (e.g. public speaking, debates or drama).</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Competitions and performance experience
+is an advantage.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Does well in the selection exercise.
+The selection exercise involves an audition that serves to assess the following:</p>
+<p>o&nbsp;&nbsp; Confidence and Presence</p>
+<p>o&nbsp;&nbsp; Clarity</p>
+<p>o&nbsp;&nbsp; Fluency</p>
+<p>o&nbsp;&nbsp; Diverse and appropriate vocabulary</p>
+<p>o&nbsp;&nbsp; Audience engagement</p>
 </td>
 </tr>
 </tbody>
@@ -483,25 +346,69 @@ will be invited to go through a selection exercise as well as an interview.</p>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrates exemplary character,
 and a keen interest in leading their peers in service to school and/or
-community</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Holds leadership position in Primary
-School, e.g., Prefect, CCA Leader, Peer Support Leader, or other leadership
-positions (please specify)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Is actively involved in leading
-school-wide events or community initiatives (please specify)</p>
+community.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leadership experience in Primary
+School is an advantage, e.g., Prefect, CCA Leader, Peer Support Leader,
+or other leadership positions (please specify).</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Active involvement in leading school-wide
+events or community initiatives is an advantage (please specify).</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Does well in the group interview
 and leadership simulation exercise. The simulation exercise serves to assess
-the following skills:</p>
+the following:</p>
 <p>o&nbsp;&nbsp; Critical, adaptive and inventive thinking (e.g., demonstrated
-through problem-solving, resourcefulness, agility and decision-making)</p>
+through problem-solving, resourcefulness, agility in decision-making, adaptability
+to changing/different circumstances)</p>
 <p>o&nbsp;&nbsp; Communication skills</p>
 <p>o&nbsp;&nbsp; Collaborative skills</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Shortlisted applicants will be notified separately of the details of interview
-and simulation exercise.</p>
+<p>Shortlisted applicants will be notified separately of the details of the
+simulation exercise.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>SPECIFIC CRITERIA FOR <u>FENCING</u></strong>&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>SPECIFIC CRITERIA FOR <u>FENCING</u></strong>
+</p>
+<p>Applicants must demonstrate a passion for sports and be committed to contributing
+to PRCS in this area for which they have been given DSA. Shortlisted applicants
+will be invited to go through a selection exercise as well as an interview.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Area</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Criteria</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fencing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrates strong interest and
+notable athletic ability and agility for their age.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good performance at the school and/or
+club level in sports is an advantage.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Does well in the selection exercise.
+The selection exercise serves to assess the physical qualities of applicants.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Shortlisted applicants will be notified separately of the details of the
+selection exercise.</p>
 </div>
 </details>
 </div>
