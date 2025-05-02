@@ -21,7 +21,7 @@ sections:
           description: ""
           url: /change-in-lenovo-authorised-service-centre-for-pld/
   - infobar:
-      title: 2025 DSA EXERCISE
+      title: 2025 PRCSS DSA EXERCISE
       id: infobar
       button: More information
       url: /2025-direct-school-admission-dsa-exercise/
