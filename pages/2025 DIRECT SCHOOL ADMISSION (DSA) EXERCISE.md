@@ -17,6 +17,68 @@ available to develop the area of talent.</p>
 to honour their commitment to the school and participate in the activities
 related to the talent they are selected for throughout their secondary
 school years.</p>
+<p>Applicants who do not have prior experience may also apply. The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of the applicants.</p>
+<p><strong>Application</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from 7 May 2025, 11am
+to 3 June 2025, 3pm.</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>For more details, please refer to MOE Website:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Applicants are required to login to the MOE Centralised DSA-SEC Portal
+to apply for the school’s identified talent area/s.</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Applicants&nbsp;NOT&nbsp;studying in MOE mainstream primary schools would
+need to obtain a Registration Number at MOE DSA-Sec website:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+</p>
+</li>
+</ul>
+<p>Applicants shortlisted for interview and selection test would receive
+a notification from Pasir Ris Crest Secondary School to undergo Direct
+School Admission (DSA) selection.&nbsp;All applicants will receive their
+application outcomes between 25 Aug and 4 Sep 2025.</p>
+<p>All communication will be made via email to the email address that is
+indicated in the online DSA-Sec Portal. Please ensure that the email address
+provided is accurate and that the email address is accessed actively during
+this period.</p>
+<p><strong>Essential Information</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Parents may refer to the selection guidelines stated below in the DSA
+application. However, meeting all the criteria does not guarantee the student
+will be shortlisted/given an offer.</p>
+</li>
+<li>
+<p>The school’s decision of the DSA-Sec application is final.</p>
+</li>
+<li>
+<p>The school reserves the right not to disclose the reasons for the non-selection
+of applicants.</p>
+</li>
+<li>
+<p>Successful DSA-Sec candidates who took PSLE are&nbsp;<strong>NOT</strong>&nbsp;allowed
+to participate in the annual Secondary One (S1) Posting Exercise. However,
+if they are eligible for third language and/or course options, they may
+enter these options during the S1 Option Submission period.</p>
+<p></p>
+</li>
+</ol>
 <p><strong>DIRECT SCHOOL ADMISSION</strong>
 </p>
 <p>Primary 6 students may seek Direct School Admission to PRCS in one of
