@@ -383,10 +383,11 @@ selection exercise.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>SPECIFIC CRITERIA FOR <u>LEADERSHIP</u></strong>
 </p>
-<p>Applicants must demonstrate in leading their peers in service to school
-and/or community and be committed to contribute to PRCS in the talent area
-for which they have been assigned under the DSA. Shortlisted applicants
-will be invited to go through a selection exercise as well as an interview.</p>
+<p>Applicants must demonstrate passion in leading their peers in service
+to school and/or community and be committed to contribute to PRCS in the
+talent area for which they have been assigned under the DSA. Shortlisted
+applicants will be invited to go through a selection exercise as well as
+an interview.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
