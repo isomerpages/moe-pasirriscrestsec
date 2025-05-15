@@ -46,10 +46,8 @@ description: ""
     <li>Positive Personal Qualities</li>
 </ul>
 
-<h3>Specific Criteria</h3>
-
 <details>
-  <summary>SPECIFIC CRITERIA FOR MUSIC AND PERFORMING ARTS</summary>
+  <summary><h4>SPECIFIC CRITERIA FOR MUSIC AND PERFORMING ARTS</h4></summary>
   <p>Applicants must demonstrate a passion for Music/Performing Arts and be committed to contribute to PRCS in this area for which they have been given DSA in one of the following DSA Talent Areas:</p>
   <ul>
       <li>Band - Concert</li>
