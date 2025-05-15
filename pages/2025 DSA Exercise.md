@@ -86,7 +86,7 @@ description: ""
 </details>
 
 <details>
-  <summary>SPECIFIC CRITERIA FOR EFFECTIVE COMMUNICATION</summary>
+  <summary><h4>SPECIFIC CRITERIA FOR EFFECTIVE COMMUNICATION</h4></summary>
   <p>Applicants must demonstrate a passion for communication related programmes /competitions and be committed to contributing to PRCS in the area for which they have been given DSA. Shortlisted applicants will be invited to go through a selection exercise as well as an interview.</p>
   <table>
       <thead>
@@ -120,7 +120,7 @@ description: ""
 </details>
 
 <details>
-  <summary>SPECIFIC CRITERIA FOR PUBLIC SPEAKING</summary>
+  <summary><h4>SPECIFIC CRITERIA FOR PUBLIC SPEAKING</h4></summary>
   <p>Applicants must demonstrate a passion for public speaking related programmes /competitions and be committed to contributing to PRCS in the area for which they have been given DSA. Shortlisted applicants will be invited to go through a selection exercise as well as an interview.</p>
   <table>
       <thead>
@@ -154,7 +154,7 @@ description: ""
 </details>
 
 <details>
-  <summary>SPECIFIC CRITERIA FOR JOURNALISM</summary>
+  <summary><h4>SPECIFIC CRITERIA FOR JOURNALISM</h4></summary>
   <p>Applicants must demonstrate a passion for journalism (written/spoken) related programmes /competitions and be committed to contributing to PRCS in the area for which they have been given DSA. Shortlisted applicants will be invited to go through a selection exercise as well as an interview.</p>
   <table>
       <thead>
@@ -188,7 +188,7 @@ description: ""
 </details>
 
 <details>
-  <summary>SPECIFIC CRITERIA FOR MOTHER TONGUE LANGUAGES</summary>
+  <summary><h4>SPECIFIC CRITERIA FOR MOTHER TONGUE LANGUAGES</h4></summary>
   <p>Applicants must demonstrate a passion for communication related programmes /competitions and be committed to contribute to PRCS in the talent area for which they have been assigned under the DSA. Shortlisted applicants will be invited to go through a selection exercise as well as an interview.</p>
   <table>
       <thead>
@@ -223,7 +223,7 @@ description: ""
 </details>
 
 <details>
-  <summary>SPECIFIC CRITERIA FOR LEADERSHIP</summary>
+  <summary><h4>SPECIFIC CRITERIA FOR LEADERSHIP</h4></summary>
   <p>Applicants must demonstrate passion in leading their peers in service to school and/or community and be committed to contribute to PRCS in the talent area for which they have been assigned under the DSA. Shortlisted applicants will be invited to go through a selection exercise as well as an interview.</p>
   <table>
       <thead>
@@ -256,7 +256,7 @@ description: ""
 </details>
 
 <details>
-  <summary>SPECIFIC CRITERIA FOR FENCING</summary>
+  <summary><h4>SPECIFIC CRITERIA FOR FENCING</h4></summary>
   <p>Applicants must demonstrate a passion for sports and be committed to contributing to PRCS in this area for which they have been given DSA. Shortlisted applicants will be invited to go through a selection exercise as well as an interview.</p>
   <table>
       <thead>
