@@ -84,7 +84,7 @@ description: ""
   </table>
   <p>Shortlisted applicants will be notified separately of the details of the selection exercise.</p>
 </details>
-
+<br>
 <details>
   <summary><h4>SPECIFIC CRITERIA FOR EFFECTIVE COMMUNICATION</h4></summary>
   <p>Applicants must demonstrate a passion for communication related programmes /competitions and be committed to contributing to PRCS in the area for which they have been given DSA. Shortlisted applicants will be invited to go through a selection exercise as well as an interview.</p>
@@ -118,7 +118,7 @@ description: ""
   </table>
   <p>Shortlisted applicants will be notified separately of the details of the selection exercise.</p>
 </details>
-
+<br>
 <details>
   <summary><h4>SPECIFIC CRITERIA FOR PUBLIC SPEAKING</h4></summary>
   <p>Applicants must demonstrate a passion for public speaking related programmes /competitions and be committed to contributing to PRCS in the area for which they have been given DSA. Shortlisted applicants will be invited to go through a selection exercise as well as an interview.</p>
@@ -152,7 +152,7 @@ description: ""
   </table>
   <p>Shortlisted applicants will be notified separately of the details of the selection exercise.</p>
 </details>
-
+<br>
 <details>
   <summary><h4>SPECIFIC CRITERIA FOR JOURNALISM</h4></summary>
   <p>Applicants must demonstrate a passion for journalism (written/spoken) related programmes /competitions and be committed to contributing to PRCS in the area for which they have been given DSA. Shortlisted applicants will be invited to go through a selection exercise as well as an interview.</p>
@@ -186,7 +186,7 @@ description: ""
   </table>
   <p>Shortlisted applicants will be notified separately of the details of the selection exercise.</p>
 </details>
-
+<br>
 <details>
   <summary><h4>SPECIFIC CRITERIA FOR MOTHER TONGUE LANGUAGES</h4></summary>
   <p>Applicants must demonstrate a passion for communication related programmes /competitions and be committed to contribute to PRCS in the talent area for which they have been assigned under the DSA. Shortlisted applicants will be invited to go through a selection exercise as well as an interview.</p>
@@ -221,7 +221,7 @@ description: ""
   </table>
   <p>Shortlisted applicants will be notified separately of the details of the selection exercise.</p>
 </details>
-
+<br>
 <details>
   <summary><h4>SPECIFIC CRITERIA FOR LEADERSHIP</h4></summary>
   <p>Applicants must demonstrate passion in leading their peers in service to school and/or community and be committed to contribute to PRCS in the talent area for which they have been assigned under the DSA. Shortlisted applicants will be invited to go through a selection exercise as well as an interview.</p>
@@ -254,7 +254,7 @@ description: ""
   </table>
   <p>Shortlisted applicants will be notified separately of the details of the simulation exercise.</p>
 </details>
-
+<br>
 <details>
   <summary><h4>SPECIFIC CRITERIA FOR FENCING</h4></summary>
   <p>Applicants must demonstrate a passion for sports and be committed to contributing to PRCS in this area for which they have been given DSA. Shortlisted applicants will be invited to go through a selection exercise as well as an interview.</p>
@@ -280,3 +280,4 @@ description: ""
   </table>
   <p>Shortlisted applicants will be notified separately of the details of the selection exercise.</p>
 </details>
+<br>
