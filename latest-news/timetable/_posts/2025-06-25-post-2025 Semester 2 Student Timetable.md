@@ -10,6 +10,6 @@ variant: tiptap
 <p>Dear Crestians/Parents/Guardians,</p>
 <p>Please click on the link below to access the class timetable for Semester
 2 2025.</p>
-<p></p>
-<p><strong><a href="/files/Timetable_Announcement/2025/2025_Sem2_Classes_Timetable__Student_Ver___24_06_2025_.pdf" rel="noopener nofollow" target="_blank">Click Here</a></strong>
+<p><strong><a href="/files/Timetable_Announcement/2025/2025_Sem2_Classes_TT_26_06_2025_.pdf" rel="noopener nofollow" target="_blank">Click Here</a></strong>
 </p>
+<p></p>
