@@ -17,7 +17,7 @@ By spurring our students to take greater ownership of their learning and work co
 <h4>SYSTEM REQUIREMENTS</h4>
 <p>The SLS is accessible through the internet browsers on either Windows PC, Mac, iPad or Android tablets (with screen size larger than 7 inches for good user experience).</p>
 <h4>LOGIN</h4>
-<p>SLS can be accessed from <a href="https://learning.moe.edu.sg">https://learning.moe.edu.sg/</a>.</p>
+<p>SLS can be accessed from <a href="https://vle.learning.moe.edu.sg/login">https://vle.learning.moe.edu.sg/login</a>.</p>
 <img src="/images/Our Staff/SLS_Student_Login.png"><br>
 
 <h4>PASSWORD</h4>
