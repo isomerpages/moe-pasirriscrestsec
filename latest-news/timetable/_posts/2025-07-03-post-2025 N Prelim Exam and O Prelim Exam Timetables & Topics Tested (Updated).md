@@ -19,9 +19,5 @@ variant: tiptap
 8th July 2025)
 <br><strong><a href="https://docs.google.com/document/d/1IA_FGYxMbDyuSzhmM-UZxHcYCZJPw2cg/edit?usp=sharing&amp;ouid=107822012695954277864&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">O-Levels</a></strong> (Updated
 8th July 2025)</p>
-<p></p>
-<p>For 2025 Term 3 Weighted Assessment Schedule &amp; Topics tested,</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://docs.google.com/spreadsheets/d/1KaQuYBg0VtRQk7Cu0697-tLajniqVBVP/edit?usp=sharing&amp;ouid=107822012695954277864&amp;rtpof=true&amp;sd=true</a>
-</p>
 <p>
 <br>Thank you</p>
