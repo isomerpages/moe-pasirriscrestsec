@@ -23,8 +23,5 @@ variant: tiptap
 <p>For 2025 Term 3 Weighted Assessment Schedule &amp; Topics tested,</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://docs.google.com/spreadsheets/d/1KaQuYBg0VtRQk7Cu0697-tLajniqVBVP/edit?usp=sharing&amp;ouid=107822012695954277864&amp;rtpof=true&amp;sd=true</a>
 </p>
-<p>&nbsp;</p>
-<p>For 2025 N Prelim Exam and O Prelim Exam Timetables &amp; Topics tested,</p>
-<p></p>
 <p>
 <br>Thank you</p>
