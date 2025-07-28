@@ -28,7 +28,7 @@ variant: tiptap
 <p>Asia Cuisine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>08 August 2025</p>
+<p>15 August 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rice/Noodles</p>
