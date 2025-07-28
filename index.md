@@ -20,6 +20,11 @@ sections:
         - title: PDLP Service Center
           description: ""
           url: /change-in-lenovo-authorised-service-centre-for-pld/
+  - infobar:
+      title: School Canteen Advertisement
+      id: infobar
+      button: Click for more information
+      url: /school-canteen-advertisement/
   - resources:
       title: LATEST ANNOUNCEMENTS
       button: PREVIOUS ANNOUNCEMENTS
