@@ -86,10 +86,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr. Teo Li Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Member</p>
 </td>
 </tr>
 </tbody>
@@ -103,6 +103,7 @@ variant: tiptap
 Mr Law Hean Dean, SAC Vice Chairman Ms Agnes Eu, School Principal Mrs Koh
 Caiyu
 <br>
-<br>Not in picture: SAC Members Dr Stephen Lee, Ms Gracie Lee, Mr Andy Tan
+<br>Not in picture: SAC Members Dr Stephen Lee, Ms Gracie Lee, Mr Andy Tan,
+Mr. Teo Li Wei
 <br>
 </p>
