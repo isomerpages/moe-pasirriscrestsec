@@ -4,7 +4,7 @@ permalink: /support/financial-assistance/
 description: ""
 variant: tiptap
 ---
-<h3>Financial Assistance</h3>
+<h3><strong>Financial Assistance</strong></h3>
 <hr>
 <h4><strong>1. NORTH EAST CDC ASSISTANCE SCHEME</strong></h4>
 <blockquote>
