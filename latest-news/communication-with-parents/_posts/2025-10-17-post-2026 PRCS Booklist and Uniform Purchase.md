@@ -10,7 +10,7 @@ variant: tiptap
 <p>Dear Crestians/Parents/Guardians,</p>
 <p>The following for your information:</p>
 <hr>
-<h3><strong>1. Booklist and Bookshop Vendor</strong></h3>
+<h4><strong>1. Booklist and Bookshop Vendor</strong></h4>
 <blockquote>
 <p>Vendor Name: <a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">Pacific Bookstores</a>
 <br>Online Purchase Guide - PRCSS - Bookshop (Coming Soon)</p>
@@ -25,7 +25,7 @@ variant: tiptap
 <p>*Only Male Students are to purchase the Tie from the Bookshop</p>
 </blockquote>
 <hr>
-<h3><strong>2. Uniform Vendor</strong></h3>
+<h4><strong>2. Uniform Vendor</strong></h4>
 <blockquote>
 <p>Uniform Vendor: <strong><a href="https://asencio.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Asencio</a></strong>
 <br><a href="/files/Booklist/2026/Pasir_Ris_Crest_Secondary_School_online_ordering_guide___08102025.pdf" rel="noopener noreferrer nofollow" target="_blank">Online Purchase Guide - PRCSS - Uniform</a>
