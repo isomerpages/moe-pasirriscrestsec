@@ -4,8 +4,9 @@ permalink: /support/financial-assistance/
 description: ""
 variant: tiptap
 ---
-<h1>Financial Assistance</h1>
-<h3><strong>1. NORTH EAST CDC ASSISTANCE SCHEME</strong></h3>
+<h3>Financial Assistance</h3>
+<hr>
+<h4><strong>1. NORTH EAST CDC ASSISTANCE SCHEME</strong></h4>
 <blockquote>
 <p>Dear Crestians and Parents /Guardians,
 <br>
@@ -15,7 +16,7 @@ variant: tiptap
 <br>Thank you</p>
 </blockquote>
 <hr>
-<h3><strong>2. HOME ACCESS PROGRAMME</strong></h3>
+<h4><strong>2. HOME ACCESS PROGRAMME</strong></h4>
 <blockquote>
 <p>Dear Crestians and Parents /Guardians,
 <br>
@@ -37,7 +38,7 @@ call <strong>6377 3800</strong>.</p>
 </ul>
 </blockquote>
 <hr>
-<h3><strong>3. MOE FINANCIAL ASSISTANCE SCHEME</strong></h3>
+<h4><strong>3. MOE FINANCIAL ASSISTANCE SCHEME</strong></h4>
 <blockquote>
 <p>Dear Crestians and Parents /Guardians,</p>
 <p>Applications for financial assistance 2026 will start from Tuesday, 21
