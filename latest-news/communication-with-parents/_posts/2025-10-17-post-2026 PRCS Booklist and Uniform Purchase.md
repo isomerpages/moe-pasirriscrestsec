@@ -13,14 +13,14 @@ variant: tiptap
 <h4><strong>1. Booklist and Bookshop Vendor</strong></h4>
 <blockquote>
 <p>Vendor Name: <a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">Pacific Bookstores</a>
-<br>Online Purchase Guide - PRCSS - Bookshop (Coming Soon)</p>
-<p></p>
+<br>Online Purchase Guide for Bookshop - PRCSS - <a href="/files/Booklist/2026/PRCSS___PACIFIC_BOOKSTORES_Purchase_Information_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a> (Updated
+- 22/10/2025)</p>
 <p>The following are the Booklist forms for the respective levels:
 <br>1. <a href="/files/Booklist/2026/SEC_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
 <br>2. <a href="/files/Booklist/2026/SEC_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
 <br>3. <a href="/files/Booklist/2026/SEC_3_WITHOUT_CPA.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a> (Updated
-no CPA)</p>
-<p>4. <a href="/files/Booklist/2026/SEC_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a>
+- 22/10/2025)
+<br>4. <a href="/files/Booklist/2026/SEC_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a>
 <br>5. <a href="/files/Booklist/2026/SEC_5__NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5</a>
 </p>
 <p>*Only Male Students are to purchase the Tie from the Bookshop</p>
