@@ -10,6 +10,7 @@ variant: tiptap
 <p>Dear Crestians/Parents/Guardians,</p>
 <p>Please click on the respective links below to access the Secondary 3 Preparatory
 Programme.</p>
-<p>Time Tables: <strong><a href="/files/Timetable_Announcement/2025/for_circulation__prep_prog_class_timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a><br></strong>
-</p>
+<p>Time Tables: <strong><a href="/files/Timetable_Announcement/2025/for_circulation__prep_prog_class_timetable_20251022.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a></strong> (Updated
+- 22/10/2025)</p>
+<p></p>
 <p>Thank you</p>
