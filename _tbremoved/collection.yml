@@ -1,0 +1,4 @@
+collections:
+  tbremoved:
+    output: true
+    order: []
