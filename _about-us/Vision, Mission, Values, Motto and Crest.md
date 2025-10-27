@@ -19,7 +19,7 @@ to be the pride of family, community and nation.</p>
 <h4><strong>CREST:</strong></h4>
 <blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/prcs school logo.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/prcs school logo.png">
 </div>
 <p>The school crest pays homage to the word ‘Crest’, which is part of the
 school’s name due to its location on an elevated part of the Pasir Ris
