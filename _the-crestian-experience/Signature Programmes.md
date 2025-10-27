@@ -57,7 +57,10 @@ not restricted to the confines of the classroom. Click&nbsp;<a href="https://sit
 find out more about our ELP.</p>
 <hr>
 <h4><strong>Leadership Development</strong></h4>
-<p>
-<br>[](/images/Header%20Picture%20Google%20Sites/Leadership_Dev.jpeg)</p>
-<p>Click [here](<a href="https://sites.google.com/moe.edu.sg/prcss-leadership/" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/prcss-leadership/</a>)
-to find out more about the Leadership Development.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Header%20Picture%20Google%20Sites/Leadership_Dev.jpeg">
+</div>
+<p>Click <a href="https://sites.google.com/moe.edu.sg/prcss-leadership/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+find out more about the Leadership Development.</p>
+<hr>
+<p></p>
