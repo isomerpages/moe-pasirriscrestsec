@@ -2,8 +2,8 @@ collections:
   the-crestian-experience:
     output: true
     order:
-      - Talent Development Programme.md
       - 21st Century Competencies Development.md
+      - Talent Development Programme.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
       - Leadership Development.md
