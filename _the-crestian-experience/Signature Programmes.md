@@ -56,4 +56,8 @@ and motivating learning experiences for students in authentic environments
 not restricted to the confines of the classroom. Click&nbsp;<a href="https://sites.google.com/moe.edu.sg/prcss-elp/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 find out more about our ELP.</p>
 <hr>
-<p></p>
+<h4><strong>Leadership Development</strong></h4>
+<p>
+<br>[](/images/Header%20Picture%20Google%20Sites/Leadership_Dev.jpeg)</p>
+<p>Click [here](<a href="https://sites.google.com/moe.edu.sg/prcss-leadership/" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/prcss-leadership/</a>)
+to find out more about the Leadership Development.</p>
