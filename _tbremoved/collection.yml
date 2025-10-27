@@ -2,6 +2,7 @@ collections:
   tbremoved:
     output: true
     order:
+      - Leadership Development.md
       - Start It Right Programme.md
       - Experiential Learning Programme.md
       - Learning for Life Programme.md
