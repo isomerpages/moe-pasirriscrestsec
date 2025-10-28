@@ -11,34 +11,21 @@ to drive their own learning according to their needs and interests.
 <br>
 <br>By spurring our students to take greater ownership of their learning and
 work collaboratively with their peers, the SLS aims to support them towards
-becoming responsible future-ready learners.
-<br>
-</p>
+becoming responsible future-ready learners.</p>
 <p>Click <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-access the Student Learning Space (SLS) portal.
-<br>
-</p>
+access the Student Learning Space (SLS) portal.</p>
 <p>For Sec 1 students, click <a href="/files/sls%20account%20management%20-%20guide%20for%20sec%201%20students.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 access the Guide to SLS Account Management.</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>What is SLS?</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<blockquote>
+<hr>
+<h3>What is SLS?</h3>
 <p>Click to <a href="https://www.youtube.com/watch?v=F0FTP2FveSg&amp;feature=youtu.be" rel="noopener noreferrer nofollow" target="_blank">watch the video.</a>
 </p>
-</blockquote>
-</div>
-</details>
-<details class="isomer-details">
-<summary>INSTRUCTIONS FOR STUDENTS</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<blockquote>
+<hr>
+<h3>INSTRUCTIONS FOR STUDENTS</h3>
 <h4>SYSTEM REQUIREMENTS</h4>
 <p>The SLS is accessible through the internet browsers on either Windows
 PC, Mac, iPad or Android tablets (with screen size larger than 7 inches
 for good user experience).</p>
-<p></p>
 <h4>LOGIN</h4>
 <p>SLS can be accessed from <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>.</p>
 <div class="isomer-image-wrapper">
@@ -56,7 +43,6 @@ for good user experience).</p>
 </li>
 </ul>
 <p>SLS will prompt you for a change in password every 90 days.</p>
-<p></p>
 <h4>RESETTING PASSWORD</h4>
 <p>If you have forgotten your password, you can reset it through the following
 methods:</p>
@@ -71,13 +57,8 @@ methods:</p>
 <p>request any of your subject teachers for help.</p>
 </li>
 </ol>
-</blockquote>
-</div>
-</details>
-<details class="isomer-details">
-<summary>FREQUENTLY ASKED QUESTIONS</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<blockquote>
+<hr>
+<h4>FREQUENTLY ASKED QUESTIONS</h4>
 <p><strong>Q1: My account has been locked. What should I do? </strong>
 <br>Your account will be locked after 6 consecutive attempts to log in with
 an incorrect password. Please call the SLS Helpdesk at 6702 6513 to unlock
@@ -107,22 +88,19 @@ again.</p>
 </li>
 <li>
 <p>Android tablet with Android 5 and later.</p>
-<p></p>
 </li>
-</ul>
+<li>
 <p>SLS is accessible through the latest internet browsers (minimum: Internet
 Explorer 11, Google Chrome 51, FireFox 51 or Safari 7.1).</p>
 <p></p>
+</li>
+</ul>
 <p><strong>Q4 : Can SLS run on mobile phones?</strong> 
 <br>You can access SLS from internet browsers installed on your mobile phones
 or equivalent devices. However, the system is currently not optimised for
 use on these devices.</p>
-</blockquote>
-</div>
-</details>
-</div>
 <hr>
-<h1>SLS SUPPORT</h1>
+<h1><strong>SLS SUPPORT</strong></h1>
 <h4>School Operating Hours</h4>
 <p>During school operating hours, students should contact the <strong><u>School-based Helpline</u></strong> for
 SLS queries including all SLS access matters such as password reset and
@@ -141,3 +119,5 @@ the school operating hours.
 <br>Alternatively, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a>.
 When emailing the SLS Helpdesk, they should include their full name, name
 of school and form class.</p>
+<hr>
+<p></p>
