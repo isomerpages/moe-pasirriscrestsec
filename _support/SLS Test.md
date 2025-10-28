@@ -53,3 +53,16 @@ By spurring our students to take greater ownership of their learning and work co
 </ul>
 <p>SLS is accessible through the latest internet browsers (minimum: Internet Explorer 11, Google Chrome 51, FireFox 51 or Safari 7.1).</p>
 <p><strong>Q4 : Can SLS run on mobile phones?</strong> <br>You can access SLS from internet browsers installed on your mobile phones or equivalent devices. However, the system is currently not optimised for use on these devices.</p></div>
+
+<h1>SLS SUPPORT</h1>
+<div>
+<h4>School Operating Hours</h4>
+<p>During school operating hours, students should contact the <strong><u>School-based Helpline</u></strong> for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.</p>
+<p><strong>School-based Helpline: 6581 1655 (ext. 104 or 105) <br>
+Mondays - Fridays: 8:00 am - 4:00 pm </strong></p>
+<p>For other matters, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.</p>
+	
+<h4>Non-School Operating Hours</h4>
+<p>Students can only contact the <u><strong>SLS Helpdesk</strong></u> outside the school operating hours.<br>
+<strong>SLS Helpdesk: 6702 6513<br>Mondays - Fridays: 4:00 pm - 9:00 pm<br>Saturdays: 9:00 am - 9:00 pm</strong><br><sub>*Closed on Sundays &amp; Public Holidays</sub><br><br>
+Alternatively, students can email the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.</p></div>
