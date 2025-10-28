@@ -13,11 +13,8 @@ to be the pride of family, community and nation.</p>
 <p><u>C</u>are,&nbsp;<u>R</u>esilience,&nbsp;<u>E</u>xcellence,&nbsp;<u>S</u>elf-Belief,&nbsp;<u>T</u>rustworthiness
 (CREST)</p>
 <h4><strong>MOTTO:</strong></h4>
-<blockquote>
 <p>Pursue and Realise Challenges</p>
-</blockquote>
 <h4><strong>CREST:</strong></h4>
-<blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/prcs school logo.png">
 </div>
@@ -27,5 +24,4 @@ neighbourhood. The definitions of ‘Crest’ – the highest part of the hill
 and the top of a wave – symbolise the positions that the school aspires
 for its students to aim towards, pursue and attain in all arenas of their
 lives, in line with the school motto, ‘Pursue and Realise Challenges’.</p>
-</blockquote>
 <p></p>
