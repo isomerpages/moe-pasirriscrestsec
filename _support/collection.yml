@@ -2,8 +2,8 @@ collections:
   support:
     output: true
     order:
-      - SLS Test.md
       - Personalised Digital Learning Programme (PDLP).md
+      - SLS Test.md
       - Student Learning Space (SLS).md
       - SLS Support.md
       - Parents Gateway.md
