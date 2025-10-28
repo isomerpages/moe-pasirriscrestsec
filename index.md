@@ -26,6 +26,7 @@ sections:
       button: Click here for more info
       url: https://sites.google.com/moe.edu.sg/prcss-open-house/open-house-home
       image: /images/Open_House_2025_.jpg
+      alt: Open House 2025
   - infobar:
       title: School Canteen Advertisement
       id: infobar
