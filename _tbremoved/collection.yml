@@ -2,6 +2,7 @@ collections:
   tbremoved:
     output: true
     order:
+      - Student Learning Space (SLS).md
       - Pedestrian and Vehicle Route.md
       - Leadership Development.md
       - Start It Right Programme.md
