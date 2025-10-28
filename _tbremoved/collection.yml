@@ -2,6 +2,7 @@ collections:
   tbremoved:
     output: true
     order:
+      - SLS Support.md
       - Student Learning Space (SLS).md
       - Pedestrian and Vehicle Route.md
       - Leadership Development.md
