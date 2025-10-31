@@ -6,7 +6,7 @@ links:
       - title: Principal's Message
         url: /about-us/principalsmessage/
       - title: Vision, Mission, Values, Motto
-        url: /about-us/vision-mission-values-motto/
+        url: /about-us/vision-mission-values-motto-crest/
       - title: School Song
         url: /about-us/schoolsong/
       - title: School History
@@ -25,22 +25,12 @@ links:
       - title: Academic Achievements
         url: https://sites.google.com/moe.edu.sg/prcss-overcomers/academics
   - title: The Crestian Experience
-    url: /talent-development-programme/
+    url: /the-crestian-experience/21st-competencies-and-development/
     sublinks:
-      - title: Talent Development Programme
-        url: /talent-development-programme/
       - title: 21st Century Competencies  Dev
         url: /the-crestian-experience/21st-competencies-and-development/
-      - title: Applied Learning Prog.
-        url: https://sites.google.com/moe.edu.sg/prcss-alp
-      - title: Learning for Life Prog.
-        url: https://sites.google.com/moe.edu.sg/prcss-llp
-      - title: Leadership Development
-        url: https://sites.google.com/moe.edu.sg/prcss-leadership
-      - title: Experiential Learning Prog.
-        url: https://sites.google.com/moe.edu.sg/prcss-elp
-      - title: Start It Right Prog.
-        url: https://sites.google.com/moe.edu.sg/prcss-start-it-right-programme
+      - title: Signature Programmes
+        url: /signature-programmes/
       - title: Curriculum
         url: https://sites.google.com/moe.edu.sg/prcss-curriculum/
       - title: CCA Experience
@@ -53,9 +43,7 @@ links:
       - title: Personalised Digital Learning
         url: /support/pdlp/
       - title: Student Learning Spaces (SLS)
-        url: /support/sls/
-      - title: SLS Support
-        url: /support/sls-support/
+        url: /sls/
       - title: Parents Gateway
         url: /support/parentsgateway/
       - title: Financial Assistance
@@ -66,8 +54,6 @@ links:
         url: /support/expected-student-behaviour/
       - title: Traffic Management Plan
         url: /support/traffic-management-plan/
-      - title: Pedestrian and Vehicle Route
-        url: /support/pedestrian-and-vehicle-route/
       - title: Student Insurance
         url: /support/student-insurance/
       - title: PRCS Calendar
@@ -85,3 +71,5 @@ links:
         url: https://sites.google.com/moe.edu.sg/prcss-overcomers/
   - title: 2025 DSA-SEC
     url: /2025-direct-school-admission-dsa-exercise/
+  - title: Open House 2025
+    url: https://sites.google.com/moe.edu.sg/prcss-open-house/open-house-home

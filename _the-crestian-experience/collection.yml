@@ -2,13 +2,8 @@ collections:
   the-crestian-experience:
     output: true
     order:
-      - Talent Development Programme.md
       - 21st Century Competencies Development.md
-      - Applied Learning Programme.md
-      - Learning for Life Programme.md
-      - Leadership Development.md
-      - Experiential Learning Programme.md
-      - Start It Right Programme.md
+      - Signature Programmes.md
       - Curriculum.md
       - CCA Experience.md
       - Full Subject Based Banding (FSBB) 2024.md
