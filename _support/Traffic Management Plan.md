@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1>Traffic Management Plan</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/traffic%20management%20plan%2013112020.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Support/Traffic_Management_Plan_2026.png">
 </div>
 <hr>
 <h1>Pedestrian and Vehicle Route</h1>

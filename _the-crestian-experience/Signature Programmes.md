@@ -41,7 +41,7 @@ find out more about our LLP.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Start_It_Right_Programme.png">
 </div>
-<p>The Start It Right (SIR) Programme&nbsp;serve a larger purpose of holistic
+<p>The Start It Right (SIR) Programme&nbsp;serves a larger purpose of holistic
 education, inculcating school values, SEL competencies and important lifeskills
 through outdoor activities. Every student participates in the SIR Programme
 during the first week of Term 1. Click&nbsp;<a href="https://sites.google.com/moe.edu.sg/prcss-start-it-right-programme" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
@@ -55,5 +55,4 @@ find out more.</p>
 and motivating learning experiences for students in authentic environments
 not restricted to the confines of the classroom. Click&nbsp;<a href="https://sites.google.com/moe.edu.sg/prcss-elp/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 find out more about our ELP.</p>
-<p>x</p>
 <p></p>
