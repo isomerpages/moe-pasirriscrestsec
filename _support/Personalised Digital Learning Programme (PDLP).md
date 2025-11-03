@@ -143,7 +143,6 @@ Lenovo Service Center Information (Device are under 3 years warranty from year o
                 Please review the Acceptable Use Policy (AUP) for guidelines on the responsible use of EdTech resources within the school environment. This policy ensures that all users adhere to best practices for digital safety, security, and ethical use of technology.
             </p>
             <p>
-                Download the file <a href="Here">Here</a>
+                Download the file <a href="/files/2026_PLD_AUP_PRCS_V2.pdf">Here</a>
         </p></div>
     </li>
-    
