@@ -52,31 +52,40 @@ allocated to you. They are to be completed by Term 1 Day 1.</p>
 <p>G3 Holiday Homework</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sec 2 2025 Social Studies Holiday Homework</p>
+<p><a href="/files/Holiday Homework/2025 G3/Sec_2_2025_Social_Studies_Holiday_Homework__Student_handout_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 2025 Social Studies Holiday Homework</a>
+</p>
 </li>
 <li>
-<p>Sec 2 EL G3 December Holiday Assignment</p>
+<p><a href="/files/Holiday Homework/2025 G3/Sec_2_EL_G3_December_Holiday_Assignment.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 EL G3 December Holiday Assignment</a>
+</p>
 </li>
 <li>
-<p>Sec 2 Lit G3 Holiday Homework 2025</p>
+<p><a href="/files/Holiday Homework/2025 G3/Sec_2_Lit_G3Holiday_Homework_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Lit G3 Holiday Homework 2025</a>
+</p>
 </li>
 <li>
-<p>Sec 2G3 Hol HW Pure Biology</p>
+<p><a href="/files/Holiday Homework/2025 G3/Sec_2G3_Hol_HW_Pure_Biology.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2G3 Hol HW Pure Biology</a>
+</p>
 </li>
 <li>
-<p>Sec 2G3 Hol HW Pure Chemistry</p>
+<p><a href="/files/Holiday Homework/2025 G3/Sec_2G3_Hol_HW_Pure_Chemistry.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2G3 Hol HW Pure Chemistry</a>
+</p>
 </li>
 <li>
-<p>Sec 2G3 Hol HW Pure Physics</p>
+<p><a href="/files/Holiday Homework/2025 G3/Sec_2G3_Hol_HW_Pure_Physics.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2G3 Hol HW Pure Physics</a>
+</p>
 </li>
 <li>
-<p>Sec 2G3 Hol HW Science Biology</p>
+<p><a href="/files/Holiday Homework/2025 G3/Sec_2G3_Hol_HW_Science_Biology.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2G3 Hol HW Science Biology</a>
+</p>
 </li>
 <li>
-<p>Sec 2G3 Hol HW Science Chemistry</p>
+<p><a href="/files/Holiday Homework/2025 G3/Sec_2G3_Hol_HW_Science_Chemistry.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2G3 Hol HW Science Chemistry</a>
+</p>
 </li>
 <li>
-<p>Sec 2G3 Hol HW Science Physics</p>
+<p><a href="/files/Holiday Homework/2025 G3/Sec_2G3_Hol_HW_Science_Physics.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2G3 Hol HW Science Physics</a>
+</p>
 </li>
 </ul>
 <p></p>
