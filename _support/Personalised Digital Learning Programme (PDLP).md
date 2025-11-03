@@ -134,15 +134,10 @@ Lenovo Service Center Information (Device are under 3 years warranty from year o
 </ul>
 <h5>Note: In 2024, Students will be able to perform self reset after registering their self reset password in MIMS portals at <a href="https://idp.mims.moe.gov.sg/nidp/app/login">HERE</a></h5>
 <p></p>		
-</div></li></ul>
-    <li>
-        <input type="checkbox" id="accordion6">
-        <label for="accordion6">ACCEPTABLE USE POLICY (AUP) FOR USE OF EDTECH RESOURCES</label>
-        <div>
-            <p align="justify">
-                Please review the Acceptable Use Policy (AUP) for guidelines on the responsible use of EdTech resources within the school environment. This policy ensures that all users adhere to best practices for digital safety, security, and ethical use of technology.
-            </p>
-            <p>
-                Download the file <a href="/files/2026_PLD_AUP_PRCS_V2.pdf">Here</a>
-        </p></div>
-    </li>
+</div></li><li>
+<input type="checkbox" id="accordion6">
+<label for="accordion6">ACCEPTABLE USE POLICY (AUP) FOR USE OF EDTECH RESOURCES</label>
+<div>
+<p align="justify">Please review the Acceptable Use Policy (AUP) for guidelines on the responsible use of EdTech resources within the school environment. This policy ensures that all users adhere to best practices for digital safety, security, and ethical use of technology.</p><p>Download the file <a href="/files/2026_PLD_AUP_PRCS_V2.pdf">Here</a>
+</p></div>
+</li></ul>
