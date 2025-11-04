@@ -86,10 +86,8 @@ allocated to you. They are to be completed by Term 1 Day 1.</p>
 <li>
 <p><a href="/files/Holiday Homework/2025 G3/Sec_2G3_Hol_HW_Science_Physics.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2G3 Hol HW Science Physics</a>
 </p>
+<p></p>
 </li>
 </ul>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
