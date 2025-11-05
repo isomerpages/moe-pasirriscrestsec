@@ -22,7 +22,7 @@ customer experience.</p>
 <br>Monday to Friday: 9:00 AM – 6:00 PM
 <br>Saturday: 9:00 AM – 1:00 PM
 <br>Closed on Sundays and Public Holidays&nbsp;</p>
-<p>Enclosed is the <a href="/files/CWP/Change_in_Lenovo_Authorised_Service_Centre___FAQs.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs </a>for
+<p>Enclosed is the <a href="/files/CWP/Change_in_Lenovo_Authorised_Service_Centre___FAQs.pdf" rel="noopener nofollow" target="_blank">FAQs</a> for
 your reference.
 <br>
 <br>Thank you for your attention to this matter.</p>
