@@ -1,5 +1,5 @@
 ---
-title: Sec 2 Holiday Homework for Sec 3 2026 Subjects
+title: Sec 2 Holiday Homework for Sec 3 2026 Subjects (Updated 13th Nov 2025)
 permalink: /sec-2-holiday-homework-for-sec-3-2026-subjects/
 date: 2025-11-03
 layout: post
@@ -86,6 +86,14 @@ allocated to you. They are to be completed by Term 1 Day 1.</p>
 <li>
 <p><a href="/files/Holiday Homework/2025 G3/Sec_2G3_Hol_HW_Science_Physics.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2G3 Hol HW Science Physics</a>
 </p>
+</li>
+<li>
+<p><a href="/files/Holiday Homework/2025 G3/SEC_3__2026__G3_ART__SLS_HW_.pdf" rel="noopener nofollow" target="_blank">Sec 2G3 Hol HW Art</a> (Updated
+13th November 2025)</p>
+</li>
+<li>
+<p><a href="/files/Holiday Homework/2025 G3/Sec_3__2026__G3_Hol_Assignment_NFS.pdf" rel="noopener nofollow" target="_blank">Sec 2G3 Hol HW NFS</a> (Updated
+13th November 2025)</p>
 <p></p>
 </li>
 </ul>

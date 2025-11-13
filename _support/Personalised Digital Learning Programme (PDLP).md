@@ -61,19 +61,19 @@ The package includes a&nbsp;3-year warranty&nbsp;and 3-year insurance**\***&nbsp
 </ul>
 
 <b>SERVICE CENTRE</b>
-
-<b></b><p><b>New Service Centre Location:<br></b>
-Servlink Technologies – Lenovo Authorised Service Centre<br>
+<b></b><p><b> Service Centre Location:<br></b>
+For Students who wants to walk-in for servicing please visit, <br>
+<b>Servlink Technologies Resources Pte Ltd – Lenovo Authorised Service Centre</b><br>
 Address: 2 Kallang Avenue #09-01, CTHub 1, Singapore 339407<br>
 Hotline: +65 6817 1435<br>
 Email: [Svcctr@servlink.com.sg](mailto:Svcctr@servlink.com.sg)<br>
+Website for Lenovo Service Center: <a href="https://www.asiapac.com.sg/edu/lenovo-support.aspx">Here</a>
 
 Operating hours:<br>
 Monday to Friday: 9:00 AM – 6:00 PM<br>
 Saturday: 9:00 AM – 1:00 PM<br>
 Closed on Sundays and Public Holidays<br>
-Enclosed is the [FAQs](/files/CWP/Change_in_Lenovo_Authorised_Service_Centre___FAQs.pdf) for your reference.	
-	</p>
+Enclosed is the <a href="/files/CWP/Change_in_Lenovo_Authorised_Service_Centre___FAQs.pdf">FAQs</a> for your reference.	</p>
 	</div>
 	
 </li><li>
