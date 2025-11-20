@@ -28,11 +28,6 @@ sections:
       image: /images/Open_House_2025_.jpg
       alt: Open House 2025
       subtitle: Pasir Ris Crest Secondary
-  - infobar:
-      title: School Canteen Advertisement
-      id: infobar
-      button: Click for more information
-      url: /school-canteen-advertisement/
   - resources:
       title: LATEST ANNOUNCEMENTS
       button: PREVIOUS ANNOUNCEMENTS
