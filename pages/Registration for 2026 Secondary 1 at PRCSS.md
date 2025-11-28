@@ -337,7 +337,7 @@ signifying the new beginning in his/her secondary school life.</p>
 Uniform and Textbooks</p>
 <blockquote>
 <p>(a)&nbsp; Click on the link below for 2026 booklists.</p>
-<p>https://www.prcss.moe.edu.sg/2026-prcs-booklist-and-uniform-purchase/
+<p><a href="https://www.prcss.moe.edu.sg/2026-prcs-booklist-and-uniform-purchase/" rel="noopener noreferrer nofollow" target="_blank">https://www.prcss.moe.edu.sg/2026-prcs-booklist-and-uniform-purchase/</a> 
 <br>If your child is taking up the Offer for Subject(s) at More Demanding
 Level, refer to the booklist for the indicative level of the subject i.e.
 G3, G2, for the appropriate textbooks/workbooks to purchase.</p>
@@ -360,12 +360,13 @@ in the table to indicate your preferred option and make the necessary arrangemen
 <p>Bookshop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Online platform:&nbsp;https://www.pacificbookstores.com</p>
-<p>Email: sales@pacificbookstores.com</p>
+<p>Online platform:&nbsp;<a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a>
+</p>
+<p>Email: <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
+</p>
 <p>Contact number: 6929 8012 / 6559 2269</p>
 <p>&nbsp;</p>
-<p>Online purchase guide: https://www.prcss.moe.edu.sg/files/Booklist/2026/PRCSS___PACIFIC_BOOKSTORES_Purchase_Information_2025.pdf</p>
-<p>&nbsp;</p>
+<p>Online purchase guide: <a href="https://www.prcss.moe.edu.sg/files/Booklist/2026/PRCSS___PACIFIC_BOOKSTORES_Purchase_Information_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.prcss.moe.edu.sg/files/Booklist/2026/PRCSS___PACIFIC_BOOKSTORES_Purchase_Information_2025.pdf</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -373,17 +374,22 @@ in the table to indicate your preferred option and make the necessary arrangemen
 <p>School uniform</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Online platform: https://asencio.com.sg/</p>
-<p>Email: prcs@asencio.com.sg</p>
+<p>Online platform: <a href="https://asencio.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg/</a>
+</p>
+<p>Email: <a href="mailto:prcs@asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">prcs@asencio.com.sg</a>
+</p>
 <p>Contact number: 6764 3102</p>
 <p>&nbsp;</p>
-<p>Online ordering guide: https://www.prcss.moe.edu.sg/files/Booklist/2026/Pasir_Ris_Crest_Secondary_School_online_ordering_guide___08102025.pdf</p>
-<p>&nbsp;</p>
+<p>Online ordering guide: <a href="https://www.prcss.moe.edu.sg/files/Booklist/2026/Pasir_Ris_Crest_Secondary_School_online_ordering_guide___08102025.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.prcss.moe.edu.sg/files/Booklist/2026/Pasir_Ris_Crest_Secondary_School_online_ordering_guide___08102025.pdf</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>(e)&nbsp; Sizing Measurement for the school PE shirt (updated 20 Dec 2024)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tshirt_size.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -486,14 +492,13 @@ Scheme, please access the booking link/email below to make your purchases.</p>
 <p>Bookshop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>E-appointment link: https://www.pacificbookstores.com/appointment/book</p>
-<p>Email:&nbsp;sales@pacificbookstores.com</p>
-<p></p>
+<p>E-appointment link: <a href="https://www.pacificbookstores.com/appointment/book" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/appointment/book</a>
+</p>
+<p>Email:&nbsp;<a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
+</p>
 <p>Tel: 6929 8012</p>
-<p>&nbsp;</p>
 <p>NOTE: Kindly wait for school results if you have applied for FAS. Do not
 purchase books in advance.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -501,9 +506,9 @@ purchase books in advance.</p>
 <p>School uniform</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Email:&nbsp;prcs@asencio.com.sg</p>
+<p>Email:&nbsp;<a href="mailto:prcs@asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">prcs@asencio.com.sg</a>
+</p>
 <p>Tel: 6764 3102</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -515,7 +520,6 @@ Teacher Meeting and CCA Briefing</p>
 <p>(a)&nbsp; We would like to invite all parents and students to attend the
 Secondary One Parent Teacher Meeting and CCA Briefing on Saturday, 17 January
 2026, from 8.00 a.m. to 11.00 a.m. in the school.</p>
-<p>&nbsp;</p>
 <p>(b) More information on the briefing will be provided nearer the date.</p>
 </blockquote>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parent Support
@@ -529,9 +533,9 @@ nation'. The PSG is a network of parents that also supports the holistic
 development of Crestians through participation in and organisation of school
 activities (e.g. Education and Career Sharing, Overcomers’ Run) and PSG-related
 programmes for parents and students.</p>
-<p>(b) Find out more about PRCS PSG by clicking on this link.</p>
+<p>(b) Find out more about PRCS PSG by clicking on this <a href="https://sites.google.com/moe.edu.sg/prcss-psg/psg-home" rel="noopener nofollow" target="_blank">link</a>.</p>
 <p>(c)&nbsp; If you would like to play an active role or be involved in PRCS
-PSG events, please sign up here.</p>
+PSG events, please sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLScz_aMWALubDvnByaW0F14tudbVFG6NRpve_DxlG3YH3_3hfA/viewform" rel="noopener nofollow" target="_blank">here</a>.</p>
 </blockquote>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parenting workshops</p>
 <blockquote>
@@ -552,6 +556,9 @@ on principles of positive parenting to:</p>
 <p>5.&nbsp;&nbsp;&nbsp; Build healthy relationships with youths&nbsp;</p>
 </blockquote>
 <p>(c)&nbsp; More information is in the poster below.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/care_corner1.png">
+</div>
 </blockquote>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOE Financial
 Assistance Scheme (FAS) Application (If applicable)</p>
@@ -741,6 +748,9 @@ turn left when exiting the school from 07.00 a.m. to 08.00 a.m..</p>
 <p>(c)&nbsp; Kindly follow the traffic markings within the school and only
 drop off your child/ward at the designated drop off point, i.e. the School
 Tower (Refer to the “Drop Off/ Pick Up Point” in image A below.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_a.png">
+</div>
 <p>Image A</p>
 <p>(d) Remind your child/ward not to jaywalk but use the pedestrian crossings
 at all times.</p>
@@ -754,7 +764,9 @@ level of alertness of the traffic condition.</p>
 <details class="isomer-details">
 <summary><strong>(F)&nbsp; </strong>Appeal Matters</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Appeals for transfer out due to serious medical conditions</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Appeals for transfer out due to serious medical conditions</p>
 <blockquote>
 <p>(a)&nbsp; An appeal to transfer out to another school due to compelling
 medical reasons must be submitted via email to Secondary 1 Year Head, Mr
@@ -772,17 +784,18 @@ to attend school until the transfer is approved.
 transfer school, and MOE’s approval.</p>
 </blockquote>
 </blockquote>
-<h3>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; General transfer appeals</h3>
+</li>
+<li>
+<p>General transfer appeals</p>
 <blockquote>
 <p>(a)&nbsp; Submissions for transfers or appeals to PRCS should be submitted
-<a href="https://form.gov.sg/690bf20befa5dc68e90a1987" rel="noopener noreferrer nofollow" target="_blank">online via this form</a>(Singpass required) by <strong>Thursday, 24 December 2025, 12.00 p.m.</strong>.
-Application for transfer will be based on following factors:</p>
+online via this form(Singpass required) by Thursday, 24 December 2025,
+12.00 p.m.. Application for transfer will be based on following factors:</p>
 <blockquote>
-<p>(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student must meet school’s
-Cut-Off Points (COP) for respective posting group
-<br>(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Available school vacancies
-<br>(iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Merits of other applicants
-on the school’s waitlist</p>
+<p>(i) Student must meet school’s Cut-Off Points (COP) for respective posting
+group
+<br>(ii) Available school vacancies
+<br>(iii) Merits of other applicants on the school’s waitlist</p>
 </blockquote>
 <p>(b) Do note that students successfully allocated to their schools via
 the Direct Schools Admission (DSA) Exercise will not be allowed to transfer
@@ -792,7 +805,10 @@ secondary school journey. Parents are encouraged to consult the receiving
 DSA school for further advice if there are valid reasons for a transfer.</p>
 <p>(c)&nbsp; The school will contact you if your child/ward is shortlisted.</p>
 </blockquote>
+</li>
+</ol>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
