@@ -781,38 +781,49 @@ level of alertness of the traffic condition.</p>
 <details class="isomer-details">
 <summary><strong>(F)&nbsp; </strong>Appeal Matters</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>1. Appeals for transfer out due to serious medical conditions</p>
-<p>(a)&nbsp; An appeal to transfer out to another school due to compelling
-medical reasons must be submitted via email to Secondary 1 Year Head, Mr
-Jason Soo, <a href="mailto:choo_chee_siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choo_chee_siong@schools.gov.sg</a> by
-22 December 2025, 12.00 p.m..</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Appeals for transfer out due to serious medical conditions</p>
+<blockquote>
+<p>(a) An appeal to transfer out to another school due to compelling medical
+reasons must be submitted via email to Secondary 1 Year Head, Mr Jason
+Soo, choo_chee_siong@schools.gov.sg by 22 December 2025, 12.00 p.m..</p>
 <p>(b) Things to note when appealing for a transfer:</p>
-<p>(i)&nbsp;&nbsp;&nbsp; All appeals must be accompanied by relevant supporting
-documents, such as medical reports, letters from doctors.</p>
-<p>(ii)&nbsp;&nbsp;&nbsp; Our staff will help to file your appeal.</p>
-<p>(iii)&nbsp;&nbsp;&nbsp; The appeal results will be released in early January.</p>
-<p>(iv)&nbsp;&nbsp;&nbsp; If you intend to appeal for transfer out, your
-child must still report to PRCS on the first day of school, and continue
-to attend school until the transfer is approved.</p>
-<p>(v)&nbsp;&nbsp;&nbsp; Transfers are subjected to vacancies at the requested
-transfer school, and MOE’s approval.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; General transfer appeals</p>
+<blockquote>
+<p>(i) All appeals must be accompanied by relevant supporting documents,
+such as medical reports, letters from doctors.</p>
+<p>(ii) Our staff will help to file your appeal.</p>
+<p>(iii) The appeal results will be released in early January.</p>
+<p>(iv) If you intend to appeal for transfer out, your child must still report
+to PRCS on the first day of school, and continue to attend school until
+the transfer is approved.</p>
+<p>(v) Transfers are subjected to vacancies at the requested transfer school,
+and MOE’s approval.</p>
+</blockquote>
+</blockquote>
+</li>
+<li>
+<p>General transfer appeals</p>
+<blockquote>
 <p>(a)&nbsp; Submissions for transfers or appeals to PRCS should be submitted
 online via this form (singpass required) by Thursday, 24 December 2025,
 12.00 p.m.. Application for transfer will be based on following factors:</p>
-<p>(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student must meet school’s
-Cut-Off Points (COP) for respective posting group</p>
-<p>(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Available school vacancies</p>
-<p>(iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Merits of other applicants
-on the school’s waitlist</p>
+<blockquote>
+<p>(i) Student must meet school’s Cut-Off Points (COP) for respective posting
+group</p>
+<p>(ii)&nbsp;Available school vacancies</p>
+<p>(iii) Merits of other applicants on the school’s waitlist</p>
+</blockquote>
 <p>(b) Do note that students successfully allocated to their schools via
 the Direct Schools Admission (DSA) Exercise will not be allowed to transfer
 to another school. For successful DSA postings, students are expected to
 honour their commitment to the accepting school for the duration of their
 secondary school journey. Parents are encouraged to consult the receiving
 DSA school for further advice if there are valid reasons for a transfer.</p>
-<p>(c)&nbsp; The school will contact you if your child/ward is shortlisted.</p>
+<p>(c) The school will contact you if your child/ward is shortlisted.</p>
+</blockquote>
+</li>
+</ol>
 </div>
 </details>
 </div>
