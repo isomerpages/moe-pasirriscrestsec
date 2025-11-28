@@ -99,16 +99,16 @@ by the next working day.</p>
 <li>
 <p>E-Registration.</p>
 <blockquote>
-<p>(a)&nbsp;&nbsp; Please complete the Online Registration Form (Singpass
+<p>(a)&nbsp;&nbsp; Please complete the <a href="https://for.edu.sg/sec1registration2026" rel="noopener nofollow" target="_blank">Online Registration Form</a> (Singpass
 is required)</p>
-<p>You may also access the link here, <a href="https://for.edu.sg/sec1registration2026" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/sec1registration2026</a>.</p>
-<p>You may refer to Part (E) for more information about the Start-it-Right
+<p>You may also access the link here, <a href="https://for.edu.sg/sec1registration2026" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/sec1registration2026</a>.
+You may refer to Part (E) for more information about the Start-it-Right
 Programme during the first four days of school.</p>
 <p>(b)&nbsp;&nbsp; The registration takes about 10 minutes. Please complete
 all fields.</p>
-<p>(c)&nbsp;&nbsp; It is compulsory for parents/guardians to complete the
-registration. Please complete the registration latest by&nbsp;Friday, 19
-December 2025, 11:59 p.m.</p>
+<p>(c)&nbsp;&nbsp; It is <strong>compulsory </strong>for parents/guardians
+to complete the registration. Please complete the registration latest by&nbsp;<strong>Friday, 19 December 2025, 11:59 p.m.</strong>
+</p>
 </blockquote>
 </li>
 <li>
@@ -116,13 +116,12 @@ December 2025, 11:59 p.m.</p>
 the app, please refer to the link, <a href="https://www.prcss.moe.edu.sg/support/parentsgateway/" rel="noopener noreferrer nofollow" target="_blank">https://www.prcss.moe.edu.sg/support/parentsgateway/</a>).</p>
 </li>
 <li>
-<p>Your child’s/ward’s home class allocation will be sent to you via PG on
-30 December.</p>
+<p>Your child’s/ward’s home class allocation will be sent to you via PG on <strong>30 December</strong>.</p>
 </li>
 <li>
 <p>You may also receive a message via PG to inform if your child is eligible
 for Higher Mother Tongue Language, 3rd Language or is eligible to offer
-subject(s) at a More Demanding Level by 22 December, 2pm.</p>
+subject(s) at a More Demanding Level by<strong> 22 December, 2pm</strong>.</p>
 <blockquote>
 <p>a.&nbsp;&nbsp;&nbsp; Higher Mother Tongue Language eligibility, or</p>
 <p>b.&nbsp;&nbsp;&nbsp; 3rd Language eligibility or</p>
@@ -131,7 +130,8 @@ subject(s) at a More Demanding Level by 22 December, 2pm.</p>
 </li>
 <li>
 <p>More information on offer for Subject(s) at More Demanding Level will
-be provided during the Zoom briefing on 22 December 2025.</p>
+be provided during the Zoom briefing on <strong>22 December 2025.</strong>
+</p>
 </li>
 <li>
 <p>For parents who do not have access to PG app, please contact the school.</p>
@@ -363,7 +363,7 @@ made arrangements for parents/ students to opt either for self-collection
 (during pre-assigned slots based on the booklist); or paid delivery, when
 ordering textbooks and uniforms during the end of year sales period.&nbsp;</p>
 <p>(c)&nbsp; Walk-in purchase of textbooks is strictly by appointment only.
-<br>You may book your walk-in purchase at https://www.pacificbookstores.com.</p>
+<br>You may book your walk-in purchase at <a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a>.</p>
 <p>(d) Please contact the school bookshop and uniform vendor using the information
 in the table to indicate your preferred option and make the necessary arrangements.</p>
 <table style="minWidth: 50px">
@@ -535,8 +535,8 @@ purchase books in advance.</p>
 Teacher Meeting and CCA Briefing</p>
 <blockquote>
 <p>(a)&nbsp; We would like to invite all parents and students to attend the
-Secondary One Parent Teacher Meeting and CCA Briefing on Saturday, 17 January
-2026, from 8.00 a.m. to 11.00 a.m. in the school.</p>
+Secondary One Parent Teacher Meeting and CCA Briefing on <strong>Saturday, 17 January 2026, from 8.00 a.m. to 11.00 a.m. </strong>in
+the school.</p>
 <p>(b) More information on the briefing will be provided nearer the date.</p>
 </blockquote>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parent Support
@@ -561,8 +561,7 @@ provider for PRCSS.</p>
 <p>(b) As teens undergo the transition to adulthood, the emotional and physical
 changes they experience may overwhelm them. How can parents support them
 through these transitions?</p>
-<p>Care Corner will be conducting a talk on Supporting Our Teenagers Through
-Transitions.</p>
+<p>Care Corner will be conducting a talk on <strong>Supporting Our Teenagers Through Transitions</strong>.</p>
 <p>Learn simple and practical strategies over a series of 2 seminars based
 on principles of positive parenting to:</p>
 <blockquote>
@@ -573,10 +572,10 @@ on principles of positive parenting to:</p>
 <p>5.&nbsp;&nbsp;&nbsp; Build healthy relationships with youths&nbsp;</p>
 </blockquote>
 <p>(c)&nbsp; More information is in the poster below.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/care_corner1.png">
-</div>
 </blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Confident_parenting.png">
+</div>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOE Financial
 Assistance Scheme (FAS) Application (If applicable)</p>
 <blockquote>
@@ -595,10 +594,10 @@ does not exceed $1000 per month.
 <br>PCI = Monthly GHI / No. of members in the same household</p>
 </blockquote>
 <p>(c)&nbsp; You may may submit your application online via this website:
-https://go.gov.sg/moe-efasggas (Singpass is required)</p>
+<a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>(Singpass is required)</p>
 <p>(d) If you do not meet the eligibility criteria of the MOE FAS, but require
-financial assistance, do visit https://www.prcss.moe.edu.sg/support/financial-assistance/
-or approach the school staff at the school’s General Office for assistance.</p>
+financial assistance, do visit <a href="https://www.prcss.moe.edu.sg/support/financial-assistance/" rel="noopener noreferrer nofollow" target="_blank">https://www.prcss.moe.edu.sg/support/financial-assistance/</a> or
+approach the school staff at the school’s General Office for assistance.</p>
 </blockquote>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interbank GIRO</p>
 <blockquote>
@@ -724,7 +723,8 @@ CCA timing and school attire.</p>
 </tbody>
 </table>
 <p>(b) To support our students’ transition to a Secondary School, CCA will
-only commence on Thursday, 26 February 2026 for Secondary One students.</p>
+only commence on <strong>Thursday, 26 February 2026</strong> for Secondary
+One students.</p>
 <p>(c)&nbsp; See below point 9(b) for CCA trials for Sec One students.</p>
 <p>(d) For safety reasons, students are not allowed to leave school before
 CCA.</p>
@@ -736,11 +736,13 @@ get to experience different CCAs before selecting their choices for CCA.
 Our school has a range of 17 CCAs for the students to choose from.</p>
 <p>(b) To enable Secondary One students to gain a better understanding of
 the requirements of the various CCAs, the school will be conducting CCA
-trials during the CCA sessions on 27 and 29 January, as well as 3, 5, and
-10 February 2026. The sessions will run until 5.45 p.m. on Tuesdays and
-Thursdays. Attendance is compulsory.</p>
+trials during the CCA sessions on <strong>27 and 29 January</strong>, as
+well as<strong> 3, 5, and 10 February 2026</strong>. The sessions will
+run until <strong>5.45 p.m</strong>. on Tuesdays and Thursdays. Attendance
+is compulsory.</p>
 <p>(c)&nbsp; More details on the CCA trials will be shared during the Secondary
-1 Parent-Teacher Meeting and CCA Open House on Saturday, 17 January 2026.</p>
+1 Parent-Teacher Meeting and CCA Open House on <strong>Saturday, 17 January 2026.</strong>
+</p>
 </blockquote>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Issuance of New
 Secondary Level School Smart Cards (SSC)</p>
@@ -768,7 +770,8 @@ Tower (Refer to the “Drop Off/ Pick Up Point” in image A below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_a.png">
 </div>
-<p>Image A</p>
+<p><strong>Image A</strong>
+</p>
 <p>(d) Remind your child/ward not to jaywalk but use the pedestrian crossings
 at all times.</p>
 <p>(e)&nbsp; Advise your child/ward not to use earphones/headphones or use
@@ -787,8 +790,9 @@ level of alertness of the traffic condition.</p>
 <blockquote>
 <p>(a) An appeal to transfer out to another school due to compelling medical
 reasons must be submitted via email to Secondary 1 Year Head, Mr Jason
-Soo, choo_chee_siong@schools.gov.sg by 22 December 2025, 12.00 p.m..</p>
-<p>(b) Things to note when appealing for a transfer:</p>
+Soo, <a href="mailto:choo_chee_siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choo_chee_siong@schools.gov.sg</a> by <strong>22 December 2025, 12.00 p.m</strong>..</p>
+<p><strong>(b) Things to note when appealing for a transfer:</strong>
+</p>
 <blockquote>
 <p>(i) All appeals must be accompanied by relevant supporting documents,
 such as medical reports, letters from doctors.</p>
@@ -806,8 +810,9 @@ and MOE’s approval.</p>
 <p>General transfer appeals</p>
 <blockquote>
 <p>(a)&nbsp; Submissions for transfers or appeals to PRCS should be submitted
-online via this form (singpass required) by Thursday, 24 December 2025,
-12.00 p.m.. Application for transfer will be based on following factors:</p>
+online via this <a href="https://form.gov.sg/690bf20befa5dc68e90a1987" rel="noopener nofollow" target="_blank">form</a> (singpass
+required) by <strong>Thursday, 24 December 2025, 12.00 p.m.</strong>. Application
+for transfer will be based on following factors:</p>
 <blockquote>
 <p>(i) Student must meet school’s Cut-Off Points (COP) for respective posting
 group</p>
