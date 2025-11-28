@@ -56,22 +56,25 @@ you through the Secondary 1 Registration process:</p>
 <summary><strong>(A)&nbsp; </strong>Zoom Briefing details for Secondary 1 students
 and parents</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<blockquote>
 <ol data-tight="true" class="tight">
 <li>
 <p>Parents are encouraged to join us via Zoom for a welcome address by Principal,
 Year Head, and Subject-Based Banding briefing by the teacher in-charge.</p>
 <blockquote>
-<p>Date: Monday, 22 December 2025
-<br>Time: 9.00 a.m. to 11.00 a.m.
-<br>Click on the following to join Zoom Meeting
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/63884886174?pwd=0WpIbC2BB7yHFKYg5OJtz5wgSOK2Ma.1</a>
+<p><strong>Date: </strong>Monday, 22 December 2025</p>
+<p><strong>Time: </strong>9.00 a.m. to 11.00 a.m.</p>
+<p>Click on the following to join Zoom Meeting</p>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/63884886174?pwd=0WpIbC2BB7yHFKYg5OJtz5wgSOK2Ma.1</a></strong>
 </p>
-<p>Meeting ID: 638 8488 6174
-<br>Passcode: 502477
-<br>For security reasons, please use this format for your login username.
-<br>Login username: PRCS/ Child’s name
-<br>(Only participants with the suggested format for the login username will
-be admitted into the briefing)</p>
+<p><strong>Meeting ID: 638 8488 6174</strong>
+</p>
+<p><strong>Passcode: 502477</strong>
+</p>
+<p>For security reasons, please use this format for your login username.</p>
+<p><strong>Login username: PRCS/ Child’s name</strong>
+</p>
+<p>(<em>Only participants with the suggested format for the login username will be admitted into the briefing</em>)</p>
 </blockquote>
 </li>
 <li>
@@ -79,47 +82,61 @@ be admitted into the briefing)</p>
 the session.</p>
 </li>
 </ol>
+</blockquote>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>(B)&nbsp; </strong>Online Registration</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Please ensure that you have your Parents Gateway (PG) mobile app ready to complete the Sec 1 online registration. &nbsp;Please note that Parent Gateway may be down between 12pm to 5pm on 19 December to facilitate the secondary 1 posting. Pasir Ris Crest Secondary School will be automatically reflected and assigned to your PG once the transition has been completed by the next working day.</h4>
 <blockquote>
+<p>Please ensure that you have your Parents Gateway (PG) mobile app ready
+to complete the Sec 1 online registration. &nbsp;Please note that Parent
+Gateway may be down between 12pm to 5pm on 19 December to facilitate the
+secondary 1 posting. Pasir Ris Crest Secondary School will be automatically
+reflected and assigned to your PG once the transition has been completed
+by the next working day.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>E-Registration</strong>.</p>
-</li>
-</ol>
+<p>E-Registration.</p>
 <blockquote>
-<p>(a)&nbsp;&nbsp; Please complete the <strong><a href="https://go.gov.sg/s1registration2025" rel="noopener noreferrer nofollow" target="_blank">Online Registration Form</a></strong> (Singpass
+<p>(a)&nbsp;&nbsp; Please complete the Online Registration Form (Singpass
 is required)</p>
-<p>You may also access the link here, <a rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/sec1registration2026</a>.
-You may refer to Part (E) for more information about the Start-it-Right
+<p>You may also access the link here, <a href="https://for.edu.sg/sec1registration2026" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/sec1registration2026</a>.</p>
+<p>You may refer to Part (E) for more information about the Start-it-Right
 Programme during the first four days of school.</p>
 <p>(b)&nbsp;&nbsp; The registration takes about 10 minutes. Please complete
 all fields.</p>
-<p><strong>(c)&nbsp;&nbsp; It is compulsory for parents/guardians to complete the registration.</strong> Please
-complete the registration latest by<strong>&nbsp;Friday, 19 December 2025, 11:59 p.m.</strong>
-</p>
+<p>(c)&nbsp;&nbsp; It is compulsory for parents/guardians to complete the
+registration. Please complete the registration latest by&nbsp;Friday, 19
+December 2025, 11:59 p.m.</p>
 </blockquote>
-<p>2.&nbsp;&nbsp;&nbsp; Log in to Parents Gateway (PG) mobile app (if you
-have not downloaded the app, please refer to the link, <a rel="noopener noreferrer nofollow" target="_blank">https://www.prcss.moe.edu.sg/support/parentsgateway/</a> ).</p>
-<p>3.&nbsp;&nbsp;&nbsp; Your child’s/ward’s home class allocation will be
-sent to you via PG on <strong>30 December</strong>.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp; You may also receive a message via PG to inform
-if your child is eligible for Higher Mother Tongue Language, 3<sup>rd</sup> Language
-or is eligible to offer subject(s) at a More Demanding Level by <strong>22 December, 2pm</strong>.</p>
+</li>
+<li>
+<p>Log in to Parents Gateway (PG) mobile app (if you have not downloaded
+the app, please refer to the link, <a href="https://www.prcss.moe.edu.sg/support/parentsgateway/" rel="noopener noreferrer nofollow" target="_blank">https://www.prcss.moe.edu.sg/support/parentsgateway/</a>).</p>
+</li>
+<li>
+<p>Your child’s/ward’s home class allocation will be sent to you via PG on
+30 December.</p>
+</li>
+<li>
+<p>You may also receive a message via PG to inform if your child is eligible
+for Higher Mother Tongue Language, 3rd Language or is eligible to offer
+subject(s) at a More Demanding Level by 22 December, 2pm.</p>
 <blockquote>
 <p>a.&nbsp;&nbsp;&nbsp; Higher Mother Tongue Language eligibility, or</p>
-<p>b.&nbsp;&nbsp;&nbsp; 3<sup>rd</sup> Language eligibility or</p>
+<p>b.&nbsp;&nbsp;&nbsp; 3rd Language eligibility or</p>
 <p>c.&nbsp;&nbsp;&nbsp; Offer for Subject(s) at a More Demanding level.</p>
 </blockquote>
-<p>5.&nbsp;&nbsp;&nbsp; More information on offer for Subject(s) at More
-Demanding Level will be provided during the Zoom briefing on 22 December
-2025.</p>
-<p>6.&nbsp;&nbsp;&nbsp; For parents who do not have access to PG app, please
-contact the school.</p>
+</li>
+<li>
+<p>More information on offer for Subject(s) at More Demanding Level will
+be provided during the Zoom briefing on 22 December 2025.</p>
+</li>
+<li>
+<p>For parents who do not have access to PG app, please contact the school.</p>
+</li>
+</ol>
 </blockquote>
 </div>
 </details>
@@ -764,39 +781,31 @@ level of alertness of the traffic condition.</p>
 <details class="isomer-details">
 <summary><strong>(F)&nbsp; </strong>Appeal Matters</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<ol data-tight="true" class="tight">
-<li>
-<p>Appeals for transfer out due to serious medical conditions</p>
-<blockquote>
+<p></p>
+<p>1. Appeals for transfer out due to serious medical conditions</p>
 <p>(a)&nbsp; An appeal to transfer out to another school due to compelling
 medical reasons must be submitted via email to Secondary 1 Year Head, Mr
-Jason Soo, choo_chee_siong@schools.gov.sg by 22 December 2025, 12.00 p.m.</p>
+Jason Soo, <a href="mailto:choo_chee_siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choo_chee_siong@schools.gov.sg</a> by
+22 December 2025, 12.00 p.m..</p>
 <p>(b) Things to note when appealing for a transfer:</p>
-<blockquote>
 <p>(i)&nbsp;&nbsp;&nbsp; All appeals must be accompanied by relevant supporting
-documents, such as medical reports, letters from doctors.
-<br>(ii)&nbsp;&nbsp;&nbsp; Our staff will help to file your appeal.
-<br>(iii)&nbsp;&nbsp;&nbsp; The appeal results will be released in early January.
-<br>(iv)&nbsp;&nbsp;&nbsp; If you intend to appeal for transfer out, your
+documents, such as medical reports, letters from doctors.</p>
+<p>(ii)&nbsp;&nbsp;&nbsp; Our staff will help to file your appeal.</p>
+<p>(iii)&nbsp;&nbsp;&nbsp; The appeal results will be released in early January.</p>
+<p>(iv)&nbsp;&nbsp;&nbsp; If you intend to appeal for transfer out, your
 child must still report to PRCS on the first day of school, and continue
-to attend school until the transfer is approved.
-<br>(v)&nbsp;&nbsp;&nbsp; Transfers are subjected to vacancies at the requested
+to attend school until the transfer is approved.</p>
+<p>(v)&nbsp;&nbsp;&nbsp; Transfers are subjected to vacancies at the requested
 transfer school, and MOE’s approval.</p>
-</blockquote>
-</blockquote>
-</li>
-<li>
-<p>General transfer appeals</p>
-<blockquote>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; General transfer appeals</p>
 <p>(a)&nbsp; Submissions for transfers or appeals to PRCS should be submitted
-online via this form(Singpass required) by Thursday, 24 December 2025,
+online via this form (singpass required) by Thursday, 24 December 2025,
 12.00 p.m.. Application for transfer will be based on following factors:</p>
-<blockquote>
-<p>(i) Student must meet school’s Cut-Off Points (COP) for respective posting
-group
-<br>(ii) Available school vacancies
-<br>(iii) Merits of other applicants on the school’s waitlist</p>
-</blockquote>
+<p>(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student must meet school’s
+Cut-Off Points (COP) for respective posting group</p>
+<p>(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Available school vacancies</p>
+<p>(iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Merits of other applicants
+on the school’s waitlist</p>
 <p>(b) Do note that students successfully allocated to their schools via
 the Direct Schools Admission (DSA) Exercise will not be allowed to transfer
 to another school. For successful DSA postings, students are expected to
@@ -804,11 +813,7 @@ honour their commitment to the accepting school for the duration of their
 secondary school journey. Parents are encouraged to consult the receiving
 DSA school for further advice if there are valid reasons for a transfer.</p>
 <p>(c)&nbsp; The school will contact you if your child/ward is shortlisted.</p>
-</blockquote>
-</li>
-</ol>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
