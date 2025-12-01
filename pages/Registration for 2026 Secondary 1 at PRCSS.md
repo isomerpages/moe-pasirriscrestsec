@@ -95,13 +95,13 @@ by the next working day.</p>
 <p>E-Registration.</p>
 <blockquote>
 <p>(a)&nbsp;&nbsp; Please complete the <a href="https://for.edu.sg/sec1registration2026" rel="noopener nofollow" target="_blank">Online Registration Form</a> (Singpass
-is required)</p>
-<p>You may also access the link here, <a href="https://for.edu.sg/sec1registration2026" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/sec1registration2026</a>.
+is required)
+<br>You may also access the link here, <a href="https://for.edu.sg/sec1registration2026" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/sec1registration2026</a>.
 You may refer to Part (E) for more information about the Start-it-Right
-Programme during the first four days of school.</p>
-<p>(b)&nbsp;&nbsp; The registration takes about 10 minutes. Please complete
-all fields.</p>
-<p>(c)&nbsp;&nbsp; It is <strong>compulsory </strong>for parents/guardians
+Programme during the first four days of school.
+<br>(b)&nbsp;&nbsp; The registration takes about 10 minutes. Please complete
+all fields.
+<br>(c)&nbsp;&nbsp; It is <strong>compulsory </strong>for parents/guardians
 to complete the registration. Please complete the registration latest by&nbsp;<strong>Friday, 19 December 2025, 11:59 p.m.</strong>
 </p>
 </blockquote>
@@ -118,9 +118,9 @@ the app, please refer to the link, <a href="https://www.prcss.moe.edu.sg/support
 for Higher Mother Tongue Language, 3rd Language or is eligible to offer
 subject(s) at a More Demanding Level by<strong> 22 December, 2pm</strong>.</p>
 <blockquote>
-<p>a.&nbsp;&nbsp;&nbsp; Higher Mother Tongue Language eligibility, or</p>
-<p>b.&nbsp;&nbsp;&nbsp; 3rd Language eligibility or</p>
-<p>c.&nbsp;&nbsp;&nbsp; Offer for Subject(s) at a More Demanding level.</p>
+<p>a.&nbsp;&nbsp;&nbsp; Higher Mother Tongue Language eligibility, or
+<br>b.&nbsp;&nbsp;&nbsp; 3rd Language eligibility or
+<br>c.&nbsp;&nbsp;&nbsp; Offer for Subject(s) at a More Demanding level.</p>
 </blockquote>
 </li>
 <li>
@@ -152,8 +152,8 @@ first day.&nbsp;</p>
 <p>Reporting time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.25 a.m. (In their allocated classroom at level four)</p>
-<p>The classroom location will be placed on the noticeboard at the Tower
+<p>7.25 a.m. (In their allocated classroom at level four)
+<br>The classroom location will be placed on the noticeboard at the Tower
 Block.</p>
 </td>
 </tr>
@@ -184,19 +184,19 @@ Block.</p>
 </tbody>
 </table>
 <p>(b) Students can refer to the noticeboard at the Tower Block which will
-contain more information on their classroom location.</p>
-<p>(c)&nbsp; Items to bring:</p>
+contain more information on their classroom location.
+<br>(c)&nbsp; Items to bring:</p>
 <blockquote>
-<p>1.&nbsp;&nbsp;&nbsp; An English story book</p>
-<p>2.&nbsp;&nbsp;&nbsp; Stationery</p>
+<p>1.&nbsp;&nbsp;&nbsp; An English story book
+<br>2.&nbsp;&nbsp;&nbsp; Stationery</p>
 </blockquote>
 <p>(a)&nbsp; Bring a photocopy of the following documents for the Pupil Confidential
 File:</p>
 <blockquote>
-<p>1.&nbsp;&nbsp;&nbsp; Passport/Student Pass (for foreign student)</p>
-<p>2.&nbsp;&nbsp;&nbsp; PSLE results slip</p>
-<p>3.&nbsp;&nbsp;&nbsp; Mother Tongue Language exemption letter (if applicable)</p>
-<p>4.&nbsp;&nbsp;&nbsp; Any documents deemed useful by parents/guardians
+<p>1.&nbsp;&nbsp;&nbsp; Passport/Student Pass (for foreign student)
+<br>2.&nbsp;&nbsp;&nbsp; PSLE results slip
+<br>3.&nbsp;&nbsp;&nbsp; Mother Tongue Language exemption letter (if applicable)
+<br>4.&nbsp;&nbsp;&nbsp; Any documents deemed useful by parents/guardians
 (e.g. Medical Report)</p>
 </blockquote>
 </blockquote>
@@ -207,23 +207,23 @@ File:</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <blockquote>
 <p>(a)&nbsp; The programme will be conducted on<strong> 2 January </strong>and<strong> </strong>from<strong> 5 to 7 January 2026 </strong>to
-help your child/ward transition smoothly into secondary school life.</p>
-<p>(b) The programme will include activities to bond with their classmates
+help your child/ward transition smoothly into secondary school life.
+<br>(b) The programme will include activities to bond with their classmates
 and introduction to the teachers and school environment. The programme
 culminates in a closing ceremony where parents/guardians are invited to
 accompany the child/ward in their completion of several days of activities,
 signifying the new beginning in his/her secondary school life. Please indicate
 in the registration form if you would be attending the closing ceremony
-at <strong>1.30 p.m.</strong>.</p>
-<p>(c)&nbsp; The attire is PRCS PE shirt and PE shorts <strong>or</strong> Primary
-School PE attire.</p>
-<p>(d) Bring an English story book for reading, stationery, and water bottle.</p>
-<p>(e)&nbsp; The school has arranged for the taking of passport-sized photographs
+at <strong>1.30 p.m.</strong>.
+<br>(c)&nbsp; The attire is PRCS PE shirt and PE shorts <strong>or</strong> Primary
+School PE attire.
+<br>(d) Bring an English story book for reading, stationery, and water bottle.
+<br>(e)&nbsp; The school has arranged for the taking of passport-sized photographs
 on <strong>Monday, 5 January 2026</strong>. These photographs will be used
 for the <strong>Pupil Confidential File</strong> and other official school
 purposes. Please note that your child/ward is required to make payment
-of <strong>$3.50 </strong>directly to the vendor.&nbsp;</p>
-<p>(f)&nbsp;&nbsp; Refer to the table below for dismissal time during the
+of <strong>$3.50 </strong>directly to the vendor.&nbsp;
+<br>(f)&nbsp;&nbsp; Refer to the table below for dismissal time during the
 SIR programme only.</p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -392,8 +392,8 @@ in the table to indicate your preferred option and make the necessary arrangemen
 <p>Size</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Estimated Pit-to-pit measurement (in cm)</p>
-<p>Actual measurement may vary</p>
+<p>Estimated Pit-to-pit measurement (in cm)
+<br>Actual measurement may vary</p>
 </td>
 </tr>
 <tr>
@@ -507,8 +507,8 @@ Teacher Meeting and CCA Briefing</p>
 <blockquote>
 <p>(a)&nbsp; We would like to invite all parents and students to attend the
 Secondary One Parent Teacher Meeting and CCA Briefing on <strong>Saturday, 17 January 2026, from 8.00 a.m. to 11.00 a.m. </strong>in
-the school.</p>
-<p>(b) More information on the briefing will be provided nearer the date.</p>
+the school.
+<br>(b) More information on the briefing will be provided nearer the date.</p>
 </blockquote>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parent Support
 Group</p>
@@ -520,27 +520,27 @@ and Minds of Crestian Leaders to be the pride of family, community and
 nation'. The PSG is a network of parents that also supports the holistic
 development of Crestians through participation in and organisation of school
 activities (e.g. Education and Career Sharing, Overcomers’ Run) and PSG-related
-programmes for parents and students.</p>
-<p>(b) Find out more about PRCS PSG by clicking on this <a href="https://sites.google.com/moe.edu.sg/prcss-psg/psg-home" rel="noopener nofollow" target="_blank">link</a>.</p>
-<p>(c)&nbsp; If you would like to play an active role or be involved in PRCS
+programmes for parents and students.
+<br>(b) Find out more about PRCS PSG by clicking on this <a href="https://sites.google.com/moe.edu.sg/prcss-psg/psg-home" rel="noopener nofollow" target="_blank">link</a>.
+<br>(c)&nbsp; If you would like to play an active role or be involved in PRCS
 PSG events, please sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLScz_aMWALubDvnByaW0F14tudbVFG6NRpve_DxlG3YH3_3hfA/viewform" rel="noopener nofollow" target="_blank">here</a>.</p>
 </blockquote>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parenting workshops</p>
 <blockquote>
 <p>(a)&nbsp; Care Corner is an MSF-appointed Families For Life @ Community
-provider for PRCSS.</p>
-<p>(b) As teens undergo the transition to adulthood, the emotional and physical
+provider for PRCSS.
+<br>(b) As teens undergo the transition to adulthood, the emotional and physical
 changes they experience may overwhelm them. How can parents support them
 through these transitions?</p>
 <p>Care Corner will be conducting a talk on <strong>Supporting Our Teenagers Through Transitions</strong>.</p>
 <p>Learn simple and practical strategies over a series of 2 seminars based
 on principles of positive parenting to:</p>
 <blockquote>
-<p>1.&nbsp;&nbsp;&nbsp; Understand youth developmental stages</p>
-<p>2.&nbsp;&nbsp;&nbsp; Learn how to support your youth through transitions</p>
-<p>3.&nbsp;&nbsp;&nbsp; Manage difficult problem behaviours</p>
-<p>4.&nbsp;&nbsp;&nbsp; Encourage responsible decision-making</p>
-<p>5.&nbsp;&nbsp;&nbsp; Build healthy relationships with youths&nbsp;</p>
+<p>1.&nbsp;&nbsp;&nbsp; Understand youth developmental stages
+<br>2.&nbsp;&nbsp;&nbsp; Learn how to support your youth through transitions
+<br>3.&nbsp;&nbsp;&nbsp; Manage difficult problem behaviours
+<br>4.&nbsp;&nbsp;&nbsp; Encourage responsible decision-making
+<br>5.&nbsp;&nbsp;&nbsp; Build healthy relationships with youths&nbsp;</p>
 </blockquote>
 <p>(c)&nbsp; More information is in the poster below.</p>
 </blockquote>
@@ -552,16 +552,15 @@ Assistance Scheme (FAS) Application (If applicable)</p>
 <blockquote>
 <p>(a)&nbsp; The objective of the MOE FAS is to help financially needy Singaporean
 students in Government and Government-aided schools to meet basic schooling
-expenses.</p>
-<p>(b) Eligibility Criteria</p>
-<p>Student must be a Singapore citizen enrolled in a Government or Government-aided
+expenses.
+<br>(b) Eligibility Criteria
+<br>Student must be a Singapore citizen enrolled in a Government or Government-aided
 school and meets either one of the following criteria:</p>
 <blockquote>
 <p>(i)&nbsp;&nbsp; Gross household income (GHI) as at the time of application
-does not exceed $4000 per month; or</p>
-<p>(ii)&nbsp; Household per capita income (PCI) as at the time of application
+does not exceed $4000 per month; or
+<br>(ii)&nbsp; Household per capita income (PCI) as at the time of application
 does not exceed $1000 per month.
-<br>
 <br>PCI = Monthly GHI / No. of members in the same household</p>
 </blockquote>
 <p>(c)&nbsp; You may may submit your application online via this website:
