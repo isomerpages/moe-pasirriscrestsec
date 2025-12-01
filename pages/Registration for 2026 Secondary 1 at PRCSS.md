@@ -53,8 +53,8 @@ be conducted virtually.</p>
 you through the Secondary 1 Registration process:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>(A)&nbsp; </strong>Zoom Briefing details for Secondary 1 students
-and parents</summary>
+<summary><strong>(A)&nbsp; Zoom Briefing details for Secondary 1 students and parents</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <blockquote>
 <ol data-tight="true" class="tight">
@@ -82,7 +82,8 @@ the session.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>(B)&nbsp; </strong>Online Registration</summary>
+<summary><strong>(B)&nbsp; Online Registration</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <blockquote>
 <p>Please ensure that you have your Parents Gateway (PG) mobile app ready
@@ -137,7 +138,8 @@ be provided during the Zoom briefing on <strong>22 December 2025.</strong>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>(C)&nbsp; </strong>First Day of School (2 January)</summary>
+<summary><strong>(C)&nbsp; First Day of School (2 January)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <blockquote>
 <p>(a)&nbsp; Refer to the table for the reporting time and attire on the
@@ -204,7 +206,8 @@ File:</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>(D)&nbsp; </strong>Start It Right Programme (2, and 5 to 7 January)</summary>
+<summary><strong>(D)&nbsp; Start It Right Programme (2, and 5 to 7 January)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <blockquote>
 <p>(a)&nbsp; The programme will be conducted on<strong> 2 January </strong>and<strong> </strong>from<strong> 5 to 7 January 2026 </strong>to
@@ -326,7 +329,8 @@ signifying the new beginning in his/her secondary school life.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>(E)&nbsp; </strong>Administrative Matters</summary>
+<summary><strong>(E)&nbsp; Administrative Matters</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <blockquote>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Purchase of new
@@ -747,7 +751,8 @@ level of alertness of the traffic condition.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>(F)&nbsp; </strong>Appeal Matters</summary>
+<summary><strong>(F)&nbsp; Appeal Matters</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ol data-tight="true" class="tight">
 <li>
