@@ -165,7 +165,7 @@ Block.</p>
 <p>Attire:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PRCS PE shirt (see image B) and PE shorts or Primary School PE attire</p>
+<p>PRCS PE shirt and PE shorts or Primary School PE attire</p>
 </td>
 </tr>
 <tr>
