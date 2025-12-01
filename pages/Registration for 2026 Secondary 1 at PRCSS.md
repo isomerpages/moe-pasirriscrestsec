@@ -638,14 +638,10 @@ CCA timing and school attire.</p>
 <p>3.15 p.m. to 5.45 p.m.</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Full School Uniform</p>
-<p>OR</p>
-<p>PE shirt with school bermudas or school skirt</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>Full School Uniform
+<br>OR
+<br>PE shirt with school bermudas or
+<br>school skirt</p>
 </td>
 </tr>
 <tr>
