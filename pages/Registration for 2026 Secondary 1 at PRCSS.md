@@ -564,7 +564,8 @@ does not exceed $1000 per month.
 <br>PCI = Monthly GHI / No. of members in the same household</p>
 </blockquote>
 <p>(c)&nbsp; You may may submit your application online via this website:
-<a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>(Singpass is required)</p>
+<a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
+<br>(Singpass is required)</p>
 <p>(d) If you do not meet the eligibility criteria of the MOE FAS, but require
 financial assistance, do visit <a href="https://www.prcss.moe.edu.sg/support/financial-assistance/" rel="noopener noreferrer nofollow" target="_blank">https://www.prcss.moe.edu.sg/support/financial-assistance/</a> or
 approach the school staff at the school’s General Office for assistance.</p>
