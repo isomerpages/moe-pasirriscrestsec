@@ -62,19 +62,14 @@ and parents</summary>
 <p>Parents are encouraged to join us via Zoom for a welcome address by Principal,
 Year Head, and Subject-Based Banding briefing by the teacher in-charge.</p>
 <blockquote>
-<p><strong>Date: </strong>Monday, 22 December 2025</p>
-<p><strong>Time: </strong>9.00 a.m. to 11.00 a.m.</p>
-<p>Click on the following to join Zoom Meeting</p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/63884886174?pwd=0WpIbC2BB7yHFKYg5OJtz5wgSOK2Ma.1</a></strong>
-</p>
-<p><strong>Meeting ID: 638 8488 6174</strong>
-</p>
-<p><strong>Passcode: 502477</strong>
-</p>
-<p>For security reasons, please use this format for your login username.</p>
-<p><strong>Login username: PRCS/ Child’s name</strong>
-</p>
-<p>(<em>Only participants with the suggested format for the login username will be admitted into the briefing</em>)</p>
+<p><strong>Date: </strong>Monday, 22 December 2025
+<br><strong>Time: </strong>9.00 a.m. to 11.00 a.m.
+<br>Click on the following to join Zoom Meeting
+<br><strong><a rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/63884886174?pwd=0WpIbC2BB7yHFKYg5OJtz5wgSOK2Ma.1</a></strong>
+<br><strong>Meeting ID: 638 8488 6174</strong>
+<br><strong>Passcode: 502477</strong>
+<br>For security reasons, please use this format for your login username.
+<br><strong>Login username: PRCS/ Child’s name </strong>(<em>Only participants with the suggested format for the login username will be admitted into the briefing</em>)</p>
 </blockquote>
 </li>
 <li>
@@ -269,9 +264,7 @@ SIR programme only.</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Orientation activities conducted by our Crestian Senior Leaders in school.</p>
-<p>&nbsp;</p>
 <p>Canteen is open for recess and lunch.</p>
-<p>&nbsp;</p>
 <p>Note: Bring $3.50 for photo taking on 5 Jan, Monday.</p>
 </td>
 </tr>
@@ -301,11 +294,8 @@ SIR programme only.</p>
 <td rowspan="1" colspan="1">
 <p>Day camp where there will be team bonding activities and campfire (in
 the evening) conducted in school.</p>
-<p>&nbsp;</p>
 <p>Canteen is open for recess and lunch.</p>
-<p>&nbsp;</p>
 <p>Halal packed meal will be catered during dinner for all students.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -321,22 +311,18 @@ the evening) conducted in school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sports Education Programme (SEP) – Sports Exposure</strong>
-</p>
-<p>
-<br><a rel="noopener noreferrer nofollow" target="_blank">Bowling workshop at external venues.</a>
-</p>
-<p>
+<br>Bowling workshop at external venues.
+<br>
 <br>Students are advised to have breakfast before reporting to school, as
-there will be no break during the workshop.</p>
-<p>&nbsp;</p>
-<p>Ends off with a closing ceremony where parents/guardians are invited to
+there will be no break during the workshop.
+<br>
+<br>Ends off with a closing ceremony where parents/guardians are invited to
 accompany the child/ward in their completion of several days of activities,
 signifying the new beginning in his/her secondary school life.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 </blockquote>
 </div>
 </details>
@@ -347,18 +333,18 @@ signifying the new beginning in his/her secondary school life.</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Purchase of new
 Uniform and Textbooks</p>
 <blockquote>
-<p>(a)&nbsp; Click on the link below for 2026 booklists.</p>
-<p><a href="https://www.prcss.moe.edu.sg/2026-prcs-booklist-and-uniform-purchase/" rel="noopener noreferrer nofollow" target="_blank">https://www.prcss.moe.edu.sg/2026-prcs-booklist-and-uniform-purchase/</a> 
+<p>(a)&nbsp; Click on the link below for 2026 booklists.
+<br><a href="https://www.prcss.moe.edu.sg/2026-prcs-booklist-and-uniform-purchase/" rel="noopener noreferrer nofollow" target="_blank">https://www.prcss.moe.edu.sg/2026-prcs-booklist-and-uniform-purchase/</a> 
 <br>If your child is taking up the Offer for Subject(s) at More Demanding
 Level, refer to the booklist for the indicative level of the subject i.e.
-G3, G2, for the appropriate textbooks/workbooks to purchase.</p>
-<p>(b) To manage the crowd on-site and reduce wait-times, the school has
+G3, G2, for the appropriate textbooks/workbooks to purchase.
+<br>(b) To manage the crowd on-site and reduce wait-times, the school has
 made arrangements for parents/ students to opt either for self-collection
 (during pre-assigned slots based on the booklist); or paid delivery, when
-ordering textbooks and uniforms during the end of year sales period.&nbsp;</p>
-<p>(c)&nbsp; Walk-in purchase of textbooks is strictly by appointment only.
-<br>You may book your walk-in purchase at <a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a>.</p>
-<p>(d) Please contact the school bookshop and uniform vendor using the information
+ordering textbooks and uniforms during the end of year sales period.&nbsp;
+<br>(c)&nbsp; Walk-in purchase of textbooks is strictly by appointment only.
+<br>You may book your walk-in purchase at <a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a>.
+<br>(d) Please contact the school bookshop and uniform vendor using the information
 in the table to indicate your preferred option and make the necessary arrangements.</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -372,12 +358,9 @@ in the table to indicate your preferred option and make the necessary arrangemen
 </td>
 <td rowspan="1" colspan="1">
 <p>Online platform:&nbsp;<a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a>
-</p>
-<p>Email: <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
-</p>
-<p>Contact number: 6929 8012 / 6559 2269</p>
-<p>&nbsp;</p>
-<p>Online purchase guide: <a href="https://www.prcss.moe.edu.sg/files/Booklist/2026/PRCSS___PACIFIC_BOOKSTORES_Purchase_Information_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.prcss.moe.edu.sg/files/Booklist/2026/PRCSS___PACIFIC_BOOKSTORES_Purchase_Information_2025.pdf</a>&nbsp;</p>
+<br>Email: <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
+<br>Contact number: 6929 8012 / 6559 2269
+<br>Online purchase guide: <a href="https://www.prcss.moe.edu.sg/files/Booklist/2026/PRCSS___PACIFIC_BOOKSTORES_Purchase_Information_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.prcss.moe.edu.sg/files/Booklist/2026/PRCSS___PACIFIC_BOOKSTORES_Purchase_Information_2025.pdf</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -386,12 +369,9 @@ in the table to indicate your preferred option and make the necessary arrangemen
 </td>
 <td rowspan="1" colspan="1">
 <p>Online platform: <a href="https://asencio.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg/</a>
-</p>
-<p>Email: <a href="mailto:prcs@asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">prcs@asencio.com.sg</a>
-</p>
-<p>Contact number: 6764 3102</p>
-<p>&nbsp;</p>
-<p>Online ordering guide: <a href="https://www.prcss.moe.edu.sg/files/Booklist/2026/Pasir_Ris_Crest_Secondary_School_online_ordering_guide___08102025.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.prcss.moe.edu.sg/files/Booklist/2026/Pasir_Ris_Crest_Secondary_School_online_ordering_guide___08102025.pdf</a>
+<br>Email: <a href="mailto:prcs@asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">prcs@asencio.com.sg</a>
+<br>Contact number: 6764 3102
+<br>Online ordering guide: <a href="https://www.prcss.moe.edu.sg/files/Booklist/2026/Pasir_Ris_Crest_Secondary_School_online_ordering_guide___08102025.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.prcss.moe.edu.sg/files/Booklist/2026/Pasir_Ris_Crest_Secondary_School_online_ordering_guide___08102025.pdf</a>
 </p>
 </td>
 </tr>
@@ -504,11 +484,9 @@ Scheme, please access the booking link/email below to make your purchases.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>E-appointment link: <a href="https://www.pacificbookstores.com/appointment/book" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/appointment/book</a>
-</p>
-<p>Email:&nbsp;<a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
-</p>
-<p>Tel: 6929 8012</p>
-<p>NOTE: Kindly wait for school results if you have applied for FAS. Do not
+<br>Email:&nbsp;<a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
+<br>Tel: 6929 8012
+<br>NOTE: Kindly wait for school results if you have applied for FAS. Do not
 purchase books in advance.</p>
 </td>
 </tr>
@@ -518,8 +496,7 @@ purchase books in advance.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Email:&nbsp;<a href="mailto:prcs@asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">prcs@asencio.com.sg</a>
-</p>
-<p>Tel: 6764 3102</p>
+<br>Tel: 6764 3102</p>
 </td>
 </tr>
 </tbody>
@@ -783,19 +760,19 @@ level of alertness of the traffic condition.</p>
 <p>Appeals for transfer out due to serious medical conditions</p>
 <blockquote>
 <p>(a) An appeal to transfer out to another school due to compelling medical
-reasons must be submitted via email to Secondary 1 Year Head, Mr Jason
-Soo, <a href="mailto:choo_chee_siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choo_chee_siong@schools.gov.sg</a> by <strong>22 December 2025, 12.00 p.m</strong>..</p>
-<p><strong>(b) Things to note when appealing for a transfer:</strong>
+reasons must be submitted via email to Secondary 1 Year Head, Mr Choo Chee
+Siong, <a href="mailto:choo_chee_siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choo_chee_siong@schools.gov.sg</a> by <strong>22 December 2025, 12.00 p.m</strong>..
+<br><strong>(b) Things to note when appealing for a transfer:</strong>
 </p>
 <blockquote>
 <p>(i) All appeals must be accompanied by relevant supporting documents,
-such as medical reports, letters from doctors.</p>
-<p>(ii) Our staff will help to file your appeal.</p>
-<p>(iii) The appeal results will be released in early January.</p>
-<p>(iv) If you intend to appeal for transfer out, your child must still report
+such as medical reports, letters from doctors.
+<br>(ii) Our staff will help to file your appeal.
+<br>(iii) The appeal results will be released in early January.
+<br>(iv) If you intend to appeal for transfer out, your child must still report
 to PRCS on the first day of school, and continue to attend school until
-the transfer is approved.</p>
-<p>(v) Transfers are subjected to vacancies at the requested transfer school,
+the transfer is approved.
+<br>(v) Transfers are subjected to vacancies at the requested transfer school,
 and MOE’s approval.</p>
 </blockquote>
 </blockquote>
@@ -809,17 +786,17 @@ required) by <strong>Thursday, 24 December 2025, 12.00 p.m.</strong>. Applicatio
 for transfer will be based on following factors:</p>
 <blockquote>
 <p>(i) Student must meet school’s Cut-Off Points (COP) for respective posting
-group</p>
-<p>(ii)&nbsp;Available school vacancies</p>
-<p>(iii) Merits of other applicants on the school’s waitlist</p>
+group
+<br>(ii)&nbsp;Available school vacancies
+<br>(iii) Merits of other applicants on the school’s waitlist</p>
 </blockquote>
 <p>(b) Do note that students successfully allocated to their schools via
 the Direct Schools Admission (DSA) Exercise will not be allowed to transfer
 to another school. For successful DSA postings, students are expected to
 honour their commitment to the accepting school for the duration of their
 secondary school journey. Parents are encouraged to consult the receiving
-DSA school for further advice if there are valid reasons for a transfer.</p>
-<p>(c) The school will contact you if your child/ward is shortlisted.</p>
+DSA school for further advice if there are valid reasons for a transfer.
+<br>(c) The school will contact you if your child/ward is shortlisted.</p>
 </blockquote>
 </li>
 </ol>
