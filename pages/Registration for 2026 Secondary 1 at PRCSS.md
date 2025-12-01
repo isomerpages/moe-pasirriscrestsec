@@ -35,8 +35,8 @@ be conducted virtually.</p>
 <p>22 December 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Eligibility offer for Higher Mother Tongue Language, 3<sup>rd</sup> Language<strong> or</strong> subject(s)
-at a More Demanding Level (Subjected to students who met criteria)</p>
+<p>Eligibility offer for Higher Mother Tongue Language, 3<sup>rd</sup> Language<strong> or</strong> 
+<br>subject(s) at a More Demanding Level (Subjected to students who met criteria)</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +69,8 @@ Year Head, and Subject-Based Banding briefing by the teacher in-charge.</p>
 <br><strong>Meeting ID: 638 8488 6174</strong>
 <br><strong>Passcode: 502477</strong>
 <br>For security reasons, please use this format for your login username.
-<br><strong>Login username: PRCS/ Child’s name </strong>(<em>Only participants with the suggested format for the login username will be admitted into the briefing</em>)</p>
+<br><strong>Login username: PRCS/ Child’s name </strong>
+<br>(<em>Only participants with the suggested format for the login username will be admitted into the briefing</em>)</p>
 </blockquote>
 </li>
 <li>
@@ -253,8 +254,8 @@ SIR programme only.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 January,</p>
-<p>Friday</p>
+<p>2 January,
+<br>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.25 a.m.</p>
@@ -270,8 +271,8 @@ SIR programme only.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 January,</p>
-<p>Monday</p>
+<p>5 January,
+<br>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.25 a.m.</p>
@@ -282,8 +283,8 @@ SIR programme only.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 January,</p>
-<p>Tuesday</p>
+<p>6 January,
+<br>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.25 a.m.</p>
@@ -293,15 +294,15 @@ SIR programme only.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Day camp where there will be team bonding activities and campfire (in
-the evening) conducted in school.</p>
-<p>Canteen is open for recess and lunch.</p>
-<p>Halal packed meal will be catered during dinner for all students.</p>
+the evening) conducted in school.
+<br>Canteen is open for recess and lunch.
+<br>Halal packed meal will be catered during dinner for all students.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 January,</p>
-<p>Wednesday</p>
+<p>7 January,
+<br>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.00 a.m.</p>
@@ -312,10 +313,8 @@ the evening) conducted in school.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Sports Education Programme (SEP) – Sports Exposure</strong>
 <br>Bowling workshop at external venues.
-<br>
 <br>Students are advised to have breakfast before reporting to school, as
 there will be no break during the workshop.
-<br>
 <br>Ends off with a closing ceremony where parents/guardians are invited to
 accompany the child/ward in their completion of several days of activities,
 signifying the new beginning in his/her secondary school life.</p>
