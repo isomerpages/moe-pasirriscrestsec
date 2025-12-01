@@ -186,6 +186,9 @@ Block.</p>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_b.png">
+</div>
 <p>(b) Students can refer to the noticeboard at the Tower Block which will
 contain more information on their classroom location.
 <br>(c)&nbsp; Items to bring:</p>
