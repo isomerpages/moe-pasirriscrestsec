@@ -565,16 +565,16 @@ does not exceed $1000 per month.
 </blockquote>
 <p>(c)&nbsp; You may may submit your application online via this website:
 <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
-<br>(Singpass is required)</p>
-<p>(d) If you do not meet the eligibility criteria of the MOE FAS, but require
+<br>(Singpass is required)
+<br>(d) If you do not meet the eligibility criteria of the MOE FAS, but require
 financial assistance, do visit <a href="https://www.prcss.moe.edu.sg/support/financial-assistance/" rel="noopener noreferrer nofollow" target="_blank">https://www.prcss.moe.edu.sg/support/financial-assistance/</a> or
 approach the school staff at the school’s General Office for assistance.</p>
 </blockquote>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interbank GIRO</p>
 <blockquote>
 <p>(a)&nbsp; We encourage all students to sign up for GIRO application for
-payment of school fees.</p>
-<p>(b) You may submit the eGIRO application through this link, if you have
+payment of school fees.
+<br>(b) You may submit the eGIRO application through this link, if you have
 not signed up for GIRO payment with your child’s primary school.</p>
 </blockquote>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reporting Time,
@@ -695,23 +695,23 @@ CCA timing and school attire.</p>
 </table>
 <p>(b) To support our students’ transition to a Secondary School, CCA will
 only commence on <strong>Thursday, 26 February 2026</strong> for Secondary
-One students.</p>
-<p>(c)&nbsp; See below point 9(b) for CCA trials for Sec One students.</p>
-<p>(d) For safety reasons, students are not allowed to leave school before
+One students.
+<br>(c)&nbsp; See below point 9(b) for CCA trials for Sec One students.
+<br>(d) For safety reasons, students are not allowed to leave school before
 CCA.</p>
 </blockquote>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CCA Trials</p>
 <blockquote>
 <p>(a)&nbsp; Our school conduct CCA trials for Sec One students where students
 get to experience different CCAs before selecting their choices for CCA.
-Our school has a range of 17 CCAs for the students to choose from.</p>
-<p>(b) To enable Secondary One students to gain a better understanding of
+Our school has a range of 17 CCAs for the students to choose from.
+<br>(b) To enable Secondary One students to gain a better understanding of
 the requirements of the various CCAs, the school will be conducting CCA
 trials during the CCA sessions on <strong>27 and 29 January</strong>, as
 well as<strong> 3, 5, and 10 February 2026</strong>. The sessions will
 run until <strong>5.45 p.m</strong>. on Tuesdays and Thursdays. Attendance
-is compulsory.</p>
-<p>(c)&nbsp; More details on the CCA trials will be shared during the Secondary
+is compulsory.
+<br>(c)&nbsp; More details on the CCA trials will be shared during the Secondary
 1 Parent-Teacher Meeting and CCA Open House on <strong>Saturday, 17 January 2026.</strong>
 </p>
 </blockquote>
@@ -720,8 +720,8 @@ Secondary Level School Smart Cards (SSC)</p>
 <blockquote>
 <p>(a)&nbsp; All students entering Secondary One in January 2026 will be
 issued with a new Secondary level School Smart Card (SSC). MOE will inform
-the school of the delivery dates in due course.</p>
-<p>(b) While Secondary One students are waiting for their Secondary level
+the school of the delivery dates in due course.
+<br>(b) While Secondary One students are waiting for their Secondary level
 SSCs to be ready, they can continue to use their Primary level SSCs for
 concessionary travel till further updates from Transitlink office. Students
 can still purchase the Bus Concession Pass (BCP) using their Primary level
@@ -732,20 +732,19 @@ SSCs but they will need to purchase the BCP for Secondary School students.</p>
 of your child/ward.</p>
 <blockquote>
 <p>(a)&nbsp; Parents can drop off child/ward at the bus stop just outside
-the school.</p>
-<p>(b) Parents who drive your child/ward to school in the morning are to
-turn left when exiting the school from 07.00 a.m. to 08.00 a.m..</p>
-<p>(c)&nbsp; Kindly follow the traffic markings within the school and only
+the school.
+<br>(b) Parents who drive your child/ward to school in the morning are to
+turn left when exiting the school from 07.00 a.m. to 08.00 a.m
+<br>(c)&nbsp; Kindly follow the traffic markings within the school and only
 drop off your child/ward at the designated drop off point, i.e. the School
 Tower (Refer to the “Drop Off/ Pick Up Point” in image A below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_a.png">
 </div>
 <p><strong>Image A</strong>
-</p>
-<p>(d) Remind your child/ward not to jaywalk but use the pedestrian crossings
-at all times.</p>
-<p>(e)&nbsp; Advise your child/ward not to use earphones/headphones or use
+<br>(d) Remind your child/ward not to jaywalk but use the pedestrian crossings
+at all times.
+<br>(e)&nbsp; Advise your child/ward not to use earphones/headphones or use
 his/her mobile phone when walking to school, as it would reduce his/her
 level of alertness of the traffic condition.</p>
 </blockquote>
