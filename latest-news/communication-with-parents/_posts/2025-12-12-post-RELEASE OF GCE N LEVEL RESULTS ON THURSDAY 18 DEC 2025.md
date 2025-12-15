@@ -50,7 +50,7 @@ a proxy. Please do so before 18 Dec.</p>
 </p>
 </li>
 <li>
-<p>Direct-Entry Scheme to Polytechnic Programme (DPP): <a rel="noopener noreferrer nofollow" target="_blank">http://www.ite.edu.sg/wps/portal/definitely-des</a>
+<p>Direct-Entry Scheme to Polytechnic Programme (DPP): <a href="https://www.ite.edu.sg/secondary-school-students/admissions/entry-qualifications/gce-n-level/" rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/secondary-school-students/admissions/entry-qualifications/gce-n-level/</a>
 </p>
 </li>
 <li>
