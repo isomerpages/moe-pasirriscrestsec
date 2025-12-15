@@ -32,17 +32,13 @@ to collect the results.&nbsp; Proxies are required to produce the relevant
 documents (Photo ID for identification &amp; Letter of Authorisation) for
 the school’s verification when collecting the results.
 <br>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School candidates may contact the school
-through your Form Teacher for assistance if candidates are unable to appoint
+through your Home Tutor for assistance if candidates are unable to appoint
 a proxy. Please do so before 18 Dec.</p>
 <p><strong>Others: Useful Links and Resources</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>Social and Emotional Learning Resources for Parents/Guardians to support your child/ward:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>&nbsp; </em><strong><em>(TBC with Daphnie)</em></strong>
-</p>
-</li>
-<li>
-<p><em>What’s Next Pamphlet:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a> </em><strong><em>(TBC with Daphnie)</em></strong>
+<p>What’s Next Pamphlet:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-nlevel</a>
 </p>
 </li>
 <li>
@@ -58,9 +54,11 @@ a proxy. Please do so before 18 Dec.</p>
 </p>
 </li>
 <li>
-<p>Letter of Authorisation&nbsp;(Appointment of proxy for school candidates
-who are unable to collect their results in person)</p>
+<p><a href="/files/Authorisation_Letter___N_Level.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter of Authorisation</a>&nbsp;(Appointment
+of proxy for school candidates who are unable to collect their results
+in person)</p>
 </li>
 </ul>
-<p><em>&nbsp;</em><strong>All the Best to You CRESTIANS! See You on 18 Dec!</strong>
+<p><em>&nbsp;</em>
+<br><strong>All the Best to You CRESTIANS! See You on 18 Dec!</strong>
 </p>
