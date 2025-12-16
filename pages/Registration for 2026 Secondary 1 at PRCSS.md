@@ -5,9 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>Registration for 2026 Secondary 1 at Pasir Ris Crest Secondary School</strong></h1>
-<p>&nbsp;Congratulations on your posting to Pasir Ris Crest Secondary School
-(PRCS) to commence your journey in secondary school education. Our school’s
-vision is “Our Caring Home, Our CRESTian Leaders” and we are happy to support
+<p>Dear Crestians,</p>
+<p>Congratulations on your posting to Pasir Ris Crest Secondary School (PRCS)
+to commence your journey in secondary school education. Our school’s vision
+is “Our Caring Home, Our CRESTian Leaders” and we are happy to support
 you on a new phase of your development as we officially welcome you into
 the Crestian family!</p>
 <p>You <strong>do not need</strong> to report physically to PRCS following

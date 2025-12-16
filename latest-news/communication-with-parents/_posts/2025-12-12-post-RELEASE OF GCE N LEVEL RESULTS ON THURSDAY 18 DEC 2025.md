@@ -54,7 +54,7 @@ a proxy. Please do so before 18 Dec.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Authorisation_Letter___N_Level.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter of Authorisation</a>&nbsp;(Appointment
+<p><a href="/files/N_level_proxy_form_2021.pdf" rel="noopener nofollow" target="_blank">Proxy Form</a>&nbsp;(Appointment
 of proxy for school candidates who are unable to collect their results
 in person)</p>
 </li>
