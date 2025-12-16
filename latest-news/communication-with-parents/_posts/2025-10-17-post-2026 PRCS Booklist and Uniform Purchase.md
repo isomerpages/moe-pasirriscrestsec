@@ -33,5 +33,3 @@ variant: tiptap
 Name Tags with the Uniform</p>
 </blockquote>
 <p></p>
-<p></p>
-<p></p>
