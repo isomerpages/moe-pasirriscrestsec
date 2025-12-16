@@ -22,18 +22,14 @@ variant: tiptap
 - 22/10/2025)
 <br>4. <a href="/files/Booklist/2026/SEC_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a>
 <br>5. <a href="/files/Booklist/2026/SEC_5__NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5</a>
-</p>
-<p>*Only Male Students are to purchase the Tie from the Bookshop</p>
+<br>*Only Male Students are to purchase the Tie from the Bookshop</p>
 </blockquote>
 <hr>
 <h4><strong>2. Uniform Vendor</strong></h4>
 <blockquote>
 <p>Uniform Vendor: <strong><a href="https://asencio.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Asencio</a></strong>
-<br><a href="/files/Booklist/2026/Pasir_Ris_Crest_Secondary_School_online_ordering_guide___08102025.pdf" rel="noopener noreferrer nofollow" target="_blank">Online Purchase Guide - PRCSS - Uniform</a>
-</p>
-<p>**All students are&nbsp;<strong>NOT REQUIRED</strong>&nbsp;to purchase
+<br>Online Purchase Guide for Uniform - PRCSS - <a href="/files/ascencioonline.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+<br>**All students are&nbsp;<strong>NOT REQUIRED</strong>&nbsp;to purchase
 Name Tags with the Uniform</p>
 </blockquote>
-<p></p>
-<p></p>
 <p></p>

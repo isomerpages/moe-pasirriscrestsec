@@ -20,6 +20,11 @@ sections:
         - title: PDLP Service Center
           description: ""
           url: /change-in-lenovo-authorised-service-centre-for-pld/
+  - infobar:
+      title: Registration for 2026 Secondary 1 at PRCSS
+      id: infobar
+      button: Click here for more info
+      url: https://sites.google.com/moe.edu.sg/prcss-reg-2026-secondary1/registration-2026
   - resources:
       title: LATEST ANNOUNCEMENTS
       button: PREVIOUS ANNOUNCEMENTS
