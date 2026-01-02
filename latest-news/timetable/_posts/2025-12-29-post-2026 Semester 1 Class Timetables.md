@@ -11,7 +11,6 @@ variant: tiptap
 <p>Dear Crestians/Parents/Guardians,</p>
 <p>Please click on the link below to access the class timetable for Semester
 1 2026.</p>
-<p><a href="/files/Timetable_Announcement/2026/2026_Sem1_Classes_TT_Student_Version__28_12_25_.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
-<p></p>
+<p><a href="/files/Timetable_Announcement/2026/2026_Sem1_Classes_TT__30_12_25__Student_Version.pdf" rel="noopener nofollow" target="_blank">Click Here</a> (Updated
+30th December 2025)</p>
 <p>Thank you</p>
