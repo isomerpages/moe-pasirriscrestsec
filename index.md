@@ -14,9 +14,6 @@ sections:
         - title: School Calendar
           description: ""
           url: /prcs-calendar/
-        - title: Release of 2025 GCE O-Levels
-          description: ""
-          url: /2025-release-of-gce-o-level-results/
         - title: PDLP Service Center
           description: ""
           url: /change-in-lenovo-authorised-service-centre-for-pld/
