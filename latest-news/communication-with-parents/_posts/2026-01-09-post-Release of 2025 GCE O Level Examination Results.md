@@ -41,19 +41,19 @@ a proxy. Please do so before 14 January.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Social and Emotional Learning Resources for Parents/Guardians to support
-your child/ward:<strong>&nbsp;</strong><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>
+your child/ward:<strong>&nbsp;</strong><a href="https://go.gov.sg/selresforparents" rel="noopener nofollow" target="_blank">https://go.gov.sg/selresforparents</a>
 </p>
 </li>
 <li>
-<p>What’s Next Pamphlet:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>
+<p>What’s Next Pamphlet:&nbsp;<a href="https://go.gov.sg/whats-next-olevel" rel="noopener nofollow" target="_blank">https://go.gov.sg/whats-next-olevel</a>
 </p>
 </li>
 <li>
-<p>Information on JAE:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/jae</a>
+<p>Information on JAE:&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/jae</a>
 </p>
 </li>
 <li>
-<p>CourseFinder:<strong> </strong><a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>
+<p>CourseFinder:<strong> </strong><a href="www.moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>
 </p>
 </li>
 </ul>
