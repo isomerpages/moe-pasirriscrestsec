@@ -7,10 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Dear Crestians and Parents/Guardians of the 2025 Graduating Cohort
-<br>
-</p>
-<p><strong>RELEASE OF GCE O-LEVEL RESULTS ON WEDNESDAY, 14 JANUARY 2026</strong>
+<p>Dear Crestians and Parents/Guardians of the 2025 Graduating Cohort</p>
+<p><strong>Information on Results Collection</strong>
 <br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The results of the 2025 Singapore-Cambridge
 GCE O-Level Examinations will be released on <strong>Wednesday, 14 January 2026</strong>,
 at <strong>Pasir Ris Crest Secondary School</strong>. We congratulate your
