@@ -7,7 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Dear Crestians and Parents/Guardians of the 2025 Graduating Cohort</p>
+<p>Dear Crestians and Parents/Guardians of the 2025 Graduating Cohort
+<br>
+</p>
 <p><strong>RELEASE OF GCE O-LEVEL RESULTS ON WEDNESDAY, 14 JANUARY 2026</strong>
 <br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The results of the 2025 Singapore-Cambridge
 GCE O-Level Examinations will be released on <strong>Wednesday, 14 January 2026</strong>,
@@ -54,9 +56,10 @@ your child/ward:<strong>&nbsp;</strong><a rel="noopener noreferrer nofollow" tar
 </li>
 <li>
 <p>CourseFinder:<strong> </strong><a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>
-<br>
-<br><strong>All the Best to You CRESTIANS! See You on 14 Jan!</strong>
 </p>
 </li>
 </ul>
+<p>
+<br><strong>All the Best to You CRESTIANS! See You on 14 Jan!</strong>
+</p>
 <p></p>
