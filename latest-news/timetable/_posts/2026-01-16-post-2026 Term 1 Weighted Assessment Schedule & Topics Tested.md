@@ -9,8 +9,7 @@ variant: tiptap
 ---
 <p>Dear Crestians/Parents/Guardians,</p>
 <p>Please click on the link below to access the Term 1 Weighted Assessment
-Schedule and Topics tested:</p>
-<p><a href="https://docs.google.com/spreadsheets/d/1Tp7DGIuMNXMjx4w3X8S91dFc37OnmQCO/edit?usp=sharing&amp;ouid=107822012695954277864&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank"><u>Click Here</u></a>
+Schedule and Topics tested
+<br><a href="https://docs.google.com/spreadsheets/d/1Tp7DGIuMNXMjx4w3X8S91dFc37OnmQCO/edit?usp=sharing&amp;ouid=107822012695954277864&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank"><u>Click Here</u></a>
 </p>
-<p>For 2026 Term 1 Weighted Assessment Schedule &amp; Topics tested,</p>
 <p>Thank you</p>
