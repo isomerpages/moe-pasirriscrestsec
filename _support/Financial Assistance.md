@@ -21,30 +21,16 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>2. HOME ACCESS PROGRAMME</strong>
+<summary><strong>2. DIGITALACCESS@HOME</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <blockquote>
-<p>Dear Crestians and Parents /Guardians,
-<br>
-<br>For more information about the Home Access programme, please visit <a href="http://www.digitalaccess.gov.sg/" rel="noopener" target="_blank">www.digitalaccess.gov.sg</a> or
-call <strong>6377 3800</strong>.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><a href="/files/ha%203-0%20brochure%20wef%20oct%202021_p1.pdf" rel="noopener" target="_blank">Home Access Brochure (w.e.f. Oct 2021) Part 1</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="/files/ha%203-0%20brochure%20wef%20oct%202021_p2.pdf" rel="noopener" target="_blank">Home Access Brochure (w.e.f. Oct 2021) Part 2</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="/files/ha30-application-form_version%203-0%20oct%202021.pdf" rel="noopener" target="_blank">Home Access Application Form Version 3.0</a></strong>
-</p>
-</li>
-</ul>
-<p></p>
-<p>Thank you</p>
+<p>Dear Crestians and Parents /Guardians,</p>
+<p>Get support for home wi-fi and devices.</p>
+<p>For more information, please visit IMDA’s website: <a href="https://www.imda.gov.sg/dah" rel="noopener noreferrer nofollow" target="_blank">https://www.imda.gov.sg/dah</a> or contact
+IMDA at <a href="mailto:digitalaccess@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">digitalaccess@imda.gov.sg</a>,
+6377 3800 or Live Chat (Ask Codi) on <a href="https://www.imda.gov.sg/dah" rel="noopener noreferrer nofollow" target="_blank">https://www.imda.gov.sg/dah</a> .</p>
+<p>Thank you.</p>
 </blockquote>
 </div>
 </details>
