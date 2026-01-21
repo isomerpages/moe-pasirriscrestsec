@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong><u>2026 THE STRAITS TIMES SCHOOL POCKET MONEY FUND</u></strong>
+</p>
 <p>Dear Crestians, Parents/Guardians,</p>
 <p>Application for The Straits Times School Pocket Money Fund is now open
 and will close on 13 Feb 2026.&nbsp; This application period only applies
