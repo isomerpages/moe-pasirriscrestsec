@@ -20,7 +20,7 @@ upon:</p>
 <p>Active and Engaged Learner</p>
 </li>
 <li>
-<p>Innovative Problem Solver</p>
+<p>Adaptive Problem Solver</p>
 </li>
 <li>
 <p>Effective Communicator</p>
@@ -33,7 +33,7 @@ upon:</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" alt="21cc_development" src="/images/2023%20dslo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_DSLO.jpg">
 </div>
 <p>To these ends, curriculum is designed to provide a uniquely Crestian experience
 for all students.</p>
