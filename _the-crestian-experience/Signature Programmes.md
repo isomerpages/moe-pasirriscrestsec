@@ -19,7 +19,7 @@ developed.</p>
 of 21<sup>st</sup>&nbsp;century competencies, our STRETCH<sup>3</sup>&nbsp;progressive
 design facilitates the advancement of students in different domains.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STRETCH3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STRETCH_2026.png">
 </div>
 <hr>
 <h4><strong>Enhanced Applied Learning Programme</strong></h4>
