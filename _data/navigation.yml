@@ -24,6 +24,10 @@ links:
         url: https://sites.google.com/moe.edu.sg/prcss-overcomers/cca
       - title: Academic Achievements
         url: https://sites.google.com/moe.edu.sg/prcss-overcomers/academics
+      - title: Staff Achievements
+        url: https://sites.google.com/moe.edu.sg/prcss-overcomers/staff-achievements?authuser=0
+      - title: Alumni Achievements
+        url: https://sites.google.com/moe.edu.sg/prcss-overcomers/
   - title: The Crestian Experience
     url: /the-crestian-experience/21st-competencies-and-development/
     sublinks:
@@ -60,14 +64,14 @@ links:
         url: /prcs-calendar/
       - title: Useful Links
         url: /support/useful-links/
-  - title: Parents/Alumni
-    url: /parents/parentsupportgroup/
+  - title: Parents
+    url: /parent-school-communication/
     sublinks:
       - title: Parent-School Communication
         url: /parent-school-communication/
+      - title: Communication with Parents
+        url: /latest-news/communication-with-parents/
       - title: Parent Support Group
         url: https://sites.google.com/moe.edu.sg/prcss-psg/psg-home
-      - title: Alumni Achievements
-        url: https://sites.google.com/moe.edu.sg/prcss-overcomers/
   - title: 2025 DSA-SEC
     url: /2025-direct-school-admission-dsa-exercise/
