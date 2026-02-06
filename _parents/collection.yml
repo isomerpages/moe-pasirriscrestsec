@@ -2,5 +2,5 @@ collections:
   parents:
     output: true
     order:
-      - Parent Support Group.md
       - Alumni Achievements.md
+      - Parent Support Group.md
