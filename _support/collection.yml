@@ -2,13 +2,13 @@ collections:
   support:
     output: true
     order:
+      - PRCS Calendar.md
+      - Expected Student Behaviour (Rules And Regulations).md
+      - Traffic Management Plan.md
+      - Guidance and Counselling Support.md
       - Personalised Digital Learning Programme (PDLP).md
       - Student Learning Space (SLS).md
       - Parents Gateway.md
       - Financial Assistance.md
-      - Guidance and Counselling Support.md
-      - Expected Student Behaviour (Rules And Regulations).md
-      - Traffic Management Plan.md
       - Student Insurance.md
-      - PRCS Calendar.md
       - Useful Links.md
