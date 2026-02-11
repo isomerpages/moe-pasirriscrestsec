@@ -7,6 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Dear</p>
-<p><a href="https://for.edu.sg/asp2026" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/asp2026</a>
-</p>
+<p>Dear Parents/Guardians,</p>
+<p>For more information kindly access this <a href="https://for.edu.sg/asp2026" rel="noopener nofollow" target="_blank">link</a>.</p>
+<p>Thank you for your attention to this matter.</p>
+<p></p>
