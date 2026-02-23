@@ -53,7 +53,7 @@ them from intimidating or threatening behaviour in a verbal or written
 form. The school reserves the right not to engage parents under such circumstances.</p>
 <p></p>
 <p>All Civil Servants are protected by <a href="https://sso.agc.gov.sg/Act/PHA2014" rel="noopener nofollow" target="_blank">Protection from Harassment Act (PoHA)</a>.
-<br>Please also refer to the <a href="https://www.moe.gov.sg/-/media/files/news/press/2024/annex-b---engagement-charter.pdf" rel="noopener nofollow" target="_blank">MOE Engagement Charter</a>
+<br>Please also refer to the <a href="https://www.moe.gov.sg/api/media/85c47bc7-34a1-4b5e-b952-9b83eb60a6bd/annex-b-engagement-charter.pdf" rel="noopener nofollow" target="_blank">MOE Engagement Charter</a>
 </p>
 <p>We thank you for your support and look forward to an enriching partnership
 which will help enhance your child’s learning and growth in the school
