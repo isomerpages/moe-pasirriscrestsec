@@ -4,49 +4,50 @@ permalink: /the-crestian-experience/21st-competencies-and-development/
 description: ""
 variant: tiptap
 ---
-<h1>21st Century Competencies Development</h1>
-<p>In line with our mission of "A Choice School that Nurtures the Hearts
-and Minds of Crestian Leaders to be the pride of family, community and
-nation", Pasir Ris Crest Secondary has since our school’s inception sought
-to provide a rigorous and comprehensive curriculum for all Crestians to
-develop to become Leaders and Overcomers with the mindset and skills, anchored
-on the strength of their character, to pursue and realise challenges in
-life.</p>
-<p>In our efforts to develop students for the 21st century, the school identified
-5 Desired Student Learning Outcomes on which all programmes are focused
-upon:</p>
+<p>In line with our mission of being <em>“A Choice School that nurtures the hearts and minds of Crestian leaders to be the pride of family, community and nation,”</em> Pasir
+Ris Crest Secondary has, since its inception, provided a rigorous and holistic
+curriculum. Through this, we seek to develop every Crestian into a <strong>Leader and Overcomer</strong>—equipped
+with the right mindset and skills, grounded in strong character, and confident
+to pursue and overcome life’s challenges.</p>
+<p>In preparing our students for life in the 21st century, the school has
+identified <strong>five Desired Student Learning Outcomes (DSLOs)</strong> that
+guide the design of all our programmes:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Active and Engaged Learner</p>
+<p><strong>Active and Engaged Learner</strong>
+</p>
 </li>
 <li>
-<p>Adaptive Problem Solver</p>
+<p><strong>Adaptive Problem Solver</strong>
+</p>
 </li>
 <li>
-<p>Effective Communicator</p>
+<p><strong>Effective Communicator</strong>
+</p>
 </li>
 <li>
-<p>Self-Disciplined and Responsible Leader</p>
+<p><strong>Self-Disciplined and Responsible Leader</strong>
+</p>
 </li>
 <li>
-<p>Active and Concerned Citizen with Global Awareness</p>
+<p><strong>Active and Concerned Citizen with Global Awareness</strong>
+</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_DSLO.jpg">
 </div>
-<p>To these ends, curriculum is designed to provide a uniquely Crestian experience
-for all students.</p>
-<p>Building on their mastery of the subjects, the staff customised curricular
-programmes such as the <a href="https://sites.google.com/moe.edu.sg/prcss-alp" rel="noopener noreferrer nofollow" target="_blank">Applied Learning Programme in Communications</a>,
-the <a href="https://sites.google.com/moe.edu.sg/prcss-curriculum/curriculum-home/e-l" rel="noopener noreferrer nofollow" target="_blank">Literary Week programme by the English Language Department</a>,
-the <a href="https://sites.google.com/moe.edu.sg/prcss-curriculum/curriculum-home/sci" rel="noopener noreferrer nofollow" target="_blank">Science Investigative Projects</a>,
-the <a href="https://sites.google.com/moe.edu.sg/prcss-curriculum/curriculum-home/math" rel="noopener noreferrer nofollow" target="_blank">Mathematics Trail and Carnival</a>,
-and the integrated <a href="https://sites.google.com/moe.edu.sg/prcss-curriculum/curriculum-home/act" rel="noopener noreferrer nofollow" target="_blank">Aesthetics, Craft &amp; Technology Project</a>.</p>
-<p>Anchoring on our Niche programme in Fencing and <a href="https://sites.google.com/moe.edu.sg/prcss-llp" rel="noopener noreferrer nofollow" target="_blank">Learning for Life Programme in Music and Performing Arts</a>,
-as well as the strength of our in-house <a href="https://sites.google.com/moe.edu.sg/prcss-curriculum/curriculum-home/cce" rel="noopener noreferrer nofollow" target="_blank">Character and Citizenship Education</a> curriculum,
-<a href="https://sites.google.com/moe.edu.sg/prcss-leadership" rel="noopener noreferrer nofollow" target="_blank">Student Leadership Development</a>, PRCS’ signature <a href="https://sites.google.com/moe.edu.sg/prcss-curriculum/curriculum-home/pe" rel="noopener noreferrer nofollow" target="_blank">Cheering Competition</a> and
-<a href="https://sites.google.com/moe.edu.sg/prcss-start-it-right-programme" rel="noopener nofollow" target="_blank">Start It Right Programme</a>, the staff continually review to customise
-co-curricular programmes that integrate 21CC learning and development.
-These mark the journey of Crestians towards the 5 Desired Student Learning
-Outcomes of Pasir Ris Crest Secondary School.</p>
+<p>To achieve these outcomes, our curriculum is thoughtfully designed to
+provide every student with a <strong>distinctively Crestian learning experience</strong>.</p>
+<p>Building on students’ mastery of subject knowledge, our teachers customise
+learning programmes such as our distinctive <strong><a href="https://sites.google.com/moe.edu.sg/prcss-alp" rel="noopener noreferrer nofollow" target="_blank">Enhanced Applied Learning Programme (EALP) in Effective Communication</a></strong>, <strong><a href="https://sites.google.com/moe.edu.sg/prcss-curriculum/curriculum-home/e-l" rel="noopener noreferrer nofollow" target="_blank">Literary Week</a></strong>, <strong><a href="https://sites.google.com/moe.edu.sg/prcss-curriculum/curriculum-home/sci" rel="noopener noreferrer nofollow" target="_blank">Science Investigative Projects</a></strong>,
+and the <strong><a href="https://sites.google.com/moe.edu.sg/prcss-curriculum/curriculum-home/act" rel="noopener noreferrer nofollow" target="_blank">Integrated Aesthetics, Craft and Technology Project</a></strong>.
+These programmes help students apply their learning meaningfully and authentically.</p>
+<p>Our co-curricular offerings are anchored on key unique strengths of the
+school, including our <strong><a href="https://sites.google.com/moe.edu.sg/prcss-ccas/sports/fencing?authuser=0" rel="noopener noreferrer nofollow" target="_blank">Niche Programme in Fencing</a></strong>, <strong><a href="https://sites.google.com/moe.edu.sg/prcss-leadership/" rel="noopener noreferrer nofollow" target="_blank">Learning for Life Programme (LLP) in Student Leadership Development</a></strong>,
+as well as our robust <strong><a href="https://sites.google.com/moe.edu.sg/prcss-curriculum/curriculum-home/cce" rel="noopener noreferrer nofollow" target="_blank">in-house Character and Citizenship Education curriculum</a></strong>.
+Signature experiences such as <strong><a href="https://sites.google.com/moe.edu.sg/prcss-curriculum/curriculum-home/pe" rel="noopener noreferrer nofollow" target="_blank">PRCS Cheering Competition</a></strong>,
+and the <strong><a href="https://sites.google.com/moe.edu.sg/prcss-start-it-right-programme" rel="noopener noreferrer nofollow" target="_blank">Start It Right Programme</a></strong> further
+strengthen students’ character, leadership, and sense of belonging.</p>
+<p>Together, these curricular and co-curricular experiences mark the journey
+of every Crestian towards achieving the school’s <strong>five Desired Student Learning Outcomes</strong>.</p>
