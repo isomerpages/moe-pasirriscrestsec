@@ -17,6 +17,8 @@ sections:
         - title: PDLP Service Center
           description: ""
           url: /change-in-lenovo-authorised-service-centre-for-pld/
+      title: Pasir Ris Crest Secondary School
+      subtitle: Our Caring Home. Our CRESTian Leaders.
   - resources:
       title: LATEST ANNOUNCEMENTS
       button: PREVIOUS ANNOUNCEMENTS
