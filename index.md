@@ -17,6 +17,9 @@ sections:
         - title: PDLP Service Center
           description: ""
           url: /change-in-lenovo-authorised-service-centre-for-pld/
+        - title: Achievements
+          description: ""
+          url: https://sites.google.com/moe.edu.sg/prcss-overcomers/
       title: Pasir Ris Crest Secondary School
       subtitle: Our Caring Home. Our CRESTian Leaders.
       size: sm
