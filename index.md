@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2026_websitebanner_ezgif_com_optimize.gif
+      background: /images/2026_2gifbanner_ezgif_com_optimize.gif
       url: /latest-news/announcements/
       variant: image
       key_highlights:
