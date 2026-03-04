@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/2026_websitebanner_ezgif_com_optimize.gif
       url: /latest-news/announcements/
-      variant: center
+      variant: image
       key_highlights:
         - title: School Calendar
           description: ""
