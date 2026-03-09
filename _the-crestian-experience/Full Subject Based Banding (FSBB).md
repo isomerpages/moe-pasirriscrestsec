@@ -1,6 +1,6 @@
 ---
-title: Full Subject Based Banding (FSBB) 2025
-permalink: /the-crestian-experience/fullsubjectbasedbanding2025/
+title: Full Subject Based Banding (FSBB)
+permalink: /the-crestian-experience/fullsubjectbasedbanding/
 description: ""
 variant: tiptap
 ---
