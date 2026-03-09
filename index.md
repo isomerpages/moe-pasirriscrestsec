@@ -7,9 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024_Website_Banner_Draf5.gif
+      background: /images/Untitled1_ezgif_com_optimize__1_.gif
       url: /latest-news/announcements/
-      variant: center
+      variant: image
       key_highlights:
         - title: School Calendar
           description: ""
@@ -17,6 +17,13 @@ sections:
         - title: PDLP Service Center
           description: ""
           url: /change-in-lenovo-authorised-service-centre-for-pld/
+        - title: Achievements
+          description: ""
+          url: https://sites.google.com/moe.edu.sg/prcss-overcomers/
+      title: Pasir Ris Crest Secondary School
+      subtitle: Our Caring Home. Our CRESTian Leaders.
+      size: sm
+      backgroundColor: gray
   - resources:
       title: LATEST ANNOUNCEMENTS
       button: PREVIOUS ANNOUNCEMENTS
