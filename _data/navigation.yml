@@ -44,6 +44,14 @@ links:
   - title: Support
     url: /support/pdlp/
     sublinks:
+      - title: PRCS Calendar
+        url: /prcs-calendar/
+      - title: Expected Student Behaviour
+        url: /support/expected-student-behaviour/
+      - title: Traffic Management Plan
+        url: /support/traffic-management-plan/
+      - title: Guidance & Counselling Support
+        url: /support/guidance-and-counselling-support/
       - title: Personalised Digital Learning
         url: /support/pdlp/
       - title: Student Learning Spaces (SLS)
@@ -52,16 +60,8 @@ links:
         url: /support/parentsgateway/
       - title: Financial Assistance
         url: /support/financial-assistance/
-      - title: Guidance & Counselling Support
-        url: /support/guidance-and-counselling-support/
-      - title: Expected Student Behaviour
-        url: /support/expected-student-behaviour/
-      - title: Traffic Management Plan
-        url: /support/traffic-management-plan/
       - title: Student Insurance
         url: /support/student-insurance/
-      - title: PRCS Calendar
-        url: /prcs-calendar/
       - title: Useful Links
         url: /support/useful-links/
   - title: Parents
