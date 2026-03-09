@@ -27,14 +27,14 @@ design facilitates the advancement of students in different domains.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Enhanced_Applied_Learning_Programme.png">
 </div>
 <p>Our Enhanced Applied Learning Programme (ALP) develops&nbsp;<strong>‘Effective communicators who impact with the heart and mind.’&nbsp;</strong>Click&nbsp;
-<a href="https://sites.google.com/moe.edu.sg/prcss-alp" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to find out more about our Enhanced ALP.</p>
+<a href="https://sites.google.com/moe.edu.sg/prcss-enhancedalp" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to find out more about our Enhanced ALP.</p>
 <hr>
 <h4><strong>Learning for Life Programme</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_for_Life_Programme.png">
 </div>
 <p>The belief that all students possess leadership potential (<strong>Every Crestian a Leader</strong>)
-underpins our Learning for Life Programme (LLP).&nbsp;Click&nbsp;<a href="https://sites.google.com/moe.edu.sg/prcss-leadership/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+underpins our Learning for Life Programme (LLP).&nbsp;Click&nbsp;<a href="https://sites.google.com/moe.edu.sg/prcss-llp-leadership/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 find out more about our LLP.</p>
 <hr>
 <h4><strong>Start It Right Programme</strong></h4>
