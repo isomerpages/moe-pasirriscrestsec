@@ -12,7 +12,7 @@ variant: markdown
 <p align="justify">Under the National Digital Literacy Programme, MOE will introduce the Personalised Digital Learning Programme (PDLP) for all students in secondary schools. Under the PDLP, every secondary school student will own a school-prescribed personal learning device (PLD) by end of 2021.</p>
 <p align="justify">The PDLP will allow students to use the PLDs in tandem with the Singapore Student Learning Space (SLS) to personalise and enhance their learning. The PDLP will also better enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.&nbsp;The PLDs will also be used to facilitate an environment that encourages personalised learning.</p>
 </div>
-<br>
+
 </li><li>
 <input type="checkbox" id="accordion2">
 <label for="accordion2">2. INSURANCE COVERAGE &amp; WARRANTY</label>
