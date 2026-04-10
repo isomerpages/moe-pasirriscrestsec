@@ -73,12 +73,16 @@ Enclosed is the <a href="/files/CWP/Change_in_Lenovo_Authorised_Service_Centre__
 <input type="checkbox" id="accordion5">
 <label for="accordion5">5. DMA CHANGE FORM - Default, Option A and Option B</label>
 <div>
-<p align="justify">Please access the following link to make the selection: <a href="https://go.gov.sg/prcs-dma-option">https://go.gov.sg/prcs-dma-option</a><br>
-<br>Please allow for up to 7 working days for the DMA option change to be effected.<br>
-<br>An Option A guide will be sent to the email address you have provided for you to login to the parent portal and to make the changes to the settings. <br>
-<br>You may download the <a href="/files/ChromeOS_DMA_Parent_Option_A__1030pm_updated_.pdf">Guide</a> here</p>
-</div>
-<br>
+<p align="justify">For detailed information regarding the various DMA options, please refer to the <a href="/files/CWP/Change_in_Lenovo_Authorised_Service_Centre___FAQs.pdf">FAQ</a>. 
+<br>To submit your selection, please complete the request form via the following link <a href="https://go.gov.sg/prcs-dma-option">[https://go.gov.sg/prcs-dma-option]</a><br>
+<br>Please Note:
+</p><ul>
+	<li><b>Processing Time:</b> Allow up to 7 working days for the DMA option change to be implemented.
+  </li><li><b>Option A Users:</b> A setup guide will be sent to your submitted registered email address. This guide provides instructions on accessing the Parent Portal to manage your child's device settings. (Only the submitted email can be used).
+  </li><li><b>Resources:</b> You may download the <a href="/files/ChromeOS_DMA_Parent_Option_A__1030pm_updated_.pdf">Option A User Guide</a> for further assistance.
+<p></p>
+</li></ul></div>
+
 </li><li>
 <input type="checkbox" id="accordion6">
 <label for="accordion6">6. ACCEPTABLE USE POLICY (AUP) FOR USE OF EDTECH RESOURCES</label>
