@@ -4,7 +4,7 @@ permalink: /support/pdlp/
 description: ""
 variant: markdown
 ---
-<h1>Personalised Digital Learning Programme (PDLP)</h1>
+
 <ul class="jekyllcodex_accordion">
 <li>
 <input type="checkbox" id="accordion1">
