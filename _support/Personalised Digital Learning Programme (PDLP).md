@@ -4,7 +4,6 @@ permalink: /support/pdlp/
 description: ""
 variant: markdown
 ---
-
 <ul class="jekyllcodex_accordion">
 <li>
 <input type="checkbox" id="accordion1">
@@ -75,8 +74,9 @@ Enclosed is the <a href="/files/CWP/Change_in_Lenovo_Authorised_Service_Centre__
 <label for="accordion5">5. DMA CHANGE FORM - Default, Option A and Option B</label>
 <div>
 <p align="justify">Please access the following link to make the selection: <a href="https://go.gov.sg/prcs-dma-option">https://go.gov.sg/prcs-dma-option</a><br>
-Please allow for up to 7 working days for the DMA option change to be effected.<br>
-An Option A guide will be sent to the email address you have provided for you to login to the parent portal and to make the changes to the settings.</p>
+<br>Please allow for up to 7 working days for the DMA option change to be effected.<br>
+<br>An Option A guide will be sent to the email address you have provided for you to login to the parent portal and to make the changes to the settings. <br>
+<br>You may download the <a href="/files/ChromeOS_DMA_Parent_Option_A__1030pm_updated_.pdf">Guide</a> here</p>
 </div>
 <br>
 </li><li>
