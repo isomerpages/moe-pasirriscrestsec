@@ -4,140 +4,89 @@ permalink: /support/pdlp/
 description: ""
 variant: markdown
 ---
-<h1>Personalised Digital Learning Programme (PDLP)</h1>
 <ul class="jekyllcodex_accordion">
-	<li>
-		<input type="checkbox" id="accordion1">
-		<label for="accordion1">THE NATIONAL DIGITAL LITERACY PROGRAMME</label>
-		<div>
-
+<li>
+<input type="checkbox" id="accordion1">
+<label for="accordion1">1. THE NATIONAL DIGITAL LITERACY PROGRAMME</label>
+<div>
 <p align="justify">Under the National Digital Literacy Programme, MOE will introduce the Personalised Digital Learning Programme (PDLP) for all students in secondary schools. Under the PDLP, every secondary school student will own a school-prescribed personal learning device (PLD) by end of 2021.</p>
-
-  
-
 <p align="justify">The PDLP will allow students to use the PLDs in tandem with the Singapore Student Learning Space (SLS) to personalise and enhance their learning. The PDLP will also better enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.&nbsp;The PLDs will also be used to facilitate an environment that encourages personalised learning.</p>
-		</div>
-
+</div>
+<br>
 </li><li>
 <input type="checkbox" id="accordion2">
-<label for="accordion2">INSURANCE COVERAGE &amp; WARRANTY</label>
+<label for="accordion2">2. INSURANCE COVERAGE &amp; WARRANTY</label>
 <div>
-
-The package includes a&nbsp;3-year warranty&nbsp;and 3-year insurance**\***&nbsp;which includes:
+The package includes a 3-year warranty and 3-year insurance which includes:
 <table>
 <thead>
-  <tr>
-    <th>Insurance Coverage</th>
-    <th>Claimable</th>
-  </tr>
+<tr>
+<th>Insurance Coverage</th>
+<th>Claimable</th>
+</tr>
 </thead>
 <tbody>
-  <tr>
-    <td>- Fire<br>- Lightning<br>- Power Surges<br>- Accidental e.g. water spillage, drop etc<br>- Theft due to forcible entry<br>- Robbery<br>* Accidental loss will not be covered by insurance</td>
-    <td>2 repairs or 1 replacement<br>(3-year insurance)</td>
-  </tr>
+<tr>
+<td>- Fire<br>- Lightning<br>- Power Surges<br>- Accidental e.g. water spillage, drop etc<br>- Theft due to forcible entry<br>- Robbery<br>* Accidental loss will not be covered by insurance</td>
+<td>2 repairs or 1 replacement<br>(3-year insurance)</td>
+</tr>
 </tbody>
 </table>
-
 </div>
 	
 </li><li>
-				<input type="checkbox" id="accordion3">
-			<label for="accordion3">DEVICE SUPPORT &amp; INSURANCE CLAIMS</label>
-			<div>
-
+<input type="checkbox" id="accordion3">
+<label for="accordion3">3. DEVICE SUPPORT &amp; INSURANCE CLAIMS</label>
+<div>
 <b>Parents /Students may rely on the following platforms if they need support or&nbsp;insurance claims for their devices</b>
-
-  
 <ul>
 <li>Contractor’s Helpdesk (Phone /email).</li>
 <li>Contractor’s Service Centre.</li>
 </ul>
   
-
 <b>Lost /Damaged Device</b>
 <ul>
 <li>In the event that the device is lost or damaged beyond economical means to repairs, a police report or service report must be provided for the procurement of a replacement device.</li>
-</ul>
+</ul><p></p>
 
-<b>SERVICE CENTRE</b>
-<b></b><p><b> Service Centre Location:<br></b>
-For Students who wants to walk-in for servicing please visit, <br>
+</div></li><li>
+<input type="checkbox" id="accordion4">
+<label for="accordion4">4. SERVICE CENTRE LOCATION</label>
+<div>
+<p>Students may submit their Personal Learning Devices (PLDs) through the school to arrange for vendor collection and servicing.<br>
+For further assistance, please visit the ICT Department Office, located on Level 2 within the General Office. Students are able to submit the PLD for the school to arrange the vendor to pick up the device.<br>
+<br>
+Alternatively, Students who prefer to walk-in for servicing please visit,<br>
 <b>Servlink Technologies Resources Pte Ltd – Lenovo Authorised Service Centre</b><br>
 Address: 2 Kallang Avenue #09-01, CTHub 1, Singapore 339407<br>
 Hotline: +65 6817 1435<br>
 Email: [Svcctr@servlink.com.sg](mailto:Svcctr@servlink.com.sg)<br>
 Website for Lenovo Service Center: <a href="https://www.asiapac.com.sg/edu/lenovo-support.aspx">Here</a>
 
-Operating hours:<br>
+<b>Operating hours:</b><br>
 Monday to Friday: 9:00 AM – 6:00 PM<br>
 Saturday: 9:00 AM – 1:00 PM<br>
 Closed on Sundays and Public Holidays<br>
-Enclosed is the <a href="/files/CWP/Change_in_Lenovo_Authorised_Service_Centre___FAQs.pdf">FAQs</a> for your reference.	</p>
-	</div>
+Enclosed is the <a href="/files/CWP/Change_in_Lenovo_Authorised_Service_Centre___FAQs.pdf">FAQs</a> for your reference.	</p></div>
 	
-</li><li>
-<input type="checkbox" id="accordion4">
-<label for="accordion4">DEFECTS FAULT REPORTING FOR SCHOOL</label>
-
-<div>
-
-<img style="width: 50%; height: 50%" src="/images/Support/QR%20CODE/FAS_QR_CODE.jpg">
-
-<p>This fault reporting form allows you to make a report for two main categories of faults:
-</p><ul>
-<li>[FOR STUDENTS and STAFF] Facilities management (FM) faults;</li>
-<li>[FOR STUDENTS and STAFF] ICT - equipment related faults.</li>
-</ul>
-	Link for QR Code: <a href="https://go.gov.sg/lvosaz">https://go.gov.sg/lvosaz</a>
-<p></p>
-</div>
-
 </li><li>
 <input type="checkbox" id="accordion5">
-<label for="accordion5">AV / ICT REQUEST FORM</label>
+<label for="accordion5">5. DMA CHANGE FORM - Default, Option A and Option B</label>
 <div>
-<img style="width: 50%; height: 50%" src="/images/Support/QR%20CODE/Request_Form.png">
-<p>
-This fault reporting form allows you to make a report for two main categories of faults:
+<p align="justify">For detailed information regarding the various DMA options, please refer to the <a href="/files/CWP/Change_in_Lenovo_Authorised_Service_Centre___FAQs.pdf">FAQ</a> here. 
+<br>To submit your selection, please complete the request form via the following link <a href="https://go.gov.sg/prcs-dma-option">[https://go.gov.sg/prcs-dma-option]</a><br>
+<br>Please Note:
 </p><ul>
-<li>[FOR STUDENTS and STAFF] Facilities management (FM) faults.</li>
-<li>[FOR STUDENTS and STAFF] Account Enable / Password Reset*.</li>
-<li>[FOR STAFF ONLY] AV Support/Equipment (Ad-hoc Microphone Request, Portable Projector &amp; Others).</li>
-<li>[FOR STAFF ONLY] ICT Support/Equipment (Software Installation** &amp; Ipad/Laptop Loan).</li>
-<li>[FOR STAFF ONLY] Livestream</li>
-</ul>
-*Password shall be reset to the following: 	
-<h1>Prcss3613!!!</h1>
-(P Capital letter and include the !!!)<br>
-<br>
-**If Desktop Engineer is not at ICT office staff to use the QR Code<br>
+	<li><b>Processing Time:</b> Allow up to 7 working days for the DMA option change to be implemented.
+  </li><li><b>Option A Users:</b> A setup guide will be sent to your submitted registered email address. This guide provides instructions on accessing the Parent Portal to manage your child's device settings. (Only the submitted email can be used).
+  </li><li><b>Resources:</b> You may download the <a href="/files/ChromeOS_DMA_Parent_Option_A__1030pm_updated_.pdf">Option A User Guide</a> for further assistance.
+<p></p>
+</li></ul></div>
 
-<b>New password Requirements</b>
-<ul>
-<li>At least 12 characters long but 14 or more is better. </li>
-<li>A combination of uppercase letters, lowercase letters, numbers, and symbols. </li>
-<li>Not a word/number that can be found in your I/C and birthday (includes your own name). </li>
-<li>Significantly different from your previous passwords.</li>
-</ul>
-	
-Student PLD Information
-Kindly bring your PLD to ICT department at Level 2 Staffroom for assessment.
-<ul>
-<li>If Hardware issues, students are to contact the Service Center directly.</li>
-</ul>
-Lenovo Service Center Information (Device are under 3 years warranty from year of purchase.)
-<ul>
-<li>Address: #01-17 Tai Seng Centre 3 Irving Road 369522</li>
-<li>Contact number: +65 6871 4838</li>
-<li>Email: lenovo@smartcares.com</li>
-</ul>
-<h5>Note: In 2024, Students will be able to perform self reset after registering their self reset password in MIMS portals at <a href="https://idp.mims.moe.gov.sg/nidp/app/login">HERE</a></h5>
-<p></p>		
-</div></li><li>
+</li><li>
 <input type="checkbox" id="accordion6">
-<label for="accordion6">ACCEPTABLE USE POLICY (AUP) FOR USE OF EDTECH RESOURCES</label>
+<label for="accordion6">6. ACCEPTABLE USE POLICY (AUP) FOR USE OF EDTECH RESOURCES</label>
 <div>
-<p align="justify">Please review the Acceptable Use Policy (AUP) for guidelines on the responsible use of EdTech resources within the school environment. This policy ensures that all students adhere to best practices for digital safety, security, and ethical use of technology.</p><p>Download the file <a href="/files/2026_PLD_AUP_PRCS_V2.pdf">Here</a>
-</p></div>
+<p align="justify">Please review the Acceptable Use Policy (AUP) for guidelines on the responsible use of EdTech resources within the school environment. This policy ensures that all students adhere to best practices for digital safety, security, and ethical use of technology. Download the file <a href="/files/2026_PLD_AUP_PRCS_V2.pdf">Here</a></p>
+</div>
 </li></ul>
