@@ -14,9 +14,9 @@ sections:
         - title: School Calendar
           description: ""
           url: /prcs-calendar/
-        - title: PDLP Service Center
+        - title: Parent DMA Option Change Form
           description: ""
-          url: /change-in-lenovo-authorised-service-centre-for-pld/
+          url: /2026-update-parent-dma-option-selection-form-dma-option-info/
         - title: Achievements
           description: ""
           url: https://sites.google.com/moe.edu.sg/prcss-overcomers/
