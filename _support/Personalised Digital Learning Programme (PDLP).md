@@ -73,7 +73,7 @@ Enclosed is the <a href="/files/CWP/Change_in_Lenovo_Authorised_Service_Centre__
 <input type="checkbox" id="accordion5">
 <label for="accordion5">5. DMA CHANGE FORM - Default, Option A and Option B</label>
 <div>
-<p align="justify">For detailed information regarding the various DMA options, please refer to the <a href="/files/CWP/Change_in_Lenovo_Authorised_Service_Centre___FAQs.pdf">FAQ</a> here. 
+<p align="justify">For detailed information regarding the various DMA options, please refer to the <a href="/files/DMA_Option_Information_2026.pdf">FAQ</a> here. 
 <br>To submit your selection, please complete the request form via the following link <a href="https://go.gov.sg/prcs-dma-option">[https://go.gov.sg/prcs-dma-option]</a><br>
 <br>Please Note:
 </p><ul>
