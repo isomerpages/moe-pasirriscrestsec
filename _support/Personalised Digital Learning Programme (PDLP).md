@@ -51,7 +51,21 @@ The package includes a 3-year warranty and 3-year insurance which includes:
 
 </div></li><li>
 <input type="checkbox" id="accordion4">
-<label for="accordion4">4. SERVICE CENTRE LOCATION</label>
+<label for="accordion4">4. DMA CHANGE FORM - Default, Option A and Option B</label>
+<div>
+<p align="justify">For detailed information regarding the various DMA options, please refer to the <a href="/files/DMA_Option_Information_2026.pdf">FAQ</a> here. 
+<br>To submit your selection, please complete the request form via the following link <a href="https://go.gov.sg/prcs-dma-option">[https://go.gov.sg/prcs-dma-option]</a><br>
+<br>Please Note:
+</p><ul>
+	<li><b>Processing Time:</b> Allow up to 7 working days for the DMA option change to be implemented.
+  </li><li><b>Option A Users:</b> A setup guide will be sent to your submitted registered email address. This guide provides instructions on accessing the Parent Portal to manage your child's device settings. (Only the submitted email can be used).
+  </li><li><b>Resources:</b> You may download the <a href="/files/ChromeOS_DMA_Parent_Option_A__1030pm_updated_.pdf">Option A User Guide</a> for further assistance.
+<p></p>
+</li></ul></div>
+	
+</li><li>
+<input type="checkbox" id="accordion5">
+<label for="accordion5">5. SERVICE CENTRE LOCATION</label>
 <div>
 <p>Students may submit their Personal Learning Devices (PLDs) through the school to arrange for vendor collection and servicing.<br>
 For further assistance, please visit the ICT Department Office, located on Level 2 within the General Office. Students are able to submit the PLD for the school to arrange the vendor to pick up the device.<br>
@@ -67,21 +81,8 @@ Website for Lenovo Service Center: <a href="https://www.asiapac.com.sg/edu/lenov
 Monday to Friday: 9:00 AM – 6:00 PM<br>
 Saturday: 9:00 AM – 1:00 PM<br>
 Closed on Sundays and Public Holidays<br>
-Enclosed is the <a href="/files/CWP/Change_in_Lenovo_Authorised_Service_Centre___FAQs.pdf">FAQs</a> for your reference.	</p></div>
-	
-</li><li>
-<input type="checkbox" id="accordion5">
-<label for="accordion5">5. DMA CHANGE FORM - Default, Option A and Option B</label>
-<div>
-<p align="justify">For detailed information regarding the various DMA options, please refer to the <a href="/files/DMA_Option_Information_2026.pdf">FAQ</a> here. 
-<br>To submit your selection, please complete the request form via the following link <a href="https://go.gov.sg/prcs-dma-option">[https://go.gov.sg/prcs-dma-option]</a><br>
-<br>Please Note:
-</p><ul>
-	<li><b>Processing Time:</b> Allow up to 7 working days for the DMA option change to be implemented.
-  </li><li><b>Option A Users:</b> A setup guide will be sent to your submitted registered email address. This guide provides instructions on accessing the Parent Portal to manage your child's device settings. (Only the submitted email can be used).
-  </li><li><b>Resources:</b> You may download the <a href="/files/ChromeOS_DMA_Parent_Option_A__1030pm_updated_.pdf">Option A User Guide</a> for further assistance.
-<p></p>
-</li></ul></div>
+Enclosed is the <a href="/files/CWP/Change_in_Lenovo_Authorised_Service_Centre___FAQs.pdf">FAQs</a> for your reference.	
+</p></div>
 
 </li><li>
 <input type="checkbox" id="accordion6">
