@@ -34,10 +34,13 @@ the following areas:
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Very Good or Excellent Conduct Grade
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Positive Personal Qualities
 <br>
+<br>
 </p>
+<h1>Option A</h1>
 <hr>
 <p><strong>1. SPECIFIC CRITERIA FOR <u>MUSIC AND PERFORMING ARTS</u></strong>
-<br>Applicants must demonstrate a passion for Music/Performing Arts and be
+</p>
+<p>Applicants must demonstrate a passion for Music/Performing Arts and be
 committed to contribute to PRCS in this area for which they have been given
 DSA in one of the following DSA Talent Areas:
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Band - Concert
@@ -107,3 +110,7 @@ will be invited to go through a selection exercise as well as an interview.</p>
 </div>
 <p>Shortlisted applicants will be notified separately of the details of the
 selection exercise.</p>
+<hr>
+<h1>Option B</h1>
+<p></p>
+<p></p>
