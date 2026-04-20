@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 ---
 <p><strong><u>2026 DIRECT SCHOOL ADMISSION (DSA) EXERCISE</u></strong>
-<br>We welcome Primary 6 students with talent in the areas of music and performing
+</p>
+<p>We welcome Primary 6 students with talent in the areas of music and performing
 arts, communication, public speaking, mother tongue languages, fencing
 and leadership to apply to our school under the Direct School Admission
 (DSA) Exercise.&nbsp;&nbsp;
