@@ -32,11 +32,7 @@ the following areas:
 <p><strong>BASIC ADMISSION CRITERIA</strong>
 <br>All applicants must have the following:
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Very Good or Excellent Conduct Grade
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Positive Personal Qualities
-<br>
-<br>
-</p>
-<h1>Option 1 - As per 2025 format</h1>
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Positive Personal Qualities</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>1. SPECIFIC CRITERIA FOR <u>MUSIC AND PERFORMING ARTS</u></strong>&nbsp;</summary>
@@ -146,79 +142,4 @@ selection exercise.</p>
 </div>
 </details>
 </div>
-<h1><br>Option 2 - As per your Document</h1>
-<hr>
-<p><strong>1. SPECIFIC CRITERIA FOR <u>MUSIC AND PERFORMING ARTS</u></strong>
-</p>
-<p>Applicants must demonstrate a passion for Music/Performing Arts and be
-committed to contribute to PRCS in this area for which they have been given
-DSA in one of the following DSA Talent Areas:
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Band - Concert
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Choir
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modern Dance
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Drama English
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ensemble - Guzheng</p>
-<p>Shortlisted applicants will be invited to go through a selection test
-as well as an interview.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__SPECIFIC_CRITERIA_FOR_MUSIC_AND_PERFORMING_ARTS.png">
-</div>
-<p>Shortlisted applicants will be notified separately of the details of the
-selection exercise.</p>
-<hr>
-<p><strong>2. SPECIFIC CRITERIA FOR <u>EFFECTIVE COMMUNICATION</u></strong>
-<br>Applicants must demonstrate a passion for communication related programmes
-/competitions and be committed to contributing to PRCS in the area for
-which they have been given DSA. Shortlisted applicants will be invited
-to go through a selection exercise as well as an interview.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2__SPECIFIC_CRITERIA_FOR_EFFECTIVE_COMMUNICATION.png">
-</div>
-<p>Shortlisted applicants will be notified separately of the details of the
-selection exercise.</p>
-<hr>
-<p><strong>3. SPECIFIC CRITERIA FOR <u>PUBLIC SPEAKING</u></strong>
-<br>Applicants must demonstrate a passion for public speaking related programmes
-/competitions and be committed to contributing to PRCS in the area for
-which they have been given DSA. Shortlisted applicants will be invited
-to go through a selection exercise as well as an interview.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3__SPECIFIC_CRITERIA_FOR_PUBLIC_SPEAKING.png">
-</div>
-<p>Shortlisted applicants will be notified separately of the details of the
-selection exercise.</p>
-<hr>
-<p><strong>4. SPECIFIC CRITERIA FOR <u>MOTHER TONGUE LANGUAGES</u></strong>
-<br>Applicants must demonstrate a passion for communication related programmes
-/competitions and be committed to contribute to PRCS in the talent area
-for which they have been assigned under the DSA. Shortlisted applicants
-will be invited to go through a selection exercise as well as an interview.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4__SPECIFIC_CRITERIA_FOR_MOTHER_TONGUE_LANGUAGES.png">
-</div>
-<p>Shortlisted applicants will be notified separately of the details of the
-selection exercise.</p>
-<hr>
-<p><strong>5. SPECIFIC CRITERIA FOR <u>LEADERSHIP</u></strong>
-<br>Applicants must demonstrate in leading their peers in service to the community
-(e.g., school, neighbourhood, environment or social causes etc.) and be
-committed to contribute to PRCS in the talent area for which they have
-been assigned under the DSA. Shortlisted applicants will be invited to
-go through a selection exercise as well as an interview.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5__SPECIFIC_CRITERIA_FOR_LEADERSHIP.png">
-</div>
-<p>Shortlisted applicants will be notified separately of the details of the
-selection exercise.</p>
-<hr>
-<p><strong>6. SPECIFIC CRITERIA FOR <u>FENCING</u></strong>
-<br>Applicants must demonstrate a passion for sports and be committed to contributing
-to PRCS in this area for which they have been given DSA. Shortlisted applicants
-will be invited to go through a selection exercise as well as an interview.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6__SPECIFIC_CRITERIA_FOR_FENCING.png">
-</div>
-<p>Shortlisted applicants will be notified separately of the details of the
-selection exercise.</p>
-<hr>
 <p></p>
