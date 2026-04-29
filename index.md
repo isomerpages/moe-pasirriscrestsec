@@ -20,6 +20,9 @@ sections:
         - title: Achievements
           description: ""
           url: https://sites.google.com/moe.edu.sg/prcss-overcomers/
+        - title: 2026 DIRECT SCHOOL ADMISSION (DSA) EXERCISE
+          description: ""
+          url: /2026-direct-school-admission-dsa-exercise/
       title: Pasir Ris Crest Secondary School
       subtitle: Our Caring Home. Our CRESTian Leaders.
       size: sm
