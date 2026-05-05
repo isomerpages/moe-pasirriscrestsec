@@ -13,7 +13,9 @@ and leadership to apply to our school under the Direct School Admission
 <br>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
-the area of talent.
+the area of talent. Applicants who do not have prior experience may also
+apply. The school will assess applicants based on the selection criteria,
+which may include assessing the potential of the applicants.
 <br>
 <br>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school and participate in the activities
@@ -34,15 +36,16 @@ the following areas:
 <br>All applicants must have the following:
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Very Good or Excellent Conduct Grade
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Positive Personal Qualities</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>1. SPECIFIC CRITERIA FOR <u>MUSIC AND PERFORMING ARTS</u></strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>1. SPECIFIC CRITERIA FOR <u>MUSIC AND PERFORMING ARTS</u></strong>
 </p>
 <p>Applicants must demonstrate a passion for Music/Performing Arts and be
-committed to contribute to PRCS in this area for which they have been given
-DSA in one of the following DSA Talent Areas:
+committed to contribute to PRCS in the relevant CCA to which they have
+been assigned under the DSA Exercise :
+<br>CCAs:
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Band - Concert
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Choir
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modern Dance
@@ -57,16 +60,17 @@ as well as an interview.</p>
 selection exercise.</p>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>2. SPECIFIC CRITERIA FOR <u>EFFECTIVE COMMUNICATION</u></strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>2. SPECIFIC CRITERIA FOR <u>EFFECTIVE COMMUNICATION</u></strong>
-<br>Applicants must demonstrate a passion for communication related programmes
-/competitions and be committed to contributing to PRCS in the area for
-which they have been given DSA. Shortlisted applicants will be invited
-to go through a selection exercise as well as an interview.</p>
+<br>Applicants must demonstrate a passion for communication related programmes/competitions
+and be committed to contributing to PRCS in our Enhanced Applied Learning
+Programme (EALP) to which they have been assigned under the DSA Exercise.
+Shortlisted applicants will be invited to go through a selection exercise
+as well as an interview.
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2__SPECIFIC_CRITERIA_FOR_EFFECTIVE_COMMUNICATION.png">
 </div>
@@ -74,16 +78,15 @@ to go through a selection exercise as well as an interview.</p>
 selection exercise.</p>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>3. SPECIFIC CRITERIA FOR <u>PUBLIC SPEAKING</u></strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>3. SPECIFIC CRITERIA FOR <u>PUBLIC SPEAKING</u></strong>
-<br>Applicants must demonstrate a passion for public speaking related programmes
-/competitions and be committed to contributing to PRCS in the area for
-which they have been given DSA. Shortlisted applicants will be invited
-to go through a selection exercise as well as an interview.</p>
+<br>Applicants must demonstrate a passion for public speaking related programmes/competitions
+and be committed to contributing to PRCS in our CCA of Media Communications
+Club (MCC) to which they have been assigned under the DSA Exercise. Shortlisted
+applicants will be invited to go through a selection exercise as well as
+an interview.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3__SPECIFIC_CRITERIA_FOR_PUBLIC_SPEAKING.png">
 </div>
@@ -91,16 +94,15 @@ to go through a selection exercise as well as an interview.</p>
 selection exercise.</p>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>4. SPECIFIC CRITERIA FOR <u>MOTHER TONGUE LANGUAGES</u></strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>4. SPECIFIC CRITERIA FOR <u>MOTHER TONGUE LANGUAGES</u></strong>
-<br>Applicants must demonstrate a passion for communication related programmes
-/competitions and be committed to contribute to PRCS in the talent area
-for which they have been assigned under the DSA. Shortlisted applicants
-will be invited to go through a selection exercise as well as an interview.</p>
+<br>Applicants must demonstrate a passion for communication related programmes/competitions
+and be committed to contribute to PRCS in our Enhanced Applied Learning
+Programme (EALP) to which they have been assigned under the DSA Exercise.
+Shortlisted applicants will be invited to go through a selection exercise
+as well as an interview.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4__SPECIFIC_CRITERIA_FOR_MOTHER_TONGUE_LANGUAGES.png">
 </div>
@@ -108,17 +110,16 @@ will be invited to go through a selection exercise as well as an interview.</p>
 selection exercise.</p>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>5. SPECIFIC CRITERIA FOR <u>LEADERSHIP</u></strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>5. SPECIFIC CRITERIA FOR <u>LEADERSHIP</u></strong>
 <br>Applicants must demonstrate in leading their peers in service to the community
 (e.g., school, neighbourhood, environment or social causes etc.) and be
-committed to contribute to PRCS in the talent area for which they have
-been assigned under the DSA. Shortlisted applicants will be invited to
-go through a selection exercise as well as an interview.</p>
+committed to contribute to PRCS in our Community Youth Leadership Learning
+for Life Programme (LLP) to which they have been assigned under the DSA
+Exercise. Shortlisted applicants will be invited to go through a selection
+exercise as well as an interview.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5__SPECIFIC_CRITERIA_FOR_LEADERSHIP.png">
 </div>
@@ -126,15 +127,14 @@ go through a selection exercise as well as an interview.</p>
 selection exercise.</p>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>6. SPECIFIC CRITERIA FOR <u>FENCING</u></strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>6. SPECIFIC CRITERIA FOR <u>FENCING</u></strong>
 <br>Applicants must demonstrate a passion for sports and be committed to contributing
-to PRCS in this area for which they have been given DSA. Shortlisted applicants
-will be invited to go through a selection exercise as well as an interview.</p>
+to PRCS in our CCA of Fencing to which they have been assigned under the
+DSA Exercise. Shortlisted applicants will be invited to go through a selection
+exercise as well as an interview.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/6__SPECIFIC_CRITERIA_FOR_FENCING.png">
 </div>
@@ -204,7 +204,7 @@ options during the S1 Option Submission period.
 <p>Student/Parent/Guardian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 May, 11am &nbsp;to 2 Jun, 4.30pm</p>
+<p>6 May, 11am to 2 Jun, 4.30pm</p>
 </td>
 </tr>
 <tr>
