@@ -22,10 +22,20 @@ attached to the letter box placed near the window to Crest Haven.</p>
 email:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms. Suzanah Ohorella Yusope (SC): suzanah_ohorella_yusope@schools.gov.sg</p>
+<p>Ms Aw Siew Lian (SC): <a href="mailto:aw_siew_lian_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aw_siew_lian_a@schools.gov.sg</a>
+</p>
 </li>
 <li>
-<p>Ms. Lynette Ong (SEN Officer): ong_jun_yi_lynette@schools.gov.sg</p>
+<p>Ms Hu Xinyue (SC): <a href="mailto:hu_xinyue_d@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hu_xinyue_d@schools.gov.sg</a>
+</p>
+</li>
+<li>
+<p>Mdm. Lynette Ong (Senior SEN Officer): <a href="mailto:ong_jun_yi_Iynette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_jun_yi_lynette@schools.gov.sg</a>
+</p>
+</li>
+<li>
+<p>Mr Clarence Cheong Ye Meng (SEN Officer): <a href="mailto:cheong_ye_meng_clarence@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_ye_meng_clarence@schools.gov.sg</a>
+</p>
 </li>
 </ul>
 <h3><strong><u>HELPLINES</u></strong></h3>
