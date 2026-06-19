@@ -14,7 +14,7 @@ variant: tiptap
 <p>Dear Crestians and Parents /Guardians,
 <br>
 <br>Support for Financial and Social Assistance provide by North East CDC.
-<br>For application and criteria details, please refer to <a href="https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/wecare-at-north-east/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<br>For application and criteria details, please refer to <a href="https://northeast.cdc.gov.sg/programmes/financial-social-assistance/wecare-at-north-east/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>
 <br>Thank you</p>
 </blockquote>
