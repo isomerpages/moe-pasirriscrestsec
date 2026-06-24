@@ -11,6 +11,6 @@ variant: tiptap
 <p>Dear Crestians/Parents/Guardians,</p>
 <p>Please click on the link below to access the class timetable for Semester
 2 2026.</p>
-<p><a href="https://cms.isomer.gov.sg/files/Timetable_Announcement/2026/2026_Sem1_Classes_TT__30_12_25__Student_Version.pdf" rel="noopener nofollow" target="_blank"><u>Click Here</u></a> 
+<p><a href="/files/Timetable_Announcement/2026/2026_Sem2_Classes_TT_Final_23_06_26__St_Version.pdf" rel="noopener nofollow" target="_blank">Click Here for the Sem 2 Timetable</a>
 </p>
 <p>Thank you</p>
