@@ -7,3 +7,14 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Dear Crestians/Parents/Guardians,</p>
+<p></p>
+<p>Please click on the link below to access the Term 3 Weighted Assessment
+Schedule and Topics tested:</p>
+<p></p>
+<p><a href="https://docs.google.com/spreadsheets/d/1yQv_NdjBxMeBgVoYdi9V9wZIJBKCGar4/edit?usp=sharing&amp;ouid=107822012695954277864&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Click here</a>
+</p>
+<p></p>
+<p>For 2026 Term 3 Weighted Assessment Schedule &amp; Topics tested,</p>
+<p></p>
+<p>Thank you</p>
