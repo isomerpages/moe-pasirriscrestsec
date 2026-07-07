@@ -15,7 +15,7 @@ variant: tiptap
 <p>N-Levels</p>
 <p>O-Levels</p>
 <p></p>
-<p>For 2026 N Prelim Exam and O Prelim Exam Timetables &amp; Topics tested:</p>
+<p>For 2026 N Prelim Exam and O Prelim Exam Topics tested:</p>
 <p><a href="https://docs.google.com/document/d/1q6bTvVt66EnBuRiXIyJBb8LA66LecK26BjsIosUwd7A/edit?usp=sharing" rel="noopener nofollow" target="_blank">N-Levels</a>
 </p>
 <p><a href="https://docs.google.com/document/d/1HvgJNtMnkOo_8plBCEtBTbGaxn9s74ap/edit?usp=drive_link&amp;ouid=107822012695954277864&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">O-Levels</a>
