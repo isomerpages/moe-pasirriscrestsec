@@ -10,10 +10,10 @@ variant: tiptap
 <p>Dear Crestians/Parents/Guardians,</p>
 <p>Please take note of the following for the coming preliminary in this term.</p>
 <p>For 2026 N Prelim Exam and O Prelim Exam Timetables:</p>
-<p><a href="/files/Timetable_Announcement/2026/2026_NA_Prelim_Exam_Timetable__14__July_2026_.pdf" rel="noopener nofollow" target="_blank">NA Timetable</a> -
-Updated 14 July 2026</p>
-<p><a href="/files/Timetable_Announcement/2026/2026_NT_Prelim_Exam_Timetable.pdf" rel="noopener nofollow" target="_blank">NT Timetable</a>
-</p>
+<p><a href="/files/Timetable_Announcement/2026/2026_NA_Prelim_Exam_Timetable_updated_23_Jul.pdf" rel="noopener nofollow" target="_blank">NA Timetable</a> -
+Updated 27 July 2026</p>
+<p><a href="/files/Timetable_Announcement/2026/2026_NT_Prelim_Exam_Timetable_updated_23_Jul.pdf" rel="noopener nofollow" target="_blank">NT Timetable</a> -
+Updated 27 July 2026</p>
 <p><a href="/files/Timetable_Announcement/2026/O_Prelim_Timetable.pdf" rel="noopener nofollow" target="_blank">O-Levels Timetable</a>
 </p>
 <p></p>
@@ -27,4 +27,5 @@ Updated 14 July 2026</p>
 <p></p>
 <p>Changelog:</p>
 <p>7th July - Upload
-<br>14th July - Edit Attachment</p>
+<br>14th July - New Attachment - NA Timetable
+<br>27th July - New Attachment - NA/NT Timetable</p>
