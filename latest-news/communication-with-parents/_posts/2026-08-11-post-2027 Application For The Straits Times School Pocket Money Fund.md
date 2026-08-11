@@ -14,4 +14,5 @@ students, ie students who will still be in the school next year, ie in
 year 2027.
 <br>
 <br>Application forms are available from the school's General Office.</p>
-<p>&nbsp;</p>
+<p></p>
+<p>Thank you</p>
